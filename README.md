@@ -6,30 +6,26 @@ This repository is intentionally small and public. It does **not** contain SHINE
 
 ## Current Stable Release
 
-- Version: `1.0.3`
-- Release: https://github.com/ShineArcade/shine-by-heaven-releases/releases/tag/v1.0.3
-- Installer: https://github.com/ShineArcade/shine-by-heaven-releases/releases/latest/download/SHINE.Setup.1.0.3.exe
+- Version: `1.0.5`
+- Release: https://github.com/ShineArcade/shine-by-heaven-releases/releases/tag/v1.0.5
+- Installer: https://github.com/ShineArcade/shine-by-heaven-releases/releases/latest/download/SHINE.Setup.1.0.5.exe
 - Update feed file: https://github.com/ShineArcade/shine-by-heaven-releases/releases/latest/download/latest.yml
 
 ## Electron Updater Feed
 
-For the current SHINE app implementation, the generic feed base URL is:
+Generic feed base URL:
 
 ```text
 https://github.com/ShineArcade/shine-by-heaven-releases/releases/latest/download/
 ```
 
-The installed app fetches:
+Required app resource inside each installed build:
 
 ```text
-latest.yml
-SHINE.Setup.<version>.exe
-SHINE.Setup.<version>.exe.blockmap
+resources/app-update.yml
 ```
 
-## Required Assets Per Release
-
-Each release must include:
+Required assets per release:
 
 - `SHINE.Setup.<version>.exe`
 - `SHINE.Setup.<version>.exe.blockmap`
@@ -45,5 +41,5 @@ Optional but useful:
 GitHub normalizes release asset filenames with spaces into dots. `latest.yml` must point to dotted asset names, for example:
 
 ```yaml
-path: SHINE.Setup.1.0.3.exe
+path: SHINE.Setup.1.0.5.exe
 ```
