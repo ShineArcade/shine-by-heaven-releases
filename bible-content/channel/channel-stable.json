@@ -42,7 +42,7 @@
         "contentVersion": 2,
         "sourceVersionId": "RV1909",
         "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-        "contentSha256": "dd90cb537dbb47818b6a4314a2db69b3657608140bfbd6239d07d2dc3efba6d0",
+        "contentSha256": "8017c189b027d2afe93b532741ede9c98331c401bf95a0ae04a15e7de24ce871",
         "sizeBytes": 398030,
         "mimeType": "application/json+gzip",
         "artifactPath": "reading_2026.rv1909.v2.package.json.gz",
@@ -60,11 +60,11 @@
       }
     ]
   },
-  "contentSha256": "71dfe3f4d890df043f7fd3526a9431c0c1b85f98167e1ba1c07e75e854c7ceab",
+  "contentSha256": "b4573dd8a990529249f3b63ddd48e82920195e1eaca5c4985709310a48e03b17",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "2mO2lT6Dr2nJhI7mZN9PEFoBNqOselWjKyX0HlLAS1LRRQlrH8rZLvZJItG903UyG4rpBNFbf3KoJ7QYDajbCg"
+    "value": "Y2VT2FYT7m4BM22LhgntkzZvpaQYtDXmy5hQdDAMFm-DYpFi8PsbZHd3JHlRra48XHsbcKyyOfrdWIb8C8peAA"
   }
 }
