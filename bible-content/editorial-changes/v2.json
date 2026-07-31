@@ -1,0 +1,54 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 2,
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "MAT",
+      "chapter": 8,
+      "verse": 19,
+      "expected": "llegándose",
+      "replacement": "acercándose",
+      "category": "clear-archaic-lexicon",
+      "reason": "Owner reading review: use the current equivalent without changing the sentence meaning."
+    },
+    {
+      "book": "MAT",
+      "chapter": 8,
+      "verse": 19,
+      "expected": "fueres",
+      "replacement": "vayas",
+      "category": "clear-archaic-lexicon",
+      "reason": "Owner reading review: replace the archaic future subjunctive with its current equivalent."
+    },
+    {
+      "book": "MAT",
+      "chapter": 8,
+      "verse": 26,
+      "expected": "teméis",
+      "replacement": "temen",
+      "category": "clear-archaic-lexicon",
+      "reason": "Owner reading review: use current second-person plural wording."
+    },
+    {
+      "book": "MAT",
+      "chapter": 8,
+      "verse": 26,
+      "expected": "fué",
+      "replacement": "fue",
+      "category": "canonical-orthography-clarity",
+      "reason": "Owner reading review: remove the obsolete written accent in the visible layer only."
+    },
+    {
+      "book": "MAT",
+      "chapter": 8,
+      "verse": 26,
+      "expected": "bonanza",
+      "replacement": "calma",
+      "category": "clear-archaic-lexicon",
+      "reason": "Owner reading review: use the direct current equivalent for calm conditions."
+    }
+  ]
+}

@@ -1,0 +1,4613 @@
+{
+  "schemaVersion": 1,
+  "editionId": "RV1909-LECTURA-2026",
+  "sourceVersionId": "RV1909",
+  "book": "MAT",
+  "sourceContentSha256": "fc7d90be95f3b98ae53cff0261942302b1bb7c457a630a80a4f4ced5751c6845",
+  "editorialStatus": "unified-minimal-comprehension-policy-v3",
+  "method": "Only comprehension-essential, reference-supported wording is projected. Cosmetic orthography, typography and bulk grammar normalization remain canonical.",
+  "referenceControl": {
+    "primary": "RVR1960",
+    "secondary": [
+      "RVC",
+      "RV2020"
+    ],
+    "auditArtifact": "tool/matthew_2026_modern_control_audit.json",
+    "copyrightedTextIncluded": false
+  },
+  "coverage": {
+    "totalMatthewVerses": 1071,
+    "changedVerses": 261,
+    "editCount": 308,
+    "categoryCounts": {
+      "archaic-connector": 160,
+      "archaic-enclitic-order": 40,
+      "archaic-lexicon": 7,
+      "archaic-phrase": 2,
+      "canonical-orthography-clarity": 1,
+      "canonical-spacing-repair": 3,
+      "catalog-context-reviewed": 11,
+      "catalog-invariant-reviewed": 4,
+      "clear-archaic-lexicon": 21,
+      "clear-archaic-phrase": 3,
+      "context-exact-pattern": 8,
+      "context-reviewed-archaic-phrase": 24,
+      "context-reviewed-lexicon": 24
+    },
+    "editorialPolicyVersion": 3,
+    "gate": "exhaustive-reference-inventory-v1",
+    "inventoryArtifact": "tool/matthew_2026_coverage.json",
+    "referenceCount": 1071,
+    "dispositionCounts": {
+      "edited-invariant": 0,
+      "edited-context-reviewed": 163,
+      "reviewed-unchanged": 162,
+      "deferred-canonical": 0,
+      "blocked-alignment": 0,
+      "auto-clear-no-signal": 746
+    },
+    "unresolvedSignals": 0,
+    "coverageDigestSha256": "965d5916a89ac7c7780b43d6648d10d9e356c8e19f568dbe137b7b857d0db156",
+    "coverageArtifactSha256": "c56219ab35e9ee915add75cde7088ee74169a075fb7f9dd5abe53e0471b2ede3"
+  },
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 11,
+      "sourceTextSha256": "597188566647e6abd5054a6baf1aa0727812e874139abac6d2be3701db828b1e",
+      "edits": [
+        {
+          "startOffset": 54,
+          "endOffset": 68,
+          "expected": "transmigración",
+          "replacement": "deportación",
+          "category": "archaic-lexicon",
+          "reason": "Historical displacement term candidate."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "sourceTextSha256": "df09c6f70425c2cd473cc2817258d8f5a74350c44d2d0c89fa59074aff3e3993",
+      "edits": [
+        {
+          "startOffset": 16,
+          "endOffset": 30,
+          "expected": "transmigración",
+          "replacement": "deportación",
+          "category": "archaic-lexicon",
+          "reason": "Historical displacement term candidate."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "sourceTextSha256": "5ba1a600f2c8608434e5e974dbe944a4e4919c735b206812f37806d9bbeb6577",
+      "edits": [
+        {
+          "startOffset": 112,
+          "endOffset": 126,
+          "expected": "transmigración",
+          "replacement": "deportación",
+          "category": "archaic-lexicon",
+          "reason": "Historical displacement term candidate."
+        },
+        {
+          "startOffset": 174,
+          "endOffset": 188,
+          "expected": "transmigración",
+          "replacement": "deportación",
+          "category": "archaic-lexicon",
+          "reason": "Historical displacement term candidate."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "sourceTextSha256": "f0ea9c033d70c55a9215febee1446d5e4859c5b70912539826e393ff6735e713",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "sourceTextSha256": "2f7c8c8ec8b0e98c2a468a70b901cb12d7c56bbd32eea7572a6de936d0d0af1b",
+      "edits": [
+        {
+          "startOffset": 84,
+          "endOffset": 87,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "sourceTextSha256": "b1727409248ec382ac25b5564f023032b9173af57b9255d922450cedf2913361",
+      "edits": [
+        {
+          "startOffset": 80,
+          "endOffset": 88,
+          "expected": "decíales",
+          "replacement": "les decía",
+          "category": "archaic-enclitic-order",
+          "reason": "All controls preserve the imperfect and place the indirect-object pronoun before the finite verb.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-decia"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "sourceTextSha256": "f10a1e9950bebba522ca7124d3bca021bcc9537beac9c23a0189322d40589464",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 26,
+          "expected": "la segur",
+          "replacement": "el hacha",
+          "category": "clear-archaic-lexicon",
+          "reason": "All controls identify the obsolete noun as hacha.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "segur-hacha"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "sourceTextSha256": "8610191d25aefb99baabb16bb1b5b6976bc917978b2947098c6a1ad76258ac1c",
+      "edits": [
+        {
+          "startOffset": 56,
+          "endOffset": 59,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "sourceTextSha256": "ef39e095dfb4336fc5029ad705f7df5ca6ab19981d26318275e505b1cf8f9de6",
+      "edits": [
+        {
+          "startOffset": 75,
+          "endOffset": 81,
+          "expected": "alfolí",
+          "replacement": "granero",
+          "category": "archaic-lexicon",
+          "reason": "Alfolí es opaco para el lector actual; RVR1960 usa granero y RVC/RV2020 confirman el mismo referente. Se conserva intacto el resto de cada versículo."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "sourceTextSha256": "743535bc56e940aed4535dd1c1c9ab9a532f400679f7e88aef53fb2f1f4cb454",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 38,
+          "endOffset": 66,
+          "expected": "Yo he menester ser bautizado",
+          "replacement": "Yo necesito ser bautizado",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "Each necessity phrase was reviewed independently at its own reference; no blanket token replacement is used.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "menester-contexts"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "sourceTextSha256": "5d120da51825e4f1fc075199bbb428e49ae7f6321444df5358b2280738cc5e1c",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 6,
+          "expected": "Empero",
+          "replacement": "Pero",
+          "category": "catalog-invariant-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-empero-inicial-pero."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "sourceTextSha256": "a88e49155a3eadca270c5d417389e82a981bd06a7876e02c21e81cc9e1ac07f6",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 78,
+          "endOffset": 98,
+          "expected": "mas con toda palabra",
+          "replacement": "sino con toda palabra",
+          "category": "context-exact-pattern",
+          "reason": "La estructura negativa No... mas... es correlativa y requiere sino, no pero."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "sourceTextSha256": "3b3393e8a8b3d5eb1d1a8fc15046f56cca11dcaa82e54b810771ff270f9eaae6",
+      "edits": [
+        {
+          "startOffset": 2,
+          "endOffset": 8,
+          "expected": "dícele",
+          "replacement": "le dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicele"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "sourceTextSha256": "266041d39fff78e14a1d053b77c7e574a5c3bc90c2fc5f9124cfb50f69d0f26b",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "sourceTextSha256": "e7bc41e7da0f6c43ced3aaf1b6e4c91515114fbf4ea98ba0d6d538d44691acd4",
+      "edits": [
+        {
+          "startOffset": 2,
+          "endOffset": 9,
+          "expected": "díceles",
+          "replacement": "les dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-diceles"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "sourceTextSha256": "849b8fee37881dabd5c610ac87cfb38776bf30429d2e01e64198a25c39743259",
+      "edits": [
+        {
+          "startOffset": 34,
+          "endOffset": 40,
+          "expected": "merced",
+          "replacement": "recompensa",
+          "category": "context-reviewed-lexicon",
+          "reason": "At these references all controls use the reward sense; unrelated senses of merced are not globally replaced.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "merced-recompensa"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "sourceTextSha256": "2e379cd50378cf834b7e5251bece6915e537b5e71a6bf1d64b8743212b1b52ec",
+      "edits": [
+        {
+          "startOffset": 57,
+          "endOffset": 60,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "sourceTextSha256": "b072e22da3c598b56220e1ef3e523a6351b7f80485e74fe71b30f1f56eaa3f70",
+      "edits": [
+        {
+          "startOffset": 163,
+          "endOffset": 166,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "sourceTextSha256": "c50d4dbb9ea7f7dc762be1a556b3648d34950751c2aac52992727b26ff9e374f",
+      "edits": [
+        {
+          "startOffset": 50,
+          "endOffset": 53,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 82,
+          "endOffset": 100,
+          "expected": "culpado del juicio",
+          "replacement": "culpable de juicio",
+          "category": "catalog-context-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-culpado-juicio."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 22,
+      "sourceTextSha256": "814c9416c9c929c231f6b7812d1120197ad6ecd58362f4c5eb9e0e3786b32ea0",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 77,
+          "endOffset": 95,
+          "expected": "culpado del juicio",
+          "replacement": "culpable de juicio",
+          "category": "archaic-phrase",
+          "reason": "Complete legal phrase preserves meaning and grammar across its corpus occurrences."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 28,
+      "sourceTextSha256": "f98c0bde2bedda2d6f53cec85af2b0a5cea8be5bef5ca04bbeed6932a204c45d",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 32,
+      "sourceTextSha256": "6484791d53ae6c178ec99656080a0f455c13d37220ab74bee907e9bd9c63ce1b",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 33,
+      "sourceTextSha256": "81086218465c4b9f1adb38a4160b47ede6d9c61763e5d84c1977b5bf48370105",
+      "edits": [
+        {
+          "startOffset": 67,
+          "endOffset": 70,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 34,
+      "sourceTextSha256": "c6f05b0c19ac98d3b75ed84c8acbd3a2284846d2bee17f9ce5bc0a43e20bdfc2",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 37,
+      "sourceTextSha256": "4deb0e1df73b9ceb526e6d7940fb9676daae6ce970a49ceb9b95fedc3d08368e",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 39,
+      "sourceTextSha256": "d2249b412881f9151a6cc8d8773f514d6583ecabce8ef45dc6326e54ab826ac2",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 44,
+      "sourceTextSha256": "c1025a1b9478610eb7dea2309e36c244bfa45fa5317e57271aeb336da69dd45b",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "sourceTextSha256": "3fc8da81ed392b0cc9ee04123d7baa4e7a59b490526a7a460eb9912b0f7a91da",
+      "edits": [
+        {
+          "startOffset": 114,
+          "endOffset": 120,
+          "expected": "merced",
+          "replacement": "recompensa",
+          "category": "context-reviewed-lexicon",
+          "reason": "At these references all controls use the reward sense; unrelated senses of merced are not globally replaced.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "merced-recompensa"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "sourceTextSha256": "3427c30c1b12d2e9e657596fede5255e05b5b8c3a14afe122d6d8f5d55588600",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "sourceTextSha256": "0e6071cf7f502b1ba2c38527b3649979e3307cdbe2fa70c12ea62c2ffc775059",
+      "edits": [
+        {
+          "startOffset": 97,
+          "endOffset": 105,
+          "expected": "cantones",
+          "replacement": "esquinas",
+          "category": "clear-archaic-lexicon",
+          "reason": "All controls use esquinas for the street location.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "cantones-esquinas"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "sourceTextSha256": "a40f4e0980937ed2369364b63b2b94737eca20cffd2d5c8b619987a58e51eb71",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "sourceTextSha256": "4670694d940b01a9b789998b81f4a5271741e71bc6d37cc0a229e2fa686e1fe9",
+      "edits": [
+        {
+          "startOffset": 71,
+          "endOffset": 79,
+          "expected": "parlería",
+          "replacement": "palabrería",
+          "category": "clear-archaic-lexicon",
+          "reason": "Primary and RV2020 directly support palabrería; RVC confirms the same excessive-speech sense.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "parleria-palabreria"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "sourceTextSha256": "092d6e82699e23a2b584c3324a30520566146cafda09b16bbd464d596dc10e9e",
+      "edits": [
+        {
+          "startOffset": 29,
+          "endOffset": 32,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "sourceTextSha256": "8582bb837934d03cc4f6c9651ac788806e7a11822b0940932ea7d82b185514c0",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "sourceTextSha256": "e6187395d1cb349da6683ad6612f660fae968cba5357d988164086b2d64b2bb5",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "sourceTextSha256": "27280d0c5880cc56533e7b61073309e9a0358290d1205c93ecf39774b14568cb",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 23,
+      "sourceTextSha256": "c81596bd1a1f39aec2670baa76505d53f19e7653b0a85362ba6b2fb0a6eef11d",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 26,
+      "sourceTextSha256": "cfbc739adf658a880012b2a402ba1873b488891b9a6b7f4d61b8f8ec696692e9",
+      "edits": [
+        {
+          "startOffset": 68,
+          "endOffset": 76,
+          "expected": "alfolíes",
+          "replacement": "graneros",
+          "category": "archaic-lexicon",
+          "reason": "La forma plural se actualiza como graneros, con concordancia preservada y respaldo directo de los controles."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 27,
+      "sourceTextSha256": "d7412fca8922f206d88d708675fb72ea2dfee56021ce253b0c722feca34a7837",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 29,
+      "sourceTextSha256": "e40a7f794251b3ff518509720e0ca080d51e92bf2ec165ac47d148cba33252a7",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 32,
+      "sourceTextSha256": "4d48b1f3281c46f52132359d0b42fd2c3783f7bca5c113a58a94532d948c8939",
+      "edits": [
+        {
+          "startOffset": 83,
+          "endOffset": 119,
+          "expected": "de todas estas cosas habéis menester",
+          "replacement": "necesitáis todas estas cosas",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "Each necessity phrase was reviewed independently at its own reference; no blanket token replacement is used.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "menester-contexts"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 33,
+      "sourceTextSha256": "d7d493f9a38f2a55f1176b19428c07597e5ec7862eb6bc27a5e8ebf0ac3aca6e",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "sourceTextSha256": "369860d8cc28386169ce4cabac56185feae838c957b1272a84de3f858894ad48",
+      "edits": [
+        {
+          "startOffset": 95,
+          "endOffset": 104,
+          "expected": "rehuellen",
+          "replacement": "pisoteen",
+          "category": "clear-archaic-lexicon",
+          "reason": "All controls directly support pisoteen.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "rehuellen-pisoteen"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "sourceTextSha256": "be61f3c0c6e88cddd12010f4fe1379056bb64ce4446e0749ef6903bb570dd526",
+      "edits": [
+        {
+          "startOffset": 81,
+          "endOffset": 84,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "sourceTextSha256": "d98c1456d7e6142f45969313b3c98238b1a2a9c5a91e5c75701f8c0cf31c33b9",
+      "edits": [
+        {
+          "startOffset": 32,
+          "endOffset": 39,
+          "expected": "Cógense",
+          "replacement": "Se cogen",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 17,
+      "sourceTextSha256": "3389dc7cf1377f476906b607b4280adca42b436efc5558882956bcc425fa6a0f",
+      "edits": [
+        {
+          "startOffset": 42,
+          "endOffset": 45,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 55,
+          "endOffset": 62,
+          "expected": "maleado",
+          "replacement": "malo",
+          "category": "clear-archaic-lexicon",
+          "reason": "All controls preserve the good/bad tree contrast using malo.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "maleado-malo"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 18,
+      "sourceTextSha256": "0ab795cf7e9350410a6b44183a9dcee2ffd9f37d6d500813f97206595bbf491c",
+      "edits": [
+        {
+          "startOffset": 56,
+          "endOffset": 63,
+          "expected": "maleado",
+          "replacement": "malo",
+          "category": "clear-archaic-lexicon",
+          "reason": "All controls preserve the good/bad tree contrast using malo.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "maleado-malo"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 19,
+      "sourceTextSha256": "36ee11bc376d416c792a14c76a71037057fd3cffd2a14da80f397f6aeb037606",
+      "edits": [
+        {
+          "startOffset": 36,
+          "endOffset": 43,
+          "expected": "córtase",
+          "replacement": "se corta",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        },
+        {
+          "startOffset": 46,
+          "endOffset": 52,
+          "expected": "échase",
+          "replacement": "se echa",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "sourceTextSha256": "41bbd9581c37334044f6a1f9c39163091be38f2f945a0882fedd76d0ac1a5dd1",
+      "edits": [
+        {
+          "startOffset": 73,
+          "endOffset": 76,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "sourceTextSha256": "a8fe29895ac1b5ae64394fb3c3679019a140ee06dd1680ea4fa839a0ce562e32",
+      "edits": [
+        {
+          "startOffset": 51,
+          "endOffset": 54,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "sourceTextSha256": "a1ef77c33419e78f549109c2994489cf0cc8409e4c43dd248a901a5150c70a55",
+      "edits": [
+        {
+          "startOffset": 22,
+          "endOffset": 26,
+          "expected": "mozo",
+          "replacement": "criado",
+          "category": "context-reviewed-lexicon",
+          "reason": "At these three linked references all controls identify the centurion's servant as criado.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "mozo-criado"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "sourceTextSha256": "1b169f945f1e45470d875bff8b21ec0d477ec8a80e2d19704fc6561fb2ff2ff3",
+      "edits": [
+        {
+          "startOffset": 68,
+          "endOffset": 88,
+          "expected": "debajo de mi techado",
+          "replacement": "bajo mi techo",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "RVR1960 and RV2020 directly agree; RVC confirms the house-entry meaning.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "techado-techo"
+        },
+        {
+          "startOffset": 90,
+          "endOffset": 93,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 124,
+          "endOffset": 128,
+          "expected": "mozo",
+          "replacement": "criado",
+          "category": "context-reviewed-lexicon",
+          "reason": "At these three linked references all controls identify the centurion's servant as criado.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "mozo-criado"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "sourceTextSha256": "73abc59c6e5474b7df281be146b81e61dbd1ab3c30685bd52c934a55f1b06730",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "sourceTextSha256": "21b9cae820c11e05c8238d7fbb6221cb3ffa0c143fd40641e6d63416a6b58978",
+      "edits": [
+        {
+          "startOffset": 72,
+          "endOffset": 76,
+          "expected": "mozo",
+          "replacement": "criado",
+          "category": "context-reviewed-lexicon",
+          "reason": "At these three linked references all controls identify the centurion's servant as criado.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "mozo-criado"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 19,
+      "sourceTextSha256": "5e21d01097b8e8f9f416e67a2adae73dd80c79817c605f42906f05eafb9ce2c6",
+      "edits": [
+        {
+          "startOffset": 2,
+          "endOffset": 12,
+          "expected": "llegándose",
+          "replacement": "acercándose",
+          "category": "clear-archaic-lexicon",
+          "reason": "Owner reading review: use the current equivalent without changing the sentence meaning."
+        },
+        {
+          "startOffset": 73,
+          "endOffset": 79,
+          "expected": "fueres",
+          "replacement": "vayas",
+          "category": "clear-archaic-lexicon",
+          "reason": "Owner reading review: replace the archaic future subjunctive with its current equivalent."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 20,
+      "sourceTextSha256": "9a5276117231287247cbccd78a2f585d0c7f318814d94ce60ddb3fc665a15868",
+      "edits": [
+        {
+          "startOffset": 73,
+          "endOffset": 76,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 24,
+      "sourceTextSha256": "48a3218c68ed958565497f9c00b8829830ac619cd0ff15a4c15383a461045fa1",
+      "edits": [
+        {
+          "startOffset": 77,
+          "endOffset": 86,
+          "expected": "las ondas",
+          "replacement": "las olas",
+          "category": "catalog-context-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-ondas-olas."
+        },
+        {
+          "startOffset": 88,
+          "endOffset": 91,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 26,
+      "sourceTextSha256": "6ab5368eccf9da2eb733ddbfffc5c6bc969489b78d7e96b6730f9ff2a3e0108d",
+      "edits": [
+        {
+          "startOffset": 24,
+          "endOffset": 30,
+          "expected": "teméis",
+          "replacement": "temen",
+          "category": "clear-archaic-lexicon",
+          "reason": "Owner reading review: use current second-person plural wording."
+        },
+        {
+          "startOffset": 114,
+          "endOffset": 117,
+          "expected": "fué",
+          "replacement": "fue",
+          "category": "canonical-orthography-clarity",
+          "reason": "Owner reading review: remove the obsolete written accent in the visible layer only."
+        },
+        {
+          "startOffset": 125,
+          "endOffset": 132,
+          "expected": "bonanza",
+          "replacement": "calma",
+          "category": "clear-archaic-lexicon",
+          "reason": "Owner reading review: use the direct current equivalent for calm conditions."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "sourceTextSha256": "50c06a4d1bed778b2c0fdd605e7cdcd8d7a5810afb11df0a33bf53f1229b09e6",
+      "edits": [
+        {
+          "startOffset": 123,
+          "endOffset": 129,
+          "expected": "dícele",
+          "replacement": "le dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicele"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "sourceTextSha256": "9873be26dcba42af02aee8dc29c447466e7ffd1f604c22ee43d180e86341c8cd",
+      "edits": [
+        {
+          "startOffset": 100,
+          "endOffset": 103,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 17,
+      "sourceTextSha256": "f0503518785e8277deb98bec0c99f6e5e1f4302fb9d30697baf63e6eb90a9b01",
+      "edits": [
+        {
+          "startOffset": 23,
+          "endOffset": 29,
+          "expected": "cueros",
+          "replacement": "odres",
+          "category": "context-exact-pattern",
+          "reason": "Aquí las ocho ocurrencias son recipientes de vino y significan “odres”, pero “cueros” conserva otros sentidos legítimos fuera de estas referencias. No promover a sustitución bíblica global."
+        },
+        {
+          "startOffset": 57,
+          "endOffset": 63,
+          "expected": "cueros",
+          "replacement": "odres",
+          "category": "context-exact-pattern",
+          "reason": "Aquí las ocho ocurrencias son recipientes de vino y significan “odres”, pero “cueros” conserva otros sentidos legítimos fuera de estas referencias. No promover a sustitución bíblica global."
+        },
+        {
+          "startOffset": 114,
+          "endOffset": 120,
+          "expected": "cueros",
+          "replacement": "odres",
+          "category": "context-exact-pattern",
+          "reason": "Aquí las ocho ocurrencias son recipientes de vino y significan “odres”, pero “cueros” conserva otros sentidos legítimos fuera de estas referencias. No promover a sustitución bíblica global."
+        },
+        {
+          "startOffset": 122,
+          "endOffset": 125,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 149,
+          "endOffset": 155,
+          "expected": "cueros",
+          "replacement": "odres",
+          "category": "context-exact-pattern",
+          "reason": "Aquí las ocho ocurrencias son recipientes de vino y significan “odres”, pero “cueros” conserva otros sentidos legítimos fuera de estas referencias. No promover a sustitución bíblica global."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 18,
+      "sourceTextSha256": "c7846df1a512a2d2a8c4095c1072aed6f0cccb552b3c350014b7aa3ae54a85bb",
+      "edits": [
+        {
+          "startOffset": 111,
+          "endOffset": 114,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 22,
+      "sourceTextSha256": "e7e6c507f3a9db36ee5ca8970bd395e0c4234e20cece366442d15f36794634e8",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 24,
+      "sourceTextSha256": "b050b0a13b31b024297c70141c89b1f51288f86c55e28a322b38a2da4bb14263",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 7,
+          "expected": "Díceles",
+          "replacement": "Les dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-diceles"
+        },
+        {
+          "startOffset": 49,
+          "endOffset": 52,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 25,
+      "sourceTextSha256": "ba16c00f18dfbc47143caff91e60e66963e08d31fea1c51b008d8036d64d1c1d",
+      "edits": [
+        {
+          "startOffset": 43,
+          "endOffset": 49,
+          "expected": "tomóla",
+          "replacement": "la tomó",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 31,
+      "sourceTextSha256": "cfc97bf0ea45413729861749baf57bdb919f864c417fb5a281e26f2d9ef756c8",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 34,
+      "sourceTextSha256": "9d720908e4adc92f68692b0ff4e5fbccd9121ea1c0c91d110829480c7eded90b",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 37,
+      "sourceTextSha256": "6e92268066ca1352b3ab4e668110c117f4a238a7052b6522d56fd50c6a994c9d",
+      "edits": [
+        {
+          "startOffset": 62,
+          "endOffset": 65,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "sourceTextSha256": "e7bdbc3d1f8019e88adbdc4e5c402dc2edfdf2f6998da1048fc187c85dcb9ed0",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "sourceTextSha256": "fe7cd78b403bf94b928ff6f72c37278b150fda699cc1a94157866a24fa6fca37",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "sourceTextSha256": "daffe1dc7cc5a5027a1b9a834b651f2a8cec4da5bcf1095bd4dce23ee5bf0035",
+      "edits": [
+        {
+          "startOffset": 57,
+          "endOffset": 60,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "sourceTextSha256": "c47761dd8445b41bd2bf22a172d5838a06e3d2968051b2d6afeb5ac2b4b3ef59",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 22,
+      "sourceTextSha256": "acf723df911ef8656aeabae9012f734f36c5c12b605cea07be20a6b76340beff",
+      "edits": [
+        {
+          "startOffset": 45,
+          "endOffset": 48,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 23,
+      "sourceTextSha256": "ae2da7aa6263e2e52cf6abe64d155d350e2ad589f412cd5e4be270b598fa4a6f",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 25,
+      "sourceTextSha256": "5cccfb8adedd8706716216aac1b35527b2d06e7f36ca5a1ce8a1690e300aa190",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 7,
+          "expected": "Bástale",
+          "replacement": "Le basta",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 27,
+      "sourceTextSha256": "776ba343a4ea79624f4170ae648f8e4c4af1f3cebc819e62f64550bd49d5b9f4",
+      "edits": [
+        {
+          "startOffset": 86,
+          "endOffset": 98,
+          "expected": "los terrados",
+          "replacement": "las azoteas",
+          "category": "catalog-invariant-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-terrados-azoteas."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 28,
+      "sourceTextSha256": "07340435f9b146363e952ee2befbe6e74dc77435d66dacaebd8401bbc9f28225",
+      "edits": [
+        {
+          "startOffset": 39,
+          "endOffset": 42,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 41,
+      "sourceTextSha256": "1232902cf8dfc5ff0971ce70a2f93b37cd2ccf34daeaaed5733437b6d2311de6",
+      "edits": [
+        {
+          "startOffset": 44,
+          "endOffset": 50,
+          "expected": "merced",
+          "replacement": "recompensa",
+          "category": "context-reviewed-lexicon",
+          "reason": "At these references all controls use the reward sense; unrelated senses of merced are not globally replaced.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "merced-recompensa"
+        },
+        {
+          "startOffset": 114,
+          "endOffset": 120,
+          "expected": "merced",
+          "replacement": "recompensa",
+          "category": "context-reviewed-lexicon",
+          "reason": "At these references all controls use the reward sense; unrelated senses of merced are not globally replaced.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "merced-recompensa"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "sourceTextSha256": "8cf5e99c4ce7dcf6e93760dbc8d56b7623fdf7102ff2f99114bd3771f9ffdc26",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "sourceTextSha256": "ed1340c8bdb2b5ee2c3af1e0bbc4a0be1528efabee6608005fd6d01760caa465",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "sourceTextSha256": "233de4d562e17bb564e472c6498320193c5269ce35e20508d9192d3553b5184b",
+      "edits": [
+        {
+          "startOffset": 101,
+          "endOffset": 104,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 16,
+      "sourceTextSha256": "3c28ebf98b57a38b1149420131d59cdf1ad93078c0adf4fe1fc42a13f5d0e0aa",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 19,
+      "sourceTextSha256": "42d61a030f7f1da4f071b396cc73845c28eeacd5d88de654c62b94fff2fee201",
+      "edits": [
+        {
+          "startOffset": 133,
+          "endOffset": 136,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "sourceTextSha256": "953018245dcc714534cbf282edaab37d3491cb5e1e51f2c96a413400785373ab",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 15,
+      "sourceTextSha256": "3d8a56f29b3d7d7b6d3ab7ae2fa88af0ff8af71bafcea6acd3cc122baedd9f07",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 24,
+      "sourceTextSha256": "dcead059d02c4a13cc7a806a56cdb4bb3a55a9dc8de309a51c62bdee3abd1a00",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 29,
+      "sourceTextSha256": "2d9edd30c70c7b115f604dc50db8acc64ddeaf8ffc6344e2b22487a110bf021d",
+      "edits": [
+        {
+          "startOffset": 73,
+          "endOffset": 80,
+          "expected": "alhajas",
+          "replacement": "bienes",
+          "category": "context-reviewed-lexicon",
+          "reason": "All controls identify the possessions being plundered as bienes, not jewelry.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "alhajas-bienes"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 31,
+      "sourceTextSha256": "bde4a80125ad1c63d8c42dcd49447b4f074d958f1af07723f72ca42ac42d2493",
+      "edits": [
+        {
+          "startOffset": 73,
+          "endOffset": 76,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 32,
+      "sourceTextSha256": "55ce6143aa5a020c2c7814723438197227c8dfdc98d060c7c1b317879405c682",
+      "edits": [
+        {
+          "startOffset": 71,
+          "endOffset": 74,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 36,
+      "sourceTextSha256": "9009129938d282f8d6e683275f79cf6fb2c7750f6ea5f28d2292944112449443",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 39,
+      "sourceTextSha256": "8711815164a0e419fb3289244931cb48d8b36f73b8c8bd2d49bc649aae65488b",
+      "edits": [
+        {
+          "startOffset": 75,
+          "endOffset": 78,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 42,
+      "sourceTextSha256": "256a40a7d0d6c239e035cbd3195747eec9af0ce81a51559ed8a63b6b73d30d00",
+      "edits": [
+        {
+          "startOffset": 13,
+          "endOffset": 19,
+          "expected": "Austro",
+          "replacement": "Sur",
+          "category": "catalog-invariant-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-austro-sur."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "sourceTextSha256": "59bdd21f72c931bb781cfc7123c4eb19cca87da153bb0765d095b4cec70f5d94",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 36,
+          "endOffset": 42,
+          "expected": "secóse",
+          "replacement": "se secó",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite verb plus attached pronoun is reordered using direct support from RVR1960, RVC, RV2020; no control text is stored."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "sourceTextSha256": "e08ca0a256067bf07fcd5a210c0e63dae20f2c53327648b9f66a57a63c98ac9e",
+      "edits": [
+        {
+          "startOffset": 106,
+          "endOffset": 109,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 16,
+      "sourceTextSha256": "bfec5b17c364dc46179dea7ef20b3af6717f929b70096f89355242414b64599f",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 21,
+      "sourceTextSha256": "434917ca972b1fa3246ac457048a6c238251784a6d3e8b5efa860a194634335b",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 22,
+      "sourceTextSha256": "6e8645797333755b2c59f6a7d411f05ae87a222b9ff5f6676a06c544b5e345ac",
+      "edits": [
+        {
+          "startOffset": 142,
+          "endOffset": 148,
+          "expected": "hácese",
+          "replacement": "se hace",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 23,
+      "sourceTextSha256": "664c0720cdb7828e61d034a08785b59e97dbd9237d20ec4da0b5cf8cce8aaf47",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 25,
+      "sourceTextSha256": "890db4756fd183b76b1cb673baaf7477b304ac79015f613974d6533caf1f0067",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 30,
+      "sourceTextSha256": "4dec6653f11066960a72433304858b0ffe0ac8987b50b6b1244aefbe411cc479",
+      "edits": [
+        {
+          "startOffset": 166,
+          "endOffset": 169,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 193,
+          "endOffset": 199,
+          "expected": "alfolí",
+          "replacement": "granero",
+          "category": "archaic-lexicon",
+          "reason": "Alfolí es opaco para el lector actual; RVR1960 usa granero y RVC/RV2020 confirman el mismo referente. Se conserva intacto el resto de cada versículo."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 32,
+      "sourceTextSha256": "1ae5d16fb1d594394c5c9d9b13990be9e1452049e684610e48bf9bfa17fbf5fc",
+      "edits": [
+        {
+          "startOffset": 62,
+          "endOffset": 65,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 45,
+      "sourceTextSha256": "5899e371692478136d1e208a239032935ecc42759b255a34796af2b6d6305cdc",
+      "edits": [
+        {
+          "startOffset": 44,
+          "endOffset": 62,
+          "expected": "al hombre tratante",
+          "replacement": "a un comerciante",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "The controls agree this is a merchant; the minimal phrase also repairs the article.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "tratante-comerciante"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 47,
+      "sourceTextSha256": "014d8545c4987eb19504127e7058bc9f5e7513c0e5c8fa477d218c57892cbf95",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 107,
+          "expected": "de todas suertes de peces",
+          "replacement": "de toda clase de peces",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "All controls directly support class/kind, not luck.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "suertes-clases"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 48,
+      "sourceTextSha256": "c356c256a259085cb52397feecbab973c676be5db75fbb2a8218a91b9a2e3101",
+      "edits": [
+        {
+          "startOffset": 68,
+          "endOffset": 85,
+          "expected": "lo bueno en vasos",
+          "replacement": "lo bueno en cestas",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "All controls identify the fishing containers as cestas.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "vasos-cestas"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 51,
+      "sourceTextSha256": "cc907938b2e88835a1d7db0c0b729c0e3132836976fdc84df1b0f6dfbe721710",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 7,
+          "expected": "Díceles",
+          "replacement": "Les dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-diceles"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 57,
+      "sourceTextSha256": "036fc62051f67ed0b4628f1d9e28b5a7fe4d4c70a3a90ce8bab8ec90134e73c6",
+      "edits": [
+        {
+          "startOffset": 27,
+          "endOffset": 30,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 5,
+      "sourceTextSha256": "e984bac1c80c740b95aae2192ed6477aa8c29b6c2361e2d288c5b984b675ea7b",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 21,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "sourceTextSha256": "03fb760b6378321fb0ef95ee94223a68bac81b08bf1e2c9c8a71bc486c02956f",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 9,
+      "sourceTextSha256": "7ef044778f6c271e762d56354d834ea7ff4df19d318a10d67bc2224d5f198e7e",
+      "edits": [
+        {
+          "startOffset": 32,
+          "endOffset": 35,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 20,
+      "sourceTextSha256": "dd7ed7d2ab6e67cd8dccfff29938325e92dde1ffcb7d7ee7055a1056a800e776",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 31,
+          "expected": "se hartaron",
+          "replacement": "se saciaron",
+          "category": "catalog-context-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-hartaron-saciaron."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 24,
+      "sourceTextSha256": "cb5217bd2d7e36e68d2318de02eaba55219b9d0e7acf7c57e79513f2a64eeaa2",
+      "edits": [
+        {
+          "startOffset": 56,
+          "endOffset": 65,
+          "expected": "las ondas",
+          "replacement": "las olas",
+          "category": "catalog-context-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-ondas-olas."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 25,
+      "sourceTextSha256": "d95882458fcb3eb5bbc603852dc81751970bd1cbf4092005e06516571e9a5273",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 27,
+      "sourceTextSha256": "8d2efdbb5e0ea805f93d0337a884e0f1174234a0734ecee19d1c40f0b6347985",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 30,
+      "sourceTextSha256": "4c7efc61463a6ec0cc19de9918d4ce793d696f9e74ca1a7652c1422aecc7766a",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 32,
+      "sourceTextSha256": "ffd133e428fab14c46fff90367e58d36cb670876d8f8939d002bdb1ded893cc3",
+      "edits": [
+        {
+          "startOffset": 35,
+          "endOffset": 43,
+          "expected": "sosegóse",
+          "replacement": "se sosegó",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 5,
+      "sourceTextSha256": "fc71c3463e737d1da079c34866ab14dfffd7eed013aa3144d43d17cfb248aad2",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 8,
+      "sourceTextSha256": "4fbfe04d555a14ed9376353192c490f5e5cf81205670a5a2031b2c7dbfe27ae6",
+      "edits": [
+        {
+          "startOffset": 32,
+          "endOffset": 35,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 9,
+      "sourceTextSha256": "122ea3d144bbfba1eedefa28e581fde472f49c1736f1e03f38bbcdf72eecd90e",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 11,
+      "sourceTextSha256": "8d3078862eeaf4e3e95a1fc96b6caccbf9c0f52253805a3e1b2f3e26ad4a4f9a",
+      "edits": [
+        {
+          "startOffset": 48,
+          "endOffset": 51,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 13,
+      "sourceTextSha256": "eb5776f8a50a6cab8d9695ca45e4f73cb174d50a83dcfe7a97e7f91f88163c86",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 18,
+      "sourceTextSha256": "750ed284795a8e953dc2eba283cfd2213ec4197fedaf942cf80d6af1cff05485",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 23,
+      "sourceTextSha256": "07614e25e9e0dc50b6e37b364a0414ee8fabdd8fa444e241adaa0ec71258ef56",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 27,
+      "sourceTextSha256": "121a9b8051aaaaa2ed48aa28c6c85c49ff4abe06f0053e6a31444420199d328a",
+      "edits": [
+        {
+          "startOffset": 24,
+          "endOffset": 27,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 32,
+      "sourceTextSha256": "bac4da480b1e77fbbd18029d97922b37a956ff1d6f07d8b2e45fb0c6c2d36d92",
+      "edits": [
+        {
+          "startOffset": 41,
+          "endOffset": 66,
+          "expected": "Tengo lástima de la gente",
+          "replacement": "Tengo compasión de la gente",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "All controls support compassion and the state of being without food.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-15-32-clarity"
+        },
+        {
+          "startOffset": 139,
+          "endOffset": 155,
+          "expected": "enviarlos ayunos",
+          "replacement": "enviarlos en ayunas",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "All controls support compassion and the state of being without food.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-15-32-clarity"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 37,
+      "sourceTextSha256": "df1e34d0d66b8cd8faf539422239daa3d420174d35d9c8f94e1f8144e14f7ff0",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 31,
+          "expected": "se hartaron",
+          "replacement": "se saciaron",
+          "category": "catalog-context-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-hartaron-saciaron."
+        },
+        {
+          "startOffset": 78,
+          "endOffset": 87,
+          "expected": "espuertas",
+          "replacement": "canastas",
+          "category": "catalog-invariant-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-espuertas-canastas."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 2,
+      "sourceTextSha256": "147607ca5dcb3b927c5419d19387a1d0cfdce30400e0a34f74086b20763f5f75",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 4,
+      "sourceTextSha256": "18b0d4b903835f38c7ec30e8fc10eb71e69cc729a2dbfd0c27aaaee44636c774",
+      "edits": [
+        {
+          "startOffset": 47,
+          "endOffset": 50,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 9,
+      "sourceTextSha256": "ded352cba58010f844563fda771a70203b7f4978df79f673755cce617feff9d9",
+      "edits": [
+        {
+          "startOffset": 95,
+          "endOffset": 104,
+          "expected": "alzasteis",
+          "replacement": "recogisteis",
+          "category": "context-reviewed-lexicon",
+          "reason": "All controls identify the action as collecting the baskets.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "alzasteis-recogisteis"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 10,
+      "sourceTextSha256": "07d0cecc6ae9994f05d1a87d0eeba3c5f23203358d6ae9f68ab11d11b4a8c662",
+      "edits": [
+        {
+          "startOffset": 51,
+          "endOffset": 60,
+          "expected": "espuertas",
+          "replacement": "canastas",
+          "category": "context-exact-pattern",
+          "reason": "Basket type verified per feeding account by all modern controls."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 17,
+      "sourceTextSha256": "60913e7e56b80f62adeb38ea2cc5659e5598cda6fd61c622aee903a54596092f",
+      "edits": [
+        {
+          "startOffset": 122,
+          "endOffset": 125,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 18,
+      "sourceTextSha256": "481fec28a943f97d009cc15ac259ccae2cec456dc5c4ba2be4357bc016638758",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 10,
+      "sourceTextSha256": "0a436d373f1fc740fd9964a1667d170905cdcdf7376fb0ef5f41ba1fbee823d6",
+      "edits": [
+        {
+          "startOffset": 87,
+          "endOffset": 122,
+          "expected": "es menester que Elías venga primero",
+          "replacement": "es necesario que Elías venga primero",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "Each necessity phrase was reviewed independently at its own reference; no blanket token replacement is used.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "menester-contexts"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 12,
+      "sourceTextSha256": "46272e3d8385cb31c25564a9eef07be4e5d2a991ef8e0dad76f1578150e8d1a5",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 21,
+      "sourceTextSha256": "721cfab028080c18ef953a715cef2479c8c6df12d9e4f4295271c5e43b4bd7b6",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 23,
+      "sourceTextSha256": "f00afec5e164799341e35a865c9f645a7d055f0cd77b92bba83cf53f49b80e86",
+      "edits": [
+        {
+          "startOffset": 14,
+          "endOffset": 17,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 26,
+      "sourceTextSha256": "3a7920130ab8c100b7981a7008ac36a610f68a6b9141b61134a83500314b2eb6",
+      "edits": [
+        {
+          "startOffset": 67,
+          "endOffset": 74,
+          "expected": "francos",
+          "replacement": "exentos",
+          "category": "context-reviewed-lexicon",
+          "reason": "All controls directly support exentos in the tax context.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "francos-exentos"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 27,
+      "sourceTextSha256": "5da27e767e7994e64282c95d04217d303a943b7f3f32385654ae3d5a475b2100",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 6,
+      "sourceTextSha256": "792f1869a69f2472866cab6fc6aeb9ff50050a1129b80881e3b2515ba314d8d6",
+      "edits": [
+        {
+          "startOffset": 154,
+          "endOffset": 167,
+          "expected": "se le anegase",
+          "replacement": "se le hundiese",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "All controls preserve the drowning image using hundir.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "anegase-hundiese"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 7,
+      "sourceTextSha256": "e3e01bc08a11d26b5c0768ef1da994487529a72b21d6e3a6c68d1ad88d810e2d",
+      "edits": [
+        {
+          "startOffset": 77,
+          "endOffset": 80,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 16,
+      "sourceTextSha256": "87f9ea2e9c510d1f89d48513e6f1331fc2e02f305cfdb69e1ce3e57d096ca965",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 22,
+      "sourceTextSha256": "c499ce39e17b9c3580722a5790585aad886c9117dba255fcd3040ca2c0a2b7a3",
+      "edits": [
+        {
+          "startOffset": 39,
+          "endOffset": 42,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 25,
+      "sourceTextSha256": "1c356d6dd16be8beac984ff330569a2c70e3695c39894d1c4e8e802b971153dc",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 30,
+      "sourceTextSha256": "39c532c50c77b11e9dc1f857c1576aaa9f39b8344b5bd8d05161c1abe3101789",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 7,
+      "sourceTextSha256": "2f4d4b4ae05df7986ed2a9645d132dbc899a5a28925e20163857a1f43f461a8e",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 7,
+          "expected": "Dícenle",
+          "replacement": "Le dicen",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves plural subject, present tense and meaning.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicenle"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 8,
+      "sourceTextSha256": "9cc547db0f73681604d4480662b4ef6cb95ba8afea1e38107897a2ac9e05bd41",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 7,
+          "expected": "Díceles",
+          "replacement": "Les dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-diceles"
+        },
+        {
+          "startOffset": 90,
+          "endOffset": 93,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 10,
+      "sourceTextSha256": "7a130570470623e13b5632bdd847f5e09072f585f2782538002d2885137f4ec2",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 7,
+          "expected": "Dícenle",
+          "replacement": "Le dicen",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves plural subject, present tense and meaning.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicenle"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 18,
+      "sourceTextSha256": "76a4fef23db3576d188f42cd40627e3542e51f8f82f5e5fff14e7f5b83bc6601",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 6,
+          "expected": "Dícele",
+          "replacement": "Le dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicele"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 20,
+      "sourceTextSha256": "ba7589a7f92853fe222dec38c2cedd41d2f02a87eb24fb1dda4862953d762903",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 6,
+          "expected": "Dícele",
+          "replacement": "Le dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicele"
+        },
+        {
+          "startOffset": 10,
+          "endOffset": 17,
+          "expected": "mancebo",
+          "replacement": "joven",
+          "category": "clear-archaic-lexicon",
+          "reason": "All controls identify the same person as joven.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "mancebo-joven"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 21,
+      "sourceTextSha256": "5416f1f8f224d31c15396f328c53a8464080412e9d969dbc624430e8b8b0008b",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 6,
+          "expected": "Dícele",
+          "replacement": "Le dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicele"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 22,
+      "sourceTextSha256": "fef27889cce8422aaeda58608e4a1369f2d34db619da65b28bcca5762a92b367",
+      "edits": [
+        {
+          "startOffset": 12,
+          "endOffset": 19,
+          "expected": "mancebo",
+          "replacement": "joven",
+          "category": "clear-archaic-lexicon",
+          "reason": "All controls identify the same person as joven.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "mancebo-joven"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 24,
+      "sourceTextSha256": "c699a56df41be96b8a8b97a856b48fc62b9c3b14e7aefee4912a8f2d197f8ee3",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 25,
+      "sourceTextSha256": "ef7fe6afe388435a9d58d9c8ba162bf4017c5ebc097a34ee414681c1fc01975d",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 26,
+      "sourceTextSha256": "72f4c2bd66a9911505459c5c71926f8ede1e5b5d6ed8304a35037c665c93684f",
+      "edits": [
+        {
+          "startOffset": 71,
+          "endOffset": 74,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 30,
+      "sourceTextSha256": "065a8f30ffe66cca0c8bf5d00b731cda85e685beb946a650c65f4c9cdb52128d",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        },
+        {
+          "startOffset": 26,
+          "endOffset": 35,
+          "expected": "postreros",
+          "replacement": "últimos",
+          "category": "clear-archaic-lexicon",
+          "reason": "The two contemporary controls consistently use último(s); the primary retains the older term, so only this exact lexical equivalent is changed.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "postrero-ultimo"
+        },
+        {
+          "startOffset": 39,
+          "endOffset": 48,
+          "expected": "postreros",
+          "replacement": "últimos",
+          "category": "clear-archaic-lexicon",
+          "reason": "The two contemporary controls consistently use último(s); the primary retains the older term, so only this exact lexical equivalent is changed.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "postrero-ultimo"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 6,
+      "sourceTextSha256": "de986bd317fab2de257ec5d464e70b33ff946ec238b17b07db3b741d8e5685af",
+      "edits": [
+        {
+          "startOffset": 73,
+          "endOffset": 80,
+          "expected": "díceles",
+          "replacement": "les dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-diceles"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 7,
+      "sourceTextSha256": "dd18b8b113de367c9883aeb9871cdee2a6f3d35d5ab3258fadd302b3a73c6d5a",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 7,
+          "expected": "Dícenle",
+          "replacement": "Le dicen",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves plural subject, present tense and meaning.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicenle"
+        },
+        {
+          "startOffset": 39,
+          "endOffset": 46,
+          "expected": "Díceles",
+          "replacement": "Les dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-diceles"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 8,
+      "sourceTextSha256": "436a0af01ff9308a22e1b98cee31f45aaf9b2ede0505d118f21b0c081ca325b5",
+      "edits": [
+        {
+          "startOffset": 134,
+          "endOffset": 143,
+          "expected": "postreros",
+          "replacement": "últimos",
+          "category": "clear-archaic-lexicon",
+          "reason": "The two contemporary controls consistently use último(s); the primary retains the older term, so only this exact lexical equivalent is changed.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "postrero-ultimo"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 12,
+      "sourceTextSha256": "763c10ae4695c78085c12ecee5407201da1343ca4c5dd17cf5a75e690f0518a5",
+      "edits": [
+        {
+          "startOffset": 16,
+          "endOffset": 25,
+          "expected": "postreros",
+          "replacement": "últimos",
+          "category": "clear-archaic-lexicon",
+          "reason": "The two contemporary controls consistently use último(s); the primary retains the older term, so only this exact lexical equivalent is changed.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "postrero-ultimo"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 14,
+      "sourceTextSha256": "9d3a4eb54079324ce48cc615cfd943dcbd30846c44c2c69d0e8514594ba25ba4",
+      "edits": [
+        {
+          "startOffset": 29,
+          "endOffset": 32,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        },
+        {
+          "startOffset": 51,
+          "endOffset": 59,
+          "expected": "postrero",
+          "replacement": "último",
+          "category": "clear-archaic-lexicon",
+          "reason": "The two contemporary controls consistently use último(s); the primary retains the older term, so only this exact lexical equivalent is changed.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "postrero-ultimo"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 16,
+      "sourceTextSha256": "c08af3df18e945685fcb54a1c40d4e51d2cf6d36cd164b76d4d9e37f2f595980",
+      "edits": [
+        {
+          "startOffset": 23,
+          "endOffset": 32,
+          "expected": "postreros",
+          "replacement": "últimos",
+          "category": "clear-archaic-lexicon",
+          "reason": "The two contemporary controls consistently use último(s); the primary retains the older term, so only this exact lexical equivalent is changed.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "postrero-ultimo"
+        },
+        {
+          "startOffset": 40,
+          "endOffset": 49,
+          "expected": "postreros",
+          "replacement": "últimos",
+          "category": "clear-archaic-lexicon",
+          "reason": "The two contemporary controls consistently use último(s); the primary retains the older term, so only this exact lexical equivalent is changed.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "postrero-ultimo"
+        },
+        {
+          "startOffset": 88,
+          "endOffset": 91,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 19,
+      "sourceTextSha256": "1914478044be964658651c27efbd120ab36cf1a715b14871d11bb05594e39cd8",
+      "edits": [
+        {
+          "startOffset": 81,
+          "endOffset": 84,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 20,
+      "sourceTextSha256": "7d6a23d797e3214baf190d25f46d7b68da64e7685f218d2c959961fc296259ea",
+      "edits": [
+        {
+          "startOffset": 71,
+          "endOffset": 82,
+          "expected": "adorándo le",
+          "replacement": "adorándole",
+          "category": "canonical-spacing-repair",
+          "reason": "Repairs detached pronouns introduced in the local RV1909 source without changing any word, participant or action.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "detached-clitic-source-repairs"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 23,
+      "sourceTextSha256": "f8f4d504b2b8ffa8528cca29231a7b520557eb8226b4efba5669b4578f6d4e81",
+      "edits": [
+        {
+          "startOffset": 104,
+          "endOffset": 107,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 26,
+      "sourceTextSha256": "285a34c17893d5960999a4e9aef2531c39be64279630dbec127f969fa2371869",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 31,
+      "sourceTextSha256": "a9abe78a29f581d9314820b5391de8b3b37c0fdcc5b32475c3fb99259cc5431b",
+      "edits": [
+        {
+          "startOffset": 40,
+          "endOffset": 43,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 2,
+      "sourceTextSha256": "79006bb70c48bc9fa558ef928433280ab181b2059ad254c2de81ab2fa4176c84",
+      "edits": [
+        {
+          "startOffset": 114,
+          "endOffset": 124,
+          "expected": "desatad la",
+          "replacement": "desatadla",
+          "category": "canonical-spacing-repair",
+          "reason": "Repairs detached pronouns introduced in the local RV1909 source without changing any word, participant or action.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "detached-clitic-source-repairs"
+        },
+        {
+          "startOffset": 128,
+          "endOffset": 139,
+          "expected": "traédme los",
+          "replacement": "traédmelos",
+          "category": "canonical-spacing-repair",
+          "reason": "Repairs detached pronouns introduced in the local RV1909 source without changing any word, participant or action.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "detached-clitic-source-repairs"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 3,
+      "sourceTextSha256": "18cacb190ea8c26fc56f7765d21ce88f518a2395ba9a0c5c2e7b5028d3099718",
+      "edits": [
+        {
+          "startOffset": 35,
+          "endOffset": 59,
+          "expected": "El Señor los ha menester",
+          "replacement": "El Señor los necesita",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "Each necessity phrase was reviewed independently at its own reference; no blanket token replacement is used.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "menester-contexts"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 13,
+      "sourceTextSha256": "f09f770b120767d9402d75bc6dbf8d39bb067f5dd351c9f184dcaec69a2a0631",
+      "edits": [
+        {
+          "startOffset": 65,
+          "endOffset": 68,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 15,
+      "sourceTextSha256": "5f386af69ccee61bf3a273a143a1affa8bb54cbba8522db9dadabff6f19c27a8",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 21,
+      "sourceTextSha256": "e922b9d7156912bf85ece12f5674dc1c4dcbe13072465cb524206e98dce5f119",
+      "edits": [
+        {
+          "startOffset": 121,
+          "endOffset": 124,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 23,
+      "sourceTextSha256": "324ee40a2d73f32f92872fa93d69c72167683e51e70bec1399b6528e39abc932",
+      "edits": [
+        {
+          "startOffset": 23,
+          "endOffset": 33,
+          "expected": "llegáronse",
+          "replacement": "se llegaron",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 28,
+      "sourceTextSha256": "93636c946b6a2c99ae652f2740a1aa40a5b0e8c7f3f651bd5887eecf4dfaadd8",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 29,
+      "sourceTextSha256": "d4e85a183746b3eb1dc660ff51297f4d835e31d5570421715325c6b579dd9b87",
+      "edits": [
+        {
+          "startOffset": 36,
+          "endOffset": 39,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 31,
+      "sourceTextSha256": "5f40b53b57df3a53e4cce195fb6c73327a314dd92195880a79c8bef2ffafc4fc",
+      "edits": [
+        {
+          "startOffset": 72,
+          "endOffset": 79,
+          "expected": "Díceles",
+          "replacement": "Les dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-diceles"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 35,
+      "sourceTextSha256": "a45b96fec048e8f55fd22f0c59bcdb584b4233af787957d7bab207116df72cc3",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 37,
+      "sourceTextSha256": "41f02ae690739ca1c6d035c4654439aa9d02ebf18de7c5ddc6d688bd140179fb",
+      "edits": [
+        {
+          "startOffset": 2,
+          "endOffset": 13,
+          "expected": "á la postre",
+          "replacement": "finalmente",
+          "category": "clear-archaic-phrase",
+          "reason": "All controls directly support a final-event connector.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "a-la-postre"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 38,
+      "sourceTextSha256": "3731382e21894373de26ec0986f570c510002eed1c4c689d1ba5db9afe983934",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 41,
+      "sourceTextSha256": "2e2a5845ac057da2b75aa5e032274969f3846e6f74bebb8395044250f7609046",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 7,
+          "expected": "Dícenle",
+          "replacement": "Le dicen",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves plural subject, present tense and meaning.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicenle"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 42,
+      "sourceTextSha256": "243fe9480032a41bac2ef89299caf209f570f5a029b6fb6b77a3ee7f599c86c4",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 7,
+          "expected": "Díceles",
+          "replacement": "Les dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-diceles"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 3,
+      "sourceTextSha256": "65daf1cd5ea71ce4579639ccf579eebbb718f4330c8cb292428cd11311289aca",
+      "edits": [
+        {
+          "startOffset": 64,
+          "endOffset": 67,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 5,
+      "sourceTextSha256": "70351e7f9ffd51658b90573b38e911f80b00141fb88966f1632627d374d7a026",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 8,
+      "sourceTextSha256": "08688e955fd7e7e93b729b4301c820d735a9144df693fe15ed9717e6641c739a",
+      "edits": [
+        {
+          "startOffset": 69,
+          "endOffset": 72,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 12,
+      "sourceTextSha256": "0bb357ada4ce3f1fede7614294cdd21b373d37448cb150adaf0d6a79b840e7cc",
+      "edits": [
+        {
+          "startOffset": 67,
+          "endOffset": 70,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 18,
+      "sourceTextSha256": "900de05cfc38d0488a69e5fcc82b00c31afe1f01b00045da7cef19b59edaa4e2",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 21,
+      "sourceTextSha256": "7c3058932bc89381853a181253d175cf33658e0c82855a4c5372c9487d7a2c69",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 7,
+          "expected": "Dícenle",
+          "replacement": "Le dicen",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves plural subject, present tense and meaning.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicenle"
+        },
+        {
+          "startOffset": 21,
+          "endOffset": 28,
+          "expected": "díceles",
+          "replacement": "les dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-diceles"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 24,
+      "sourceTextSha256": "f5b930a0c765703c3e427439d212db279cdecad4a00c4a48bd42bb2d3f349ba6",
+      "edits": [
+        {
+          "startOffset": 98,
+          "endOffset": 117,
+          "expected": "despertará simiente",
+          "replacement": "levantará descendencia",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "The primary control directly supplies the minimal modern phrase and both secondary controls confirm descendants as the meaning.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "despertara-simiente"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 30,
+      "sourceTextSha256": "466e6ef007c6aa955fe063c97951089ae47eb062eb9b2c29c0f0d844e27c4576",
+      "edits": [
+        {
+          "startOffset": 83,
+          "endOffset": 86,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 42,
+      "sourceTextSha256": "c516d2542ee90a98c4c5a2da8470507a7ed4d2dd5442a8747ba227b554662e0b",
+      "edits": [
+        {
+          "startOffset": 56,
+          "endOffset": 63,
+          "expected": "Dícenle",
+          "replacement": "Le dicen",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves plural subject, present tense and meaning.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicenle"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 3,
+      "sourceTextSha256": "8877f8a3be1f7a01ad836b3bf4238c9a574b6b0f00e0bc3e3765543564611730",
+      "edits": [
+        {
+          "startOffset": 69,
+          "endOffset": 72,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 4,
+      "sourceTextSha256": "755dc2dfeab61670c090f254f7a513d25dfb455c924dc3887aaf4ec75b6f2eb9",
+      "edits": [
+        {
+          "startOffset": 96,
+          "endOffset": 99,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 8,
+      "sourceTextSha256": "732a57dcd4caee2078234bc473eaa3e66922aa9746c3e8909f9d367826685480",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 13,
+      "sourceTextSha256": "1d35b67c81a81e0f47a2d92fb84544af39cd58cfd7e75995bfecbb85450d9c25",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 15,
+      "sourceTextSha256": "163f900f9ed82ce40a0af54e459040453507dba333b125db7e46a167729b563d",
+      "edits": [
+        {
+          "startOffset": 57,
+          "endOffset": 83,
+          "expected": "rodeáis la mar y la tierra",
+          "replacement": "recorréis mar y tierra",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "All controls converge on the same movement and twofold comparison.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-23-15-clarity"
+        },
+        {
+          "startOffset": 140,
+          "endOffset": 180,
+          "expected": "hijo del infierno doble más que vosotros",
+          "replacement": "dos veces más hijo del infierno que vosotros",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "All controls converge on the same movement and twofold comparison.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-23-15-clarity"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 16,
+      "sourceTextSha256": "2042673458abed65cce345206a35f3551e8b5058a780c258592a15f336b4673f",
+      "edits": [
+        {
+          "startOffset": 87,
+          "endOffset": 90,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 18,
+      "sourceTextSha256": "ea334ab4a584c7822a464ffc133e82d05b9422b83819c39ba954b06849235235",
+      "edits": [
+        {
+          "startOffset": 48,
+          "endOffset": 51,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 23,
+      "sourceTextSha256": "928581cd96c0de959103cb12b69c9fc8af177c5bf880d72f4b3013e3c317ce4c",
+      "edits": [
+        {
+          "startOffset": 112,
+          "endOffset": 144,
+          "expected": "lo que es lo más grave de la ley",
+          "replacement": "lo más importante de la ley",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "All controls converge on importance, clarification and necessity; each replacement is limited to the smallest phrase.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-23-23-clarity"
+        },
+        {
+          "startOffset": 146,
+          "endOffset": 156,
+          "expected": "es á saber",
+          "replacement": "es decir",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "All controls converge on importance, clarification and necessity; each replacement is limited to the smallest phrase.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-23-23-clarity"
+        },
+        {
+          "startOffset": 195,
+          "endOffset": 218,
+          "expected": "esto era menester hacer",
+          "replacement": "esto era necesario hacer",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "All controls converge on importance, clarification and necessity; each replacement is limited to the smallest phrase.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-23-23-clarity"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 24,
+      "sourceTextSha256": "51dbd9c37424f05d6920042390a0eafbb77b3dfe4f176127ead79e8e84b96861",
+      "edits": [
+        {
+          "startOffset": 39,
+          "endOffset": 42,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 25,
+      "sourceTextSha256": "b5178bbead20a66e87df1ecc6325dab8b7a21aa027f6477ed44c90f73bced7db",
+      "edits": [
+        {
+          "startOffset": 109,
+          "endOffset": 112,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 27,
+      "sourceTextSha256": "9f0ae8083bf1e07ea64283dac51d3c63fa5f351df57bd1861c351e2c525a9a06",
+      "edits": [
+        {
+          "startOffset": 147,
+          "endOffset": 150,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 28,
+      "sourceTextSha256": "82f50ff716d62dd2f34ff29941a2b7de4e4e14c1c2ce8439284b4bbb2f441312",
+      "edits": [
+        {
+          "startOffset": 78,
+          "endOffset": 81,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 32,
+      "sourceTextSha256": "edadff87d99c8bfe84bf8baecc51277ba41250e467dcdb78ec127adbf099bebd",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 25,
+          "expected": "henchid",
+          "replacement": "llenad",
+          "category": "clear-archaic-lexicon",
+          "reason": "The primary directly supports llenad and the secondary controls confirm completing/filling the measure.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "henchid-llenad"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 1,
+      "sourceTextSha256": "393fb047d4cec5471886098bd1bdc4e6169413b082c16088a809c38a3d72d89c",
+      "edits": [
+        {
+          "startOffset": 16,
+          "endOffset": 21,
+          "expected": "íbase",
+          "replacement": "se iba",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 6,
+      "sourceTextSha256": "5a05910b5eefc9806d4397f7ab6ee699aa501f445faf52922ca4fff2a053f8e7",
+      "edits": [
+        {
+          "startOffset": 72,
+          "endOffset": 107,
+          "expected": "es menester que todo esto acontezca",
+          "replacement": "es necesario que todo esto acontezca",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "Each necessity phrase was reviewed independently at its own reference; no blanket token replacement is used.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "menester-contexts"
+        },
+        {
+          "startOffset": 109,
+          "endOffset": 112,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 12,
+      "sourceTextSha256": "ae138d00cbe3b054f30328c3e776247967009b4e9b7812edbfa4a065efb7edfd",
+      "edits": [
+        {
+          "startOffset": 38,
+          "endOffset": 48,
+          "expected": "la caridad",
+          "replacement": "el amor",
+          "category": "context-exact-pattern",
+          "reason": "“Caridad” es femenino y “amor” masculino; la regla debe cambiar también el artículo la→el."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 13,
+      "sourceTextSha256": "eaa348e83f519d0d3447efdf62c09dc314162ac7ff5d7fa1a03c6a5fbaa37824",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 15,
+      "sourceTextSha256": "d4ed9e6dcf98d064890e4bcd0ea47fbdc0e534da6f8dedd6d341720714c807d4",
+      "edits": [
+        {
+          "startOffset": 29,
+          "endOffset": 56,
+          "expected": "abominación del asolamiento",
+          "replacement": "abominación desoladora",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "Primary and secondary controls converge on each modern term while preserving the prophetic content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-24-prophecy-clarity"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 17,
+      "sourceTextSha256": "dd4f3348345cc5c650667f0a8aa5a108355a7f7131bba8ff86433262091a1417",
+      "edits": [
+        {
+          "startOffset": 15,
+          "endOffset": 25,
+          "expected": "el terrado",
+          "replacement": "la azotea",
+          "category": "archaic-phrase",
+          "reason": "The complete roof-location phrase preserves article agreement and meaning."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 19,
+      "sourceTextSha256": "db7c96b7652e3889f6e5e9cb9bf675cbebcf8135e77ce5f3af1b9bd70c1dca81",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 22,
+      "sourceTextSha256": "99a87f0f1f1c1f2a8a557f7ad9572fca57a73d772929d4febf15934eb0cbc2ef",
+      "edits": [
+        {
+          "startOffset": 67,
+          "endOffset": 70,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 29,
+      "sourceTextSha256": "d177917722125b8942566203abe2127e3913adc0b656c0138d0a9845195aeb3c",
+      "edits": [
+        {
+          "startOffset": 91,
+          "endOffset": 100,
+          "expected": "su lumbre",
+          "replacement": "su resplandor",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "Primary and secondary controls converge on each modern term while preserving the prophetic content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-24-prophecy-clarity"
+        },
+        {
+          "startOffset": 138,
+          "endOffset": 164,
+          "expected": "las virtudes de los cielos",
+          "replacement": "las potencias de los cielos",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "Primary and secondary controls converge on each modern term while preserving the prophetic content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-24-prophecy-clarity"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 31,
+      "sourceTextSha256": "f7d9655d3223a82719318ce25448faa2e1c561f7603838e8364e51bd957f8def",
+      "edits": [
+        {
+          "startOffset": 102,
+          "endOffset": 106,
+          "expected": "cabo",
+          "replacement": "extremo",
+          "category": "clear-archaic-lexicon",
+          "reason": "Approved by the final authoritative 66-book consistency reconciliation."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 35,
+      "sourceTextSha256": "f588aca1bd3acaf58fcbc8799febc59c8fdd6dedc6074bd03af93f531871d2fa",
+      "edits": [
+        {
+          "startOffset": 30,
+          "endOffset": 33,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 36,
+      "sourceTextSha256": "afaf863eebddfa0b2e56e60779774b6974d3af6469a771bd94fb840b0c944892",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 6,
+          "expected": "Empero",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Clause-initial connector candidate; postpositive uses remain manual."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 37,
+      "sourceTextSha256": "954042f0291463ce9e903423554d7cc9624927491e88be0116247f2701d4d935",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 43,
+      "sourceTextSha256": "30543fc9a2815ff9390a1e738e5596a783e9930383be93fd7bb33e01133de33b",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 17,
+          "expected": "Esto empero sabed",
+          "replacement": "Pero sabed esto",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "Primary and secondary controls converge on each modern term while preserving the prophetic content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-24-prophecy-clarity"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 44,
+      "sourceTextSha256": "d2ee4e8d504a52e075022a0c247680978d75b4eca4b72772e3cf87b2425ac194",
+      "edits": [
+        {
+          "startOffset": 34,
+          "endOffset": 45,
+          "expected": "apercibidos",
+          "replacement": "preparados",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "Primary and secondary controls converge on each modern term while preserving the prophetic content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "matthew-24-prophecy-clarity"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 4,
+      "sourceTextSha256": "a0e0c8debe090b6ecda8ca12175a125b2fa1ad1af27316c8980cbfa1dea046b0",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 9,
+      "sourceTextSha256": "3e1d26f1c95509f8e4859ba0c09a59320a5e42f79e2cd51c58337ceb4b6ebee4",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 12,
+      "sourceTextSha256": "27bc862cf1238cd90d1ab513cf5b1b0d17cd47306c899148bea19a93edc03946",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 18,
+      "sourceTextSha256": "1a74728bbd4ef6e0362117009084211e3868d13e680015eac0bd785aef20e8d7",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 35,
+      "sourceTextSha256": "a545b5121e331c71ba783fbe8fab703ab1251e67fe64be5cabbe0c848e6da4f4",
+      "edits": [
+        {
+          "startOffset": 80,
+          "endOffset": 87,
+          "expected": "huésped",
+          "replacement": "forastero",
+          "category": "context-reviewed-lexicon",
+          "reason": "All controls identify the person as a stranger/foreigner; huésped is misleading in current Spanish.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "huesped-forastero"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 38,
+      "sourceTextSha256": "487b52bdcd2d7c83fe6f5c6da5f94a6610d3c80547eca265f0a4d543c35cb7d8",
+      "edits": [
+        {
+          "startOffset": 19,
+          "endOffset": 26,
+          "expected": "huésped",
+          "replacement": "forastero",
+          "category": "context-reviewed-lexicon",
+          "reason": "All controls identify the person as a stranger/foreigner; huésped is misleading in current Spanish.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "huesped-forastero"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 43,
+      "sourceTextSha256": "ee1a4777855fe6b5e5352a2b73dd6b2ad9ae3ce9b55555b722253baed8c21ddf",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 11,
+          "expected": "huésped",
+          "replacement": "forastero",
+          "category": "context-reviewed-lexicon",
+          "reason": "All controls identify the person as a stranger/foreigner; huésped is misleading in current Spanish.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "huesped-forastero"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 44,
+      "sourceTextSha256": "e4949bf81bdf53baf3b63094809bf8c16fcd9f0427beb0ed90c23e8d5e121842",
+      "edits": [
+        {
+          "startOffset": 99,
+          "endOffset": 106,
+          "expected": "huésped",
+          "replacement": "forastero",
+          "category": "context-reviewed-lexicon",
+          "reason": "All controls identify the person as a stranger/foreigner; huésped is misleading in current Spanish.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "huesped-forastero"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 3,
+      "sourceTextSha256": "17f165626b5853c31510143ee68764da25cb15472f01532e6907d9dfe1886169",
+      "edits": [
+        {
+          "startOffset": 109,
+          "endOffset": 118,
+          "expected": "pontífice",
+          "replacement": "sumo sacerdote",
+          "category": "catalog-context-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-pontifice-sumo-sacerdote."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 11,
+      "sourceTextSha256": "adccc1b5aa59cbd73ce2c061c9a3a8fc19383174163080ea1c1400f8024faa6d",
+      "edits": [
+        {
+          "startOffset": 45,
+          "endOffset": 48,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 24,
+      "sourceTextSha256": "5fb23a63f353c2e367282a72ed35a24c7edd1e47ff393ea9bd427b4071b867ed",
+      "edits": [
+        {
+          "startOffset": 60,
+          "endOffset": 63,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 25,
+      "sourceTextSha256": "0932f4bd1fa1b34726467e5db3f4779fb6d80fb8cfaf64223971599a1e5124e4",
+      "edits": [
+        {
+          "startOffset": 71,
+          "endOffset": 77,
+          "expected": "Dícele",
+          "replacement": "Le dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicele"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 32,
+      "sourceTextSha256": "de081984e14915f1a4722fd1f73678afb6139f4741ba572eb0e3ac0e7ec809a1",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 35,
+      "sourceTextSha256": "7141d57ec1f981d544c5dd85701eb934a5749dca684abe762621b5af2507c415",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 6,
+          "expected": "Dícele",
+          "replacement": "Le dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicele"
+        },
+        {
+          "startOffset": 21,
+          "endOffset": 50,
+          "expected": "me sea menester morir contigo",
+          "replacement": "me sea necesario morir contigo",
+          "category": "context-reviewed-archaic-phrase",
+          "reason": "Each necessity phrase was reviewed independently at its own reference; no blanket token replacement is used.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "menester-contexts"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 39,
+      "sourceTextSha256": "090524a44a3964d7403e1c31802e54b73912862491d3d8f66d159207227af637",
+      "edits": [
+        {
+          "startOffset": 127,
+          "endOffset": 133,
+          "expected": "empero",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Clause-initial connector candidate; postpositive uses remain manual."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 41,
+      "sourceTextSha256": "41de24e278b9b1b424ad280088823abbcfa518f1a7016bfce0ff9a65bb5001ad",
+      "edits": [
+        {
+          "startOffset": 85,
+          "endOffset": 88,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 89,
+          "endOffset": 105,
+          "expected": "la carne enferma",
+          "replacement": "la carne es débil",
+          "category": "catalog-context-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-carne-debil."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 44,
+      "sourceTextSha256": "063e11e8f34775cffd88a530e175c628d02b3c9cf4e723af34dd852a4e34ce41",
+      "edits": [
+        {
+          "startOffset": 13,
+          "endOffset": 18,
+          "expected": "fuése",
+          "replacement": "se fue",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite verb plus attached pronoun is reordered using direct support from RVR1960, RV2020; no control text is stored."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 45,
+      "sourceTextSha256": "42d42633432026c70d0e8101aea04826d6dc5eb2fb99e7ee32bfdf0ee0be1a29",
+      "edits": [
+        {
+          "startOffset": 33,
+          "endOffset": 40,
+          "expected": "díceles",
+          "replacement": "les dice",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves speaker, tense and meaning; all controls use modern proclitic order in the parallel speech clause.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-diceles"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 51,
+      "sourceTextSha256": "4c563f0f13ed5d24a45d63978aac0901f58d94f93b8b659885cd6276a6ef2db6",
+      "edits": [
+        {
+          "startOffset": 109,
+          "endOffset": 118,
+          "expected": "pontífice",
+          "replacement": "sumo sacerdote",
+          "category": "catalog-context-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-pontifice-sumo-sacerdote."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 56,
+      "sourceTextSha256": "ef37b14fae05d899287f7a9832beb8368252d0f09dabaf46ffe1577cea7fedd6",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 57,
+      "sourceTextSha256": "e16e43e5b3aa829406b9a27c1778892ba5029f0bdd7a8b354926ab679eb7649a",
+      "edits": [
+        {
+          "startOffset": 37,
+          "endOffset": 55,
+          "expected": "á Caifás pontífice",
+          "replacement": "al sumo sacerdote Caifás",
+          "category": "context-exact-pattern",
+          "reason": "Reference-bound grammar and word order verified by all controls."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 58,
+      "sourceTextSha256": "510e069fc4149f543bace1a72750facb7d5803050c62b7719df12f1e1a057f44",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 48,
+          "endOffset": 57,
+          "expected": "pontífice",
+          "replacement": "sumo sacerdote",
+          "category": "catalog-context-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-pontifice-sumo-sacerdote."
+        },
+        {
+          "startOffset": 78,
+          "endOffset": 86,
+          "expected": "estábase",
+          "replacement": "se estaba",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 60,
+      "sourceTextSha256": "1a0d3e9f6e9af494d116401f723dd9cb25575ef7aabad4fbb1bef9484c3710cc",
+      "edits": [
+        {
+          "startOffset": 61,
+          "endOffset": 64,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 65,
+          "endOffset": 76,
+          "expected": "á la postre",
+          "replacement": "al fin",
+          "category": "clear-archaic-phrase",
+          "reason": "All controls directly support a final-event connector.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "a-la-postre"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 63,
+      "sourceTextSha256": "8e367ce1a557344e07943c1bdc5841cc727a70748a1bc19c88cc675830da3632",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        },
+        {
+          "startOffset": 35,
+          "endOffset": 44,
+          "expected": "pontífice",
+          "replacement": "sumo sacerdote",
+          "category": "catalog-context-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-pontifice-sumo-sacerdote."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 65,
+      "sourceTextSha256": "49790314cfe75c5d8ea354fecbba0774786eb04c7b6d4df6b0fb2cde5896371b",
+      "edits": [
+        {
+          "startOffset": 12,
+          "endOffset": 21,
+          "expected": "pontífice",
+          "replacement": "sumo sacerdote",
+          "category": "catalog-context-reviewed",
+          "reason": "Occurrence reviewed under Mateo rule mat-pontifice-sumo-sacerdote."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 70,
+      "sourceTextSha256": "cdbf0c15f68a11e7cd4c482b5d330f3b137fb932edb8d6981230cb61fc631f44",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 2,
+      "sourceTextSha256": "fa15934a9bbbed8444e23e5df2e85952be4017f7506f698c5172f97e5e7d83f8",
+      "edits": [
+        {
+          "startOffset": 53,
+          "endOffset": 63,
+          "expected": "presidente",
+          "replacement": "gobernador",
+          "category": "context-reviewed-lexicon",
+          "reason": "All occurrences denote Pilate's office; every control uses gobernador, avoiding the modern false meaning of presidente.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "presidente-gobernador"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 4,
+      "sourceTextSha256": "852de13536242cee72bcda9e05a5800e60f35b4513315fb8b4da32f65f43d941",
+      "edits": [
+        {
+          "startOffset": 54,
+          "endOffset": 57,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 5,
+      "sourceTextSha256": "25e3c1e4c27a96eca33ccdcf60660f514fd8e53932808b2cd26b9e2a6eba54c1",
+      "edits": [
+        {
+          "startOffset": 46,
+          "endOffset": 54,
+          "expected": "partióse",
+          "replacement": "se partió",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 7,
+      "sourceTextSha256": "66429980bb69f816e72b56e09693e8b233546a4f877531e25ebf704aa2fc1e9f",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 11,
+      "sourceTextSha256": "47b2d6bbfe1a021894831fb586426da648770c738cc04ba84cbd013bb5e46236",
+      "edits": [
+        {
+          "startOffset": 27,
+          "endOffset": 37,
+          "expected": "presidente",
+          "replacement": "gobernador",
+          "category": "context-reviewed-lexicon",
+          "reason": "All occurrences denote Pilate's office; every control uses gobernador, avoiding the modern false meaning of presidente.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "presidente-gobernador"
+        },
+        {
+          "startOffset": 44,
+          "endOffset": 54,
+          "expected": "presidente",
+          "replacement": "gobernador",
+          "category": "context-reviewed-lexicon",
+          "reason": "All occurrences denote Pilate's office; every control uses gobernador, avoiding the modern false meaning of presidente.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "presidente-gobernador"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 14,
+      "sourceTextSha256": "57299793319bf21e514e44b0e26f1a8bfd8bbc3ff39790d3d2d61074fc138a2c",
+      "edits": [
+        {
+          "startOffset": 55,
+          "endOffset": 65,
+          "expected": "presidente",
+          "replacement": "gobernador",
+          "category": "context-reviewed-lexicon",
+          "reason": "All occurrences denote Pilate's office; every control uses gobernador, avoiding the modern false meaning of presidente.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "presidente-gobernador"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 15,
+      "sourceTextSha256": "4f44c6d763ebb92ec1fa7b8e9a0f29bd40af32a6b5ce92852dbf63fbde2c92f2",
+      "edits": [
+        {
+          "startOffset": 41,
+          "endOffset": 51,
+          "expected": "presidente",
+          "replacement": "gobernador",
+          "category": "context-reviewed-lexicon",
+          "reason": "All occurrences denote Pilate's office; every control uses gobernador, avoiding the modern false meaning of presidente.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "presidente-gobernador"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 20,
+      "sourceTextSha256": "e0be8613021abffffe63eacfdc2b98e670f22c269f6257bc04f033965a12112c",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 21,
+      "sourceTextSha256": "000a3f849b86e7bde1db07b027e4f3e046751367da18d5d8fc593f1c7f67f0c6",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 28,
+          "expected": "presidente",
+          "replacement": "gobernador",
+          "category": "context-reviewed-lexicon",
+          "reason": "All occurrences denote Pilate's office; every control uses gobernador, avoiding the modern false meaning of presidente.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "presidente-gobernador"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 22,
+      "sourceTextSha256": "8bd45e1701e8f3e5e66e7d562d766d2febce67f6ec64d42cafe591503156c194",
+      "edits": [
+        {
+          "startOffset": 64,
+          "endOffset": 71,
+          "expected": "Dícenle",
+          "replacement": "Le dicen",
+          "category": "archaic-enclitic-order",
+          "reason": "Minimal pronoun reordering preserves plural subject, present tense and meaning.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-dicenle"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 23,
+      "sourceTextSha256": "3bd01a09b1c4eb66ba968f739a89bc9b36c5c5d414b46f67bf071c43c898ca74",
+      "edits": [
+        {
+          "startOffset": 5,
+          "endOffset": 15,
+          "expected": "presidente",
+          "replacement": "gobernador",
+          "category": "context-reviewed-lexicon",
+          "reason": "All occurrences denote Pilate's office; every control uses gobernador, avoiding the modern false meaning of presidente.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "presidente-gobernador"
+        },
+        {
+          "startOffset": 50,
+          "endOffset": 53,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 27,
+      "sourceTextSha256": "fd7a51f5e1aecad10e484171b4b59718bdd77f6a90a40fd3f2b797f3d4a66094",
+      "edits": [
+        {
+          "startOffset": 26,
+          "endOffset": 36,
+          "expected": "presidente",
+          "replacement": "gobernador",
+          "category": "context-reviewed-lexicon",
+          "reason": "All occurrences denote Pilate's office; every control uses gobernador, avoiding the modern false meaning of presidente.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "presidente-gobernador"
+        },
+        {
+          "startOffset": 91,
+          "endOffset": 100,
+          "expected": "cuadrilla",
+          "replacement": "compañía",
+          "category": "context-reviewed-lexicon",
+          "reason": "All controls identify the military unit as compañía.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "cuadrilla-compania"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 48,
+      "sourceTextSha256": "b33fdba97cfce11ef9aa49c53b326b2166c139e5b816787d53f4f3ccc0132fb2",
+      "edits": [
+        {
+          "startOffset": 102,
+          "endOffset": 108,
+          "expected": "dábale",
+          "replacement": "le daba",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite-verb enclisis is reordered without changing lemma, argument, tense or narrative content.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "finite-enclitic-singletons"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 50,
+      "sourceTextSha256": "22d49198bf2de0945e6da6f180d0bced44dfe8acc09b65057fbea54fb0c10870",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 52,
+      "sourceTextSha256": "41502619191cacd074bf83820e48c30f210d60a11d7aa6bee55d3a500bbb97a2",
+      "edits": [
+        {
+          "startOffset": 2,
+          "endOffset": 12,
+          "expected": "abriéronse",
+          "replacement": "se abrieron",
+          "category": "archaic-enclitic-order",
+          "reason": "Finite verb plus attached pronoun is reordered using direct support from RVR1960, RVC, RV2020; no control text is stored."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 64,
+      "sourceTextSha256": "9461369b9143a10486d4cbe195b146150220e440287b0b26ea6d7fc6647f9fe8",
+      "edits": [
+        {
+          "startOffset": 168,
+          "endOffset": 184,
+          "expected": "el postrer error",
+          "replacement": "el último error",
+          "category": "clear-archaic-phrase",
+          "reason": "All controls identify the final deception/error; this also closes the apocopated form missed by the postrero rule.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "postrer-ultimo"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 14,
+      "sourceTextSha256": "640bf05ec4075d24e269e14217b4f88da69b0ca760bcc17cba947696b576c513",
+      "edits": [
+        {
+          "startOffset": 25,
+          "endOffset": 35,
+          "expected": "presidente",
+          "replacement": "gobernador",
+          "category": "context-reviewed-lexicon",
+          "reason": "All occurrences denote Pilate's office; every control uses gobernador, avoiding the modern false meaning of presidente.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "presidente-gobernador"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 16,
+      "sourceTextSha256": "9039b660da2cea52d5cb0f75a7c2f32ad20d82fd2b36cd768cba7bb578a39650",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 3,
+          "expected": "Mas",
+          "replacement": "Pero",
+          "category": "archaic-connector",
+          "reason": "The unaccented adversative is consistently modernized as pero; accented más is never targeted.",
+          "reviewId": "matthew-strict-followup-2026-07-25",
+          "ruleId": "remaining-archaic-adversatives"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 17,
+      "sourceTextSha256": "6af0fae45714a809577170ca4d840508cd9c018d4c3336c333f8590d138a7ab3",
+      "edits": [
+        {
+          "startOffset": 31,
+          "endOffset": 34,
+          "expected": "mas",
+          "replacement": "pero",
+          "category": "archaic-connector",
+          "reason": "Unaccented Mas/mas is an archaic adversative connector in every reviewed New Testament occurrence."
+        }
+      ]
+    }
+  ],
+  "encliticOrderReview": {
+    "policy": "reference-supported-finite-enclitic-order-v1",
+    "directReferenceSupportRequired": true,
+    "copyrightedTextStored": false,
+    "appliedCount": 3
+  },
+  "strictMatthewFollowupReview": {
+    "reviewId": "matthew-strict-followup-2026-07-25",
+    "policy": "Apply only morphology-preserving reordering or a minimal word/phrase supported at the same reference by the primary control and/or convergent secondary controls.",
+    "appliedEditCount": 123,
+    "deferredDecisionCount": 8,
+    "rejectedDecisionCount": 6,
+    "registry": "tool/matthew_2026_strict_followup_review.json",
+    "result": "tool/matthew_2026_strict_followup_result.json",
+    "copyrightedControlTextStored": false
+  },
+  "ownerReview": {
+    "contentVersion": 2,
+    "changeSet": "editorial-changes/v2.json",
+    "appliedEditCount": 5
+  }
+}

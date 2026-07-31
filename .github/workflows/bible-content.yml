@@ -1,0 +1,110 @@
+name: Publish Bible content
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "bible-content/apps/mobile/assets/bibles/rv1909/**"
+      - "bible-content/apps/mobile/assets/bible_direction/**"
+      - "bible-content/apps/mobile/tool/**"
+      - "bible-content/contracts/**"
+      - "bible-content/editorial-changes/**"
+      - "bible-content/trust/**"
+      - ".github/workflows/bible-content.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: shine-bible-content-production
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      SHINE_BIBLE_VERCEL_DEPLOY_HOOK: ${{ secrets.SHINE_BIBLE_VERCEL_DEPLOY_HOOK }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Apply latest audited editorial change set
+        run: node bible-content/apps/mobile/tool/apply_editorial_change_set.mjs
+
+      - name: Build deterministic Lectura 2026 package
+        run: >-
+          node bible-content/apps/mobile/tool/build_reading_2026_package.mjs
+          --package-only
+
+      - name: Build signed public channel
+        env:
+          SHINE_BIBLE_CONTENT_SIGNING_PRIVATE_KEY_PEM: ${{ secrets.SHINE_BIBLE_CONTENT_SIGNING_PRIVATE_KEY_PEM }}
+        run: >-
+          node bible-content/apps/mobile/tool/build_bible_content_channel.mjs
+          --out-dir bible-content/channel
+          --key-id shine-bible-content-2026-01
+
+      - name: Verify exact published bytes
+        run: >-
+          node bible-content/apps/mobile/tool/verify_bible_content_channel.mjs
+          --channel bible-content/channel/channel-stable.json
+          --public-key-file bible-content/trust/shine-bible-content-2026-01.public.pem
+          --key-id shine-bible-content-2026-01
+          --now "$(date -u +%Y-%m-%dT%H:%M:%S.000Z)"
+
+      - name: Read monotonic version
+        id: version
+        shell: bash
+        run: |
+          VERSION="$(node -p "require('./bible-content/channel/channel-stable.json').payload.contentVersion")"
+          test "$VERSION" -ge 1
+          echo "value=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Commit generated stable pointer and artifacts
+        shell: bash
+        run: |
+          git config user.name "SHINE Bible Content Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            bible-content/apps/mobile/assets/bible_direction/packages \
+            bible-content/apps/mobile/assets/bible_direction/reading_2026.package-source.json \
+            bible-content/apps/mobile/tool/bible_content_channel.v1.source.json \
+            bible-content/channel
+          if git diff --cached --quiet; then
+            echo "Generated artifacts already match the source."
+          else
+            git commit -m "Publish Bible content v${{ steps.version.outputs.value }}"
+            git push origin HEAD:main
+          fi
+
+      - name: Publish immutable GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION: ${{ steps.version.outputs.value }}
+        shell: bash
+        run: |
+          TAG="bible-content-v$VERSION"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "$TAG already exists; immutable release preserved."
+          else
+            (cd bible-content/channel && sha256sum channel-stable.json *.gz > SHA256SUMS)
+            gh release create "$TAG" \
+              bible-content/channel/channel-stable.json \
+              bible-content/channel/*.gz \
+              bible-content/channel/SHA256SUMS \
+              --title "SHINE Bible content v$VERSION" \
+              --notes "RV1909 original plus the reversible Lectura 2026 content package."
+          fi
+
+      - name: Trigger Website regeneration
+        if: ${{ env.SHINE_BIBLE_VERCEL_DEPLOY_HOOK != '' }}
+        shell: bash
+        run: >-
+          curl --fail --silent --show-error --request POST
+          "$SHINE_BIBLE_VERCEL_DEPLOY_HOOK"
