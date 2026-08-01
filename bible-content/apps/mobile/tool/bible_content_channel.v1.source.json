@@ -2,7 +2,7 @@
   "format": "shine-public-bible-content-channel-source",
   "schemaVersion": 1,
   "channelId": "shine-public-bible-stable",
-  "contentVersion": 2,
+  "contentVersion": 3,
   "issuedAt": "2026-07-31T00:00:00.000Z",
   "expiresAt": "2028-07-31T00:00:00.000Z",
   "rv1909ContentVersion": 1
