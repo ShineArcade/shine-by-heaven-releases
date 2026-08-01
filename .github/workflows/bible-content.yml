@@ -72,6 +72,7 @@ jobs:
           git config user.name "SHINE Bible Content Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add \
+            bible-content/apps/mobile/assets/bible_direction/*_reading_2026.rv1909.v1.json \
             bible-content/apps/mobile/assets/bible_direction/packages \
             bible-content/apps/mobile/assets/bible_direction/reading_2026.package-source.json \
             bible-content/apps/mobile/tool/bible_content_channel.v1.source.json \

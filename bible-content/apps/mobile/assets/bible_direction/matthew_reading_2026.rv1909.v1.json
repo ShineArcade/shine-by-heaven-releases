@@ -18,13 +18,13 @@
   "coverage": {
     "totalMatthewVerses": 1071,
     "changedVerses": 261,
-    "editCount": 308,
+    "editCount": 310,
     "categoryCounts": {
       "archaic-connector": 160,
       "archaic-enclitic-order": 40,
       "archaic-lexicon": 7,
       "archaic-phrase": 2,
-      "canonical-orthography-clarity": 1,
+      "canonical-orthography-clarity": 2,
       "canonical-spacing-repair": 3,
       "catalog-context-reviewed": 11,
       "catalog-invariant-reviewed": 4,
@@ -32,6 +32,7 @@
       "clear-archaic-phrase": 3,
       "context-exact-pattern": 8,
       "context-reviewed-archaic-phrase": 24,
+      "context-reviewed-grammar": 1,
       "context-reviewed-lexicon": 24
     },
     "editorialPolicyVersion": 3,
@@ -995,6 +996,14 @@
           "reason": "Owner reading review: use the current equivalent without changing the sentence meaning."
         },
         {
+          "startOffset": 54,
+          "endOffset": 68,
+          "expected": "á donde quiera",
+          "replacement": "adondequiera",
+          "category": "canonical-orthography-clarity",
+          "reason": "All three editorial controls support the current single-word destination form."
+        },
+        {
           "startOffset": 73,
           "endOffset": 79,
           "expected": "fueres",
@@ -1047,6 +1056,14 @@
       "verse": 26,
       "sourceTextSha256": "6ab5368eccf9da2eb733ddbfffc5c6bc969489b78d7e96b6730f9ff2a3e0108d",
       "edits": [
+        {
+          "startOffset": 5,
+          "endOffset": 13,
+          "expected": "les dice",
+          "replacement": "les dijo",
+          "category": "context-reviewed-grammar",
+          "reason": "All three editorial controls confirm past narration at this reference."
+        },
         {
           "startOffset": 24,
           "endOffset": 30,
@@ -4606,8 +4623,8 @@
     "copyrightedControlTextStored": false
   },
   "ownerReview": {
-    "contentVersion": 2,
-    "changeSet": "editorial-changes/v2.json",
-    "appliedEditCount": 5
+    "contentVersion": 3,
+    "changeSet": "editorial-changes/v3.json",
+    "appliedEditCount": 2
   }
 }
