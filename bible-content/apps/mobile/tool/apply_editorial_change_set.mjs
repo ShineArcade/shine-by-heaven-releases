@@ -151,7 +151,7 @@ console.log(JSON.stringify({
 }, null, 2))
 
 function bookNamePrefix(bookId) {
-  const names = { MAT: 'matthew_' }
+  const names = { GEN: 'genesis_', MAT: 'matthew_' }
   return names[bookId] ?? `${bookId.toLowerCase()}_`
 }
 

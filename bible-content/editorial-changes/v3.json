@@ -1,0 +1,17 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 3,
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {"book":"GEN","chapter":1,"verse":1,"expected":"EN","replacement":"En","category":"canonical-typography-clarity","reason":"Owner reading review: normalize the chapter-opening capitals in the visible layer only."},
+    {"book":"GEN","chapter":1,"verse":1,"expected":"crió","replacement":"creó","category":"context-reviewed-lexicon","reason":"In the creation account crió means created; creó avoids the modern false sense of raising a child."},
+    {"book":"GEN","chapter":3,"verse":1,"expected":"EMPERO","replacement":"Pero","category":"clear-archaic-lexicon","reason":"Empero means pero; the minimal replacement preserves the contrast."},
+    {"book":"GEN","chapter":9,"verse":4,"expected":"Empero","replacement":"Pero","category":"clear-archaic-lexicon","reason":"Empero means pero; the minimal replacement preserves the contrast."},
+    {"book":"GEN","chapter":12,"verse":1,"expected":"EMPERO","replacement":"Pero","category":"clear-archaic-lexicon","reason":"Empero means pero; the minimal replacement preserves the contrast."},
+    {"book":"GEN","chapter":25,"verse":27,"expected":"Jacob empero era","replacement":"pero Jacob era","category":"context-reviewed-archaic-phrase","reason":"Empero means pero; moving the conjunction preserves the subject and gives the contrast its current natural order."},
+    {"book":"MAT","chapter":8,"verse":19,"expected":"á donde quiera","replacement":"adondequiera","category":"canonical-orthography-clarity","reason":"All three editorial controls support the current single-word destination form."},
+    {"book":"MAT","chapter":8,"verse":26,"expected":"les dice","replacement":"les dijo","category":"context-reviewed-grammar","reason":"All three editorial controls confirm past narration at this reference."}
+  ]
+}
