@@ -17,8 +17,13 @@ assert(changeSet.sourceVersionId === 'RV1909', 'sourceVersionId')
 assert(changeSet.filterId === 'RV1909-LECTURA-2026', 'filterId')
 assert(Number.isSafeInteger(changeSet.contentVersion), 'contentVersion')
 assert(Array.isArray(changeSet.changes) && changeSet.changes.length > 0, 'changes')
+for (const field of ['generatedAt', 'issuedAt', 'expiresAt']) {
+  assert(typeof changeSet[field] === 'string' && Number.isFinite(Date.parse(changeSet[field])), field)
+}
+assert(Date.parse(changeSet.expiresAt) > Date.parse(changeSet.issuedAt), 'channel expiry')
 
-const changesByBook = Map.groupBy(changeSet.changes, (change) => change.book)
+const expandedChanges = changeSet.changes.flatMap(expandChange)
+const changesByBook = Map.groupBy(expandedChanges, (change) => change.book)
 for (const [bookId, changes] of changesByBook) {
   assert(/^[A-Z0-9]{3}$/.test(bookId), `book ${bookId}`)
   const corpusPath = path.join(
@@ -115,7 +120,7 @@ for (const [bookId, changes] of changesByBook) {
     changeSet: path.relative(contentRoot, changeSetPath).replaceAll('\\', '/'),
     appliedEditCount: changes.length,
   }
-  await fs.writeFile(directionPath, `${JSON.stringify(direction, null, 2)}\n`, 'utf8')
+  await fs.writeFile(directionPath, `${JSON.stringify(direction)}\n`, 'utf8')
 }
 
 const packageSourcePath = path.join(
@@ -128,7 +133,7 @@ const packageSourcePath = path.join(
 )
 const packageSource = await readJson(packageSourcePath)
 packageSource.contentVersion = changeSet.contentVersion
-packageSource.generatedAt = '2026-07-31T00:00:00.000Z'
+packageSource.generatedAt = changeSet.generatedAt
 await fs.writeFile(packageSourcePath, `${JSON.stringify(packageSource, null, 2)}\n`, 'utf8')
 
 const channelSourcePath = path.join(
@@ -140,19 +145,37 @@ const channelSourcePath = path.join(
 )
 const channelSource = await readJson(channelSourcePath)
 channelSource.contentVersion = changeSet.contentVersion
-channelSource.issuedAt = '2026-07-31T00:00:00.000Z'
-channelSource.expiresAt = '2028-07-31T00:00:00.000Z'
+channelSource.issuedAt = changeSet.issuedAt
+channelSource.expiresAt = changeSet.expiresAt
 await fs.writeFile(channelSourcePath, `${JSON.stringify(channelSource, null, 2)}\n`, 'utf8')
 
 console.log(JSON.stringify({
   contentVersion: changeSet.contentVersion,
-  appliedChanges: changeSet.changes.length,
+  editorialRules: changeSet.changes.length,
+  appliedChanges: expandedChanges.length,
   books: [...changesByBook.keys()],
 }, null, 2))
 
 function bookNamePrefix(bookId) {
-  const names = { GEN: 'genesis_', MAT: 'matthew_' }
+  const names = { GEN: 'genesis_', MAT: 'matthew_', '1SA': 'first_samuel_' }
   return names[bookId] ?? `${bookId.toLowerCase()}_`
+}
+
+function expandChange(change) {
+  if (change.references === undefined) return [change]
+  assert(Array.isArray(change.references) && change.references.length > 0, 'references')
+  assert(change.chapter === undefined && change.verse === undefined, 'reference shape')
+  return change.references.map((reference) => {
+    assert(reference && typeof reference === 'object', 'reference')
+    assert(Number.isSafeInteger(reference.chapter) && reference.chapter > 0, 'reference chapter')
+    assert(Number.isSafeInteger(reference.verse) && reference.verse > 0, 'reference verse')
+    return {
+      ...change,
+      chapter: reference.chapter,
+      verse: reference.verse,
+      references: undefined,
+    }
+  })
 }
 
 function validateChange(change) {
@@ -165,11 +188,16 @@ function validateChange(change) {
 
 function allOffsets(text, expected) {
   const offsets = []
+  const wholeWord = /^\p{L}+$/u.test(expected)
   let cursor = 0
   while (cursor <= text.length) {
     const offset = text.indexOf(expected, cursor)
     if (offset < 0) break
-    offsets.push(offset)
+    const before = offset > 0 ? text[offset - 1] : ''
+    const after = text[offset + expected.length] ?? ''
+    if (!wholeWord || (!/\p{L}/u.test(before) && !/\p{L}/u.test(after))) {
+      offsets.push(offset)
+    }
     cursor = offset + expected.length
   }
   return offsets

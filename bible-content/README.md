@@ -10,6 +10,11 @@ through reviewed change sets under `editorial-changes/`. The deterministic
 builder validates every source hash, verse offset, expected string and overlap
 before creating a package.
 
+A reviewed rule may target one `chapter` and `verse`, or a `references` list
+when the same exact replacement was checked in several verses. Single-word
+rules match whole words only; a word embedded inside a longer form is rejected.
+The generated book files still record every resulting offset separately.
+
 ## Update flow
 
 1. Add a monotonic `editorial-changes/vN.json` change set.

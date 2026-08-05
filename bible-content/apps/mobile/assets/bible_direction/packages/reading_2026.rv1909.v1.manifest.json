@@ -2,14 +2,14 @@
   "format": "shine-reading-filter-manifest",
   "filterId": "RV1909-LECTURA-2026",
   "schemaVersion": 1,
-  "contentVersion": 3,
+  "contentVersion": 4,
   "sourceVersionId": "RV1909",
   "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-  "contentSha256": "fa1de6d48195ad282b25a55e5926d2d6a8828df96d5e478d8d6e330541e5b9fc",
-  "sizeBytes": 398663,
-  "expandedSizeBytes": 1877224,
+  "contentSha256": "b53c3df115a8d1d715bdda7a3d70c03fd6ffb6a9f7eb8e9d0245b6f78e83a62d",
+  "sizeBytes": 407315,
+  "expandedSizeBytes": 1923341,
   "mimeType": "application/vnd.shine.reading-filter+gzip",
-  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "generatedAt": "2026-08-05T00:00:00.000Z",
   "editorialPolicy": {
     "id": "unified-minimal-comprehension-policy",
     "version": 3,
@@ -18,8 +18,8 @@
   "coverage": {
     "expectedBookCount": 66,
     "includedBookCount": 66,
-    "changedVerseCount": 4371,
-    "editCount": 5145
+    "changedVerseCount": 4475,
+    "editCount": 5309
   },
   "books": [
     {
@@ -99,9 +99,9 @@
       "order": 9,
       "sourceFile": "first_samuel_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "d824fd6e3dda890c9d81bf58d1330d46490a636f0f511958f5698f0664e04ca2",
-      "payloadSha256": "9ad13f94b67122aa9b031a254a911d097b626f183596c35c9d102e607cb3c54b",
-      "changedVerseCount": 224,
-      "editCount": 282
+      "payloadSha256": "4250b43bf4218857b2ea2f307241c3c33b5d47e6b5823a62454ae3d535bef680",
+      "changedVerseCount": 328,
+      "editCount": 446
     },
     {
       "id": "2SA",
