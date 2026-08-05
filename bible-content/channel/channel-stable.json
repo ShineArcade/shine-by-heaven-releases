@@ -3,9 +3,9 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-bible-stable",
-    "contentVersion": 3,
-    "issuedAt": "2026-07-31T00:00:00.000Z",
-    "expiresAt": "2028-07-31T00:00:00.000Z",
+    "contentVersion": 4,
+    "issuedAt": "2026-08-05T00:00:00.000Z",
+    "expiresAt": "2028-08-05T00:00:00.000Z",
     "distributionScope": "public",
     "updatePolicy": {
       "versionAuthority": "contentVersion",
@@ -39,18 +39,18 @@
         "kind": "reading-filter",
         "id": "RV1909-LECTURA-2026",
         "schemaVersion": 1,
-        "contentVersion": 3,
+        "contentVersion": 4,
         "sourceVersionId": "RV1909",
         "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-        "contentSha256": "fa1de6d48195ad282b25a55e5926d2d6a8828df96d5e478d8d6e330541e5b9fc",
-        "sizeBytes": 398663,
+        "contentSha256": "f5b7c5e553f70143278b4c90fc5e0a98745df4e48988327818a83c88b484a390",
+        "sizeBytes": 407315,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.rv1909.v3.package.json.gz",
+        "artifactPath": "reading_2026.rv1909.v4.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
-          "changedVerseCount": 4371,
-          "editCount": 5145
+          "changedVerseCount": 4475,
+          "editCount": 5309
         },
         "editorialPolicy": {
           "id": "unified-minimal-comprehension-policy",
@@ -60,11 +60,11 @@
       }
     ]
   },
-  "contentSha256": "592d88f3f8dfa2e59a99e4614c75d6afe87878f7be5b1a67676266efc88144c4",
+  "contentSha256": "29b853c96a8ce4b4bf769eda01356c5f9acedcf21fb5a9a6614826b245c09cae",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "cal6En2xTU1k9X0lbqAnDEMqigQzjkyLrmNdZolUzc1c0m-xGtqM1batv0DT9rWjvC7iLjvqXcNIDsH0jpCMCQ"
+    "value": "-UQNHirentShUMzaOAXVg0iHVJ4BvXZU2oGsDYCh1OJaTY9SL0l6xt6sLJUzDbN9-Z4jYmrHC8zOoyZUK28jDg"
   }
 }
