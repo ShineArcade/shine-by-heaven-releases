@@ -300,7 +300,8 @@ async function buildDesktopBibleSeed({
 async function loadBibleBooks(root, manifest) {
   const entries = []
   for (const file of manifest.files) {
-    const bytes = await fs.readFile(path.join(root, ...file.path.split('/')))
+    const checkoutBytes = await fs.readFile(path.join(root, ...file.path.split('/')))
+    const bytes = canonicalCheckedOutBytes(checkoutBytes, file)
     assertEqual(bytes.length, file.sizeBytes, `${manifest.version.id}/${file.path} size`)
     assertEqual(sha256(bytes), file.sha256, `${manifest.version.id}/${file.path} hash`)
     const book = parseJson(bytes, `${manifest.version.id}/${file.path}`)
@@ -308,6 +309,15 @@ async function loadBibleBooks(root, manifest) {
   }
   entries.sort((left, right) => left.book.order - right.book.order)
   return entries
+}
+
+function canonicalCheckedOutBytes(bytes, file) {
+  if (bytes.length === file.sizeBytes && sha256(bytes) === file.sha256) return bytes
+  const normalized = Buffer.from(bytes.toString('utf8').replaceAll('\r\n', '\n'), 'utf8')
+  if (normalized.length === file.sizeBytes && sha256(normalized) === file.sha256) {
+    return normalized
+  }
+  return bytes
 }
 
 function validateFilterBook(book, fileName, rvBooks) {

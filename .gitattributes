@@ -1,0 +1,6 @@
+# Keep source and workflow files stable across Windows and Linux runners.
+* text=auto eol=lf
+
+# The signed Bible corpus is byte-pinned by its manifest. Never rewrite its
+# line endings during checkout on Windows or any other platform.
+bible-content/apps/mobile/assets/bibles/rv1909/books/*.json -text

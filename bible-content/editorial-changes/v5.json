@@ -1,0 +1,32 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 5,
+  "generatedAt": "2026-09-04T00:00:00.000Z",
+  "issuedAt": "2026-09-04T00:00:00.000Z",
+  "expiresAt": "2028-09-04T00:00:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "2KI",
+      "chapter": 3,
+      "verse": 21,
+      "expected": "desde todos los que ceñían talabarte arriba",
+      "previousReplacement": "desde los que apenas podían ceñir armadura en adelante",
+      "replacement": "desde todos los que tenían edad para portar armas en adelante",
+      "category": "context-reviewed-military-eligibility",
+      "reason": "El hebreo y la comparación con RVR1960 describen elegibilidad militar por edad. La redacción conserva todos y en adelante, elimina el arcaísmo talabarte y evita añadir apenas o convertirlo literalmente en armadura.",
+      "evidence": [
+        {
+          "label": "Comparación RV1909 y RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=2%20Reyes%203%3A21&version=RVR1960%3BRVA"
+        },
+        {
+          "label": "Texto hebreo",
+          "url": "https://biblehub.com/text/2_kings/3-21.htm"
+        }
+      ]
+    }
+  ]
+}

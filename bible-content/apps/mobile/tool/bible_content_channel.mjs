@@ -328,7 +328,8 @@ async function buildRv1909Artifact({ repoRoot, contentVersion }) {
   const bookHashes = new Map()
   for (const file of manifest.files) {
     const filePath = resolveContainedPath(rvRoot, file.path)
-    const bytes = await fs.readFile(filePath)
+    const checkoutBytes = await fs.readFile(filePath)
+    const bytes = canonicalCheckedOutBytes(checkoutBytes, file)
     assertEqual(bytes.length, file.sizeBytes, `RV1909 ${file.path} size`)
     assertEqual(sha256(bytes), file.sha256, `RV1909 ${file.path} hash`)
     const book = parseJson(bytes, file.path)
@@ -370,6 +371,15 @@ async function buildRv1909Artifact({ repoRoot, contentVersion }) {
     contentSha256: sha256(packageBytes),
     packageBytes,
   }
+}
+
+function canonicalCheckedOutBytes(bytes, file) {
+  if (bytes.length === file.sizeBytes && sha256(bytes) === file.sha256) return bytes
+  const normalized = Buffer.from(bytes.toString('utf8').replaceAll('\r\n', '\n'), 'utf8')
+  if (normalized.length === file.sizeBytes && sha256(normalized) === file.sha256) {
+    return normalized
+  }
+  return bytes
 }
 
 async function buildReading2026Artifact({

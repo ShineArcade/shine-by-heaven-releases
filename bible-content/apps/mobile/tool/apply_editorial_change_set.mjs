@@ -43,10 +43,7 @@ for (const [bookId, changes] of changesByBook) {
     'assets',
     'bible_direction',
   )
-  const directionName = (await fs.readdir(directionRoot)).find((name) =>
-    name.endsWith('_reading_2026.rv1909.v1.json') &&
-    name.toLowerCase().startsWith(bookNamePrefix(bookId)),
-  )
+  const directionName = await findDirectionName(directionRoot, bookId)
   assert(directionName, `direction file ${bookId}`)
   const corpus = await readJson(corpusPath)
   const directionPath = path.join(directionRoot, directionName)
@@ -67,6 +64,7 @@ for (const [bookId, changes] of changesByBook) {
       replacement: change.replacement,
       category: change.category,
       reason: change.reason,
+      ...(change.evidence === undefined ? {} : { evidence: change.evidence }),
     }
     let patch = direction.verses.find(
       (entry) => entry.chapter === change.chapter && entry.verse === change.verse,
@@ -87,11 +85,15 @@ for (const [bookId, changes] of changesByBook) {
         candidate.endOffset === edit.endOffset,
     )
     if (existing) {
-      assert(
-        existing.expected === edit.expected &&
-          existing.replacement === edit.replacement,
-        `conflicting edit ${bookId} ${change.chapter}:${change.verse}`,
-      )
+      assert(existing.expected === edit.expected, `conflicting expected text ${bookId} ${change.chapter}:${change.verse}`)
+      if (existing.replacement !== edit.replacement) {
+        assert(
+          typeof change.previousReplacement === 'string' &&
+            existing.replacement === change.previousReplacement,
+          `conflicting edit ${bookId} ${change.chapter}:${change.verse}`,
+        )
+      }
+      Object.assign(existing, edit)
       continue
     }
     patch.edits.push(edit)
@@ -156,9 +158,15 @@ console.log(JSON.stringify({
   books: [...changesByBook.keys()],
 }, null, 2))
 
-function bookNamePrefix(bookId) {
-  const names = { GEN: 'genesis_', MAT: 'matthew_', '1SA': 'first_samuel_' }
-  return names[bookId] ?? `${bookId.toLowerCase()}_`
+async function findDirectionName(directionRoot, bookId) {
+  const names = (await fs.readdir(directionRoot)).filter((name) =>
+    name.endsWith('_reading_2026.rv1909.v1.json'),
+  )
+  for (const name of names) {
+    const candidate = await readJson(path.join(directionRoot, name))
+    if (candidate.book === bookId) return name
+  }
+  return null
 }
 
 function expandChange(change) {
@@ -183,6 +191,20 @@ function validateChange(change) {
   assert(Number.isSafeInteger(change.verse) && change.verse > 0, 'verse')
   for (const field of ['expected', 'replacement', 'category', 'reason']) {
     assert(typeof change[field] === 'string' && change[field].length > 0, field)
+  }
+  if (change.previousReplacement !== undefined) {
+    assert(
+      typeof change.previousReplacement === 'string' && change.previousReplacement.length > 0,
+      'previousReplacement',
+    )
+  }
+  if (change.evidence !== undefined) {
+    assert(Array.isArray(change.evidence) && change.evidence.length > 0, 'evidence')
+    for (const item of change.evidence) {
+      assert(item && typeof item === 'object', 'evidence item')
+      assert(typeof item.label === 'string' && item.label.length > 0, 'evidence label')
+      assert(typeof item.url === 'string' && /^https:\/\//.test(item.url), 'evidence URL')
+    }
   }
 }
 

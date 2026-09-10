@@ -42,3 +42,7 @@ external theological or legal approval requirement.
 
 The filter preference remains local to each device. Updating content never
 turns the user's switch on or off.
+
+The exact consumer topology, publication gates and current KJV limitation are
+recorded in [`DISTRIBUTION_CONTRACT.md`](DISTRIBUTION_CONTRACT.md). Do not edit
+consumer-repository package copies as if they were separate editorial sources.

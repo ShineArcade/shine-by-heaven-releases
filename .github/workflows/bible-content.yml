@@ -42,6 +42,9 @@ jobs:
           node bible-content/apps/mobile/tool/build_reading_2026_package.mjs
           --package-only
 
+      - name: Smoke-test source, signing, package, reason, and evidence
+        run: node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs
+
       - name: Build signed public channel
         env:
           SHINE_BIBLE_CONTENT_SIGNING_PRIVATE_KEY_PEM: ${{ secrets.SHINE_BIBLE_CONTENT_SIGNING_PRIVATE_KEY_PEM }}

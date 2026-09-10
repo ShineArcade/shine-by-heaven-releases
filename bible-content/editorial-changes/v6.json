@@ -1,0 +1,234 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 6,
+  "generatedAt": "2026-09-09T00:00:00.000Z",
+  "issuedAt": "2026-09-09T00:00:00.000Z",
+  "expiresAt": "2028-09-09T00:00:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "PSA",
+      "chapter": 2,
+      "verse": 3,
+      "expected": "coyundas",
+      "replacement": "ataduras",
+      "category": "clear-archaic-restraint-lexicon",
+      "reason": "Coyundas designa aquí las ataduras o correas de sujeción que las naciones quieren romper. Los controles modernos convergen en ataduras, cadenas o yugo; se cambia solo el sustantivo y se conserva la imagen del dominio rechazado."
+    },
+    {
+      "book": "PSA",
+      "chapter": 58,
+      "verse": 7,
+      "expected": "en entesando sus saetas",
+      "replacement": "al tensar el arco para lanzar sus flechas",
+      "category": "context-reviewed-archery-phrase",
+      "reason": "Entesar las saetas es una construcción opaca que describe preparar el arco para disparar. Los controles conservan la misma escena de apuntar o disparar flechas; la petición posterior de que sean quebradas permanece intacta.",
+      "evidence": [
+        {
+          "label": "Comparación de Salmos 58:7",
+          "url": "https://www.biblegateway.com/passage/?search=Salmos%2058%3A7&version=RVR1960%3BRVA-2015"
+        }
+      ]
+    },
+    {
+      "book": "PSA",
+      "chapter": 69,
+      "verse": 12,
+      "expected": "me zaherían en las canciones",
+      "replacement": "se burlaban de mí en sus canciones",
+      "category": "context-reviewed-mockery-phrase",
+      "reason": "Zaherir significa insultar o burlarse de alguien. Los controles confirman que el salmista es objeto de canciones burlonas; se aclara la acción sin cambiar quién canta ni el contexto."
+    },
+    {
+      "book": "PSA",
+      "chapter": 83,
+      "verse": 10,
+      "expected": "muladar de la tierra",
+      "replacement": "estiércol para la tierra",
+      "category": "clear-archaic-refuse-phrase",
+      "reason": "Muladar significa montón de estiércol. La sustitución conserva la imagen deliberadamente fuerte del destino de los enemigos y evita que el lector confunda la palabra con un lugar desconocido."
+    },
+    {
+      "book": "PSA",
+      "chapter": 94,
+      "verse": 8,
+      "expected": "fatuos",
+      "replacement": "insensatos",
+      "category": "clear-archaic-foolishness-lexicon",
+      "reason": "Fatuos designa aquí a personas insensatas, no simplemente presumidas. Los controles usan necios, insensatos o equivalentes; cambia únicamente el vocativo."
+    },
+    {
+      "book": "PSA",
+      "chapter": 107,
+      "verse": 27,
+      "expected": "toda su ciencia es perdida",
+      "replacement": "de nada les sirve toda su pericia",
+      "category": "context-reviewed-seafaring-skill-phrase",
+      "reason": "Ciencia se refiere en este contexto a la pericia de los marineros durante la tormenta, no al conocimiento científico. Los controles confirman que su habilidad o destreza resulta inútil; se conserva el movimiento de los marineros descrito antes.",
+      "evidence": [
+        {
+          "label": "Comparación de Salmos 107:27",
+          "url": "https://www.biblegateway.com/passage/?search=Salmos%20107%3A27&version=RVR1960%3BRVA-2015"
+        }
+      ]
+    },
+    {
+      "book": "PSA",
+      "chapter": 139,
+      "verse": 6,
+      "expected": "la ciencia",
+      "replacement": "el conocimiento",
+      "category": "context-reviewed-knowledge-lexicon",
+      "reason": "Ciencia significa aquí el conocimiento maravilloso de Dios, no una disciplina científica. Los controles convergen en conocimiento o saber; se cambia el artículo junto con el sustantivo para conservar la gramática."
+    },
+    {
+      "book": "PRO",
+      "chapter": 1,
+      "verse": 21,
+      "expected": "los principales lugares de concurso",
+      "replacement": "los lugares más concurridos",
+      "category": "context-reviewed-public-place-phrase",
+      "reason": "Concurso significa aquí concurrencia o reunión de personas, no competencia. Los controles sitúan la voz de la sabiduría en lugares transitados o en medio del tumulto; se conserva la proclamación pública."
+    },
+    {
+      "book": "PRO",
+      "chapter": 1,
+      "verse": 21,
+      "expected": "dice sus razones",
+      "replacement": "proclama sus palabras",
+      "category": "context-reviewed-proclamation-phrase",
+      "reason": "Decir sus razones significa pronunciar públicamente su mensaje. Los controles usan proclamar, anunciar o explicar; la sustitución aclara la acción sin ampliar su contenido."
+    },
+    {
+      "book": "PRO",
+      "chapter": 1,
+      "verse": 22,
+      "expected": "simples",
+      "replacement": "ingenuos",
+      "category": "context-reviewed-inexperience-lexicon",
+      "reason": "Simples designa aquí a quienes carecen de experiencia y discernimiento, no a personas sencillas en sentido positivo. Los controles convergen en ingenuos, inexpertos o insensatos; se conserva el grupo al que habla la sabiduría."
+    },
+    {
+      "book": "PRO",
+      "chapter": 1,
+      "verse": 22,
+      "expected": "simpleza",
+      "replacement": "ingenuidad",
+      "category": "context-reviewed-inexperience-lexicon",
+      "reason": "Simpleza es la falta de experiencia o discernimiento amada por los ingenuos. Ingenuidad mantiene la relación con el sustantivo anterior y evita que se entienda como facilidad o sencillez."
+    },
+    {
+      "book": "PRO",
+      "chapter": 1,
+      "verse": 22,
+      "expected": "la ciencia",
+      "replacement": "el conocimiento",
+      "category": "context-reviewed-knowledge-lexicon",
+      "reason": "Ciencia significa aquí conocimiento o saber moral, no una disciplina científica. Los controles convergen en conocimiento o saber; se cambia también el artículo para conservar la concordancia."
+    },
+    {
+      "book": "PRO",
+      "chapter": 1,
+      "verse": 28,
+      "expected": "buscarme han de mañana",
+      "replacement": "me buscarán con diligencia",
+      "category": "context-reviewed-diligent-search-phrase",
+      "reason": "Buscar de mañana expresa buscar con empeño o diligencia, no limitar la búsqueda a una hora del día. La forma verbal separada es además arcaica; la unidad moderna conserva sujeto, acción y resultado.",
+      "evidence": [
+        {
+          "label": "Comparación de Proverbios 1:28",
+          "url": "https://www.biblegateway.com/passage/?search=Proverbios%201%3A28&version=RVR1960%3BRVA-2015"
+        }
+      ]
+    },
+    {
+      "book": "PRO",
+      "chapter": 3,
+      "verse": 10,
+      "expected": "trojes",
+      "replacement": "graneros",
+      "category": "clear-archaic-storage-lexicon",
+      "reason": "Trojes son depósitos o graneros para productos agrícolas. Los controles convergen en graneros; se cambia solo el sustantivo."
+    },
+    {
+      "book": "PRO",
+      "chapter": 3,
+      "verse": 10,
+      "expected": "mosto",
+      "replacement": "vino nuevo",
+      "category": "context-reviewed-produce-lexicon",
+      "reason": "Mosto designa aquí el vino nuevo que rebosa de los lagares. Los controles modernos confirman vino o vino nuevo; la sustitución mantiene la imagen de abundancia agrícola."
+    },
+    {
+      "book": "PRO",
+      "chapter": 8,
+      "verse": 30,
+      "expected": "teniendo solaz",
+      "replacement": "regocijándome",
+      "category": "context-reviewed-delight-phrase",
+      "reason": "Tener solaz significa deleitarse o regocijarse. La forma moderna conserva la alegría continua expresada por la sabiduría ante Dios."
+    },
+    {
+      "book": "PRO",
+      "chapter": 12,
+      "verse": 24,
+      "expected": "será tributaria",
+      "replacement": "será sometida a trabajos forzados",
+      "category": "context-reviewed-forced-labor-phrase",
+      "reason": "Ser tributaria significa aquí quedar sometida a trabajo forzado, no solamente pagar un impuesto. Los controles explicativos confirman el contraste entre gobernar y servir; se cambia solo la consecuencia de la negligencia.",
+      "evidence": [
+        {
+          "label": "Comparación de Proverbios 12:24",
+          "url": "https://www.biblegateway.com/passage/?search=Proverbios%2012%3A24&version=RVR1960%3BRVA-2015"
+        }
+      ]
+    },
+    {
+      "book": "PRO",
+      "chapter": 17,
+      "verse": 12,
+      "expected": "fatuo",
+      "replacement": "necio",
+      "category": "clear-archaic-foolishness-lexicon",
+      "reason": "Fatuo designa aquí al necio en su necedad. Los controles coinciden en necio o un equivalente directo; cambia un solo sustantivo."
+    },
+    {
+      "book": "PRO",
+      "chapter": 18,
+      "verse": 13,
+      "expected": "fatuidad",
+      "replacement": "necedad",
+      "category": "clear-archaic-foolishness-lexicon",
+      "reason": "Fatuidad significa necedad en la respuesta dada antes de escuchar. Los controles modernos convergen en necedad o insensatez; se conserva la vergüenza que acompaña la acción."
+    },
+    {
+      "book": "PRO",
+      "chapter": 19,
+      "verse": 1,
+      "expected": "fatuo",
+      "replacement": "necio",
+      "category": "clear-archaic-foolishness-lexicon",
+      "reason": "Fatuo designa aquí a una persona necia. Los controles coinciden en necio o equivalente; no se cambia el contraste con el pobre íntegro."
+    },
+    {
+      "book": "PRO",
+      "chapter": 22,
+      "verse": 7,
+      "expected": "empresta",
+      "replacement": "presta",
+      "category": "clear-archaic-lending-lexicon",
+      "reason": "Emprestar es la forma antigua de prestar. Se moderniza únicamente el verbo y se conserva la relación entre deudor y prestamista."
+    },
+    {
+      "book": "PRO",
+      "chapter": 24,
+      "verse": 4,
+      "expected": "henchirán",
+      "replacement": "llenarán",
+      "category": "clear-archaic-fill-lexicon",
+      "reason": "Henchir significa llenar. Los controles confirman la misma acción sobre las habitaciones; se conserva el tiempo verbal."
+    }
+  ]
+}

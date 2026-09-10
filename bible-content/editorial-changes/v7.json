@@ -1,0 +1,113 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 7,
+  "generatedAt": "2026-09-09T00:00:00.000Z",
+  "issuedAt": "2026-09-09T00:00:00.000Z",
+  "expiresAt": "2028-09-09T00:00:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "GEN",
+      "chapter": 3,
+      "verse": 15,
+      "expected": "calcañar",
+      "replacement": "talón",
+      "category": "clear-archaic-body-lexicon",
+      "reason": "Calcañar significa talón. Los controles modernos coinciden en la parte del cuerpo y se cambia únicamente el sustantivo."
+    },
+    {
+      "book": "GEN",
+      "chapter": 27,
+      "verse": 3,
+      "expected": "aljaba",
+      "replacement": "bolsa para las flechas",
+      "category": "clear-archaic-archery-lexicon",
+      "reason": "Aljaba es el recipiente donde se llevan las flechas. La frase descriptiva evita sustituirla por otro tecnicismo poco conocido y conserva por separado el arco mencionado en el texto."
+    },
+    {
+      "book": "DEU",
+      "references": [
+        {"chapter": 21, "verse": 18},
+        {"chapter": 21, "verse": 20}
+      ],
+      "expected": "contumaz",
+      "replacement": "obstinado",
+      "category": "clear-archaic-stubbornness-lexicon",
+      "reason": "Contumaz significa obstinado o persistentemente desobediente. Los controles conservan ese rasgo junto con rebelde; ambas apariciones se declaran de forma explícita."
+    },
+    {
+      "book": "1SA",
+      "chapter": 4,
+      "verse": 18,
+      "expected": "cerviz",
+      "replacement": "nuca",
+      "category": "context-reviewed-body-lexicon",
+      "reason": "Cerviz designa aquí la nuca que Elí se quebró al caer. Los controles modernos convergen en nuca; no se aplica esta sustitución globalmente a los usos figurados de cerviz."
+    },
+    {
+      "book": "1SA",
+      "chapter": 17,
+      "verse": 40,
+      "expected": "zurrón",
+      "replacement": "bolsa",
+      "category": "clear-archaic-container-lexicon",
+      "reason": "Zurrón es una bolsa de pastor. El texto ya identifica el saco como pastoril, de modo que bolsa aclara el recipiente sin añadir información."
+    },
+    {
+      "book": "1CH",
+      "chapter": 29,
+      "verse": 15,
+      "expected": "advenedizos",
+      "replacement": "forasteros",
+      "category": "clear-archaic-residence-lexicon",
+      "reason": "Advenedizos designa aquí a quienes residen temporalmente como forasteros. Los controles convergen en forasteros o residentes temporales; se conserva el paralelo con extranjeros."
+    },
+    {
+      "book": "1PE",
+      "chapter": 4,
+      "verse": 3,
+      "expected": "lascivias",
+      "replacement": "conductas desenfrenadas",
+      "category": "context-reviewed-conduct-lexicon",
+      "reason": "Lascivias describe aquí una conducta sensual desenfrenada. Los controles usan sensualidad, desenfreno o inmoralidad; la expresión elegida aclara la conducta sin reducirla a un solo acto."
+    },
+    {
+      "book": "1PE",
+      "chapter": 5,
+      "verse": 2,
+      "expected": "Apacentad la grey",
+      "replacement": "Pastoreen el rebaño",
+      "category": "context-reviewed-pastoral-phrase",
+      "reason": "Apacentar la grey significa cuidar y pastorear el rebaño. La metáfora pastoral se conserva completa y la forma verbal se expresa en español actual."
+    },
+    {
+      "book": "1TH",
+      "chapter": 2,
+      "verse": 2,
+      "expected": "tuvimos denuedo",
+      "replacement": "tuvimos valor",
+      "category": "clear-archaic-courage-phrase",
+      "reason": "Denuedo significa valor o valentía. Los controles confirman la confianza para anunciar el evangelio pese a la oposición; se cambia solo la expresión opaca."
+    },
+    {
+      "book": "ECC",
+      "chapter": 4,
+      "verse": 13,
+      "expected": "fatuo",
+      "replacement": "insensato",
+      "category": "clear-archaic-foolishness-lexicon",
+      "reason": "Fatuo designa al rey insensato que ya no acepta consejo. Los controles convergen en insensato, necio o equivalente; cambia un solo adjetivo."
+    },
+    {
+      "book": "EPH",
+      "chapter": 2,
+      "verse": 19,
+      "expected": "advenedizos",
+      "replacement": "forasteros",
+      "category": "clear-archaic-residence-lexicon",
+      "reason": "Advenedizos significa forasteros o residentes sin ciudadanía. Los controles convergen en forasteros; se conserva el contraste con conciudadanos y miembros de la casa de Dios."
+    }
+  ]
+}
