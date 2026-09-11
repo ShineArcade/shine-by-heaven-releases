@@ -18,18 +18,23 @@ The generated book files still record every resulting offset separately.
 ## Update flow
 
 1. Add a monotonic `editorial-changes/vN.json` change set.
-2. Apply it locally with:
+2. Record every deferred term in `editorial-review/registry.json` with its
+   status, scope, proposed options, reason, references, and evidence. Applied
+   entries remain traceable through the active change set category and reason.
+3. Run the registry validator and the complete smoke flow. A content version
+   is not releasable when either check fails.
+4. Apply it locally with:
 
    `node apps/mobile/tool/apply_editorial_change_set.mjs`
 
-3. Build the filter with:
+5. Build the filter with:
 
    `node apps/mobile/tool/build_reading_2026_package.mjs --package-only`
 
-4. Push the reviewed source to `main`.
-5. GitHub Actions verifies and publishes `channel/channel-stable.json`, the
+6. Push the reviewed source to `main`.
+7. GitHub Actions verifies and publishes `channel/channel-stable.json`, the
    versioned artifacts and immutable release `bible-content-vN`.
-6. Website, Mobile and Desktop compare `contentVersion`, validate the package
+8. Website, Mobile and Desktop compare `contentVersion`, validate the package
    and retain their last known valid copy if anything fails.
 
 The Ed25519 signature is an integrity mechanism. It prevents a modified or

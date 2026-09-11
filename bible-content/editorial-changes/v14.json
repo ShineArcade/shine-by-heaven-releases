@@ -1,0 +1,546 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 14,
+  "generatedAt": "2026-09-10T00:00:00.000Z",
+  "issuedAt": "2026-09-10T00:00:00.000Z",
+  "expiresAt": "2028-09-10T00:00:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "1CO",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 40
+        },
+        {
+          "chapter": 16,
+          "verse": 8
+        }
+      ],
+      "expected": "Empero",
+      "replacement": "Pero",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "1CO",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 26
+        },
+        {
+          "chapter": 15,
+          "verse": 45
+        }
+      ],
+      "expected": "postrer",
+      "replacement": "último",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "2CO",
+      "references": [
+        {
+          "chapter": 13,
+          "verse": 4
+        }
+      ],
+      "expected": "empero",
+      "replacement": "pero",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "2PE",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 10
+        }
+      ],
+      "expected": "contumaces",
+      "replacement": "rebeldes",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "2TI",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 2
+        }
+      ],
+      "expected": "detractores",
+      "replacement": "difamadores",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "2TI",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 14
+        }
+      ],
+      "expected": "Empero",
+      "replacement": "Pero",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "3JN",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 13
+        }
+      ],
+      "expected": "empero",
+      "replacement": "pero",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "ACT",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 17
+        }
+      ],
+      "expected": "postreros",
+      "replacement": "últimos",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "ACT",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 18
+        }
+      ],
+      "expected": "Empero",
+      "replacement": "Pero",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "GAL",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 24
+        },
+        {
+          "chapter": 3,
+          "verse": 25
+        }
+      ],
+      "expected": "ayo",
+      "replacement": "tutor",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "HEB",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 2
+        }
+      ],
+      "expected": "postreros",
+      "replacement": "últimos",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "HEB",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 12
+        },
+        {
+          "chapter": 2,
+          "verse": 6
+        },
+        {
+          "chapter": 9,
+          "verse": 1
+        }
+      ],
+      "expected": "empero",
+      "replacement": "pero",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "JAS",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 3
+        }
+      ],
+      "expected": "postreros",
+      "replacement": "últimos",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "JHN",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 37
+        }
+      ],
+      "expected": "postrer",
+      "replacement": "último",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "JHN",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 41
+        },
+        {
+          "chapter": 20,
+          "verse": 31
+        }
+      ],
+      "expected": "empero",
+      "replacement": "pero",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "JUD",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 18
+        }
+      ],
+      "expected": "postrer",
+      "replacement": "último",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "LUK",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 10
+        }
+      ],
+      "expected": "postrer",
+      "replacement": "último",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "MRK",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 13
+        },
+        {
+          "chapter": 13,
+          "verse": 32
+        }
+      ],
+      "expected": "Empero",
+      "replacement": "Pero",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "PHP",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 24
+        }
+      ],
+      "expected": "Empero",
+      "replacement": "Pero",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "ROM",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 13
+        }
+      ],
+      "expected": "empero",
+      "replacement": "pero",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "ROM",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 30
+        }
+      ],
+      "expected": "detractores",
+      "replacement": "difamadores",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "TIT",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 6
+        },
+        {
+          "chapter": 1,
+          "verse": 10
+        }
+      ],
+      "expected": "contumaces",
+      "replacement": "rebeldes",
+      "category": "context-reviewed-clear-new-testament-lexicon",
+      "reason": "RVR1960 y NVI confirman el sentido actual en estas referencias. El ajuste reemplaza una forma arcaica sin alterar sujeto, acción ni enseñanza."
+    },
+    {
+      "book": "2TI",
+      "chapter": 3,
+      "verse": 3,
+      "expected": "aborrecedores de lo bueno",
+      "replacement": "enemigos de lo bueno",
+      "category": "clear-character-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "2TI",
+      "chapter": 3,
+      "verse": 16,
+      "expected": "redargüir",
+      "replacement": "reprender",
+      "category": "context-reviewed-teaching-verb",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "2TI",
+      "chapter": 4,
+      "verse": 2,
+      "expected": "redarguye",
+      "replacement": "corrige",
+      "category": "context-reviewed-teaching-verb",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "JHN",
+      "chapter": 8,
+      "verse": 46,
+      "expected": "me redarguye de pecado",
+      "replacement": "demuestra que he pecado",
+      "category": "context-reviewed-proof-phrase",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "JAS",
+      "chapter": 1,
+      "verse": 15,
+      "expected": "pare el pecado",
+      "replacement": "da a luz el pecado",
+      "category": "context-reviewed-birth-metaphor",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "JAS",
+      "chapter": 1,
+      "verse": 21,
+      "expected": "palabra ingerida",
+      "replacement": "palabra implantada",
+      "category": "context-reviewed-implanted-word",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "ROM",
+      "chapter": 1,
+      "verse": 27,
+      "expected": "cosas nefandas",
+      "replacement": "actos vergonzosos",
+      "category": "clear-archaic-moral-phrase",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "ROM",
+      "chapter": 1,
+      "verse": 29,
+      "expected": "Estando atestados",
+      "replacement": "Estando llenos",
+      "category": "clear-archaic-fullness-phrase",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "EPH",
+      "chapter": 5,
+      "verse": 18,
+      "expected": "disolución",
+      "replacement": "desenfreno",
+      "category": "context-reviewed-dissipation-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "GAL",
+      "chapter": 5,
+      "verse": 19,
+      "expected": "disolución",
+      "replacement": "libertinaje",
+      "category": "context-reviewed-dissipation-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "expected": "disolución",
+      "replacement": "libertinaje",
+      "category": "context-reviewed-dissipation-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "JUD",
+      "chapter": 1,
+      "verse": 4,
+      "expected": "disolución",
+      "replacement": "libertinaje",
+      "category": "context-reviewed-dissipation-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "1PE",
+      "chapter": 4,
+      "verse": 4,
+      "expected": "desenfrenamiento de disolución",
+      "replacement": "desenfreno",
+      "category": "context-reviewed-dissipation-phrase",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "2PE",
+      "chapter": 2,
+      "verse": 18,
+      "expected": "disoluciones",
+      "replacement": "conductas desenfrenadas",
+      "category": "context-reviewed-dissipation-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "2TI",
+      "chapter": 1,
+      "verse": 7,
+      "expected": "templanza",
+      "replacement": "dominio propio",
+      "category": "context-reviewed-self-control-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "GAL",
+      "chapter": 5,
+      "verse": 23,
+      "expected": "templanza",
+      "replacement": "dominio propio",
+      "category": "context-reviewed-self-control-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "ACT",
+      "chapter": 26,
+      "verse": 25,
+      "expected": "templanza",
+      "replacement": "cordura",
+      "category": "context-reviewed-soundness-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "ROM",
+      "chapter": 12,
+      "verse": 3,
+      "expected": "templanza",
+      "replacement": "sensatez",
+      "category": "context-reviewed-sober-judgment-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "1PE",
+      "chapter": 1,
+      "verse": 13,
+      "expected": "con templanza",
+      "replacement": "con sobriedad",
+      "category": "context-reviewed-sobriety-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "2PE",
+      "chapter": 1,
+      "verse": 6,
+      "expected": "Y en la ciencia templanza, y en la templanza paciencia",
+      "replacement": "Y al conocimiento dominio propio, y al dominio propio paciencia",
+      "category": "context-reviewed-self-control-phrase",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "HEB",
+      "chapter": 5,
+      "verse": 12,
+      "expected": "primeros rudimentos",
+      "replacement": "principios básicos",
+      "category": "clear-foundational-lexicon",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "COL",
+      "chapter": 2,
+      "verse": 20,
+      "expected": "rudimentos del mundo",
+      "replacement": "principios del mundo",
+      "category": "context-reviewed-world-principles",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "GAL",
+      "chapter": 4,
+      "verse": 3,
+      "expected": "rudimentos del mundo",
+      "replacement": "principios del mundo",
+      "category": "context-reviewed-world-principles",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    },
+    {
+      "book": "GAL",
+      "chapter": 4,
+      "verse": 9,
+      "expected": "rudimentos",
+      "replacement": "principios",
+      "category": "context-reviewed-world-principles",
+      "reason": "El contexto completo fue contrastado con RVR1960 y NVI. Se conserva el significado de la frase y se elimina una construcción que interrumpe la lectura actual."
+    }
+  ]
+}

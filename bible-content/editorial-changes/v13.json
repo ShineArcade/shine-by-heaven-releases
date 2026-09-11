@@ -1,0 +1,463 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 13,
+  "generatedAt": "2026-09-10T00:00:00.000Z",
+  "issuedAt": "2026-09-10T00:00:00.000Z",
+  "expiresAt": "2028-09-10T00:00:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "1SA",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 8
+        }
+      ],
+      "expected": "menesteroso",
+      "replacement": "necesitado",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "AMO",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 1
+        },
+        {
+          "chapter": 8,
+          "verse": 4
+        }
+      ],
+      "expected": "menesterosos",
+      "replacement": "necesitados",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "DEU",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 7
+        },
+        {
+          "chapter": 15,
+          "verse": 9
+        },
+        {
+          "chapter": 15,
+          "verse": 11
+        },
+        {
+          "chapter": 24,
+          "verse": 14
+        }
+      ],
+      "expected": "menesteroso",
+      "replacement": "necesitado",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "DEU",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 11
+        }
+      ],
+      "expected": "menesterosos",
+      "replacement": "necesitados",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 16,
+          "verse": 49
+        },
+        {
+          "chapter": 18,
+          "verse": 12
+        },
+        {
+          "chapter": 22,
+          "verse": 29
+        }
+      ],
+      "expected": "menesteroso",
+      "replacement": "necesitado",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "ISA",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 30
+        },
+        {
+          "chapter": 26,
+          "verse": 6
+        },
+        {
+          "chapter": 41,
+          "verse": 17
+        }
+      ],
+      "expected": "menesterosos",
+      "replacement": "necesitados",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "ISA",
+      "references": [
+        {
+          "chapter": 25,
+          "verse": 4
+        }
+      ],
+      "expected": "menesteroso",
+      "replacement": "necesitado",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 13
+        },
+        {
+          "chapter": 13,
+          "verse": 26
+        }
+      ],
+      "expected": "ignominia",
+      "replacement": "deshonra",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 22,
+          "verse": 16
+        }
+      ],
+      "expected": "menesteroso",
+      "replacement": "necesitado",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "JOB",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 16
+        },
+        {
+          "chapter": 30,
+          "verse": 25
+        },
+        {
+          "chapter": 31,
+          "verse": 19
+        }
+      ],
+      "expected": "menesteroso",
+      "replacement": "necesitado",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "JOB",
+      "references": [
+        {
+          "chapter": 24,
+          "verse": 4
+        },
+        {
+          "chapter": 29,
+          "verse": 16
+        }
+      ],
+      "expected": "menesterosos",
+      "replacement": "necesitados",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "PRO",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 35
+        }
+      ],
+      "expected": "ignominia",
+      "replacement": "deshonra",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "PRO",
+      "references": [
+        {
+          "chapter": 30,
+          "verse": 14
+        }
+      ],
+      "expected": "menesterosos",
+      "replacement": "necesitados",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "PRO",
+      "references": [
+        {
+          "chapter": 31,
+          "verse": 9
+        },
+        {
+          "chapter": 31,
+          "verse": 20
+        }
+      ],
+      "expected": "menesteroso",
+      "replacement": "necesitado",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 5
+        },
+        {
+          "chapter": 69,
+          "verse": 33
+        },
+        {
+          "chapter": 140,
+          "verse": 12
+        }
+      ],
+      "expected": "menesterosos",
+      "replacement": "necesitados",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 35,
+          "verse": 10
+        },
+        {
+          "chapter": 37,
+          "verse": 14
+        },
+        {
+          "chapter": 70,
+          "verse": 5
+        },
+        {
+          "chapter": 72,
+          "verse": 4
+        },
+        {
+          "chapter": 72,
+          "verse": 12
+        },
+        {
+          "chapter": 72,
+          "verse": 13
+        },
+        {
+          "chapter": 74,
+          "verse": 21
+        },
+        {
+          "chapter": 82,
+          "verse": 3
+        },
+        {
+          "chapter": 86,
+          "verse": 1
+        },
+        {
+          "chapter": 88,
+          "verse": 15
+        },
+        {
+          "chapter": 109,
+          "verse": 16
+        },
+        {
+          "chapter": 113,
+          "verse": 7
+        }
+      ],
+      "expected": "menesteroso",
+      "replacement": "necesitado",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 109,
+          "verse": 29
+        }
+      ],
+      "expected": "ignominia",
+      "replacement": "deshonra",
+      "category": "context-reviewed-clear-old-testament-lexicon",
+      "reason": "RVR1960 conserva el término histórico y NVI confirma por contexto el sentido actual. La sustitución aclara la lectura sin cambiar la persona, acción ni relación del pasaje."
+    },
+    {
+      "book": "GEN",
+      "chapter": 17,
+      "verse": 20,
+      "expected": "ponerlo he",
+      "replacement": "lo pondré",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "GEN",
+      "chapter": 18,
+      "verse": 21,
+      "expected": "saberlo he",
+      "replacement": "lo sabré",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "EZK",
+      "chapter": 11,
+      "verse": 19,
+      "expected": "darles he",
+      "replacement": "les daré",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "EZK",
+      "chapter": 17,
+      "verse": 20,
+      "expected": "hacerlo he venir",
+      "replacement": "lo haré venir",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "EZK",
+      "chapter": 17,
+      "verse": 22,
+      "expected": "plantarlo he yo",
+      "replacement": "yo lo plantaré",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "HOS",
+      "chapter": 7,
+      "verse": 12,
+      "expected": "hacerlos he caer",
+      "replacement": "los haré caer",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "JER",
+      "chapter": 16,
+      "verse": 21,
+      "expected": "enseñarles he",
+      "replacement": "les enseñaré",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "JER",
+      "chapter": 51,
+      "verse": 40,
+      "expected": "Hacerlos he traer",
+      "replacement": "Los haré traer",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "NEH",
+      "chapter": 1,
+      "verse": 9,
+      "expected": "traerlos he",
+      "replacement": "los traeré",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "NUM",
+      "chapter": 16,
+      "verse": 21,
+      "expected": "consumirlos he",
+      "replacement": "los consumiré",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "PRO",
+      "chapter": 13,
+      "verse": 10,
+      "expected": "avisados",
+      "replacement": "prudentes",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "PRO",
+      "chapter": 14,
+      "verse": 15,
+      "expected": "avisado",
+      "replacement": "prudente",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "PRO",
+      "chapter": 22,
+      "verse": 3,
+      "expected": "avisado",
+      "replacement": "prudente",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    },
+    {
+      "book": "PRO",
+      "chapter": 27,
+      "verse": 12,
+      "expected": "avisado",
+      "replacement": "prudente",
+      "category": "context-reviewed-old-testament-syntax",
+      "reason": "Se reorganiza la construcción futura antigua según el español actual. RVR1960 y NVI confirman la misma acción y el mismo objeto; no se copia su redacción completa."
+    }
+  ]
+}

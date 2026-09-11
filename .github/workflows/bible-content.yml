@@ -9,6 +9,7 @@ on:
       - "bible-content/apps/mobile/tool/**"
       - "bible-content/contracts/**"
       - "bible-content/editorial-changes/**"
+      - "bible-content/editorial-review/**"
       - "bible-content/trust/**"
       - ".github/workflows/bible-content.yml"
   workflow_dispatch:
@@ -36,6 +37,9 @@ jobs:
 
       - name: Apply latest audited editorial change set
         run: node bible-content/apps/mobile/tool/apply_editorial_change_set.mjs
+
+      - name: Validate mandatory applied and pending editorial registry
+        run: node bible-content/apps/mobile/tool/validate_editorial_review_registry.mjs
 
       - name: Build deterministic Lectura 2026 package
         run: >-

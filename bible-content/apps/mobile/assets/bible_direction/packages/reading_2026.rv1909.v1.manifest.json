@@ -2,12 +2,12 @@
   "format": "shine-reading-filter-manifest",
   "filterId": "RV1909-LECTURA-2026",
   "schemaVersion": 1,
-  "contentVersion": 12,
+  "contentVersion": 14,
   "sourceVersionId": "RV1909",
   "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-  "contentSha256": "06ab75a4db5ad131e7ecf508c418aea8044c1731019993771026a073c9b82024",
-  "sizeBytes": 456235,
-  "expandedSizeBytes": 2194606,
+  "contentSha256": "290ef8460c0375b38d30979049e53b8d78315ab8c3327163cc38450ac946a580",
+  "sizeBytes": 465734,
+  "expandedSizeBytes": 2244969,
   "mimeType": "application/vnd.shine.reading-filter+gzip",
   "generatedAt": "2026-09-10T00:00:00.000Z",
   "editorialPolicy": {
@@ -18,8 +18,8 @@
   "coverage": {
     "expectedBookCount": 66,
     "includedBookCount": 66,
-    "changedVerseCount": 4988,
-    "editCount": 5978
+    "changedVerseCount": 5087,
+    "editCount": 6089
   },
   "books": [
     {
@@ -27,9 +27,9 @@
       "order": 1,
       "sourceFile": "genesis_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "be1ef478f6c4f4c7e774aa1a01148f46f0a1b93bd0a1f176c8f519ba771be32e",
-      "payloadSha256": "3d1e77ed572a9c1311d2d8ef8363693ed8bc6652931ab0eeb4c1fbd5194ef218",
-      "changedVerseCount": 328,
-      "editCount": 405
+      "payloadSha256": "9396f1233a6118bc18f730c1efa64fe8f18dfdb2527d7c3c7687d489d263262c",
+      "changedVerseCount": 330,
+      "editCount": 407
     },
     {
       "id": "EXO",
@@ -54,18 +54,18 @@
       "order": 4,
       "sourceFile": "numbers_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "58f3156c9863480ff7854beb0d3718ee4f24dd778b6c8bbe78c7af7b3ad04283",
-      "payloadSha256": "efa33cb1a37e68c225113d95077dfec082fd00f6ae10b1c9db6c0727675760c3",
-      "changedVerseCount": 76,
-      "editCount": 87
+      "payloadSha256": "db756ff6fba6e08038b4febb5e4cdd5d91bc9d9fcb4a08c3861048ae10e42601",
+      "changedVerseCount": 77,
+      "editCount": 88
     },
     {
       "id": "DEU",
       "order": 5,
       "sourceFile": "deuteronomy_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "1731b52c3508e8857057cb969c1d88bf18c19b060dffc68a87c1c09a095a74fd",
-      "payloadSha256": "651e7844871c7974d29158139ade6be79a8ed1de04785f873863059c89fc61f8",
-      "changedVerseCount": 174,
-      "editCount": 203
+      "payloadSha256": "d52d236104dc92f3a3cc17c9c2daeefebe0e15ff2938f1a852f12af8e57f0869",
+      "changedVerseCount": 178,
+      "editCount": 208
     },
     {
       "id": "JOS",
@@ -99,9 +99,9 @@
       "order": 9,
       "sourceFile": "first_samuel_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "d824fd6e3dda890c9d81bf58d1330d46490a636f0f511958f5698f0664e04ca2",
-      "payloadSha256": "88f80b00ac9d83197ff629658b605e03d28175ecfd63fd8b77015a814d41b61a",
-      "changedVerseCount": 335,
-      "editCount": 456
+      "payloadSha256": "8ac65879671eaa1b6815539368ed916843c3299e087c439cfd5119290903fe3a",
+      "changedVerseCount": 336,
+      "editCount": 457
     },
     {
       "id": "2SA",
@@ -162,9 +162,9 @@
       "order": 16,
       "sourceFile": "nehemiah_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "2235fc907b2ab69547f6470906d94faf733c615f37412993b96fec682a3a74e1",
-      "payloadSha256": "12b32b98b0aaf62694291bb1e1ee73d5cecb36b089147f3bbb1348e25105ed00",
+      "payloadSha256": "d3c1b206e35fc54c32be4b0095a88999b462e5ab730e0c6f2e4bab2e3062c8db",
       "changedVerseCount": 46,
-      "editCount": 51
+      "editCount": 52
     },
     {
       "id": "EST",
@@ -180,27 +180,27 @@
       "order": 18,
       "sourceFile": "job_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "3f00c73fe247ca5b86ea7214898fef5ccce7cd05dee890877cf7a2f761b1b07d",
-      "payloadSha256": "a96f61a34374c65f18d9d17d05c484c7dc8a69d59b1c25524f30d12900a3938e",
-      "changedVerseCount": 63,
-      "editCount": 67
+      "payloadSha256": "707d4291831da8d2f68ee06de902137c883f654b243f9f0d9e2196d15f3a89f4",
+      "changedVerseCount": 68,
+      "editCount": 72
     },
     {
       "id": "PSA",
       "order": 19,
       "sourceFile": "psalms_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "051d3089ed190b848bf7cace7114e2ec8cfd93079ee9393c4d556a199d012580",
-      "payloadSha256": "648911c319f05720da21b309d0b06f6fe0cf7dc97655f1ee6556982118f5f238",
-      "changedVerseCount": 137,
-      "editCount": 143
+      "payloadSha256": "df04f194f0f80cfcb061b97b2392a3488c75cac3a3df33eb36e2665b65dcb8c7",
+      "changedVerseCount": 152,
+      "editCount": 159
     },
     {
       "id": "PRO",
       "order": 20,
       "sourceFile": "proverbs_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "127ca3b34aa1d111729a8abbb600ff2c1ef34bd12809e4853833cddeda441c73",
-      "payloadSha256": "621e569ad8d9f5e32ba8ed3114a4d1f556f003cf68a04182377e0a1e33dc3cc4",
-      "changedVerseCount": 43,
-      "editCount": 48
+      "payloadSha256": "616f7310a6b56cd90ea634103bb8d591ab00ca7681c24fb75ba1dc67a019e9ed",
+      "changedVerseCount": 51,
+      "editCount": 56
     },
     {
       "id": "ECC",
@@ -225,18 +225,18 @@
       "order": 23,
       "sourceFile": "isaiah_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "f3b0baba3720cf9edae539eb4f5dd5f8a949a528abb3abf023d8fc5fc82965e6",
-      "payloadSha256": "e9d7793cb624fb2329ca1cbef96dbaaef0b56e6b4fd886ecf19f8e9c49bb0a35",
-      "changedVerseCount": 36,
-      "editCount": 41
+      "payloadSha256": "e3b6d1a3d3e56d7c2b645d22f464a71e27e97159ab326584cd4af9e011b01963",
+      "changedVerseCount": 39,
+      "editCount": 45
     },
     {
       "id": "JER",
       "order": 24,
       "sourceFile": "jeremiah_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "477e0085d7e45d1c1756b471dc1b85e4b6129f12e9af7a719ab9b1e6f8b62cbc",
-      "payloadSha256": "f9854c8b2ed375c4d72e938e3d469156136c463407ba407642351089137c0442",
-      "changedVerseCount": 72,
-      "editCount": 79
+      "payloadSha256": "b73069b4d1f8a40f6b5e5fcdba7a003700ec05fe341f704e2b9caf176cd2a019",
+      "changedVerseCount": 77,
+      "editCount": 84
     },
     {
       "id": "LAM",
@@ -252,9 +252,9 @@
       "order": 26,
       "sourceFile": "ezekiel_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "45f044edbc3c7a36d33fcc04ebbca341a9a9ceb2124f9caf27340961f76fd01b",
-      "payloadSha256": "a62588ee33f5c7fedb2229e2c5bc23da5526b0ba90fd2aa92a25441cef10fd4e",
-      "changedVerseCount": 45,
-      "editCount": 55
+      "payloadSha256": "092e5cef7ae1e3e93fb145c1001779d69032c3239dc535ac9b5201dbfd1d3f70",
+      "changedVerseCount": 51,
+      "editCount": 61
     },
     {
       "id": "DAN",
@@ -270,9 +270,9 @@
       "order": 28,
       "sourceFile": "hosea_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "cdc78cfe689237a0689910c768f29a1c23f60f88c81c3f8c7a30b2b419224883",
-      "payloadSha256": "2d69ec4257d6aa2a2f7055c78205ff1f4fb2071c9102af51d443e9b820ef2ba3",
-      "changedVerseCount": 10,
-      "editCount": 11
+      "payloadSha256": "1d175fdf8825509eb6bbc31170c5f9b1333fdebb53c87d70b4ef88a3dfbc8cbe",
+      "changedVerseCount": 11,
+      "editCount": 12
     },
     {
       "id": "JOL",
@@ -288,9 +288,9 @@
       "order": 30,
       "sourceFile": "amos_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "ef7ef6b5ed09c2d689bc463e4aeb2437be5baad2f499222cad20f51db5d7d7cb",
-      "payloadSha256": "e73c7c53f2227b7bfbaf54cef449fa89225dca948b63820579215ebafd48ec3e",
-      "changedVerseCount": 5,
-      "editCount": 5
+      "payloadSha256": "1e61d158348a43e98a96636157e21f2ba604a56cee78f5689ae62e5ab4e8ab08",
+      "changedVerseCount": 7,
+      "editCount": 7
     },
     {
       "id": "OBA",
@@ -387,99 +387,99 @@
       "order": 41,
       "sourceFile": "mark_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "04f8d21abda441a16c94f54c204c7111a21629e97a0f59307f2ec62544ab4955",
-      "payloadSha256": "e1a7f864f6ae12e393b88444dfb9ce382c6aee002ee9c15c334206ce24db2b53",
-      "changedVerseCount": 130,
-      "editCount": 143
+      "payloadSha256": "7d6798305b5df8090ffd84d907baa3613d060a006f7d5c68c1b29e1926055ee9",
+      "changedVerseCount": 132,
+      "editCount": 145
     },
     {
       "id": "LUK",
       "order": 42,
       "sourceFile": "luke_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "4ff073fd913d2f8fbef45f6ca7d9df08e16a15812019df94fb42d95809a75e6d",
-      "payloadSha256": "50cb26d91115839dfed74b975cf6e9bafe4487cccd895f2a9808358b43367f3c",
+      "payloadSha256": "88bbfeb7cc867f3897c648bf4e0f7d1e2e4a2ece4ac92bdb15b45ad2924e9eaa",
       "changedVerseCount": 250,
-      "editCount": 278
+      "editCount": 279
     },
     {
       "id": "JHN",
       "order": 43,
       "sourceFile": "john_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "07b0e2eab1cbd1ae9ce4338ea88fcc848b9b85f0a6eee338e79161b7af86314e",
-      "payloadSha256": "b459e47a0fb4d9d72f72aa73412cf75a26194ac3fda7a7c25d6836140ccb7f61",
-      "changedVerseCount": 282,
-      "editCount": 318
+      "payloadSha256": "cee034313969e949b94a3839466540ef3284550393597753b2a1332daf135728",
+      "changedVerseCount": 285,
+      "editCount": 322
     },
     {
       "id": "ACT",
       "order": 44,
       "sourceFile": "acts_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "34b3e2ff9592296273859f9028e6a7f2a0579f4075f468f000ed8271f61ae739",
-      "payloadSha256": "3a046711a855747444571c756eefce8cb544537f4c54db32aa7c5fde17709f71",
-      "changedVerseCount": 193,
-      "editCount": 213
+      "payloadSha256": "50a0385dfd786608915f404b0bdea392a0e1381a447f38868053130457e078f8",
+      "changedVerseCount": 194,
+      "editCount": 216
     },
     {
       "id": "ROM",
       "order": 45,
       "sourceFile": "romans_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "6af83f2b469c2ccc56b37bcc8d922f6fad9da333a444755473ba7f5d6b8acff6",
-      "payloadSha256": "ac2281ac2f1d3d61273cea8cb4cb2286a62eff0af64f7df50fd9a76e56d9b147",
-      "changedVerseCount": 125,
-      "editCount": 138
+      "payloadSha256": "e97c305526d5b42ba040d39614dcb55f6703c79f26bf0af8db700ee1e70d94a6",
+      "changedVerseCount": 130,
+      "editCount": 143
     },
     {
       "id": "1CO",
       "order": 46,
       "sourceFile": "first_corinthians_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "1c12443e9de80f6c0b9d554f1525e1f5971428558944620a04c7ff55defae80e",
-      "payloadSha256": "a3df205d4d8d4209213787d536c2ba81b53cf4f240a6dc6eaea0a882a3eab933",
-      "changedVerseCount": 126,
-      "editCount": 148
+      "payloadSha256": "8470b76a585b1009999d41be2ccbd7ad74c00bbcbcab2dcf81f776e3afc5be76",
+      "changedVerseCount": 130,
+      "editCount": 152
     },
     {
       "id": "2CO",
       "order": 47,
       "sourceFile": "second_corinthians_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "95a18d0792374c3c97edaaa4dd790459601b9eb401f38703aaf41e44c5cf7113",
-      "payloadSha256": "4775d05f134d1f9d8361dd8e9d6906f761f7862d64ccaf35d5a6bbf77187472c",
-      "changedVerseCount": 76,
-      "editCount": 86
+      "payloadSha256": "18109d8088d660d4f02fa480ae5c96ef8f6333ff3840f0b08b957ad62b13d875",
+      "changedVerseCount": 77,
+      "editCount": 87
     },
     {
       "id": "GAL",
       "order": 48,
       "sourceFile": "galatians_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "dff906150c850c9f55d31e30a93b670c23b7d1dd60dfaf909a646e2fbb21d2bd",
-      "payloadSha256": "148bee53eb214b96e43faa6297bff79780d2b1dc35e93d969e37e1fa30dd9643",
-      "changedVerseCount": 31,
-      "editCount": 34
+      "payloadSha256": "d8339873ad7b658e09860df35581bf12af12d015a597925cb7a41fbf8607809e",
+      "changedVerseCount": 36,
+      "editCount": 40
     },
     {
       "id": "EPH",
       "order": 49,
       "sourceFile": "ephesians_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "d06879d79c87d714aa16e3857aef5ab52256a97d21e47726478ff141523885b1",
-      "payloadSha256": "c2192913158d8f7084cabe526aeb91ae0dbc1128e3c02ac7d1f7bdd3953583e6",
+      "payloadSha256": "e41bb198d4e7bece98d30ce84746996749bdee4cc5db9eef62450407525648a8",
       "changedVerseCount": 21,
-      "editCount": 22
+      "editCount": 23
     },
     {
       "id": "PHP",
       "order": 50,
       "sourceFile": "philippians_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "e1761468e230a92e7bf7973752c572e5093d0a526c039e1e7405699437302d32",
-      "payloadSha256": "a5d638d8bfa92174c7d6087734958ba863cfdfec6e76a39b222fe83d04a5335a",
-      "changedVerseCount": 17,
-      "editCount": 19
+      "payloadSha256": "c2d6f5773f8541122e64f7be5bc8d209423577e2514f565c1f1826a2298a7637",
+      "changedVerseCount": 18,
+      "editCount": 20
     },
     {
       "id": "COL",
       "order": 51,
       "sourceFile": "colossians_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "804e14c5e778c371e889600f56f9c1029f388be60e556f58bf17ac96a402a5ac",
-      "payloadSha256": "1e55e9a182b4e74f3750878f86d555921585cc6802d2deaaea07aa5271694a02",
-      "changedVerseCount": 11,
-      "editCount": 11
+      "payloadSha256": "0f4f2c3fb83e2415462876632b106e5a93b5bba0402e0abeb58af0d94260ea95",
+      "changedVerseCount": 12,
+      "editCount": 12
     },
     {
       "id": "1TH",
@@ -513,18 +513,18 @@
       "order": 55,
       "sourceFile": "second_timothy_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "9ea053cf9ac7821ccd88602679985229ee72ebb2719a62fe344ff9f4a72b66f8",
-      "payloadSha256": "154acabf855f29e60bc93b3392b2673d4e4e9398344db4bd8236a40f9a4474f6",
-      "changedVerseCount": 19,
-      "editCount": 20
+      "payloadSha256": "7e5748ed12299aed9d787c09182652db058fd727e96415b1341c18302dbac99f",
+      "changedVerseCount": 25,
+      "editCount": 26
     },
     {
       "id": "TIT",
       "order": 56,
       "sourceFile": "titus_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "27d9b2716dbe30dcd8b84932751542195d5cd3f96169202695da9cc117b98871",
-      "payloadSha256": "e8912849972b7ff7a2e68ad49212538fb19aef0b2eea756d934d1ea1d5851084",
-      "changedVerseCount": 9,
-      "editCount": 9
+      "payloadSha256": "d5f9ad6fa68dd76b42c068ad3d6b9cd1e7acd7bd2f800abf0ce93fbf1b63dda7",
+      "changedVerseCount": 11,
+      "editCount": 12
     },
     {
       "id": "PHM",
@@ -540,36 +540,36 @@
       "order": 58,
       "sourceFile": "hebrews_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "49e89715e1ad4a468b4f07c534e3b2913dc72f59a5a35e2f28a5659af5cac9d2",
-      "payloadSha256": "a79913ef0d5bd2dc2e5cb75df06a6164a4d95e82c4180c651d1eb1c24f6424b1",
-      "changedVerseCount": 79,
-      "editCount": 92
+      "payloadSha256": "edc912af35f45e0833f9482eca392333dc5e655593fb6bcf8f27d0b9b476a810",
+      "changedVerseCount": 84,
+      "editCount": 97
     },
     {
       "id": "JAS",
       "order": 59,
       "sourceFile": "james_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "b60bb96b408d2ffafbd52514c27e5a4295c79d74da4e36d63e69f97ab052a285",
-      "payloadSha256": "c9475aa7ea287e7df54f077b5cb1dcc19c8e07fb5c36f6dbdb82335dba641a12",
-      "changedVerseCount": 11,
-      "editCount": 12
+      "payloadSha256": "729930c758c56522636456bd7d562199e3eb1d40a57955092579d5c2dd797146",
+      "changedVerseCount": 13,
+      "editCount": 15
     },
     {
       "id": "1PE",
       "order": 60,
       "sourceFile": "first_peter_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "7798494c5aad879206cb689985a44070c9ecb6ae3768d0071a9618b0cb2719de",
-      "payloadSha256": "f1fb2d7533690542a8ca52807b8bddc2e72c36beb8481fa35b82096fffa14a44",
-      "changedVerseCount": 26,
-      "editCount": 30
+      "payloadSha256": "0dfa64e557db8dbd55fe70dacadf297ea5cd2dfddf406e0a0ca9464daec6740c",
+      "changedVerseCount": 28,
+      "editCount": 32
     },
     {
       "id": "2PE",
       "order": 61,
       "sourceFile": "second_peter_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "f47d97a44ef67cd847d9969af4f71ba81f07455ad68198338afa447dde78b103",
-      "payloadSha256": "f31968e21f389aaf4b9623eeed3e5b8e45f1b0370c637e510434028d1e52af1b",
-      "changedVerseCount": 10,
-      "editCount": 10
+      "payloadSha256": "48a2a7aadcccd5b9fa67f461bdc12fd247ba1a5748506673b85280562608e831",
+      "changedVerseCount": 13,
+      "editCount": 13
     },
     {
       "id": "1JN",
@@ -594,18 +594,18 @@
       "order": 64,
       "sourceFile": "third_john_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "3e2956aa415c3bebe10bf5fd881521aede316bef2e6e0e151c255191654ad3c9",
-      "payloadSha256": "b452def69074f422e76f04a1f443911ae2507e763dd02a08b5f89137be69b7c1",
-      "changedVerseCount": 0,
-      "editCount": 0
+      "payloadSha256": "a4f7e722f05c2577f1cd9777c4a53757f614593bf29cd271c1c96e336643ccf1",
+      "changedVerseCount": 1,
+      "editCount": 1
     },
     {
       "id": "JUD",
       "order": 65,
       "sourceFile": "jude_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "5209929372894f8e9b9ab3a930bc99839287bcd3395b1d6e71eba40569e36e5f",
-      "payloadSha256": "0adcf91b53beb004fcd43524f2ece273792eec39ccf7b6fd5885b664eff797c9",
-      "changedVerseCount": 4,
-      "editCount": 4
+      "payloadSha256": "e292fbfeb00e6d30e2f5ee4afaf36fd93a4dfb0351e56ff912dce0b1e44f542e",
+      "changedVerseCount": 6,
+      "editCount": 6
     },
     {
       "id": "REV",
