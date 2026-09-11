@@ -1,0 +1,5581 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 12,
+  "generatedAt": "2026-09-10T00:00:00.000Z",
+  "issuedAt": "2026-09-10T00:00:00.000Z",
+  "expiresAt": "2028-09-10T00:00:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "EXO",
+      "chapter": 15,
+      "verse": 25,
+      "expected": "el cual metídolo que hubo dentro de las aguas",
+      "replacement": "y lo echó en las aguas",
+      "category": "context-reviewed-corrupted-verb-phrase",
+      "reason": "La frase fuente combina una forma dañada de ‘metiólo’ con palabras que rompen la oración. El contexto muestra que Moisés echó el árbol en el agua; se restaura esa acción sin añadir información."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 3
+        },
+        {
+          "chapter": 11,
+          "verse": 23
+        }
+      ],
+      "expected": "matólo",
+      "replacement": "lo mató",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 26
+        }
+      ],
+      "expected": "llevólos",
+      "replacement": "los llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 4
+        }
+      ],
+      "expected": "echóse",
+      "replacement": "se echó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 12
+        }
+      ],
+      "expected": "Levantáronse",
+      "replacement": "Se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 14
+        }
+      ],
+      "expected": "Pusiéronse",
+      "replacement": "Se pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 17
+        }
+      ],
+      "expected": "hablóles",
+      "replacement": "les habló",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 18
+        }
+      ],
+      "expected": "púsolos",
+      "replacement": "los puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 13,
+          "verse": 10
+        }
+      ],
+      "expected": "hiriólo",
+      "replacement": "lo hirió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 19,
+          "verse": 5
+        }
+      ],
+      "expected": "Fuéronse",
+      "replacement": "Se fueron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 19,
+          "verse": 7
+        }
+      ],
+      "expected": "juntáronse",
+      "replacement": "se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 3
+        },
+        {
+          "chapter": 20,
+          "verse": 5
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 29,
+          "verse": 23
+        }
+      ],
+      "expected": "sentóse",
+      "replacement": "se sentó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1CH",
+      "references": [
+        {
+          "chapter": 29,
+          "verse": 25
+        }
+      ],
+      "expected": "dióle",
+      "replacement": "le dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 5
+        }
+      ],
+      "expected": "hízose",
+      "replacement": "se hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 28
+        },
+        {
+          "chapter": 20,
+          "verse": 38
+        },
+        {
+          "chapter": 22,
+          "verse": 21
+        }
+      ],
+      "expected": "púsose",
+      "replacement": "se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 49
+        },
+        {
+          "chapter": 11,
+          "verse": 18
+        }
+      ],
+      "expected": "levantáronse",
+      "replacement": "se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 53
+        },
+        {
+          "chapter": 2,
+          "verse": 19
+        }
+      ],
+      "expected": "inclinóse",
+      "replacement": "se inclinó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 53
+        },
+        {
+          "chapter": 9,
+          "verse": 28
+        }
+      ],
+      "expected": "trajéronlo",
+      "replacement": "lo trajeron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 34
+        }
+      ],
+      "expected": "matólo",
+      "replacement": "lo mató",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 20
+        },
+        {
+          "chapter": 13,
+          "verse": 29
+        },
+        {
+          "chapter": 18,
+          "verse": 33
+        }
+      ],
+      "expected": "púsolo",
+      "replacement": "lo puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 20
+        }
+      ],
+      "expected": "púsome",
+      "replacement": "me puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 21
+        },
+        {
+          "chapter": 17,
+          "verse": 19
+        }
+      ],
+      "expected": "púsole",
+      "replacement": "le puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 22
+        }
+      ],
+      "expected": "Púsose",
+      "replacement": "Se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 19,
+          "verse": 5
+        }
+      ],
+      "expected": "quedóse",
+      "replacement": "se quedó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 17
+        }
+      ],
+      "expected": "púsolos",
+      "replacement": "los puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 9
+        }
+      ],
+      "expected": "enojóse",
+      "replacement": "se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 22
+        },
+        {
+          "chapter": 12,
+          "verse": 16
+        }
+      ],
+      "expected": "respondióle",
+      "replacement": "le respondió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 24
+        },
+        {
+          "chapter": 12,
+          "verse": 20
+        }
+      ],
+      "expected": "hiciéronle",
+      "replacement": "le hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 14
+        }
+      ],
+      "expected": "hablóles",
+      "replacement": "les habló",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 24
+        }
+      ],
+      "expected": "fuéronse",
+      "replacement": "se fueron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 24
+        }
+      ],
+      "expected": "volviéronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 13,
+          "verse": 6
+        }
+      ],
+      "expected": "tornóse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 4
+        },
+        {
+          "chapter": 20,
+          "verse": 25
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 4
+        },
+        {
+          "chapter": 18,
+          "verse": 16
+        }
+      ],
+      "expected": "dióle",
+      "replacement": "le dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 8
+        }
+      ],
+      "expected": "sepultáronlo",
+      "replacement": "lo sepultaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 18
+        }
+      ],
+      "expected": "entrególos",
+      "replacement": "los entregó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 27
+        }
+      ],
+      "expected": "hiriólo",
+      "replacement": "lo hirió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 28
+        }
+      ],
+      "expected": "Matólo",
+      "replacement": "Lo mató",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 7
+        }
+      ],
+      "expected": "secóse",
+      "replacement": "se secó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 19
+        }
+      ],
+      "expected": "llevólo",
+      "replacement": "lo llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 23
+        }
+      ],
+      "expected": "diólo",
+      "replacement": "lo dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 34
+        }
+      ],
+      "expected": "hiciéronlo",
+      "replacement": "lo hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 40
+        }
+      ],
+      "expected": "llevólos",
+      "replacement": "los llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 19,
+          "verse": 4
+        }
+      ],
+      "expected": "sentóse",
+      "replacement": "se sentó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 19,
+          "verse": 6
+        },
+        {
+          "chapter": 19,
+          "verse": 21
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 9
+        }
+      ],
+      "expected": "diéronle",
+      "replacement": "le dieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 37
+        }
+      ],
+      "expected": "hízole",
+      "replacement": "le hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1KI",
+      "references": [
+        {
+          "chapter": 21,
+          "verse": 13
+        }
+      ],
+      "expected": "sentáronse",
+      "replacement": "se sentaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1PE",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 24
+        }
+      ],
+      "expected": "secóse",
+      "replacement": "se secó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1SA",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 6
+        }
+      ],
+      "expected": "Apartóse",
+      "replacement": "Se apartó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1SA",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 5
+        }
+      ],
+      "expected": "Hízolo",
+      "replacement": "Lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1SA",
+      "references": [
+        {
+          "chapter": 19,
+          "verse": 22
+        }
+      ],
+      "expected": "fuéle",
+      "replacement": "le fue",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1SA",
+      "references": [
+        {
+          "chapter": 22,
+          "verse": 2
+        }
+      ],
+      "expected": "juntáronse",
+      "replacement": "se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "1SA",
+      "references": [
+        {
+          "chapter": 25,
+          "verse": 24
+        },
+        {
+          "chapter": 31,
+          "verse": 4
+        }
+      ],
+      "expected": "echóse",
+      "replacement": "se echó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 3
+        },
+        {
+          "chapter": 20,
+          "verse": 4
+        }
+      ],
+      "expected": "juntáronse",
+      "replacement": "se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 6,
+          "verse": 12
+        },
+        {
+          "chapter": 20,
+          "verse": 5
+        }
+      ],
+      "expected": "Púsose",
+      "replacement": "Se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 6,
+          "verse": 13
+        }
+      ],
+      "expected": "púsose",
+      "replacement": "se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 16
+        },
+        {
+          "chapter": 36,
+          "verse": 7
+        }
+      ],
+      "expected": "púsolos",
+      "replacement": "los puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 31
+        },
+        {
+          "chapter": 16,
+          "verse": 14
+        },
+        {
+          "chapter": 21,
+          "verse": 1
+        },
+        {
+          "chapter": 21,
+          "verse": 20
+        },
+        {
+          "chapter": 24,
+          "verse": 16
+        },
+        {
+          "chapter": 25,
+          "verse": 28
+        },
+        {
+          "chapter": 26,
+          "verse": 23
+        },
+        {
+          "chapter": 27,
+          "verse": 9
+        },
+        {
+          "chapter": 28,
+          "verse": 27
+        },
+        {
+          "chapter": 32,
+          "verse": 33
+        },
+        {
+          "chapter": 33,
+          "verse": 19
+        }
+      ],
+      "expected": "sepultáronlo",
+      "replacement": "lo sepultaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 13
+        }
+      ],
+      "expected": "respondióles",
+      "replacement": "les respondió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 14
+        },
+        {
+          "chapter": 32,
+          "verse": 6
+        }
+      ],
+      "expected": "hablóles",
+      "replacement": "les habló",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 4
+        }
+      ],
+      "expected": "tornáronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 23
+        },
+        {
+          "chapter": 15,
+          "verse": 15
+        }
+      ],
+      "expected": "dióles",
+      "replacement": "les dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 23
+        }
+      ],
+      "expected": "hízole",
+      "replacement": "le hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 10
+        }
+      ],
+      "expected": "entrególos",
+      "replacement": "los entregó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 15
+        },
+        {
+          "chapter": 19,
+          "verse": 8
+        },
+        {
+          "chapter": 25,
+          "verse": 10
+        },
+        {
+          "chapter": 31,
+          "verse": 1
+        }
+      ],
+      "expected": "volviéronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 10
+        }
+      ],
+      "expected": "Juntáronse",
+      "replacement": "Se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 23,
+          "verse": 11
+        },
+        {
+          "chapter": 26,
+          "verse": 20
+        },
+        {
+          "chapter": 36,
+          "verse": 1
+        }
+      ],
+      "expected": "hiciéronle",
+      "replacement": "le hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 16,
+          "verse": 14
+        },
+        {
+          "chapter": 26,
+          "verse": 1
+        }
+      ],
+      "expected": "pusiéronlo",
+      "replacement": "lo pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 19
+        },
+        {
+          "chapter": 28,
+          "verse": 15
+        }
+      ],
+      "expected": "levantáronse",
+      "replacement": "se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 22,
+          "verse": 9
+        },
+        {
+          "chapter": 27,
+          "verse": 5
+        }
+      ],
+      "expected": "diéronle",
+      "replacement": "le dieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 22,
+          "verse": 9
+        },
+        {
+          "chapter": 25,
+          "verse": 28
+        }
+      ],
+      "expected": "trajéronlo",
+      "replacement": "lo trajeron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 25,
+          "verse": 15
+        }
+      ],
+      "expected": "Encendióse",
+      "replacement": "Se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 25,
+          "verse": 23
+        },
+        {
+          "chapter": 36,
+          "verse": 4
+        }
+      ],
+      "expected": "llevólo",
+      "replacement": "lo llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 25,
+          "verse": 24
+        },
+        {
+          "chapter": 34,
+          "verse": 7
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 26,
+          "verse": 7
+        },
+        {
+          "chapter": 32,
+          "verse": 24
+        }
+      ],
+      "expected": "dióle",
+      "replacement": "le dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 26,
+          "verse": 18
+        },
+        {
+          "chapter": 30,
+          "verse": 16
+        }
+      ],
+      "expected": "pusiéronse",
+      "replacement": "se pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 28,
+          "verse": 12
+        }
+      ],
+      "expected": "Levantáronse",
+      "replacement": "Se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 28,
+          "verse": 13
+        }
+      ],
+      "expected": "dijéronles",
+      "replacement": "les dijeron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 28,
+          "verse": 24
+        },
+        {
+          "chapter": 32,
+          "verse": 27
+        }
+      ],
+      "expected": "hízose",
+      "replacement": "se hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 29,
+          "verse": 29
+        }
+      ],
+      "expected": "inclinóse",
+      "replacement": "se inclinó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 30,
+          "verse": 13
+        }
+      ],
+      "expected": "juntóse",
+      "replacement": "se juntó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 31,
+          "verse": 10
+        }
+      ],
+      "expected": "respondióle",
+      "replacement": "le respondió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 31,
+          "verse": 21
+        },
+        {
+          "chapter": 36,
+          "verse": 10
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 4
+        }
+      ],
+      "expected": "Juntóse",
+      "replacement": "Se juntó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 6
+        }
+      ],
+      "expected": "hízolos",
+      "replacement": "los hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 21
+        }
+      ],
+      "expected": "Volvióse",
+      "replacement": "Se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2CH",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 29
+        }
+      ],
+      "expected": "Hízose",
+      "replacement": "Se hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 12
+        }
+      ],
+      "expected": "respondióle",
+      "replacement": "le respondió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 21
+        }
+      ],
+      "expected": "juntáronse",
+      "replacement": "se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 21
+        }
+      ],
+      "expected": "pusiéronse",
+      "replacement": "se pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 24
+        },
+        {
+          "chapter": 12,
+          "verse": 20
+        }
+      ],
+      "expected": "levantáronse",
+      "replacement": "se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 27
+        }
+      ],
+      "expected": "volviéronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 21
+        },
+        {
+          "chapter": 5,
+          "verse": 23
+        },
+        {
+          "chapter": 16,
+          "verse": 14
+        },
+        {
+          "chapter": 16,
+          "verse": 17
+        }
+      ],
+      "expected": "púsolo",
+      "replacement": "lo puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 21
+        },
+        {
+          "chapter": 4,
+          "verse": 37
+        }
+      ],
+      "expected": "salióse",
+      "replacement": "se salió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 34
+        },
+        {
+          "chapter": 4,
+          "verse": 37
+        }
+      ],
+      "expected": "echóse",
+      "replacement": "se echó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 37
+        }
+      ],
+      "expected": "inclinóse",
+      "replacement": "se inclinó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 12
+        },
+        {
+          "chapter": 14,
+          "verse": 14
+        },
+        {
+          "chapter": 23,
+          "verse": 16
+        },
+        {
+          "chapter": 23,
+          "verse": 20
+        },
+        {
+          "chapter": 24,
+          "verse": 1
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 15
+        },
+        {
+          "chapter": 5,
+          "verse": 25
+        },
+        {
+          "chapter": 8,
+          "verse": 9
+        }
+      ],
+      "expected": "púsose",
+      "replacement": "se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 6,
+          "verse": 13
+        },
+        {
+          "chapter": 25,
+          "verse": 30
+        }
+      ],
+      "expected": "fuéle",
+      "replacement": "le fue",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 5
+        }
+      ],
+      "expected": "Levantáronse",
+      "replacement": "Se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 15
+        },
+        {
+          "chapter": 14,
+          "verse": 21
+        }
+      ],
+      "expected": "hiciéronlo",
+      "replacement": "lo hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 15
+        }
+      ],
+      "expected": "Hízolo",
+      "replacement": "Lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 16
+        }
+      ],
+      "expected": "Pusiéronlo",
+      "replacement": "Lo pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 35
+        },
+        {
+          "chapter": 12,
+          "verse": 21
+        },
+        {
+          "chapter": 13,
+          "verse": 9
+        },
+        {
+          "chapter": 13,
+          "verse": 20
+        },
+        {
+          "chapter": 14,
+          "verse": 20
+        },
+        {
+          "chapter": 15,
+          "verse": 7
+        },
+        {
+          "chapter": 23,
+          "verse": 30
+        }
+      ],
+      "expected": "sepultáronlo",
+      "replacement": "lo sepultaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 12
+        }
+      ],
+      "expected": "púsole",
+      "replacement": "le puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 12
+        }
+      ],
+      "expected": "hiciéronle",
+      "replacement": "le hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 19
+        },
+        {
+          "chapter": 13,
+          "verse": 13
+        }
+      ],
+      "expected": "sentóse",
+      "replacement": "se sentó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 9
+        }
+      ],
+      "expected": "hízole",
+      "replacement": "le hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 17
+        },
+        {
+          "chapter": 16,
+          "verse": 9
+        }
+      ],
+      "expected": "tomóla",
+      "replacement": "la tomó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 13,
+          "verse": 3
+        }
+      ],
+      "expected": "encendióse",
+      "replacement": "se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 13,
+          "verse": 3
+        },
+        {
+          "chapter": 17,
+          "verse": 20
+        }
+      ],
+      "expected": "entrególos",
+      "replacement": "los entregó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 20
+        }
+      ],
+      "expected": "Trajéronlo",
+      "replacement": "Lo trajeron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 10
+        },
+        {
+          "chapter": 15,
+          "verse": 14
+        },
+        {
+          "chapter": 15,
+          "verse": 25
+        },
+        {
+          "chapter": 15,
+          "verse": 30
+        },
+        {
+          "chapter": 23,
+          "verse": 29
+        }
+      ],
+      "expected": "matólo",
+      "replacement": "lo mató",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 25
+        },
+        {
+          "chapter": 15,
+          "verse": 30
+        }
+      ],
+      "expected": "hiriólo",
+      "replacement": "lo hirió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 16,
+          "verse": 14
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 24
+        }
+      ],
+      "expected": "púsolos",
+      "replacement": "los puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 16
+        }
+      ],
+      "expected": "diólo",
+      "replacement": "lo dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 23,
+          "verse": 30
+        }
+      ],
+      "expected": "pusiéronlo",
+      "replacement": "lo pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 23,
+          "verse": 30
+        }
+      ],
+      "expected": "trajéronlo",
+      "replacement": "lo trajeron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 23,
+          "verse": 34
+        }
+      ],
+      "expected": "llevólo",
+      "replacement": "lo llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 25,
+          "verse": 20
+        }
+      ],
+      "expected": "llevólos",
+      "replacement": "los llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2KI",
+      "references": [
+        {
+          "chapter": 25,
+          "verse": 26
+        }
+      ],
+      "expected": "fuéronse",
+      "replacement": "se fueron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 8
+        },
+        {
+          "chapter": 18,
+          "verse": 25
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 23
+        },
+        {
+          "chapter": 6,
+          "verse": 7
+        }
+      ],
+      "expected": "hiriólo",
+      "replacement": "lo hirió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 25
+        },
+        {
+          "chapter": 20,
+          "verse": 14
+        }
+      ],
+      "expected": "juntáronse",
+      "replacement": "se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 31
+        }
+      ],
+      "expected": "sepultáronlo",
+      "replacement": "lo sepultaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 8
+        }
+      ],
+      "expected": "enojóse",
+      "replacement": "se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 9
+        }
+      ],
+      "expected": "púsole",
+      "replacement": "le puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 18
+        },
+        {
+          "chapter": 10,
+          "verse": 9
+        },
+        {
+          "chapter": 18,
+          "verse": 4
+        }
+      ],
+      "expected": "púsose",
+      "replacement": "se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 7
+        }
+      ],
+      "expected": "llevólos",
+      "replacement": "los llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 10
+        },
+        {
+          "chapter": 12,
+          "verse": 31
+        },
+        {
+          "chapter": 23,
+          "verse": 23
+        }
+      ],
+      "expected": "púsolo",
+      "replacement": "lo puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 4
+        },
+        {
+          "chapter": 12,
+          "verse": 29
+        }
+      ],
+      "expected": "tomóla",
+      "replacement": "la tomó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 12
+        },
+        {
+          "chapter": 13,
+          "verse": 20
+        }
+      ],
+      "expected": "quedóse",
+      "replacement": "se quedó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 13
+        }
+      ],
+      "expected": "hízole",
+      "replacement": "le hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 31
+        }
+      ],
+      "expected": "Volvióse",
+      "replacement": "Se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 31
+        }
+      ],
+      "expected": "hízolos",
+      "replacement": "los hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 13,
+          "verse": 14
+        },
+        {
+          "chapter": 13,
+          "verse": 31
+        }
+      ],
+      "expected": "echóse",
+      "replacement": "se echó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 13,
+          "verse": 29
+        }
+      ],
+      "expected": "Levantáronse",
+      "replacement": "Se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 6
+        },
+        {
+          "chapter": 21,
+          "verse": 17
+        },
+        {
+          "chapter": 21,
+          "verse": 21
+        },
+        {
+          "chapter": 23,
+          "verse": 21
+        }
+      ],
+      "expected": "matólo",
+      "replacement": "lo mató",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 24
+        },
+        {
+          "chapter": 19,
+          "verse": 2
+        },
+        {
+          "chapter": 23,
+          "verse": 10
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 17
+        },
+        {
+          "chapter": 20,
+          "verse": 3
+        }
+      ],
+      "expected": "dióles",
+      "replacement": "les dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 20
+        }
+      ],
+      "expected": "volviéronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 21
+        }
+      ],
+      "expected": "fuéronse",
+      "replacement": "se fueron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 7
+        }
+      ],
+      "expected": "hízose",
+      "replacement": "se hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 28
+        },
+        {
+          "chapter": 24,
+          "verse": 20
+        }
+      ],
+      "expected": "inclinóse",
+      "replacement": "se inclinó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 19,
+          "verse": 8
+        }
+      ],
+      "expected": "sentóse",
+      "replacement": "se sentó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 21,
+          "verse": 2
+        }
+      ],
+      "expected": "hablóles",
+      "replacement": "les habló",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "2SA",
+      "references": [
+        {
+          "chapter": 21,
+          "verse": 9
+        }
+      ],
+      "expected": "entrególos",
+      "replacement": "los entregó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "ACT",
+      "references": [
+        {
+          "chapter": 21,
+          "verse": 30
+        }
+      ],
+      "expected": "hiciéronle",
+      "replacement": "le hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "AMO",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 7
+        }
+      ],
+      "expected": "secóse",
+      "replacement": "se secó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DAN",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 17
+        }
+      ],
+      "expected": "dióles",
+      "replacement": "les dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DAN",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 48
+        }
+      ],
+      "expected": "púsolo",
+      "replacement": "lo puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DAN",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 27
+        }
+      ],
+      "expected": "juntáronse",
+      "replacement": "se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DAN",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 4
+        }
+      ],
+      "expected": "púsose",
+      "replacement": "se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DAN",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 4
+        },
+        {
+          "chapter": 7,
+          "verse": 5
+        },
+        {
+          "chapter": 7,
+          "verse": 6
+        },
+        {
+          "chapter": 7,
+          "verse": 14
+        }
+      ],
+      "expected": "fuéle",
+      "replacement": "le fue",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DAN",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 13
+        }
+      ],
+      "expected": "hiciéronle",
+      "replacement": "le hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DAN",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 7
+        }
+      ],
+      "expected": "hiriólo",
+      "replacement": "lo hirió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DAN",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 39
+        }
+      ],
+      "expected": "harálos",
+      "replacement": "los hará",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DEU",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 34
+        },
+        {
+          "chapter": 9,
+          "verse": 8
+        }
+      ],
+      "expected": "enojóse",
+      "replacement": "se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DEU",
+      "references": [
+        {
+          "chapter": 29,
+          "verse": 27
+        }
+      ],
+      "expected": "Encendióse",
+      "replacement": "Se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DEU",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 13
+        }
+      ],
+      "expected": "Hízolo",
+      "replacement": "Lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DEU",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 19
+        }
+      ],
+      "expected": "encendióse",
+      "replacement": "se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "DEU",
+      "references": [
+        {
+          "chapter": 33,
+          "verse": 21
+        }
+      ],
+      "expected": "fuéle",
+      "replacement": "le fue",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 12
+        }
+      ],
+      "expected": "enojóse",
+      "replacement": "se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 12
+        }
+      ],
+      "expected": "encendióse",
+      "replacement": "se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 1
+        }
+      ],
+      "expected": "acordóse",
+      "replacement": "se acordó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 4
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 23
+        }
+      ],
+      "expected": "Hízose",
+      "replacement": "Se hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 10
+        },
+        {
+          "chapter": 8,
+          "verse": 2
+        }
+      ],
+      "expected": "diólo",
+      "replacement": "lo dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 7
+        }
+      ],
+      "expected": "dióle",
+      "replacement": "le dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 8
+        }
+      ],
+      "expected": "Dióle",
+      "replacement": "Le dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 1
+        },
+        {
+          "chapter": 8,
+          "verse": 4
+        }
+      ],
+      "expected": "púsose",
+      "replacement": "se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 6,
+          "verse": 11
+        }
+      ],
+      "expected": "llevólo",
+      "replacement": "lo llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 7
+        }
+      ],
+      "expected": "quedóse",
+      "replacement": "se quedó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 3
+        }
+      ],
+      "expected": "echóse",
+      "replacement": "se echó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 16
+        }
+      ],
+      "expected": "pusiéronse",
+      "replacement": "se pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EST",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 17
+        }
+      ],
+      "expected": "hiciéronlo",
+      "replacement": "lo hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 3
+        }
+      ],
+      "expected": "púsolo",
+      "replacement": "lo puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 10
+        }
+      ],
+      "expected": "púsole",
+      "replacement": "le puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 15
+        },
+        {
+          "chapter": 32,
+          "verse": 6
+        }
+      ],
+      "expected": "sentóse",
+      "replacement": "se sentó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 24
+        }
+      ],
+      "expected": "acordóse",
+      "replacement": "se acordó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 3
+        },
+        {
+          "chapter": 7,
+          "verse": 10
+        }
+      ],
+      "expected": "tornóse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 4
+        }
+      ],
+      "expected": "tomóla",
+      "replacement": "la tomó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 20
+        },
+        {
+          "chapter": 7,
+          "verse": 23
+        },
+        {
+          "chapter": 10,
+          "verse": 6
+        },
+        {
+          "chapter": 32,
+          "verse": 15
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 20
+        },
+        {
+          "chapter": 18,
+          "verse": 25
+        },
+        {
+          "chapter": 37,
+          "verse": 13
+        }
+      ],
+      "expected": "púsolos",
+      "replacement": "los puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 21
+        }
+      ],
+      "expected": "Dijéronles",
+      "replacement": "Les dijeron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 6,
+          "verse": 13
+        }
+      ],
+      "expected": "dióles",
+      "replacement": "les dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 6
+        }
+      ],
+      "expected": "hiciéronlo",
+      "replacement": "lo hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 10
+        },
+        {
+          "chapter": 19,
+          "verse": 17
+        },
+        {
+          "chapter": 20,
+          "verse": 18
+        }
+      ],
+      "expected": "pusiéronse",
+      "replacement": "se pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 29
+        },
+        {
+          "chapter": 33,
+          "verse": 19
+        }
+      ],
+      "expected": "respondióle",
+      "replacement": "le respondió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 8
+        }
+      ],
+      "expected": "salióse",
+      "replacement": "se salió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 19
+        }
+      ],
+      "expected": "púsose",
+      "replacement": "se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 16,
+          "verse": 20
+        }
+      ],
+      "expected": "enojóse",
+      "replacement": "se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 7
+        }
+      ],
+      "expected": "inclinóse",
+      "replacement": "se inclinó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 6
+        }
+      ],
+      "expected": "levantáronse",
+      "replacement": "se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 20
+        }
+      ],
+      "expected": "diólo",
+      "replacement": "lo dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 26
+        }
+      ],
+      "expected": "Púsose",
+      "replacement": "Se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 26
+        }
+      ],
+      "expected": "juntáronse",
+      "replacement": "se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 36,
+          "verse": 13
+        }
+      ],
+      "expected": "hízose",
+      "replacement": "se hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 37,
+          "verse": 2
+        },
+        {
+          "chapter": 37,
+          "verse": 11
+        },
+        {
+          "chapter": 37,
+          "verse": 26
+        },
+        {
+          "chapter": 38,
+          "verse": 2
+        }
+      ],
+      "expected": "hízole",
+      "replacement": "le hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 37,
+          "verse": 3
+        },
+        {
+          "chapter": 37,
+          "verse": 12
+        },
+        {
+          "chapter": 37,
+          "verse": 13
+        },
+        {
+          "chapter": 37,
+          "verse": 27
+        }
+      ],
+      "expected": "Hízole",
+      "replacement": "Le hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 37,
+          "verse": 7
+        }
+      ],
+      "expected": "hízolos",
+      "replacement": "los hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 37,
+          "verse": 17
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EXO",
+      "references": [
+        {
+          "chapter": 39,
+          "verse": 4
+        }
+      ],
+      "expected": "Hiciéronle",
+      "replacement": "Le hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 7
+        }
+      ],
+      "expected": "salióse",
+      "replacement": "se salió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 15
+        },
+        {
+          "chapter": 10,
+          "verse": 19
+        }
+      ],
+      "expected": "levantáronse",
+      "replacement": "se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 1
+        },
+        {
+          "chapter": 20,
+          "verse": 1
+        }
+      ],
+      "expected": "sentáronse",
+      "replacement": "se sentaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 4
+        },
+        {
+          "chapter": 19,
+          "verse": 5
+        }
+      ],
+      "expected": "púsolo",
+      "replacement": "lo puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 4
+        }
+      ],
+      "expected": "llevólo",
+      "replacement": "lo llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 6
+        },
+        {
+          "chapter": 19,
+          "verse": 6
+        }
+      ],
+      "expected": "hízose",
+      "replacement": "se hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 12
+        }
+      ],
+      "expected": "llevólos",
+      "replacement": "los llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 28
+        }
+      ],
+      "expected": "apartóse",
+      "replacement": "se apartó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 19,
+          "verse": 9
+        }
+      ],
+      "expected": "pusiéronlo",
+      "replacement": "lo pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 31,
+          "verse": 7
+        }
+      ],
+      "expected": "Hízose",
+      "replacement": "Se hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZK",
+      "references": [
+        {
+          "chapter": 37,
+          "verse": 1
+        },
+        {
+          "chapter": 40,
+          "verse": 2
+        }
+      ],
+      "expected": "púsome",
+      "replacement": "me puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZR",
+      "references": [
+        {
+          "chapter": 3,
+          "verse": 1
+        },
+        {
+          "chapter": 10,
+          "verse": 1
+        }
+      ],
+      "expected": "juntóse",
+      "replacement": "se juntó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZR",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 2
+        },
+        {
+          "chapter": 5,
+          "verse": 3
+        }
+      ],
+      "expected": "dijéronles",
+      "replacement": "les dijeron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZR",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 4
+        }
+      ],
+      "expected": "juntáronse",
+      "replacement": "se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZR",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 9
+        }
+      ],
+      "expected": "sentóse",
+      "replacement": "se sentó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "EZR",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 16
+        }
+      ],
+      "expected": "sentáronse",
+      "replacement": "se sentaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "GEN",
+      "references": [
+        {
+          "chapter": 27,
+          "verse": 16
+        }
+      ],
+      "expected": "hízole",
+      "replacement": "le hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "HEB",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 19
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "HOS",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 6
+        }
+      ],
+      "expected": "apartóse",
+      "replacement": "se apartó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "HOS",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 16
+        }
+      ],
+      "expected": "Tornáronse",
+      "replacement": "Se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "HOS",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 5
+        }
+      ],
+      "expected": "encendióse",
+      "replacement": "se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "HOS",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 16
+        }
+      ],
+      "expected": "secóse",
+      "replacement": "se secó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "ISA",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 4
+        }
+      ],
+      "expected": "tornáronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "ISA",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 2
+        },
+        {
+          "chapter": 41,
+          "verse": 2
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "ISA",
+      "references": [
+        {
+          "chapter": 36,
+          "verse": 13
+        }
+      ],
+      "expected": "Púsose",
+      "replacement": "Se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "ISA",
+      "references": [
+        {
+          "chapter": 37,
+          "verse": 37
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "ISA",
+      "references": [
+        {
+          "chapter": 41,
+          "verse": 2
+        }
+      ],
+      "expected": "entrególos",
+      "replacement": "los entregó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "ISA",
+      "references": [
+        {
+          "chapter": 41,
+          "verse": 17
+        }
+      ],
+      "expected": "secóse",
+      "replacement": "se secó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "ISA",
+      "references": [
+        {
+          "chapter": 42,
+          "verse": 25
+        }
+      ],
+      "expected": "púsole",
+      "replacement": "le puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "ISA",
+      "references": [
+        {
+          "chapter": 49,
+          "verse": 2
+        }
+      ],
+      "expected": "púsome",
+      "replacement": "me puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "ISA",
+      "references": [
+        {
+          "chapter": 63,
+          "verse": 11
+        }
+      ],
+      "expected": "acordóse",
+      "replacement": "se acordó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 13
+        },
+        {
+          "chapter": 9,
+          "verse": 45
+        },
+        {
+          "chapter": 9,
+          "verse": 50
+        },
+        {
+          "chapter": 15,
+          "verse": 15
+        }
+      ],
+      "expected": "tomóla",
+      "replacement": "la tomó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 12
+        },
+        {
+          "chapter": 9,
+          "verse": 55
+        },
+        {
+          "chapter": 18,
+          "verse": 21
+        }
+      ],
+      "expected": "fuéronse",
+      "replacement": "se fueron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 19
+        },
+        {
+          "chapter": 5,
+          "verse": 25
+        }
+      ],
+      "expected": "dióle",
+      "replacement": "le dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 17
+        },
+        {
+          "chapter": 11,
+          "verse": 17
+        }
+      ],
+      "expected": "quedóse",
+      "replacement": "se quedó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 6,
+          "verse": 11
+        }
+      ],
+      "expected": "sentóse",
+      "replacement": "se sentó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 6,
+          "verse": 27
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 6,
+          "verse": 29
+        },
+        {
+          "chapter": 18,
+          "verse": 2
+        }
+      ],
+      "expected": "dijéronles",
+      "replacement": "les dijeron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 3
+        }
+      ],
+      "expected": "volviéronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 8
+        }
+      ],
+      "expected": "hablóles",
+      "replacement": "les habló",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 31
+        }
+      ],
+      "expected": "púsole",
+      "replacement": "le puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 4
+        }
+      ],
+      "expected": "diéronle",
+      "replacement": "le dieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 7
+        },
+        {
+          "chapter": 9,
+          "verse": 35
+        }
+      ],
+      "expected": "púsose",
+      "replacement": "se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 30
+        }
+      ],
+      "expected": "encendióse",
+      "replacement": "se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 17
+        },
+        {
+          "chapter": 11,
+          "verse": 3
+        },
+        {
+          "chapter": 20,
+          "verse": 11
+        }
+      ],
+      "expected": "juntáronse",
+      "replacement": "se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 8
+        }
+      ],
+      "expected": "apartóse",
+      "replacement": "se apartó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 9
+        }
+      ],
+      "expected": "dióles",
+      "replacement": "les dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 13
+        }
+      ],
+      "expected": "hiciéronle",
+      "replacement": "le hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 16,
+          "verse": 7
+        }
+      ],
+      "expected": "respondióle",
+      "replacement": "le respondió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 16,
+          "verse": 25
+        }
+      ],
+      "expected": "pusiéronlo",
+      "replacement": "lo pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 5
+        }
+      ],
+      "expected": "hízose",
+      "replacement": "se hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 5
+        }
+      ],
+      "expected": "fuéle",
+      "replacement": "le fue",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 26
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 31
+        }
+      ],
+      "expected": "levantáronse",
+      "replacement": "se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 19,
+          "verse": 6
+        },
+        {
+          "chapter": 19,
+          "verse": 15
+        },
+        {
+          "chapter": 20,
+          "verse": 26
+        }
+      ],
+      "expected": "sentáronse",
+      "replacement": "se sentaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 18
+        }
+      ],
+      "expected": "Levantáronse",
+      "replacement": "Se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 33
+        }
+      ],
+      "expected": "pusiéronse",
+      "replacement": "se pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JDG",
+      "references": [
+        {
+          "chapter": 21,
+          "verse": 23
+        }
+      ],
+      "expected": "tornáronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 5
+        },
+        {
+          "chapter": 5,
+          "verse": 23
+        },
+        {
+          "chapter": 41,
+          "verse": 14
+        },
+        {
+          "chapter": 44,
+          "verse": 6
+        },
+        {
+          "chapter": 51,
+          "verse": 30
+        }
+      ],
+      "expected": "tornáronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 23
+        },
+        {
+          "chapter": 41,
+          "verse": 14
+        },
+        {
+          "chapter": 52,
+          "verse": 7
+        }
+      ],
+      "expected": "fuéronse",
+      "replacement": "se fueron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 28
+        }
+      ],
+      "expected": "pusiéronse",
+      "replacement": "se pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 3
+        }
+      ],
+      "expected": "volviéronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 4
+        },
+        {
+          "chapter": 52,
+          "verse": 11
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 2
+        }
+      ],
+      "expected": "púsole",
+      "replacement": "le puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 26,
+          "verse": 9
+        }
+      ],
+      "expected": "juntóse",
+      "replacement": "se juntó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 26,
+          "verse": 10
+        }
+      ],
+      "expected": "sentáronse",
+      "replacement": "se sentaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 26,
+          "verse": 23
+        }
+      ],
+      "expected": "hiriólo",
+      "replacement": "lo hirió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 36,
+          "verse": 32
+        }
+      ],
+      "expected": "diólo",
+      "replacement": "lo dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 37,
+          "verse": 14
+        }
+      ],
+      "expected": "llevólo",
+      "replacement": "lo llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 38,
+          "verse": 6
+        }
+      ],
+      "expected": "hiciéronlo",
+      "replacement": "lo hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 39,
+          "verse": 5
+        },
+        {
+          "chapter": 52,
+          "verse": 9
+        }
+      ],
+      "expected": "hiciéronle",
+      "replacement": "le hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 39,
+          "verse": 10
+        }
+      ],
+      "expected": "dióles",
+      "replacement": "les dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 40,
+          "verse": 5
+        }
+      ],
+      "expected": "dióle",
+      "replacement": "le dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 41,
+          "verse": 10
+        }
+      ],
+      "expected": "Llevólos",
+      "replacement": "Los llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 44,
+          "verse": 6
+        }
+      ],
+      "expected": "encendióse",
+      "replacement": "se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 49,
+          "verse": 24
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 52,
+          "verse": 11
+        }
+      ],
+      "expected": "púsolo",
+      "replacement": "lo puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 52,
+          "verse": 26
+        }
+      ],
+      "expected": "llevólos",
+      "replacement": "los llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JER",
+      "references": [
+        {
+          "chapter": 52,
+          "verse": 33
+        }
+      ],
+      "expected": "Hízole",
+      "replacement": "Le hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JHN",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 40
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JHN",
+      "references": [
+        {
+          "chapter": 18,
+          "verse": 1
+        }
+      ],
+      "expected": "salióse",
+      "replacement": "se salió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOB",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 12
+        }
+      ],
+      "expected": "salióse",
+      "replacement": "se salió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOB",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 11
+        }
+      ],
+      "expected": "secóse",
+      "replacement": "se secó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOB",
+      "references": [
+        {
+          "chapter": 16,
+          "verse": 12
+        }
+      ],
+      "expected": "púsome",
+      "replacement": "me puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOB",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 2
+        }
+      ],
+      "expected": "enojóse",
+      "replacement": "se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOB",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 3
+        }
+      ],
+      "expected": "Enojóse",
+      "replacement": "Se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOB",
+      "references": [
+        {
+          "chapter": 42,
+          "verse": 15
+        }
+      ],
+      "expected": "dióles",
+      "replacement": "les dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOL",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 12
+        }
+      ],
+      "expected": "Secóse",
+      "replacement": "Se secó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JON",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 4
+        },
+        {
+          "chapter": 4,
+          "verse": 5
+        }
+      ],
+      "expected": "hízose",
+      "replacement": "se hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JON",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 1
+        }
+      ],
+      "expected": "enojóse",
+      "replacement": "se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JON",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 5
+        }
+      ],
+      "expected": "salióse",
+      "replacement": "se salió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JON",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 7
+        }
+      ],
+      "expected": "secóse",
+      "replacement": "se secó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 6,
+          "verse": 14
+        },
+        {
+          "chapter": 22,
+          "verse": 32
+        }
+      ],
+      "expected": "volviéronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 6,
+          "verse": 15
+        }
+      ],
+      "expected": "levantáronse",
+      "replacement": "se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 2
+        },
+        {
+          "chapter": 22,
+          "verse": 8
+        }
+      ],
+      "expected": "hablóles",
+      "replacement": "les habló",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 23
+        }
+      ],
+      "expected": "pusiéronlo",
+      "replacement": "lo pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 23
+        }
+      ],
+      "expected": "trajéronlo",
+      "replacement": "lo trajeron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 9
+        }
+      ],
+      "expected": "pusiéronse",
+      "replacement": "se pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 12
+        }
+      ],
+      "expected": "púsolos",
+      "replacement": "los puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 2
+        }
+      ],
+      "expected": "Juntáronse",
+      "replacement": "Se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 23
+        }
+      ],
+      "expected": "hiciéronlo",
+      "replacement": "lo hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 26
+        }
+      ],
+      "expected": "hízolos",
+      "replacement": "los hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 32
+        },
+        {
+          "chapter": 10,
+          "verse": 39
+        },
+        {
+          "chapter": 15,
+          "verse": 17
+        }
+      ],
+      "expected": "tomóla",
+      "replacement": "la tomó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 43
+        }
+      ],
+      "expected": "tornóse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 8
+        }
+      ],
+      "expected": "entrególos",
+      "replacement": "los entregó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 22,
+          "verse": 6
+        }
+      ],
+      "expected": "fuéronse",
+      "replacement": "se fueron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "JOS",
+      "references": [
+        {
+          "chapter": 22,
+          "verse": 12
+        }
+      ],
+      "expected": "juntóse",
+      "replacement": "se juntó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LAM",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 13
+        },
+        {
+          "chapter": 3,
+          "verse": 12
+        }
+      ],
+      "expected": "púsome",
+      "replacement": "me puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LAM",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 3
+        }
+      ],
+      "expected": "encendióse",
+      "replacement": "se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LAM",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 10
+        }
+      ],
+      "expected": "Sentáronse",
+      "replacement": "Se sentaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LEV",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 4
+        }
+      ],
+      "expected": "juntóse",
+      "replacement": "se juntó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LEV",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 8
+        }
+      ],
+      "expected": "Púsole",
+      "replacement": "Le puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LEV",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 16
+        },
+        {
+          "chapter": 8,
+          "verse": 27
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LEV",
+      "references": [
+        {
+          "chapter": 8,
+          "verse": 26
+        },
+        {
+          "chapter": 8,
+          "verse": 27
+        }
+      ],
+      "expected": "púsolo",
+      "replacement": "lo puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LEV",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 5
+        }
+      ],
+      "expected": "pusiéronse",
+      "replacement": "se pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LEV",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 10
+        },
+        {
+          "chapter": 9,
+          "verse": 13
+        }
+      ],
+      "expected": "hízolos",
+      "replacement": "los hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LEV",
+      "references": [
+        {
+          "chapter": 10,
+          "verse": 16
+        }
+      ],
+      "expected": "enojóse",
+      "replacement": "se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LEV",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 15
+        }
+      ],
+      "expected": "harálos",
+      "replacement": "los hará",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LEV",
+      "references": [
+        {
+          "chapter": 24,
+          "verse": 12
+        }
+      ],
+      "expected": "pusiéronlo",
+      "replacement": "lo pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LUK",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 47
+        }
+      ],
+      "expected": "púsole",
+      "replacement": "le puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LUK",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 17
+        }
+      ],
+      "expected": "fuéle",
+      "replacement": "le fue",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LUK",
+      "references": [
+        {
+          "chapter": 7,
+          "verse": 15
+        }
+      ],
+      "expected": "dióle",
+      "replacement": "le dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "LUK",
+      "references": [
+        {
+          "chapter": 24,
+          "verse": 33
+        }
+      ],
+      "expected": "tornáronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "MRK",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 11
+        }
+      ],
+      "expected": "salióse",
+      "replacement": "se salió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NEH",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 1
+        }
+      ],
+      "expected": "enojóse",
+      "replacement": "se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NEH",
+      "references": [
+        {
+          "chapter": 9,
+          "verse": 4
+        }
+      ],
+      "expected": "Levantáronse",
+      "replacement": "Se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 5,
+          "verse": 4
+        }
+      ],
+      "expected": "hiciéronlo",
+      "replacement": "lo hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 1
+        }
+      ],
+      "expected": "encendióse",
+      "replacement": "se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 24
+        },
+        {
+          "chapter": 32,
+          "verse": 13
+        }
+      ],
+      "expected": "hízolos",
+      "replacement": "los hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 11,
+          "verse": 25
+        }
+      ],
+      "expected": "púsolo",
+      "replacement": "lo puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 12,
+          "verse": 5
+        },
+        {
+          "chapter": 16,
+          "verse": 48
+        },
+        {
+          "chapter": 22,
+          "verse": 26
+        }
+      ],
+      "expected": "púsose",
+      "replacement": "se puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 14,
+          "verse": 40
+        },
+        {
+          "chapter": 16,
+          "verse": 2
+        }
+      ],
+      "expected": "levantáronse",
+      "replacement": "se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 15,
+          "verse": 34
+        }
+      ],
+      "expected": "pusiéronlo",
+      "replacement": "lo pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 16,
+          "verse": 4
+        },
+        {
+          "chapter": 22,
+          "verse": 27
+        }
+      ],
+      "expected": "echóse",
+      "replacement": "se echó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 16,
+          "verse": 18
+        },
+        {
+          "chapter": 16,
+          "verse": 27
+        }
+      ],
+      "expected": "pusiéronse",
+      "replacement": "se pusieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 17,
+          "verse": 11
+        },
+        {
+          "chapter": 22,
+          "verse": 41
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 2
+        }
+      ],
+      "expected": "juntáronse",
+      "replacement": "se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 6
+        }
+      ],
+      "expected": "fuéronse",
+      "replacement": "se fueron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 21
+        },
+        {
+          "chapter": 22,
+          "verse": 23
+        }
+      ],
+      "expected": "apartóse",
+      "replacement": "se apartó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 20,
+          "verse": 29
+        }
+      ],
+      "expected": "hiciéronle",
+      "replacement": "le hicieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 22,
+          "verse": 27
+        },
+        {
+          "chapter": 31,
+          "verse": 14
+        }
+      ],
+      "expected": "enojóse",
+      "replacement": "se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 22,
+          "verse": 31
+        },
+        {
+          "chapter": 25,
+          "verse": 2
+        }
+      ],
+      "expected": "inclinóse",
+      "replacement": "se inclinó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 23,
+          "verse": 14
+        }
+      ],
+      "expected": "llevólo",
+      "replacement": "lo llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 24,
+          "verse": 25
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 27,
+          "verse": 23
+        }
+      ],
+      "expected": "dióle",
+      "replacement": "le dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "NUM",
+      "references": [
+        {
+          "chapter": 31,
+          "verse": 54
+        }
+      ],
+      "expected": "trajéronlo",
+      "replacement": "lo trajeron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PRO",
+      "references": [
+        {
+          "chapter": 31,
+          "verse": 28
+        }
+      ],
+      "expected": "Levantáronse",
+      "replacement": "Se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 22,
+          "verse": 15
+        }
+      ],
+      "expected": "Secóse",
+      "replacement": "Se secó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 29,
+          "verse": 6
+        },
+        {
+          "chapter": 78,
+          "verse": 13
+        }
+      ],
+      "expected": "hízolos",
+      "replacement": "los hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 32,
+          "verse": 4
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 35,
+          "verse": 11
+        }
+      ],
+      "expected": "Levantáronse",
+      "replacement": "Se levantaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 35,
+          "verse": 15
+        }
+      ],
+      "expected": "juntáronse",
+      "replacement": "se juntaron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 39,
+          "verse": 3
+        },
+        {
+          "chapter": 78,
+          "verse": 21
+        },
+        {
+          "chapter": 106,
+          "verse": 18
+        }
+      ],
+      "expected": "encendióse",
+      "replacement": "se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 40,
+          "verse": 1
+        }
+      ],
+      "expected": "inclinóse",
+      "replacement": "se inclinó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 78,
+          "verse": 14
+        },
+        {
+          "chapter": 78,
+          "verse": 52
+        }
+      ],
+      "expected": "llevólos",
+      "replacement": "los llevó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 78,
+          "verse": 15
+        },
+        {
+          "chapter": 78,
+          "verse": 24
+        },
+        {
+          "chapter": 78,
+          "verse": 66
+        },
+        {
+          "chapter": 105,
+          "verse": 44
+        }
+      ],
+      "expected": "dióles",
+      "replacement": "les dio",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 78,
+          "verse": 39
+        }
+      ],
+      "expected": "acordóse",
+      "replacement": "se acordó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 78,
+          "verse": 57
+        }
+      ],
+      "expected": "volviéronse",
+      "replacement": "se volvieron",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 78,
+          "verse": 59
+        }
+      ],
+      "expected": "enojóse",
+      "replacement": "se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 102,
+          "verse": 4
+        }
+      ],
+      "expected": "secóse",
+      "replacement": "se secó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 105,
+          "verse": 8
+        }
+      ],
+      "expected": "Acordóse",
+      "replacement": "Se acordó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 105,
+          "verse": 21
+        }
+      ],
+      "expected": "Púsolo",
+      "replacement": "Lo puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 105,
+          "verse": 24
+        }
+      ],
+      "expected": "hízolo",
+      "replacement": "lo hizo",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 106,
+          "verse": 31
+        }
+      ],
+      "expected": "fuéle",
+      "replacement": "le fue",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 106,
+          "verse": 40
+        }
+      ],
+      "expected": "Encendióse",
+      "replacement": "Se encendió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "PSA",
+      "references": [
+        {
+          "chapter": 106,
+          "verse": 41
+        }
+      ],
+      "expected": "entrególos",
+      "replacement": "los entregó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "RUT",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 6
+        }
+      ],
+      "expected": "volvióse",
+      "replacement": "se volvió",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "RUT",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 10
+        }
+      ],
+      "expected": "inclinóse",
+      "replacement": "se inclinó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "RUT",
+      "references": [
+        {
+          "chapter": 2,
+          "verse": 14
+        }
+      ],
+      "expected": "sentóse",
+      "replacement": "se sentó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "RUT",
+      "references": [
+        {
+          "chapter": 4,
+          "verse": 16
+        }
+      ],
+      "expected": "púsolo",
+      "replacement": "lo puso",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    },
+    {
+      "book": "ZEC",
+      "references": [
+        {
+          "chapter": 1,
+          "verse": 2
+        }
+      ],
+      "expected": "Enojóse",
+      "replacement": "Se enojó",
+      "category": "clear-archaic-finite-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción, sus participantes ni el contenido del versículo."
+    }
+  ]
+}
