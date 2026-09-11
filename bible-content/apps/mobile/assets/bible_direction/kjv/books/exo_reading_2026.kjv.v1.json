@@ -4,7 +4,7 @@
   "sourceVersionId": "KJV",
   "book": "EXO",
   "sourceContentSha256": "186183dfa76d0f190b4158884c3cc99edf9ee30094c17531412651f24dac9cc0",
-  "editorialStatus": "approved-minimal-comprehension-v3",
+  "editorialStatus": "approved-exodus-complete-context-v5",
   "normalizationId": "shine-kjv-visible-text-v1",
   "verses": [
     {
@@ -7383,8 +7383,8 @@
     }
   ],
   "ownerReview": {
-    "contentVersion": 3,
-    "review": "KJV round 3 complete-verse review",
+    "contentVersion": 5,
+    "review": "KJV Exodus complete-context review",
     "requiredFullTest": true
   }
 }

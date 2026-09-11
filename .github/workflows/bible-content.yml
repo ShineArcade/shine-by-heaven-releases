@@ -49,9 +49,8 @@ jobs:
       - name: Smoke-test source, signing, package, reason, and evidence
         run: node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs
 
-      - name: Apply and verify reviewed King James changes
+      - name: Verify reviewed King James changes
         run: |
-          node bible-content/apps/mobile/tool/apply_kjv_round3_reviews.mjs
           node bible-content/apps/mobile/tool/verify_kjv_reading_2026.mjs
           node bible-content/apps/mobile/tool/smoke_kjv_content_flow.mjs
 
