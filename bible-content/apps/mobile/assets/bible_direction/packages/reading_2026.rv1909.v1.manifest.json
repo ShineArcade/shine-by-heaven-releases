@@ -2,12 +2,12 @@
   "format": "shine-reading-filter-manifest",
   "filterId": "RV1909-LECTURA-2026",
   "schemaVersion": 1,
-  "contentVersion": 16,
+  "contentVersion": 17,
   "sourceVersionId": "RV1909",
   "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-  "contentSha256": "1f5217b5194e61541eb75663f447e41c2d60d97a01ad657cd9511c36918e0183",
-  "sizeBytes": 524935,
-  "expandedSizeBytes": 2696486,
+  "contentSha256": "223d284082f7ee2df3610e7955258429c4b5c1c4bf36a941471200e80eb57d6e",
+  "sizeBytes": 558604,
+  "expandedSizeBytes": 2950166,
   "mimeType": "application/vnd.shine.reading-filter+gzip",
   "generatedAt": "2026-09-11T00:00:00.000Z",
   "editorialPolicy": {
@@ -18,8 +18,8 @@
   "coverage": {
     "expectedBookCount": 66,
     "includedBookCount": 66,
-    "changedVerseCount": 5565,
-    "editCount": 6867
+    "changedVerseCount": 5873,
+    "editCount": 7322
   },
   "books": [
     {
@@ -45,9 +45,9 @@
       "order": 3,
       "sourceFile": "leviticus_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "960546880dab31f37a31eb231bd0aa046a3af436ea26fb5867a2dafd5c3f61aa",
-      "payloadSha256": "91c9532b404bf2185c608a7427b95934debb40bd241e65381444a53787ddac70",
-      "changedVerseCount": 52,
-      "editCount": 55
+      "payloadSha256": "17b180f7710741930254a1ffb28cf91802c6e42f560be2ff69bb118b6125abad",
+      "changedVerseCount": 360,
+      "editCount": 510
     },
     {
       "id": "NUM",

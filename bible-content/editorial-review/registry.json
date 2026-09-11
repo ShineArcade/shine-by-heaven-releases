@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "updatedAt": "2026-09-11T00:00:00.000Z",
   "sourceVersionId": "RV1909",
-  "activeChangeSet": "editorial-changes/v16.json",
+  "activeChangeSet": "editorial-changes/v17.json",
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs",
   "pending": [
@@ -3049,6 +3049,558 @@
         {
           "label": "Control contextual RVR1960 y NVI",
           "url": "https://www.biblegateway.com/passage/?search=Exodus+34%3A7&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-1",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "redaño",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La palabra puede designar grasa, membrana o lóbulo según la ubicación anatómica; no se sustituye de forma uniforme.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 1,
+          "verse": 8
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+1%3A8&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-2",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "olor suave",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Fórmula ritual recurrente; aroma agradable es claro, pero debe decidirse de forma coherente en todo el Pentateuco.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 1,
+          "verse": 9
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+1%3A9&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-3",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "olor de suavidad",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La misma fórmula ritual requiere una política uniforme antes de cambiarse.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 3,
+          "verse": 16
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+3%3A16&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-4",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "quebrantahuesos / esmerejón",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La identificación exacta de varias aves hebreas es incierta; se conserva la edición y se recomienda una nota.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 11,
+          "verse": 13
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+11%3A13&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-5",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "calamón / onocrótalo",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La identificación de las especies antiguas no es segura entre traducciones.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 11,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+11%3A18&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-6",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "aregol / haghab",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Los nombres antiguos de insectos no tienen equivalencia zoológica segura.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 11,
+          "verse": 22
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+11%3A22&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-7",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "lepra",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La palabra bíblica abarca diversas afecciones de piel y materiales; una sustitución global sería inexacta.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 13,
+          "verse": 2
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+13%3A2&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-8",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "empeine",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Las traducciones difieren entre erupción, eczema y manchas; se conserva hasta revisión médica y textual.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 13,
+          "verse": 39
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+13%3A39&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-9",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "estambre / trama",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Son términos técnicos de tejido; pueden necesitar una nota más que una sustitución.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 13,
+          "verse": 48
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+13%3A48&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-10",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "aguas vivas",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La imagen significa agua corriente o fresca; se conserva hasta decidir si debe aclararse sin perder la imagen.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 14,
+          "verse": 5
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+14%3A5&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-11",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "cubierta",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Designa la cubierta expiatoria del arca; requiere una política terminológica uniforme con propiciatorio.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 16,
+          "verse": 2
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+16%3A2&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-12",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "Azazel",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "El referente de Azazel es discutido; se conserva el nombre y no se interpreta dentro del texto.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 16,
+          "verse": 8
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+16%3A8&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-13",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "descubrir su desnudez",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Es un eufemismo jurídico hebreo; una paráfrasis puede perder matices de parentesco y prohibición.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 18,
+          "verse": 6
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+18%3A6&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-14",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "Moloch",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Se conserva el nombre histórico; la grafía Moloc puede resolverse después de una política de nombres propios.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 18,
+          "verse": 21
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+18%3A21&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-15",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "ambos serán azotados",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La cláusula hebrea y las traducciones modernas difieren sobre pena e investigación; no se modifica sin estudio textual específico.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 19,
+          "verse": 20
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+19%3A20&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-16",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "su sangre será sobre él",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Fórmula legal antigua que requiere una política consistente en todos los pasajes penales.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 20,
+          "verse": 9
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+20%3A9&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-17",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "falto, ó sobrado",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La descripción física exacta es incierta; se conserva para una revisión textual especializada.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 21,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+21%3A18&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-18",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "verrugoso / roñoso",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La identificación exacta de los defectos del animal varía entre traducciones.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 22,
+          "verse": 22
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+22%3A22&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-19",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "entre las dos tardes",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Expresión temporal técnica; las interpretaciones divergen y no debe simplificarse sin nota.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 23,
+          "verse": 5
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+23%3A5&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-20",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "omer",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "El texto parece usar omer para la gavilla mecida, no solo como medida; se conserva hasta revisión terminológica.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 23,
+          "verse": 10
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+23%3A10&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-21",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "usura / aumento",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Los términos económicos tienen alcance legal y requieren revisión conjunta del versículo.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 25,
+          "verse": 36
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+25%3A36&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-22",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "corazón incircunciso",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Imagen teológica deliberada; se conserva aunque necesite explicación.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 26,
+          "verse": 41
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+26%3A41&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "leviticus-v17-23",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "estimación",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Es un término técnico de valoración de votos; puede aclararse con interfaz o nota sin alterar el texto.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 27,
+          "verse": 2
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+27%3A2&version=RVR1960%3BNVI"
         }
       ]
     }
