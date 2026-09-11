@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "2TI",
+  "sourceContentSha256": "5eacfdcb51615b18dd00b831ff8e9042524cf0f9b9a9b5801b20334d890bc165",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 2,
+      "verse": 15,
+      "sourceTextSha256": "054094249044ab2d8e6d7eea1d964485940affa0cc4cbb3a688550a45fa15159",
+      "edits": [
+        {
+          "startOffset": 9,
+          "endOffset": 13,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "sourceTextSha256": "c4b01a804a2e7e51be700f605e0ae21b3bb9d3c696d0a3edba55429167f06fa8",
+      "edits": [
+        {
+          "startOffset": 36,
+          "endOffset": 45,
+          "expected": "throughly",
+          "replacement": "thoroughly",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "sourceTextSha256": "466a2b002cb1bd0de4c2597b756dd8bd82adfd0a753600011e458528c3ae35dd",
+      "edits": [
+        {
+          "startOffset": 83,
+          "endOffset": 101,
+          "expected": "quick and the dead",
+          "replacement": "living and the dead",
+          "category": "semantic-false-friend",
+          "reason": "Quick contrasts directly with dead and therefore means living.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/wordplay/quick-word-history"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

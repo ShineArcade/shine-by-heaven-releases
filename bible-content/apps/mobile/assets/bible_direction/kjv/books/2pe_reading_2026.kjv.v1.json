@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "2PE",
+  "sourceContentSha256": "734ded257af6fe9080a8eb0624c693bccbe7d2d3392d4e5bbfa6df19cd08b2dd",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 14,
+      "sourceTextSha256": "d77ef2088c33dcf0376b9f9870851096d0e87f598f0a70b692ea3b3d4eafeac7",
+      "edits": [
+        {
+          "startOffset": 91,
+          "endOffset": 97,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "sourceTextSha256": "2717a1f3bd61abc007ac506e2b633c444ed3b60776c663fb0f34f74a9418bae5",
+      "edits": [
+        {
+          "startOffset": 78,
+          "endOffset": 83,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "sourceTextSha256": "91c02d7a2f0479df2461f278cd96c7e5114bfe275ebe8f6106977e4d691eb54e",
+      "edits": [
+        {
+          "startOffset": 106,
+          "endOffset": 113,
+          "expected": "privily",
+          "replacement": "privately",
+          "category": "clear-archaic-english",
+          "reason": "Approved conservative v1 replacement for privily."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "sourceTextSha256": "29d79303ac29d5909662458b62e3affdc9d170aee84e2ecd74ef9e1d7999a446",
+      "edits": [
+        {
+          "startOffset": 105,
+          "endOffset": 113,
+          "expected": "ensample",
+          "replacement": "example",
+          "category": "archaic-noun",
+          "reason": "Ensample is the archaic form of example; the destroyed cities serve as a warning to later ungodly people.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/ensample"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "sourceTextSha256": "6a536fd30eb5caa5dfdfcf40825bb792199c6073d64267bc2a186bf6cc86c341",
+      "edits": [
+        {
+          "startOffset": 46,
+          "endOffset": 58,
+          "expected": "conversation",
+          "replacement": "conduct",
+          "category": "semantic-false-friend",
+          "reason": "Lot is distressed by the wicked people’s conduct, not by their dialogue.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "sourceTextSha256": "1fe435876180f0923c6c4f081959b71699b613cc1fdfd3a7376ee1c1adfac977",
+      "edits": [
+        {
+          "startOffset": 104,
+          "endOffset": 116,
+          "expected": "conversation",
+          "replacement": "conduct",
+          "category": "semantic-false-friend",
+          "reason": "The call concerns a holy manner of life and godliness.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

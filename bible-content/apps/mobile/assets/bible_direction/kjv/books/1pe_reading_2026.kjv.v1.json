@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "1PE",
+  "sourceContentSha256": "a337c67486d6aaf15f2b241569f1b044be841b27e27db4bb888fcb8bd267f651",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 15,
+      "sourceTextSha256": "ed5ea48d1ab0b9fb19eee8dfb11b57a00fcf493ff749274884dc6d21326708f5",
+      "edits": [
+        {
+          "startOffset": 72,
+          "endOffset": 84,
+          "expected": "conversation",
+          "replacement": "conduct",
+          "category": "semantic-false-friend",
+          "reason": "Conversation refers to the believer’s whole manner of life, not only speech.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "sourceTextSha256": "7a5180d90ab738341e4e1b185729fbccc9608c583904fac0ccea60f841f39257",
+      "edits": [
+        {
+          "startOffset": 102,
+          "endOffset": 119,
+          "expected": "vain conversation",
+          "replacement": "vain way of life",
+          "category": "semantic-false-friend",
+          "reason": "The inherited pattern being described is a way of life, not merely spoken conversation.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "sourceTextSha256": "79a7d0a89e890ea5e15b35104f3c47b1f7db3a087989e1e744624b7a3bc86cdb",
+      "edits": [
+        {
+          "startOffset": 102,
+          "endOffset": 106,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "sourceTextSha256": "8a8bbb0b9e5d209cf28a689b0209302b5861f2578e84b66f145eaca7d82f40ff",
+      "edits": [
+        {
+          "startOffset": 12,
+          "endOffset": 24,
+          "expected": "conversation",
+          "replacement": "conduct",
+          "category": "semantic-false-friend",
+          "reason": "The surrounding contrast with good works shows that conversation means visible conduct.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "sourceTextSha256": "7cac3ad20d48567017e9af756b02b247e04caa89b3d237cdebb3b7f610da3b57",
+      "edits": [
+        {
+          "startOffset": 136,
+          "endOffset": 148,
+          "expected": "conversation",
+          "replacement": "conduct",
+          "category": "semantic-false-friend",
+          "reason": "The wives’ conduct, even without a spoken word, is what may win the husbands.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "sourceTextSha256": "db8a74767c8d871e27ad8e5e0bc3ea8b0187c6ac4c8afe259feb3e8faf7abc75",
+      "edits": [
+        {
+          "startOffset": 30,
+          "endOffset": 42,
+          "expected": "conversation",
+          "replacement": "conduct",
+          "category": "semantic-false-friend",
+          "reason": "What is observed is chaste conduct, not a verbal exchange.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "sourceTextSha256": "d2b8976f1ddaade710db74a646a16948f3290984f466a6ae99dda71e484fb666",
+      "edits": [
+        {
+          "startOffset": 8,
+          "endOffset": 19,
+          "expected": "eschew evil",
+          "replacement": "turn away from evil",
+          "category": "archaic-command",
+          "reason": "Eschew is an archaic command to avoid or turn away from evil; the following command to do good remains intact.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/eschew"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "sourceTextSha256": "3cc782c5ff93336ed9f9160a8c8a35cc4a147542346300659dc5ccde30ec2fd7",
+      "edits": [
+        {
+          "startOffset": 131,
+          "endOffset": 143,
+          "expected": "conversation",
+          "replacement": "conduct",
+          "category": "semantic-false-friend",
+          "reason": "The accusers observe and misrepresent Christian conduct, not a single conversation.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "sourceTextSha256": "be245d7115d2f2ecdd5c1b0c18646732fb29232df8bcd59e8b96296824ef0e56",
+      "edits": [
+        {
+          "startOffset": 57,
+          "endOffset": 75,
+          "expected": "quick and the dead",
+          "replacement": "living and the dead",
+          "category": "semantic-false-friend",
+          "reason": "Quick contrasts directly with dead and therefore means living.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/wordplay/quick-word-history"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

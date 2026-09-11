@@ -47,15 +47,13 @@ Equal-version/different-hash releases are rejected as conflicts. Downgrades,
 bad signatures, wrong corpus hashes, corrupt downloads and incomplete packages
 must leave the last known valid revision active.
 
-## KJV limitation
+## KJV channel
 
-`KJV-READING-2026` is currently bundled independently in Mobile, Desktop and
-Website. It is **not yet distributed by this signed runtime channel**. Therefore
-KJV is `NOT_READY_SINGLE_SOURCE_DISTRIBUTION`, even though its current package
-can be parity-checked across the three source repositories.
-
-Do not add KJV as a third artifact to the existing v1 channel: released v1
-clients require exactly the RV1909 corpus plus its reading filter and would
-reject that incompatible shape. KJV needs a separate signed channel (or a
-backward-compatible v2 receiver) and consumer tests before it can be called an
-automatic one-source update.
+`KJV-READING-2026` uses the separate signed pointer
+`channel/kjv-channel-stable.json`. It is intentionally not added as a third
+artifact to the RV1909 v1 channel because released v1 clients require exactly
+the original two-artifact shape. Consumers must verify the same Ed25519 trust
+key, the pinned KJV corpus hash, the monotonic KJV content version, and the
+downloaded artifact before an atomic install. Until each consumer receiver has
+passed its integration test, publication of the pointer is described as
+available, while receipt remains independently verified per consumer.

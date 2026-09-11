@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "NAM",
+  "sourceContentSha256": "2df194fb3cf750382b2839f252932e45814529f1da43a47b40aee337ec4fa765",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 3,
+      "verse": 5,
+      "sourceTextSha256": "bd5ff4d88e03286c2d7e74d7e7d80baab572facd87f2e60d520e5a28dfc45bba",
+      "edits": [
+        {
+          "startOffset": 109,
+          "endOffset": 113,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "sourceTextSha256": "7a2f9e49854c057c02ad5a44f74b5402541b72a50940560a2dd5b453c662a40a",
+      "edits": [
+        {
+          "startOffset": 86,
+          "endOffset": 92,
+          "expected": "morter",
+          "replacement": "mortar",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "sourceTextSha256": "faf03aaf3be79273141a5b7f718106d98dfec41556c202cfb20ed58efe6ec3a8",
+      "edits": [
+        {
+          "startOffset": 67,
+          "endOffset": 89,
+          "expected": "hear the bruit of thee",
+          "replacement": "hear the news about thee",
+          "category": "context-reviewed-report",
+          "reason": "Bruit here is the report or news of Nineveh’s fall that causes the hearers to clap, not a physical murmur.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/bruit"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

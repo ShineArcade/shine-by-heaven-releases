@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "HEB",
+  "sourceContentSha256": "16c0c0b3be0a123a9280dd602d3cf80254aa5a7b5b956260e8ee6976a2829b5d",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "sourceTextSha256": "a86d830ac6435d4eee2feeba6eeee174a8ed5cb47e4f31f4d7d92e59996b384e",
+      "edits": [
+        {
+          "startOffset": 47,
+          "endOffset": 52,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "sourceTextSha256": "0326eb06311aa9a751e4ed075c3b577f32dd955b9695e73cbcd515c8c2421977",
+      "edits": [
+        {
+          "startOffset": 64,
+          "endOffset": 69,
+          "expected": "alway",
+          "replacement": "always",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "sourceTextSha256": "7b24ca00a94cee6270ce2500cf99fccb4ed31517fa7840659e3fb1a0dd91f82d",
+      "edits": [
+        {
+          "startOffset": 5,
+          "endOffset": 10,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "sourceTextSha256": "7bb5a013480a0e76ed15344a6c4b4d009701519933ae4b633d2ad378d0bcfb70",
+      "edits": [
+        {
+          "startOffset": 12,
+          "endOffset": 17,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "sourceTextSha256": "e3f70132fc6e1e4f891fbbb5209cf125a9aaf48c4d118743fc3b1ddd8a111559",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 12,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "sourceTextSha256": "dbc7d0767e476a295407102885f44df88518964a919ffe6d0d8c61afd313d944",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 42,
+          "expected": "is quick, and powerful",
+          "replacement": "is living, and powerful",
+          "category": "semantic-false-friend",
+          "reason": "Quick describes the word of God as living, not merely fast.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/wordplay/quick-word-history"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "sourceTextSha256": "e244c7be0a2e2b00aa28ab5e7eed9ad75e15d2e1bde8ed16658d43db580fe3d0",
+      "edits": [
+        {
+          "startOffset": 81,
+          "endOffset": 87,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "sourceTextSha256": "7edc27d9a05e8085f9639b40aab02f0e506642278cbd9493fd3bdb01afc09e44",
+      "edits": [
+        {
+          "startOffset": 39,
+          "endOffset": 43,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "sourceTextSha256": "acaf2b3e09f1da3c31e34b6438013fe3ffcbd2d7977728eff1a0225c99465997",
+      "edits": [
+        {
+          "startOffset": 79,
+          "endOffset": 84,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "sourceTextSha256": "da38c9692701c781094167f4b074598b6090f24769885791ebe2054bd400db7a",
+      "edits": [
+        {
+          "startOffset": 41,
+          "endOffset": 45,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "sourceTextSha256": "dd6fb5828311b701eafe07f8baca35d08e206f7bf631eac6af89a638e0119c20",
+      "edits": [
+        {
+          "startOffset": 73,
+          "endOffset": 78,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "sourceTextSha256": "edb2700749b9ce1361cf25483af309e4e5cae0bec65e3e97a85743de0657c97b",
+      "edits": [
+        {
+          "startOffset": 104,
+          "endOffset": 109,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "sourceTextSha256": "93ddc525d251736a126a2697aa9dbb9d9abc49c774f9a98d71b13ceb2ba930de",
+      "edits": [
+        {
+          "startOffset": 202,
+          "endOffset": 208,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 25,
+      "sourceTextSha256": "e5c39e1facec8f39e5505310f46e9f983d203b82b2b06938a05b2eadade0bf21",
+      "edits": [
+        {
+          "startOffset": 87,
+          "endOffset": 92,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "sourceTextSha256": "b2e05407941b232a4cb0543fcdb417c4598694ccb86292ab5bf517d830359694",
+      "edits": [
+        {
+          "startOffset": 9,
+          "endOffset": 21,
+          "expected": "conversation",
+          "replacement": "conduct",
+          "category": "semantic-false-friend",
+          "reason": "The instruction concerns a life free from covetousness and content with present provision.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "sourceTextSha256": "e2623ea4bb511ed94a1447e1d301b4f126b45aeb02d847910ec9fa204155a8d4",
+      "edits": [
+        {
+          "startOffset": 135,
+          "endOffset": 147,
+          "expected": "conversation",
+          "replacement": "way of life",
+          "category": "semantic-false-friend",
+          "reason": "Readers are told to consider the outcome of their leaders’ way of life.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

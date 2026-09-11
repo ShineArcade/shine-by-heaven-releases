@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "2CO",
+  "sourceContentSha256": "f1dcf8ab52f54d0e55c39da1c570b97aefd0fa54bcb1226decffc4478125f7a4",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 12,
+      "sourceTextSha256": "3f8b78c8f758411e39ba5df7a2579eb7c1a9efb9c612ed2dffc695f52c810ce5",
+      "edits": [
+        {
+          "startOffset": 150,
+          "endOffset": 191,
+          "expected": "we have had our conversation in the world",
+          "replacement": "we have conducted ourselves in the world",
+          "category": "contextual-phrase",
+          "reason": "The testimony concerns how Paul and his companions behaved in the world.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "sourceTextSha256": "d981a0acfb89ebd7685d903954f36e0124e9d23895274368aac1db6a7e827c44",
+      "edits": [
+        {
+          "startOffset": 22,
+          "endOffset": 27,
+          "expected": "alway",
+          "replacement": "always",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "sourceTextSha256": "c21c4559ca90e0d55a8176add31d195ef394767090f70e662ab8ed1bc8dc5e03",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 23,
+          "expected": "alway",
+          "replacement": "always",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "sourceTextSha256": "e457ed343374ada29fa1f4118f0c81ecdd3fb6d2cb5780e13286fb6252129818",
+      "edits": [
+        {
+          "startOffset": 75,
+          "endOffset": 80,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 24,
+      "sourceTextSha256": "ab946b2b8f29c748a9e3dafcfcd85000763ad098d2b16d49436d896527b597f3",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 14,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "sourceTextSha256": "461550cc049c0a77bab435259edd2e466f15edebd9a8088d9f6960226397fa7a",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 6,
+          "expected": "Whiles",
+          "replacement": "While",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "sourceTextSha256": "44322fd51fa69afb9a2c8224b4b21a9799c272b790b3d5fd8bbce53b9e52a107",
+      "edits": [
+        {
+          "startOffset": 71,
+          "endOffset": 80,
+          "expected": "throughly",
+          "replacement": "thoroughly",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 25,
+      "sourceTextSha256": "ab3c7af34571987d3809b9a860398f786e7d429d81e50829b41df800f17218ce",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 6,
+          "expected": "Thrice",
+          "replacement": "Three times",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        },
+        {
+          "startOffset": 50,
+          "endOffset": 56,
+          "expected": "thrice",
+          "replacement": "three times",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "sourceTextSha256": "55cbd16ed5f4956f3c746664d07299e3a0e638922d43aa3097499128c8e4d412",
+      "edits": [
+        {
+          "startOffset": 35,
+          "endOffset": 41,
+          "expected": "thrice",
+          "replacement": "three times",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

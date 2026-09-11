@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "1TI",
+  "sourceContentSha256": "917e64cfa037ac94952199c097b4fa661532bbb3f0c651dc8cc7a27dc679d2c5",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 16,
+      "sourceTextSha256": "865476ce6101c3c19b505022758c33302a0b7bf20cb21fa2e5d147e05b179ff7",
+      "edits": [
+        {
+          "startOffset": 77,
+          "endOffset": 81,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "sourceTextSha256": "fbcb46afd486708b652f063ea9c1d5f4e1a130539a05a8f7632f7d90258275d2",
+      "edits": [
+        {
+          "startOffset": 83,
+          "endOffset": 95,
+          "expected": "conversation",
+          "replacement": "conduct",
+          "category": "semantic-false-friend",
+          "reason": "Conversation is one category of Timothy’s example alongside speech, love, faith and purity, so it means conduct.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "sourceTextSha256": "b0c80c6abc9acf6fa89da83d6a4154e27092656c2179cf039ff31df3758d5d57",
+      "edits": [
+        {
+          "startOffset": 67,
+          "endOffset": 71,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "sourceTextSha256": "a315ae976a6e7903424f16867ff268601d5d7269147ca67d879862c1896426fc",
+      "edits": [
+        {
+          "startOffset": 28,
+          "endOffset": 32,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

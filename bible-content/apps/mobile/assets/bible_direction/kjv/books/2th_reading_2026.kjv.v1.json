@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "2TH",
+  "sourceContentSha256": "35925a242ed3a3e6370ac9f3c4c9949fe7793e765cb0da66b6e400c3a97147a4",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 2,
+      "verse": 13,
+      "sourceTextSha256": "08e436db2f0b3156bdac49316e0d00cb49dcd3beecc3bea6b9df65a9ab1cda20",
+      "edits": [
+        {
+          "startOffset": 32,
+          "endOffset": 37,
+          "expected": "alway",
+          "replacement": "always",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "sourceTextSha256": "1563c94d06428edf87ec3e8955f3175aa1c46ecf6b24637faad9900f1e3e76c5",
+      "edits": [
+        {
+          "startOffset": 56,
+          "endOffset": 64,
+          "expected": "ensample",
+          "replacement": "example",
+          "category": "archaic-noun",
+          "reason": "Ensample is the archaic form of example; Paul describes conduct the readers can follow.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/ensample"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

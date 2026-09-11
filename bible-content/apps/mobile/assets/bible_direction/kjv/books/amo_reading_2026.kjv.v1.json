@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "AMO",
+  "sourceContentSha256": "37d6262cd43fd4e5763992357db175d625296cb4fdee65578823bbd660bd382d",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 4,
+      "verse": 7,
+      "sourceTextSha256": "bceb28cf1892c4fe48bd2744aa7a47927f267bd5137d50a6bd8e0ddf6450107b",
+      "edits": [
+        {
+          "startOffset": 16,
+          "endOffset": 26,
+          "expected": "withholden",
+          "replacement": "withheld",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "sourceTextSha256": "8045586f876b2a5cbbc498731ffba3ab2b51451427c8b0f263cbe44947eb630b",
+      "edits": [
+        {
+          "startOffset": 23,
+          "endOffset": 29,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "sourceTextSha256": "f0548a3ab4b82074730b788acaf016f93bdd31079833b64633e9a3316bed3c3c",
+      "edits": [
+        {
+          "startOffset": 25,
+          "endOffset": 31,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "sourceTextSha256": "15edb850cb979a4e7a81877420ab806b06cf64ed937cca9067120e2ae47c9de3",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 16,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "sourceTextSha256": "e2e8488dd4932213616490498da704f46c5f4c856ce274bdd0793e293b412be4",
+      "edits": [
+        {
+          "startOffset": 23,
+          "endOffset": 29,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "sourceTextSha256": "d60f64e58e53c0dec6f9a517dff3e9cc53d9e794355ee97e69b7ac7dcff35dba",
+      "edits": [
+        {
+          "startOffset": 96,
+          "endOffset": 106,
+          "expected": "prevent us",
+          "replacement": "meet us",
+          "category": "semantic-false-friend",
+          "reason": "The speakers deny that disaster will overtake or meet them; modern prevent would reverse the claim.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/prevent"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

@@ -1,0 +1,1019 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "GEN",
+  "sourceContentSha256": "98635839e8725b634d5f10b3349ac3c5f96b9705016d86aaa58de4fdeff52ab0",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 8,
+      "verse": 15,
+      "sourceTextSha256": "020c4bde421f0967a8b537ee980610a067ae7a04e76e0d876de93058b97ed1dc",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 15,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "sourceTextSha256": "d8bcbe49f5aab309088ff7b6d5763a7467ba22904dc81a66ffdb87945b702700",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 15,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "sourceTextSha256": "a520cedf13238c36def86d496b92f210c4bc35c3cddf224620a343104daa3586",
+      "edits": [
+        {
+          "startOffset": 70,
+          "endOffset": 79,
+          "expected": "throughly",
+          "replacement": "thoroughly",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 134,
+          "endOffset": 140,
+          "expected": "morter",
+          "replacement": "mortar",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "sourceTextSha256": "8e1fd9b55a23ba11da1a27831e83cf782c4a576831ba67c3e06dcff2ec3dd200",
+      "edits": [
+        {
+          "startOffset": 138,
+          "endOffset": 142,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 13,
+      "sourceTextSha256": "66086ef26af14f2a0027397a2d760317f9ee427a83d75835cffb49cf9dcd2627",
+      "edits": [
+        {
+          "startOffset": 41,
+          "endOffset": 46,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 29,
+      "sourceTextSha256": "f06920d283f99d09c8d7f3e76c38c41af18dac9ca736c5b0cf6b5dc01185169e",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 12,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 14,
+      "sourceTextSha256": "b3e26eaa6adf3f70e0d265d2bf4cf492ac4c1d32ba5d0f562bb7a4cacc8ccfaf",
+      "edits": [
+        {
+          "startOffset": 22,
+          "endOffset": 27,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 19,
+      "sourceTextSha256": "1d3ed3779e640f6c246ae38a237e466e4873a9c4e8068843da82f0abf5fcaa5c",
+      "edits": [
+        {
+          "startOffset": 106,
+          "endOffset": 112,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 13,
+      "sourceTextSha256": "e879e69f1c8c0f04c4aa2de4d4653a3fe6a302e11302bd6175229c1bde5c793b",
+      "edits": [
+        {
+          "startOffset": 134,
+          "endOffset": 138,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 22,
+      "sourceTextSha256": "8f172c670726543ae730582a25bb944bcd9be6921302dab98a3ebcab5908e05a",
+      "edits": [
+        {
+          "startOffset": 93,
+          "endOffset": 98,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 26,
+      "sourceTextSha256": "8a5148bea8182a7a932c26e9c3be83f78685b67e8825944070ff0f617e15620e",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 33,
+          "expected": "I wot not who",
+          "replacement": "I do not know who",
+          "category": "archaic-knowledge-verb",
+          "reason": "Wot is the archaic verb know. Abimelech denies knowing who dug the well.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/wot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 31,
+      "sourceTextSha256": "cdbfd72e7ee30cea942e76f5dce8107c4ad62884d99a685ddfacacf316f9f43b",
+      "edits": [
+        {
+          "startOffset": 62,
+          "endOffset": 67,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 7,
+      "sourceTextSha256": "0d56533198f7d81ad1cf5bfa0751762461884ec869f82b437bd5d379fc1629c5",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 15,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 3,
+      "sourceTextSha256": "55b9fa37ee4a61f3bdcd4686d32d88a3cbcf43f1a9c40fea7400aea63c6747fb",
+      "edits": [
+        {
+          "startOffset": 49,
+          "endOffset": 54,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 13,
+      "sourceTextSha256": "7832d59a955e23128453efdd3494b9939090ab79e2b66a60c422a815df92042a",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 12,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 7,
+      "sourceTextSha256": "e6009f1637c5817c59f57983dd7ba3f9d692fdd080b4ca23d3d69a448cc29169",
+      "edits": [
+        {
+          "startOffset": 107,
+          "endOffset": 112,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 131,
+          "endOffset": 136,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 9,
+      "sourceTextSha256": "a5d64e7f2b921961331443b5d5fbdaa0a367ec3c9d2323c1bbc95f41bc9320af",
+      "edits": [
+        {
+          "startOffset": 72,
+          "endOffset": 77,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 12,
+      "sourceTextSha256": "57df70031321a0d6ed5061b5b7b01ea8444c53f8959a471a51157e464716e78e",
+      "edits": [
+        {
+          "startOffset": 92,
+          "endOffset": 96,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 14,
+      "sourceTextSha256": "83eb396352e083891f6e5421cf368636e794ca46d46cf6efaa2d41544f3b58ff",
+      "edits": [
+        {
+          "startOffset": 288,
+          "endOffset": 294,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 30,
+      "sourceTextSha256": "47196ccbe8beb34de2b5961d3a5d62b812158d86224c31c66f795d9cdfeb25f8",
+      "edits": [
+        {
+          "startOffset": 148,
+          "endOffset": 153,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 33,
+      "sourceTextSha256": "2cccbdcf7104d8d7b9e85715e56f0a2829955bbb53da9638ca79d4f3001f63ce",
+      "edits": [
+        {
+          "startOffset": 45,
+          "endOffset": 50,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 3,
+      "sourceTextSha256": "3856786c8d7e2255353087b4988cd387da161be3b3747a2b41e3ae590bf1abfb",
+      "edits": [
+        {
+          "startOffset": 171,
+          "endOffset": 176,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 31,
+      "sourceTextSha256": "68a43cb332cbc7eda3367224a408b5edcf08d0a3879efeddf288b72f40cacf28",
+      "edits": [
+        {
+          "startOffset": 45,
+          "endOffset": 50,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 5,
+      "sourceTextSha256": "6494f8aaabc988f57286df52cd4bf536e9d27d29317ddfe2acbd92e1e46e3515",
+      "edits": [
+        {
+          "startOffset": 29,
+          "endOffset": 34,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 6,
+      "sourceTextSha256": "14be674ed936d471c1c4dd7d32e8059949011b911a72bed8c1e01d0cacabc293",
+      "edits": [
+        {
+          "startOffset": 14,
+          "endOffset": 19,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 9,
+      "sourceTextSha256": "e3670dd3e661135602e6fa803574607653fd6625527ea927fead0ed28ac35897",
+      "edits": [
+        {
+          "startOffset": 19,
+          "endOffset": 24,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verse": 37,
+      "sourceTextSha256": "41174f716f289043ae3dc5323c9b1c05d08b7749718871d39cf0600697ab5a79",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 88,
+          "expected": "pilled",
+          "replacement": "peeled",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verse": 38,
+      "sourceTextSha256": "be83a7b5cb317a0c491862461e9a1e206f692595cb7627606a7adf95ed483d3e",
+      "edits": [
+        {
+          "startOffset": 33,
+          "endOffset": 39,
+          "expected": "pilled",
+          "replacement": "peeled",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 11,
+      "sourceTextSha256": "fd413030066da189f9e51f8d0a1b1b9085e7643bd9d90c4b5a290259d2cceef4",
+      "edits": [
+        {
+          "startOffset": 21,
+          "endOffset": 26,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 29,
+      "sourceTextSha256": "463c3ba744c53d20eda1617cf4936a8d209e5e69fbac37d741006ef5df2a6969",
+      "edits": [
+        {
+          "startOffset": 73,
+          "endOffset": 78,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 53,
+      "sourceTextSha256": "1fcd7dc353ed89b422f1f735102eee434360c4602213098d4db1e0fabd75f06f",
+      "edits": [
+        {
+          "startOffset": 95,
+          "endOffset": 100,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 10,
+      "sourceTextSha256": "fce2de18b58358d0be73aa3d927f75bcbec0ca628fad5688cc0beb129af26d01",
+      "edits": [
+        {
+          "startOffset": 87,
+          "endOffset": 93,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "verse": 3,
+      "sourceTextSha256": "7173f85e99959e145214df416c4f7babaeaecbc29842abf1fdf4ed5a94c2207b",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 87,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "verse": 4,
+      "sourceTextSha256": "cee06f0099a18d5fb46f3ef5e95021eb66ddb40f8290c9bcc473e58a48c36f08",
+      "edits": [
+        {
+          "startOffset": 12,
+          "endOffset": 17,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 15,
+      "sourceTextSha256": "f76079ecc39b4a9efd9bbce13842d649b66a16462e13b3a87d62b07e64e04ff9",
+      "edits": [
+        {
+          "startOffset": 49,
+          "endOffset": 54,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "verse": 10,
+      "sourceTextSha256": "458d094d6c1d66575049b7a5adcb919d68644bd4a29ec3438504db248d42037d",
+      "edits": [
+        {
+          "startOffset": 28,
+          "endOffset": 33,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "verse": 14,
+      "sourceTextSha256": "475ccff12be15009687741c599fe5f38e05ea2cb17e8e0a44aa68b642af039c8",
+      "edits": [
+        {
+          "startOffset": 47,
+          "endOffset": 52,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "verse": 17,
+      "sourceTextSha256": "22c711493eeda96390d678f0669347a166f19ef84cef6576493418410490adb1",
+      "edits": [
+        {
+          "startOffset": 8,
+          "endOffset": 13,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "verse": 19,
+      "sourceTextSha256": "49dfc2c271f9dc753ecfbdba10ab57147752fcb9d1b5910e14db3b8b45701355",
+      "edits": [
+        {
+          "startOffset": 76,
+          "endOffset": 81,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "verse": 21,
+      "sourceTextSha256": "5424bdfc4fdcbf8ccf5cd39165e61dff9b00cbc430409be5528da00a661c2efd",
+      "edits": [
+        {
+          "startOffset": 36,
+          "endOffset": 42,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "verse": 14,
+      "sourceTextSha256": "c5f333314f9cb1f5e641d0575a9aecba8c4188b93c9ff4a627ade418cccf0180",
+      "edits": [
+        {
+          "startOffset": 53,
+          "endOffset": 57,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "verse": 9,
+      "sourceTextSha256": "39ca86bb7c75998923df65db3a0e1a9e4dc0ecee284f45721d646ab44f1f2917",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 12,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "verse": 25,
+      "sourceTextSha256": "08ac24c9311b60d9982061b5fbfffc5d3efc603a0c15cd1988e7b2c41d9a463f",
+      "edits": [
+        {
+          "startOffset": 70,
+          "endOffset": 76,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "verse": 39,
+      "sourceTextSha256": "3f6ce473a23881c88dc7fb4536d9e722a56324bcba44a704f82f394b5a7953f1",
+      "edits": [
+        {
+          "startOffset": 52,
+          "endOffset": 58,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verse": 7,
+      "sourceTextSha256": "34a56256479ea4a74b923146f6b26053ede7666a5659240d4d707a56710725e1",
+      "edits": [
+        {
+          "startOffset": 87,
+          "endOffset": 92,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verse": 14,
+      "sourceTextSha256": "8c57cecb597f880c9fcc143ef135952a3046e3be34b44d347db90f3ac16626ac",
+      "edits": [
+        {
+          "startOffset": 45,
+          "endOffset": 50,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verse": 22,
+      "sourceTextSha256": "e52aee860e171f8c4cc0b1e6d2f949a5aeb99ca0cc8756dd1de632e9be909f4c",
+      "edits": [
+        {
+          "startOffset": 34,
+          "endOffset": 39,
+          "expected": "Spake",
+          "replacement": "Spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verse": 23,
+      "sourceTextSha256": "c72ba9eca25bf04be8eb910fc98e5f94aa979730e9508f3474669582ef9a0d9e",
+      "edits": [
+        {
+          "startOffset": 54,
+          "endOffset": 59,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verse": 30,
+      "sourceTextSha256": "d3eb44fc790b8972ee7e2c936fa685b089fb5251974f8a9ad4b89f5aa3010daa",
+      "edits": [
+        {
+          "startOffset": 38,
+          "endOffset": 43,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verse": 37,
+      "sourceTextSha256": "205effb4e0fc537e6b173dce13b3344f41235ff96c6fc6d0bb0bf0c28a731e9d",
+      "edits": [
+        {
+          "startOffset": 11,
+          "endOffset": 16,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "verse": 3,
+      "sourceTextSha256": "c5b3e75b2b5980408edda74d4ba6e0342ef89949e19e54e02601cbba0e27aef2",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 15,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "verse": 27,
+      "sourceTextSha256": "0b92f20cedf6348a225dc1fb382ce25fb8f7aa999d0b6b5d59e7c31b1376d319",
+      "edits": [
+        {
+          "startOffset": 90,
+          "endOffset": 95,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "verse": 29,
+      "sourceTextSha256": "c67a36189fd7c2af332f02a25cbee94cf590f1cc95abf5a1f917fea12cbaa571",
+      "edits": [
+        {
+          "startOffset": 126,
+          "endOffset": 131,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "verse": 6,
+      "sourceTextSha256": "f5a833792cb7df80cfedc10cb7e5178d3c53e3fd05423e9c6178ab57d15348fd",
+      "edits": [
+        {
+          "startOffset": 31,
+          "endOffset": 36,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "verse": 15,
+      "sourceTextSha256": "ef2d9db3475134c3a2888258c88640da1bae8b84f7b92cb09e7f80fb2ef34264",
+      "edits": [
+        {
+          "startOffset": 64,
+          "endOffset": 79,
+          "expected": "wot ye not that",
+          "replacement": "do you not know that",
+          "category": "context-reviewed-obsolete-verb",
+          "reason": "Wot is an obsolete form of know. The Hebrew question, the close NKJV comparison, and the American ASV control all preserve a direct question without changing Joseph’s claim about divination.",
+          "evidence": [
+            {
+              "label": "KJV, NKJV, and ASV comparison",
+              "url": "https://www.biblegateway.com/passage/?search=Genesis%2044%3A15&version=KJV%3BNKJV%3BASV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 46,
+      "verse": 2,
+      "sourceTextSha256": "da3fe2f9fc566b3cf716de41c6de6f85a534babd975c2ab711d3ca772aa76f50",
+      "edits": [
+        {
+          "startOffset": 8,
+          "endOffset": 13,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 46,
+      "verse": 31,
+      "sourceTextSha256": "1eaa1af21d987a16150ceaa2c2f569180c00ac39c9f64e46672c7be3261fa241",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 86,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "verse": 5,
+      "sourceTextSha256": "aa5029a7e59da6d356f7a643c5e552d416c91016db8f55d6e27d50e703f1650a",
+      "edits": [
+        {
+          "startOffset": 12,
+          "endOffset": 17,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "verse": 31,
+      "sourceTextSha256": "3765e3771b534387d71b910e6be1ec35b684693c478a5cb369ec98422bebf715",
+      "edits": [
+        {
+          "startOffset": 35,
+          "endOffset": 40,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 48,
+      "verse": 11,
+      "sourceTextSha256": "0d93461e283d26884bf44f4b66d2d27cf201f0e471ac97fe60cbe8520cca9b5c",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 88,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "verse": 28,
+      "sourceTextSha256": "c99aa0e100cf1772ff53fe3fb45376c8f7d76bc51cd36dd9c20fbe107d710070",
+      "edits": [
+        {
+          "startOffset": 78,
+          "endOffset": 83,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "verse": 4,
+      "sourceTextSha256": "292ea2ffb49e73be07437f0c4fa2a2b7096e2012ff3648968f1a2fe2b364d54c",
+      "edits": [
+        {
+          "startOffset": 52,
+          "endOffset": 57,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "verse": 17,
+      "sourceTextSha256": "c3fdd144ae30297a39792c984509bab4a0f509357622640b8f6054a3a014844e",
+      "edits": [
+        {
+          "startOffset": 241,
+          "endOffset": 246,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "verse": 21,
+      "sourceTextSha256": "e1cc48e03789b0eabc8f085c7ed86c1da3897456c9be28e7fb5720eacc70fad5",
+      "edits": [
+        {
+          "startOffset": 96,
+          "endOffset": 101,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "verse": 24,
+      "sourceTextSha256": "be300d3ce7e2ac55b9be5c2baaf4cfce47f9376b4757834f71e6515d7f3fe5aa",
+      "edits": [
+        {
+          "startOffset": 127,
+          "endOffset": 132,
+          "expected": "sware",
+          "replacement": "swore",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

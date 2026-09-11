@@ -1,0 +1,796 @@
+{
+  "format": "shine-mobile-bible-pack",
+  "schemaVersion": 1,
+  "version": {
+    "id": "KJV",
+    "displayName": "King James Version",
+    "language": "en",
+    "publicationYear": 1611
+  },
+  "canon": {
+    "id": "protestant-66",
+    "bookCount": 66,
+    "chapterCount": 1189
+  },
+  "versification": "source-usfm-strict-contiguous",
+  "rights": {
+    "license": "Public Domain outside the United Kingdom; UK Crown patent restriction",
+    "copyright": "Public Domain outside the United Kingdom",
+    "publisher": "eBible.org source; Crown's patentee rights apply in the United Kingdom",
+    "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm"
+  },
+  "provenance": {
+    "provider": "eBible.org",
+    "sourceUrl": "https://ebible.org/eng-kjv/",
+    "sourceArtifact": "KJV",
+    "inputKind": "directory",
+    "sourceArtifactSha256": "b3bc38037c02f608676786b5f5d4e0868d254d58e84e363c3c012968c77c00a3",
+    "sourceTreeSha256": "b3bc38037c02f608676786b5f5d4e0868d254d58e84e363c3c012968c77c00a3",
+    "files": [
+      {
+        "path": "00-FRTeng-kjv.usfm",
+        "sha256": "ede884bf00afc2868e482a029b52ec804816adb52ecc9a2f123bbc6110ff51ab",
+        "sizeBytes": 66465
+      },
+      {
+        "path": "02-GENeng-kjv.usfm",
+        "sha256": "db880f1d6925387aed76d8f7736e830ba23f53d15add7198e9864c8028ca509c",
+        "sizeBytes": 557290
+      },
+      {
+        "path": "03-EXOeng-kjv.usfm",
+        "sha256": "33e401b47ac371534d6ff74015aea219fca572c7943a75fdef7c57d124654913",
+        "sizeBytes": 459146
+      },
+      {
+        "path": "04-LEVeng-kjv.usfm",
+        "sha256": "a525b4944c44edd42d54ad401d84f1ac5b961363543ec033351d7f2bfa188e50",
+        "sizeBytes": 326245
+      },
+      {
+        "path": "05-NUMeng-kjv.usfm",
+        "sha256": "91b33ac6290fdc5da1941f256a3a34efc1d98f3510d08e1738f524e33fee01d6",
+        "sizeBytes": 471838
+      },
+      {
+        "path": "06-DEUeng-kjv.usfm",
+        "sha256": "e99c5be28ab2b38ce373ebf369e16cf98117aafc6b079d326daae239cac9f53c",
+        "sizeBytes": 382856
+      },
+      {
+        "path": "07-JOSeng-kjv.usfm",
+        "sha256": "59e065d27ce672ac569bb17534367cc89f6c1db87383368a018ad529f493d000",
+        "sizeBytes": 270104
+      },
+      {
+        "path": "08-JDGeng-kjv.usfm",
+        "sha256": "f7e81a499c5964f4120fe9bcfbf07e8cbb84edb789185c6def963c33b3109588",
+        "sizeBytes": 271465
+      },
+      {
+        "path": "09-RUTeng-kjv.usfm",
+        "sha256": "cc0bbc73153bd55ceb20fe2fe72ad27570f52b681efc15ffe05916a101ea4b8e",
+        "sizeBytes": 35063
+      },
+      {
+        "path": "10-1SAeng-kjv.usfm",
+        "sha256": "850b3c62e86c1a651e82fbb32698e85543e497a4aa13aef1b4d5a72b00ff6f53",
+        "sizeBytes": 361143
+      },
+      {
+        "path": "11-2SAeng-kjv.usfm",
+        "sha256": "b6b426ffd1f6827aa2c45e2c1177f0f8084e5cb0b42b657ca13db779577d690d",
+        "sizeBytes": 301450
+      },
+      {
+        "path": "12-1KIeng-kjv.usfm",
+        "sha256": "019fa60e498e27eaef1932c5b8897a93acdf095d64c7bde6631aba457e96d905",
+        "sizeBytes": 358288
+      },
+      {
+        "path": "13-2KIeng-kjv.usfm",
+        "sha256": "ad18065a6f10bfce0d2c42e113933b9364e1f632ea5d3e56967b118f5200634b",
+        "sizeBytes": 336812
+      },
+      {
+        "path": "14-1CHeng-kjv.usfm",
+        "sha256": "bd0d03f2cda5b072f3e5d4adf416902706b3823f6b5377b41355aa5bd79efd94",
+        "sizeBytes": 326040
+      },
+      {
+        "path": "15-2CHeng-kjv.usfm",
+        "sha256": "113f9b4e54993bb588d5cc0557b927a89b3971bfc59bf66b6c72af0c3cad0e6b",
+        "sizeBytes": 386113
+      },
+      {
+        "path": "16-EZReng-kjv.usfm",
+        "sha256": "6aa66d9bbd92831e536e82e4c5ae8869be9f308529ad7577ea7bccb39ce1c535",
+        "sizeBytes": 118095
+      },
+      {
+        "path": "17-NEHeng-kjv.usfm",
+        "sha256": "a04c8172944276575a2ce758a7ed13dc7f593b178033705124f78f8ea54196a4",
+        "sizeBytes": 157595
+      },
+      {
+        "path": "18-ESTeng-kjv.usfm",
+        "sha256": "76bd1c76fbbbd030ac06db2ded73b4ce1dd745946d5210a6a869b3434af34467",
+        "sizeBytes": 84967
+      },
+      {
+        "path": "19-JOBeng-kjv.usfm",
+        "sha256": "12afb40b79779fcd6125ec8b261bd17b990023da804e02bff86fd5cb8f1d63a9",
+        "sizeBytes": 262508
+      },
+      {
+        "path": "20-PSAeng-kjv.usfm",
+        "sha256": "da64243944525513b329b9acf52d20b3a49cebd26e12577c1a85c2847d1bc90f",
+        "sizeBytes": 661997
+      },
+      {
+        "path": "21-PROeng-kjv.usfm",
+        "sha256": "fdc629aa383881688e26d2bae8d482d81a2a77affc1a16e0a6d5d984669807a0",
+        "sizeBytes": 235046
+      },
+      {
+        "path": "22-ECCeng-kjv.usfm",
+        "sha256": "6316803ca1a6bea0b8a43a8aaa713ba072285b77a17a7ce2d6b882c1e4390842",
+        "sizeBytes": 79896
+      },
+      {
+        "path": "23-SNGeng-kjv.usfm",
+        "sha256": "5fe7513b34a50f56e8f6945ad1cffeabcdb9dc565148b9e3637aa247c007dcc9",
+        "sizeBytes": 39584
+      },
+      {
+        "path": "24-ISAeng-kjv.usfm",
+        "sha256": "78daa962d92d011bdc8c422e0917c63ac29af8ac7a0233ee50d15da4a5a52673",
+        "sizeBytes": 525289
+      },
+      {
+        "path": "25-JEReng-kjv.usfm",
+        "sha256": "cb16590c8f533058ae10ebcbdeb44d3cfeb8401e78bb5cb941d261578609baa9",
+        "sizeBytes": 595900
+      },
+      {
+        "path": "26-LAMeng-kjv.usfm",
+        "sha256": "f1ba05ac421db373d36d28ed27dc0bdc32de62ad9b4df35bda425b124b85f747",
+        "sizeBytes": 49376
+      },
+      {
+        "path": "27-EZKeng-kjv.usfm",
+        "sha256": "7ddd41b6f6a55f53823376000eda80ad511755fcdc4f46b8f25242538232aff9",
+        "sizeBytes": 542862
+      },
+      {
+        "path": "28-DANeng-kjv.usfm",
+        "sha256": "1d3dbb03c2104b67b4a29f060feb376b953560a098699d0712822c538140a2b3",
+        "sizeBytes": 182219
+      },
+      {
+        "path": "29-HOSeng-kjv.usfm",
+        "sha256": "7aface174cc1180e7f5748a5cb7a20fec2f22488684600f24a02419ea28a756a",
+        "sizeBytes": 73500
+      },
+      {
+        "path": "30-JOLeng-kjv.usfm",
+        "sha256": "ee6a676e6a62427711b1e328b28f2d0d676ccf30418428546e27a855efc1c017",
+        "sizeBytes": 29276
+      },
+      {
+        "path": "31-AMOeng-kjv.usfm",
+        "sha256": "11f050d7a2a18258dfbf1019d65d213730d8858dd2ec2f8213992f8eb95159ed",
+        "sizeBytes": 61055
+      },
+      {
+        "path": "32-OBAeng-kjv.usfm",
+        "sha256": "bcec7ea459982c680ac845cab2af4ba4804f5eb0d189a67ec1b8b9a2862ea03a",
+        "sizeBytes": 9272
+      },
+      {
+        "path": "33-JONeng-kjv.usfm",
+        "sha256": "d7c409da4c56e2da1c8c80aea7d982c26ce91569f75131ef17f9d11c2cb8c052",
+        "sizeBytes": 19409
+      },
+      {
+        "path": "34-MICeng-kjv.usfm",
+        "sha256": "d009aa1e5279ab302e544089aa08e7c7439780e2a5c96a2318df65afa4697d01",
+        "sizeBytes": 44295
+      },
+      {
+        "path": "35-NAMeng-kjv.usfm",
+        "sha256": "f48a3a76b58f0480c24fe5d7340d0215a8c7738e07159451742a92f2544d1699",
+        "sizeBytes": 19276
+      },
+      {
+        "path": "36-HABeng-kjv.usfm",
+        "sha256": "17b4ce9504ddbcd6b2e14d31381dc85f14ec7e47f4c27c4fda42c9b514b743da",
+        "sizeBytes": 22696
+      },
+      {
+        "path": "37-ZEPeng-kjv.usfm",
+        "sha256": "be8e13dc70ae33cad0d26938e7d6557d303a81dd915523db3e4d385352d902e7",
+        "sizeBytes": 23317
+      },
+      {
+        "path": "38-HAGeng-kjv.usfm",
+        "sha256": "58693dfef409ee9e049b52dc0bf9124cf7d92165472c216ed4d9ce618ea6f06c",
+        "sizeBytes": 16473
+      },
+      {
+        "path": "39-ZECeng-kjv.usfm",
+        "sha256": "b2cf8515506463af3b0a6aa6a691dceb9407f706f9efc75cd35c0d8d58be0e95",
+        "sizeBytes": 90553
+      },
+      {
+        "path": "40-MALeng-kjv.usfm",
+        "sha256": "fead6953dca48bd57ece74546e091224d66667ad27dec242d95f8a062a96b883",
+        "sizeBytes": 25339
+      },
+      {
+        "path": "41-TOBeng-kjv.usfm",
+        "sha256": "63a88a8027efa1e80df7af76aa4fa28c3d36435dccc9d5ccfd35a4a07660fc13",
+        "sizeBytes": 38884
+      },
+      {
+        "path": "42-JDTeng-kjv.usfm",
+        "sha256": "f59209d9d66b9d57fae61877ff32eabfbe7d3dead9c0e48b47fa7403783790c1",
+        "sizeBytes": 62994
+      },
+      {
+        "path": "43-ESGeng-kjv.usfm",
+        "sha256": "0f4190a737c7f2f0f3471f68844fd4b4312da05eb46a3d07f5538b7069e40f47",
+        "sizeBytes": 16642
+      },
+      {
+        "path": "45-WISeng-kjv.usfm",
+        "sha256": "dc2543afa2a95f0fd852ced216a0e4627b63f9525cab664ae1d2541f8d83940c",
+        "sizeBytes": 63692
+      },
+      {
+        "path": "46-SIReng-kjv.usfm",
+        "sha256": "a145b38b4d0224c55c8721b40841b2a52dd2f08320262dab94d46fd58576c2bb",
+        "sizeBytes": 169977
+      },
+      {
+        "path": "47-BAReng-kjv.usfm",
+        "sha256": "acfdef1d71db0f496e81543eda70ae749d48ffd0e4a2640fbad33398dfd5f0d7",
+        "sizeBytes": 29666
+      },
+      {
+        "path": "49-S3Yeng-kjv.usfm",
+        "sha256": "834182dabb8c7c4ee2c4fa1e7d7c970d73d782c4985a95728f63df2d94286737",
+        "sizeBytes": 8246
+      },
+      {
+        "path": "50-SUSeng-kjv.usfm",
+        "sha256": "17aa8cfe15ca28afc6d30af94a2a1e155785b85abe9c72c9631dca3166d49f16",
+        "sizeBytes": 8750
+      },
+      {
+        "path": "51-BELeng-kjv.usfm",
+        "sha256": "991416e2ef267d0891fcf3a61da33050eef26aaca3c6bff97760a8fdf10163ac",
+        "sizeBytes": 6485
+      },
+      {
+        "path": "52-1MAeng-kjv.usfm",
+        "sha256": "188cf8c5c7d7e96a2a205cb60c84b28d05d886226bfb75d30e7b185dd2747fe0",
+        "sizeBytes": 138121
+      },
+      {
+        "path": "53-2MAeng-kjv.usfm",
+        "sha256": "73d228c8741dcd54351a29440ef620aab40aecc5ac394ba325a7bc213fdf112e",
+        "sizeBytes": 97191
+      },
+      {
+        "path": "54-1ESeng-kjv.usfm",
+        "sha256": "aa4d9e1681588b7e71b0408c0674ea20e8a5468a5b147497b7685bd721a9ebaf",
+        "sizeBytes": 69302
+      },
+      {
+        "path": "55-MANeng-kjv.usfm",
+        "sha256": "def97f4d27e40130f0424abd3a922661037a01fb13e986bb8a800347f940d651",
+        "sizeBytes": 2686
+      },
+      {
+        "path": "58-2ESeng-kjv.usfm",
+        "sha256": "10a448ea0ede1240b8d2473627db09dde806df080dca5a180978fa2b99ac4ef8",
+        "sizeBytes": 118221
+      },
+      {
+        "path": "70-MATeng-kjv.usfm",
+        "sha256": "84714bf0722b0f84432af5f410a7deadc341d96aeb9171dcfb927ccf3ddbb15f",
+        "sizeBytes": 503746
+      },
+      {
+        "path": "71-MRKeng-kjv.usfm",
+        "sha256": "54292d060cf21dbcf0921f0337fabc72a9c862125b302f106b661a050ff2c57c",
+        "sizeBytes": 310027
+      },
+      {
+        "path": "72-LUKeng-kjv.usfm",
+        "sha256": "dfdaac75c74409f9c45171cae0f0cf9c4db2960908797bd44e51f7f31ce11cd5",
+        "sizeBytes": 538389
+      },
+      {
+        "path": "73-JHNeng-kjv.usfm",
+        "sha256": "2af0ac3b8cfab9740ab364ba0923425a92a959c89b74fbbdcea404b33fe27bf8",
+        "sizeBytes": 411784
+      },
+      {
+        "path": "74-ACTeng-kjv.usfm",
+        "sha256": "2551b52392e1ea7a1d6e17271e83505ecc2645d74c8a576a149c758b92608097",
+        "sizeBytes": 483750
+      },
+      {
+        "path": "75-ROMeng-kjv.usfm",
+        "sha256": "fced9082f9afce233ad60a7fb6954cd85da758967b9aa243bb7cfd4713fb556f",
+        "sizeBytes": 186658
+      },
+      {
+        "path": "76-1COeng-kjv.usfm",
+        "sha256": "56417a4bd04abf50a58cc83e923e230304453fd9d41828476e7605f2164e9a71",
+        "sizeBytes": 185345
+      },
+      {
+        "path": "77-2COeng-kjv.usfm",
+        "sha256": "fc2f5e33279e3760ab4762cd5863e42562801b46f424b6af8ad299e937c811d3",
+        "sizeBytes": 120270
+      },
+      {
+        "path": "78-GALeng-kjv.usfm",
+        "sha256": "db98e5ef67dec0500703b6fe937bb1d9627da70677fb10e4f8a56dc290c1aeaa",
+        "sizeBytes": 61401
+      },
+      {
+        "path": "79-EPHeng-kjv.usfm",
+        "sha256": "6351f3ae0365450cd2db0ab1076dde5d88a3c16cba596d028f2f89cb3d9b6a18",
+        "sizeBytes": 61712
+      },
+      {
+        "path": "80-PHPeng-kjv.usfm",
+        "sha256": "c2c3f27b141885db725701207e36a235dcdb4fa0a9f32733dc76aee2cd0eeab9",
+        "sizeBytes": 44603
+      },
+      {
+        "path": "81-COLeng-kjv.usfm",
+        "sha256": "921f4720e313865cc5056d7bfc30099e346c418885ea542fe0920b280f551a11",
+        "sizeBytes": 41232
+      },
+      {
+        "path": "82-1THeng-kjv.usfm",
+        "sha256": "0c6b2d864a88f20655662dc70f9cad406e8dd13198e44fae2e0f4833b6f9b737",
+        "sizeBytes": 39167
+      },
+      {
+        "path": "83-2THeng-kjv.usfm",
+        "sha256": "862cb3d9f7a102eb352c1c7eadefc3fe02d14ca4745afb4e1528229386dbe20d",
+        "sizeBytes": 21727
+      },
+      {
+        "path": "84-1TIeng-kjv.usfm",
+        "sha256": "6daaf7b26db5f91b873e19dd46f2d6ecb1f7efc28f16ba92a55fbac3d67ea163",
+        "sizeBytes": 45930
+      },
+      {
+        "path": "85-2TIeng-kjv.usfm",
+        "sha256": "cd30f7b64a474b011a9f90229059b70ec338de6f63cd2dfdfd9abb04ef00a9ca",
+        "sizeBytes": 34326
+      },
+      {
+        "path": "86-TITeng-kjv.usfm",
+        "sha256": "c4fd1271c03e0aaa4abf20848169b3ed630642d15b8e6a1cd497e3072c305982",
+        "sizeBytes": 18955
+      },
+      {
+        "path": "87-PHMeng-kjv.usfm",
+        "sha256": "2c5dce4e7735d72eaf553a9115037209df91660e22bb24142b239084260eb0e6",
+        "sizeBytes": 9418
+      },
+      {
+        "path": "88-HEBeng-kjv.usfm",
+        "sha256": "9ad8123543a615d107470719a37cf717f99002f00c882c3d8f0a90c5a341912b",
+        "sizeBytes": 135206
+      },
+      {
+        "path": "89-JASeng-kjv.usfm",
+        "sha256": "950cd047694f5544a59059b80df804ace9e48a52ff893d171d1812f52b227a3a",
+        "sizeBytes": 46104
+      },
+      {
+        "path": "90-1PEeng-kjv.usfm",
+        "sha256": "9187aeaf8b514527c28e435da0738db2d503d3167db4897d5862e9c8cb7ab3b5",
+        "sizeBytes": 47618
+      },
+      {
+        "path": "91-2PEeng-kjv.usfm",
+        "sha256": "d371a736a7d460a9a1fb6c83ffb8450ac45c92830c7c561dcd5d2b8ce2613302",
+        "sizeBytes": 30827
+      },
+      {
+        "path": "92-1JNeng-kjv.usfm",
+        "sha256": "f257c6147d74d7a714dca7e7b44684d0f81f53a5f46ee63ff9f46bbf7173b773",
+        "sizeBytes": 52339
+      },
+      {
+        "path": "93-2JNeng-kjv.usfm",
+        "sha256": "47f1d8394fe44b414d8c1481cc40bfdb859ce8f22c630aaa6120b086122fe824",
+        "sizeBytes": 6434
+      },
+      {
+        "path": "94-3JNeng-kjv.usfm",
+        "sha256": "2e95e896c2a782e0b97e26b939e5e244cd22acc93946587033d788765b16c0a5",
+        "sizeBytes": 6003
+      },
+      {
+        "path": "95-JUDeng-kjv.usfm",
+        "sha256": "d94fb5857b1bb4303233ea7e2a59e5868fa7d102c083f97d64bb065a942b1082",
+        "sizeBytes": 12629
+      },
+      {
+        "path": "96-REVeng-kjv.usfm",
+        "sha256": "9b32b54f49d951f0d99b87c3678986658f5974d27eb7f00bd7f65789873612fa",
+        "sizeBytes": 242393
+      },
+      {
+        "path": "copr.htm",
+        "sha256": "0eaec8da9499743a02b428fb40335fe2ffa64250a543ba456a31da9f530bed51",
+        "sizeBytes": 2777
+      },
+      {
+        "path": "keys.asc",
+        "sha256": "8659487be35d9a79b8bb41eb68db1e96e9a1933792f683b88e0de50cd3841942",
+        "sizeBytes": 21585
+      },
+      {
+        "path": "latin.css",
+        "sha256": "41266c3439202578bfecdafb2d1eaced5a41ae3e79c4d535885bcb70569fc0ab",
+        "sizeBytes": 8995
+      },
+      {
+        "path": "signature.txt.asc",
+        "sha256": "6c13576b82b910dffb6319a4078473a559a5f0aa6020b18ff0d1d297ca7070e9",
+        "sizeBytes": 8265
+      }
+    ]
+  },
+  "statistics": {
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseCount": 31102,
+    "emptyVerseCount": 0
+  },
+  "contentSha256": "15630f9bf48928cfe7bb05be307e25262ccfb9b95ce614d997d4e4649e3b9111",
+  "files": [
+    {
+      "path": "books/1CH.json",
+      "sha256": "e82dd0f012219964b391cecf20e9d8fe4f07c38b998ff5ff262650cc86fe70b5",
+      "sizeBytes": 132805
+    },
+    {
+      "path": "books/1CO.json",
+      "sha256": "62fae7aec8e87e2c0f09caa3b12fe0e99f6d9150a3f448a5fb14bb980bfc31c1",
+      "sizeBytes": 59123
+    },
+    {
+      "path": "books/1JN.json",
+      "sha256": "dcb19e7461e764d667f21183132145b7cfae1a51e031d0064b040d7c1567abb4",
+      "sizeBytes": 15298
+    },
+    {
+      "path": "books/1KI.json",
+      "sha256": "ce89be27f265acc877d6c328441f58a2183f0060ceb902bba126ef1a5b42c0e1",
+      "sizeBytes": 145989
+    },
+    {
+      "path": "books/1PE.json",
+      "sha256": "31c18f9e00c38e1e6d791bfec7011fa54f35beacdf28958b5b4e389009a461a8",
+      "sizeBytes": 16009
+    },
+    {
+      "path": "books/1SA.json",
+      "sha256": "c3c25149f86aa1e95dbae50eb5aa443016d760ebb39bf4f9cf45da97b8aaa643",
+      "sizeBytes": 148369
+    },
+    {
+      "path": "books/1TH.json",
+      "sha256": "70220ed6ab78bfb2185500c8d9bfc70bd004d721f516c4df48114a85970d883c",
+      "sizeBytes": 11921
+    },
+    {
+      "path": "books/1TI.json",
+      "sha256": "a45ee129fee6ddd6845694b4badfa275935b173af4b7ada2d415820d2cfef73b",
+      "sizeBytes": 15536
+    },
+    {
+      "path": "books/2CH.json",
+      "sha256": "be0de9cda869f2d4fff5f1371758d23a6929d9843b92d2c6c70d41e23dec90bd",
+      "sizeBytes": 158420
+    },
+    {
+      "path": "books/2CO.json",
+      "sha256": "a4dfd5eff971c7ba0714310d617ff7883a76aceff9d341293102d42386a68ae2",
+      "sizeBytes": 38146
+    },
+    {
+      "path": "books/2JN.json",
+      "sha256": "34e26f602dd4709c8bdc8dfabab80a2adfbb20cca75250d1f1132f0184b10450",
+      "sizeBytes": 2000
+    },
+    {
+      "path": "books/2KI.json",
+      "sha256": "b08cdb11ed4fefa154a58d11343ef962c698cae6919e9578524707cbc5da84a2",
+      "sizeBytes": 137662
+    },
+    {
+      "path": "books/2PE.json",
+      "sha256": "466e4b55ee5672ba6698cb335a3a60570223ad3b94cf9b59e05bde699c0d6003",
+      "sizeBytes": 10236
+    },
+    {
+      "path": "books/2SA.json",
+      "sha256": "cbbdf3fe89a821ef33ef29357317cb3cae504da21ec3d5408994c583a3023338",
+      "sizeBytes": 122812
+    },
+    {
+      "path": "books/2TH.json",
+      "sha256": "e2273ff626ad4fcc3f93bbaa5dc1952772bcd9bdb5c94262403b8ed68be07e49",
+      "sizeBytes": 6743
+    },
+    {
+      "path": "books/2TI.json",
+      "sha256": "1c664f1ff4434da16c4999e7058cfa1cec3cda9498f0552426a5681acf070a00",
+      "sizeBytes": 11399
+    },
+    {
+      "path": "books/3JN.json",
+      "sha256": "824ca826f0f3c4a0874a3671b1bdcfc5672ee88c158073f5481812fae75f1ad5",
+      "sizeBytes": 2062
+    },
+    {
+      "path": "books/ACT.json",
+      "sha256": "5266cb6c6fff15bbe796ea45fc1676637387bea4fd12ea55e9436acbaeefca56",
+      "sizeBytes": 152801
+    },
+    {
+      "path": "books/AMO.json",
+      "sha256": "24e14e56eb517b37809a62187000d01539f64172680a382357ef06a34d34b95f",
+      "sizeBytes": 25442
+    },
+    {
+      "path": "books/COL.json",
+      "sha256": "77ce5e3b18fe2787a5b52773c6dfed469171c0e7dfd69130775e26f68bf8e297",
+      "sizeBytes": 13091
+    },
+    {
+      "path": "books/DAN.json",
+      "sha256": "b529fef9efe12440b8f495c9c8dc3c5da38eec64a6ee72aac4ea5732ed916ecb",
+      "sizeBytes": 70264
+    },
+    {
+      "path": "books/DEU.json",
+      "sha256": "c9e8fb207955294b21f3cab1d34f402bc7910079cacde68721b3e783d157b2ce",
+      "sizeBytes": 168783
+    },
+    {
+      "path": "books/ECC.json",
+      "sha256": "bd367904a7cc14cef551ae8b869f241483dce4f5826a986f39d8f174159aefe7",
+      "sizeBytes": 33719
+    },
+    {
+      "path": "books/EPH.json",
+      "sha256": "9f20e83c0818f29b775f48ba43db0774e0fe94067d36426e3ec64dae6e9ac28f",
+      "sizeBytes": 19988
+    },
+    {
+      "path": "books/EST.json",
+      "sha256": "1aebc8e501a2a61dc5648876370a1e5f186cd7b084532cf1b325018e7c841e1e",
+      "sizeBytes": 34458
+    },
+    {
+      "path": "books/EXO.json",
+      "sha256": "ce90188a443c67db56e7c06d8f6a8997b5e652225275278a9e52ed0cdc9cda3b",
+      "sizeBytes": 197749
+    },
+    {
+      "path": "books/EZK.json",
+      "sha256": "40bedd7cfa6e5a73aa874385f1c6375e39037aaf0f46ee3ff11af77235894530",
+      "sizeBytes": 234758
+    },
+    {
+      "path": "books/EZR.json",
+      "sha256": "facc7a271c6184a78e194f4bf814b528696a70746f6b9ada189088e94dae445a",
+      "sizeBytes": 46993
+    },
+    {
+      "path": "books/GAL.json",
+      "sha256": "a0006c97b7ead6615c163b808032efe7e66808b8e004555bd55a5fc24fc3d39b",
+      "sizeBytes": 19811
+    },
+    {
+      "path": "books/GEN.json",
+      "sha256": "f437236bc916b0482b8340c7e34519caba4485b8064a45041855d10fce228484",
+      "sizeBytes": 232698
+    },
+    {
+      "path": "books/HAB.json",
+      "sha256": "612ce17b1327ef8f6397915ac39f80146cee1e14690e0b36ae674569fb54c102",
+      "sizeBytes": 9380
+    },
+    {
+      "path": "books/HAG.json",
+      "sha256": "e0d57c48bd802332844526d0aef967cc1e7e5419c4c7438a76fc934adb721e18",
+      "sizeBytes": 6766
+    },
+    {
+      "path": "books/HEB.json",
+      "sha256": "6f988daeadd2e06a69dff2801a9fd2613442e5c2c4c1ac5074cd7aacd68d3509",
+      "sizeBytes": 44289
+    },
+    {
+      "path": "books/HOS.json",
+      "sha256": "95517739fbdc3cbd2ed0bd3d82c92866e03a320ae91d383307eebdbbb2cb57ca",
+      "sizeBytes": 31895
+    },
+    {
+      "path": "books/ISA.json",
+      "sha256": "4e5e881e4cb58227c04ce5c70252222cc134bf1e7e7dd052077da139124b7b4e",
+      "sizeBytes": 224286
+    },
+    {
+      "path": "books/JAS.json",
+      "sha256": "6f77366f692944b7dfd08ab9d0e8fc28faa79a988af7b7348f42b9224f78dd31",
+      "sizeBytes": 14739
+    },
+    {
+      "path": "books/JDG.json",
+      "sha256": "04cba07744fbc972c35138e3e6ff9c08ec805233f932222b0038d2aaf1236721",
+      "sizeBytes": 113217
+    },
+    {
+      "path": "books/JER.json",
+      "sha256": "4e3c43a07c9648b6e1570577b5fc6792274c4046fe9f4e56c5b19bed3c9cc25d",
+      "sizeBytes": 255450
+    },
+    {
+      "path": "books/JHN.json",
+      "sha256": "92e63194a1f045f9e9b7e1b704ca492d6d61497418f02488de7c925e79bfb261",
+      "sizeBytes": 116776
+    },
+    {
+      "path": "books/JOB.json",
+      "sha256": "da8c8f8146cde952917ccee06b23446502d3a72c824d7f288671d0949b7a6ddd",
+      "sizeBytes": 118707
+    },
+    {
+      "path": "books/JOL.json",
+      "sha256": "6e5431dad6c9dcd0c4bc30be4dd2b208be0929e6419d8e70270cb285f6950e6e",
+      "sizeBytes": 12540
+    },
+    {
+      "path": "books/JON.json",
+      "sha256": "91b3b9edfc727a6937e1712d36e47d849a24b586c7e4c7c7835aac12e2f46535",
+      "sizeBytes": 7920
+    },
+    {
+      "path": "books/JOS.json",
+      "sha256": "b6bbcc24a47f321cb916437a79cc19eccb3d8fd1a3ead506af345cd395eaa467",
+      "sizeBytes": 115583
+    },
+    {
+      "path": "books/JUD.json",
+      "sha256": "a424942cc240d25ea222287c5aebb18e2ab51d75ad7914fcea52ddacae7dc25b",
+      "sizeBytes": 4232
+    },
+    {
+      "path": "books/LAM.json",
+      "sha256": "629dd1661999da4e02c567ebaf122a64b1ed2e2d77c0a738bd0ef934acde91b9",
+      "sizeBytes": 21737
+    },
+    {
+      "path": "books/LEV.json",
+      "sha256": "5b309a42c191dda43d58c25214fb797fdc3544f76f97d3bcb12d7c404104cd7f",
+      "sizeBytes": 146857
+    },
+    {
+      "path": "books/LUK.json",
+      "sha256": "44a9c8e817dd4fea18d0147448c1628971c719671a35853a2f2d2435ef1307ee",
+      "sizeBytes": 158980
+    },
+    {
+      "path": "books/MAL.json",
+      "sha256": "dbb6c4ebbe4957af634d0517cdc163521be7dec74e1316075877e2f57d4b70d8",
+      "sizeBytes": 10658
+    },
+    {
+      "path": "books/MAT.json",
+      "sha256": "f5d1467b997723f4b452148c3a542138684eaa470ac51d94d0810c1f5ba14e31",
+      "sizeBytes": 146959
+    },
+    {
+      "path": "books/MIC.json",
+      "sha256": "6aa09859b4204fe2bdbd70b0f7ec415141778ec072fa1be55949cef9d7f16507",
+      "sizeBytes": 18959
+    },
+    {
+      "path": "books/MRK.json",
+      "sha256": "68f188be3cb5e92b4399a0fc50eb91bbdf35e42f009900990f84c908942dd6ad",
+      "sizeBytes": 93776
+    },
+    {
+      "path": "books/NAM.json",
+      "sha256": "b537ab5d73bf38890d8a8cc375fd78c4a7564918fde40356b9d93ebab9fd47db",
+      "sizeBytes": 8138
+    },
+    {
+      "path": "books/NEH.json",
+      "sha256": "89fbf19ed46c147876fe2fcada8a5a0bfad91afe54b8db523501072a6bb0f865",
+      "sizeBytes": 66583
+    },
+    {
+      "path": "books/NUM.json",
+      "sha256": "8d9da771192655f5739954c5bea222c0c9d00f5e4ca9029521be0dfdbc446e85",
+      "sizeBytes": 205360
+    },
+    {
+      "path": "books/OBA.json",
+      "sha256": "3740235ede48733f07be119900268c60e49c20816c0af00e36dc2937592d1153",
+      "sizeBytes": 4211
+    },
+    {
+      "path": "books/PHM.json",
+      "sha256": "960306274645e30779d74bb215238b7fdc03210bf9c8708a357fb417279aad44",
+      "sizeBytes": 3088
+    },
+    {
+      "path": "books/PHP.json",
+      "sha256": "e10855ea9b655f0af0db64cb85c6c19804d1764034772ee5d175f6ae4f0c46b0",
+      "sizeBytes": 14123
+    },
+    {
+      "path": "books/PRO.json",
+      "sha256": "129b7def1620964556bad45721d78794d27c24d120eadd8db2dae769518b9780",
+      "sizeBytes": 100932
+    },
+    {
+      "path": "books/PSA.json",
+      "sha256": "dd8f1c59e4f54d1ddedf2c920fadb36e283dfcbbdd6abc78c5f26ff8ae061cda",
+      "sizeBytes": 281066
+    },
+    {
+      "path": "books/REV.json",
+      "sha256": "af7b15fc797528e2a15322935d2c8b740966e2301f49917cf57365bb14eaa2b2",
+      "sizeBytes": 71222
+    },
+    {
+      "path": "books/ROM.json",
+      "sha256": "7b59a236f89486a4037ddb27dd6159c3714dd0b180f4147961f6af44cd5cf348",
+      "sizeBytes": 60276
+    },
+    {
+      "path": "books/RUT.json",
+      "sha256": "f73874a07a408412fea76f3bfe7ba733fbfcdb467d457587950057eee782b6ff",
+      "sizeBytes": 15138
+    },
+    {
+      "path": "books/SNG.json",
+      "sha256": "90a6c43539678b9565ab737b0cc8d438bfe5162ef2ab2b904af83e5b124cb703",
+      "sizeBytes": 16617
+    },
+    {
+      "path": "books/TIT.json",
+      "sha256": "838a5c23c87c92dd7b7d5558391ae9d61ebbccb9dcfddae041495811379f3d9d",
+      "sizeBytes": 6447
+    },
+    {
+      "path": "books/ZEC.json",
+      "sha256": "8c123093de63e6287d336cadfd893560ec3962c7b9ca899409bd43c4d126f88d",
+      "sizeBytes": 38065
+    },
+    {
+      "path": "books/ZEP.json",
+      "sha256": "e701a79945721888b7e9af9347ffc2ab9b1618920977c987b91534feb5228587",
+      "sizeBytes": 9887
+    }
+  ]
+}

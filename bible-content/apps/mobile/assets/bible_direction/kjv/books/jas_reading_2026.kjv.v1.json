@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "JAS",
+  "sourceContentSha256": "8144337559d6e19cce2deacf96ad2b675853156762554964ec93cea2c97bfdc8",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 2,
+      "verse": 13,
+      "sourceTextSha256": "12f5d9e179564944775a8e1324c4fd1ff5ed059df83c1225dfeeb5db67e4bfec",
+      "edits": [
+        {
+          "startOffset": 52,
+          "endOffset": 58,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "sourceTextSha256": "2b03ff6a50a8cbf55b3776f51d7b2809d5273e23c14f7f6f287b46f254e43faf",
+      "edits": [
+        {
+          "startOffset": 55,
+          "endOffset": 59,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        },
+        {
+          "startOffset": 103,
+          "endOffset": 107,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "sourceTextSha256": "1688ae3ebca1ee7b8d01e82c008afe0f8270263fc68413ea2350be6bf0690d66",
+      "edits": [
+        {
+          "startOffset": 63,
+          "endOffset": 67,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        },
+        {
+          "startOffset": 82,
+          "endOffset": 94,
+          "expected": "conversation",
+          "replacement": "conduct",
+          "category": "semantic-false-friend",
+          "reason": "Wisdom is to be demonstrated through works arising from good conduct.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

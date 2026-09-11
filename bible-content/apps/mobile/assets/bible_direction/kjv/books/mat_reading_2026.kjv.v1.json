@@ -1,0 +1,561 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "MAT",
+  "sourceContentSha256": "80cabfdb8a0366513bdfcde7e74a1be17c5a4c831ca56080bd2abcf04fcb12cd",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 19,
+      "sourceTextSha256": "f4b5013ab645fb6c5ecde51111f6f56e3402e3d61aee08e0c9f76402a0886b24",
+      "edits": [
+        {
+          "startOffset": 117,
+          "endOffset": 124,
+          "expected": "privily",
+          "replacement": "privately",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "sourceTextSha256": "ca976fd0573e3ffef3625d64586e5543dfa110afe538177922b3d01dffb8364a",
+      "edits": [
+        {
+          "startOffset": 24,
+          "endOffset": 31,
+          "expected": "privily",
+          "replacement": "privately",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "sourceTextSha256": "e4775b0b5e1a7176426d01e1eed51740448be44fee95b33e5b952f27418c5a60",
+      "edits": [
+        {
+          "startOffset": 38,
+          "endOffset": 47,
+          "expected": "throughly",
+          "replacement": "thoroughly",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 25,
+      "sourceTextSha256": "67dca03e8f65b2b52954741e287014262e2e1e24d9997ae8b38e02a3dca9a3a7",
+      "edits": [
+        {
+          "startOffset": 35,
+          "endOffset": 41,
+          "expected": "whiles",
+          "replacement": "while",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "sourceTextSha256": "b0e8d434f9d4570cbf92896ecf6693da7a630b4425eb07cec69d7d1426be1311",
+      "edits": [
+        {
+          "startOffset": 62,
+          "endOffset": 66,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 18,
+      "sourceTextSha256": "6637870ffc161a1fa6d2b12a414be2701d3d3c7b0c2ab37ac2461a72bb5b1540",
+      "edits": [
+        {
+          "startOffset": 11,
+          "endOffset": 16,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 33,
+      "sourceTextSha256": "8013e1808184fb8cb5ef4f427fc289cb6d8042e82481914e6f6cff7c5db5c422",
+      "edits": [
+        {
+          "startOffset": 42,
+          "endOffset": 47,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "sourceTextSha256": "16de8a807158483de378a3ced8c9afe4c327bb9fa032a283d26e1cf6dd61863b",
+      "edits": [
+        {
+          "startOffset": 42,
+          "endOffset": 46,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "sourceTextSha256": "4340781d87a615ba1e7b46c588e8b2dedf674431699c926421b44cf3580432eb",
+      "edits": [
+        {
+          "startOffset": 53,
+          "endOffset": 57,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 18,
+      "sourceTextSha256": "ebcd2b4f23bd5d8127868432a868ff70117fa389e4076d79a8864dc0c27ef7b9",
+      "edits": [
+        {
+          "startOffset": 128,
+          "endOffset": 132,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 22,
+      "sourceTextSha256": "571fcd393ac576c483a49adf7ed76b371e47054b9c201e71776af2493d8e1bbe",
+      "edits": [
+        {
+          "startOffset": 130,
+          "endOffset": 135,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "sourceTextSha256": "1fa3c2ce8cde18a435c32466437e29db5140d467d9aedbf0e37e66bfac1c9ae9",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 12,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 20,
+      "sourceTextSha256": "4fe7c1d562ebcc32576a67656ee071d775ce35ead20ead463cce819f53f12639",
+      "edits": [
+        {
+          "startOffset": 89,
+          "endOffset": 93,
+          "expected": "anon",
+          "replacement": "immediately",
+          "category": "archaic-time-adverb",
+          "reason": "Anon has its archaic immediate sense: the hearer receives the word at once with joy.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/anon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 33,
+      "sourceTextSha256": "ce42af2244154540279d3448c11a9f185a21430133c6009ddade538a46b93497",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 23,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 34,
+      "sourceTextSha256": "5b220d351d23e8be31693023eb904f3c04de0a00756aea047def588536ae0794",
+      "edits": [
+        {
+          "startOffset": 17,
+          "endOffset": 22,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        },
+        {
+          "startOffset": 83,
+          "endOffset": 88,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "sourceTextSha256": "3fc703b200fd05a501ee02da854aaed6a645cc20626416449396cdd9605c4f3d",
+      "edits": [
+        {
+          "startOffset": 111,
+          "endOffset": 115,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 27,
+      "sourceTextSha256": "9acf089f24932b17a86423ed6d73c8621a3cb3957c84b7365d1a72aaf557d95f",
+      "edits": [
+        {
+          "startOffset": 22,
+          "endOffset": 27,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 1,
+      "sourceTextSha256": "3ef2a7bb84a9e80627c241164d5102febaba7041434df0d088e47d0a045e0dc8",
+      "edits": [
+        {
+          "startOffset": 83,
+          "endOffset": 87,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 11,
+      "sourceTextSha256": "70ab5bfd420e05859ee6b745b2f2a75566c484894a25c2d45e4e0746ddd2a440",
+      "edits": [
+        {
+          "startOffset": 43,
+          "endOffset": 48,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 21,
+      "sourceTextSha256": "6e9e438f1a20a51d9af0b9687927d8942f17b44be39c37d99a0e739ecf9ace8e",
+      "edits": [
+        {
+          "startOffset": 38,
+          "endOffset": 42,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 5,
+      "sourceTextSha256": "b7b4da9629fb549408df59c872836fa7bdbd3ee876f9f799bca111e8650eb57e",
+      "edits": [
+        {
+          "startOffset": 13,
+          "endOffset": 18,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 13,
+      "sourceTextSha256": "acc921b25f69235238674b0ee400646ad7a4f4bb6d72c946e77ad3e5655e8623",
+      "edits": [
+        {
+          "startOffset": 38,
+          "endOffset": 43,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 25,
+      "sourceTextSha256": "1935ead1986de18fbceb650add89bbb576196c2601e6963e23d96927a18e0392",
+      "edits": [
+        {
+          "startOffset": 52,
+          "endOffset": 79,
+          "expected": "Jesus prevented him, saying",
+          "replacement": "Jesus spoke first to him, saying",
+          "category": "semantic-false-friend",
+          "reason": "Jesus addresses Peter before Peter raises the question; Jesus does not obstruct him.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/prevent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 45,
+      "sourceTextSha256": "5be1d84ad2a3f6958c556baec68cc42d1e1c17c58df932ba835e35d667c23209",
+      "edits": [
+        {
+          "startOffset": 88,
+          "endOffset": 93,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 1,
+      "sourceTextSha256": "1e4032bef2ec2b2f81edb40efc4179c817e41a6f535a7eef86b0e12123bb3bab",
+      "edits": [
+        {
+          "startOffset": 23,
+          "endOffset": 28,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 19,
+      "sourceTextSha256": "16606b683a31201e09e4c278ec9362d59a873ee7cee1028d85f9f906b946ba7f",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 4,
+          "expected": "Shew",
+          "replacement": "Show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 1,
+      "sourceTextSha256": "daa195f30496e0d3f6f7b60a507734657eafe2bfc0fd1d1b250907fa3ee1a274",
+      "edits": [
+        {
+          "startOffset": 5,
+          "endOffset": 10,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 1,
+      "sourceTextSha256": "61f460f34c8a5f5288012652b858949d0bb0d6977569fc0ac8713ebd4ee12a27",
+      "edits": [
+        {
+          "startOffset": 87,
+          "endOffset": 91,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 24,
+      "sourceTextSha256": "6dd33e7e8020e75aedb35defb4288e3fd4f470619a46228c7bacc98bb25325e3",
+      "edits": [
+        {
+          "startOffset": 65,
+          "endOffset": 69,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 34,
+      "sourceTextSha256": "fc16cf9c473fdfcb7e5359122809850bcaf94203e4d635a9e55e28264fa1e7cd",
+      "edits": [
+        {
+          "startOffset": 100,
+          "endOffset": 106,
+          "expected": "thrice",
+          "replacement": "three times",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 47,
+      "sourceTextSha256": "7d424685d3f6f57186beab1f8644eda80cc03339c91ed1375151b962c3c9b6dc",
+      "edits": [
+        {
+          "startOffset": 19,
+          "endOffset": 24,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 75,
+      "sourceTextSha256": "a9cda9e6f834cf4e5e119f099fb1dab5a224a89d58eebfc9f83b717c0f9c9773",
+      "edits": [
+        {
+          "startOffset": 102,
+          "endOffset": 108,
+          "expected": "thrice",
+          "replacement": "three times",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 11,
+      "sourceTextSha256": "ecf1792f83ac056bb03ab57566f4bf239106d58c8e778e16418740e7127edbf4",
+      "edits": [
+        {
+          "startOffset": 78,
+          "endOffset": 84,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 18,
+      "sourceTextSha256": "84af5f01b1fe886720f72bf7c1a3fb49165cb13972d9a404d4faa7ca6dca0fa2",
+      "edits": [
+        {
+          "startOffset": 19,
+          "endOffset": 24,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 20,
+      "sourceTextSha256": "4dda698107e7ae930820462ed908f07eeef7c533a692e93224665aa2574a157d",
+      "edits": [
+        {
+          "startOffset": 89,
+          "endOffset": 94,
+          "expected": "alway",
+          "replacement": "always",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

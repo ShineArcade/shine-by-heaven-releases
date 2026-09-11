@@ -1,0 +1,460 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "JOB",
+  "sourceContentSha256": "bfb8d374f9e6417ee8a5f7f43f97c8192c40e6fa12498ca23167842a3047ea24",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 2,
+      "verse": 13,
+      "sourceTextSha256": "f423eaa44f6cd285c5f37b769c2dbe090a0dec185f37e4b569127243ff464e15",
+      "edits": [
+        {
+          "startOffset": 80,
+          "endOffset": 85,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "sourceTextSha256": "93180948e466ce1c6b502cf2589a58709b99c072d650a5d52685bcbfe58050a5",
+      "edits": [
+        {
+          "startOffset": 8,
+          "endOffset": 13,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "sourceTextSha256": "72ce33ca50c1d4a55ed137b598060818fb256c9bc8cd3c0b0d4f1d3ff15d287c",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 28,
+          "expected": "prevent me",
+          "replacement": "receive me",
+          "category": "semantic-false-friend",
+          "reason": "The knees receive the newborn Job; they are not obstructing him.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/prevent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "sourceTextSha256": "2dc11b766f4587ec36e7b4108e242ada9f7449dac3c09ec1b357a949d4e6da28",
+      "edits": [
+        {
+          "startOffset": 6,
+          "endOffset": 22,
+          "expected": "assay to commune",
+          "replacement": "attempt to speak",
+          "category": "archaic-phrase",
+          "reason": "Assay is the obsolete verb try or attempt, and commune here is the act of speaking with Job.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/assay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "sourceTextSha256": "68ce46140a0b6e48dce06041c1c3dee70fbbfeeede9fe42a0a7cc2d33b656314",
+      "edits": [
+        {
+          "startOffset": 22,
+          "endOffset": 31,
+          "expected": "throughly",
+          "replacement": "thoroughly",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "sourceTextSha256": "a260b4fc0bc33c5979caf276bbde7de823bb4c4e82fc62451d96e5bb146d4fde",
+      "edits": [
+        {
+          "startOffset": 40,
+          "endOffset": 46,
+          "expected": "shewed",
+          "replacement": "showed",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "sourceTextSha256": "99074c85efd1d4087c624ccd87cf11b7ab00b3603f1000a21db8fc33ffd25de7",
+      "edits": [
+        {
+          "startOffset": 30,
+          "endOffset": 35,
+          "expected": "alway",
+          "replacement": "always",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "sourceTextSha256": "376afa49900743d8f0aac2d9508e1b0ab940e785772fdf2650d5f58322f2e0ba",
+      "edits": [
+        {
+          "startOffset": 40,
+          "endOffset": 44,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "sourceTextSha256": "549d85f65f2d28dd4fcaa429bc70a0777b8a4a6a65da5f5627aa1d8b786e95f4",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 22,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 17,
+      "sourceTextSha256": "65faafcfdadb489338b997c4888342672ed7e3d36db3388f8ef8cbaac30fbbe7",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 11,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 8,
+      "sourceTextSha256": "51d8dbbcd5c6e6c1715bc58dd3ff07d44c55d43d229f87164af70fc137d5c417",
+      "edits": [
+        {
+          "startOffset": 21,
+          "endOffset": 29,
+          "expected": "astonied",
+          "replacement": "astonished",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 20,
+      "sourceTextSha256": "a7317f4eb6d5e7df9086025de0d86244584f3b143cb63131f728e0d39dfb6949",
+      "edits": [
+        {
+          "startOffset": 34,
+          "endOffset": 42,
+          "expected": "astonied",
+          "replacement": "astonished",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 18,
+      "sourceTextSha256": "b88d884e3cb14c0f3ac339467aa5648cb0d474841088eb5f34af10cd72736210",
+      "edits": [
+        {
+          "startOffset": 51,
+          "endOffset": 56,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 7,
+      "sourceTextSha256": "936db73d738da8c0f6b1faf24e5a01eca7fcdceb894cd1a5d4c40e55865a79f4",
+      "edits": [
+        {
+          "startOffset": 63,
+          "endOffset": 73,
+          "expected": "withholden",
+          "replacement": "withheld",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 22,
+      "sourceTextSha256": "d38f7cb36db314fbc2e1777898df1cfe611430d82e9154454ab7e5e6a2ae720b",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 25,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verse": 27,
+      "sourceTextSha256": "5fb8e5ef2119008c93c3f0351c62209f4ce7f908d06af068c774d9cfe4cf37ab",
+      "edits": [
+        {
+          "startOffset": 34,
+          "endOffset": 69,
+          "expected": "the days of affliction prevented me",
+          "replacement": "the days of affliction came upon me",
+          "category": "semantic-false-friend",
+          "reason": "The days of affliction came upon Job; they did not stop him from another action.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/prevent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 6,
+      "sourceTextSha256": "83132ea211096e391336f1089691bcdb8372d3ba4fcc49e95d3c054a4490433b",
+      "edits": [
+        {
+          "startOffset": 131,
+          "endOffset": 135,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 10,
+      "sourceTextSha256": "0732c010b357d65cc3142e6a56f355ff9f4df8a7889f4d378b2e91439b7a2057",
+      "edits": [
+        {
+          "startOffset": 45,
+          "endOffset": 49,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 16,
+      "sourceTextSha256": "90ee15dc0dc0d20d7cc283e4aabcfe5750fb6b58ea228e15552a0e0ebd81726d",
+      "edits": [
+        {
+          "startOffset": 29,
+          "endOffset": 34,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 17,
+      "sourceTextSha256": "542c195f396ea76ffcd0287e4f0a94b2401b27930305cf24287933fc3b223212",
+      "edits": [
+        {
+          "startOffset": 48,
+          "endOffset": 52,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "verse": 23,
+      "sourceTextSha256": "3e5c57ae11d5dbb7ebeae46bf4ea6a3069f85e653caba394ced8ba568133e085",
+      "edits": [
+        {
+          "startOffset": 75,
+          "endOffset": 79,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 1,
+      "sourceTextSha256": "c6dc7a592d1860908f29e6e5d255fa5da7fcac3888328ac2f594e6ecfcb7c265",
+      "edits": [
+        {
+          "startOffset": 6,
+          "endOffset": 11,
+          "expected": "spake",
+          "replacement": "spoke",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "verse": 2,
+      "sourceTextSha256": "9b9a300bb906618e4550d0b88d90605d260288b1ac555c508861149976eed700",
+      "edits": [
+        {
+          "startOffset": 31,
+          "endOffset": 35,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "verse": 15,
+      "sourceTextSha256": "7f753fcc5de97d7b9a765cb2e6356f69e7024491c3020f6885afe1549de1e532",
+      "edits": [
+        {
+          "startOffset": 35,
+          "endOffset": 45,
+          "expected": "withholden",
+          "replacement": "withheld",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "verse": 11,
+      "sourceTextSha256": "deed2d4e564c1caa3be0e9b7b95b681fba5c9d35a6c45d3c3c6ae08e565463f2",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 47,
+          "expected": "Who hath prevented me, that I should repay him?",
+          "replacement": "Who hath first given to me, that I should repay him?",
+          "category": "contextual-phrase",
+          "reason": "The question denies that anyone gave to God first and thereby placed God in debt.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/prevent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "verse": 18,
+      "sourceTextSha256": "e704ee583fbb0a9bf876be3d5b547fa698cfbb69b1b5ab1ddd1d4e291f1279ae",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 15,
+          "expected": "neesings",
+          "replacement": "sneezings",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "verse": 20,
+      "sourceTextSha256": "a66a2767b93915c1ceaff5fd87d41c244f9e92f05fa27249dcd91d2a3d05c42a",
+      "edits": [
+        {
+          "startOffset": 61,
+          "endOffset": 68,
+          "expected": "caldron",
+          "replacement": "cauldron",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verse": 2,
+      "sourceTextSha256": "bae478bf146a712663d753ba7b1799918ccea3e88c209152cd834fce9cf76d88",
+      "edits": [
+        {
+          "startOffset": 66,
+          "endOffset": 76,
+          "expected": "withholden",
+          "replacement": "withheld",
+          "category": "clear-archaic-english",
+          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}

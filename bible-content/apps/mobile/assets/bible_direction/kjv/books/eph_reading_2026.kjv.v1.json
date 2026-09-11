@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "editionId": "KJV-READING-2026",
+  "sourceVersionId": "KJV",
+  "book": "EPH",
+  "sourceContentSha256": "7ab6cec383b0254bbd4147ef6e581519d7f43b04277a1d45b74723fa0bcba0e7",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "verses": [
+    {
+      "chapter": 2,
+      "verse": 3,
+      "sourceTextSha256": "26f813d0043c43e2f562fc8fb4a17887db69fcea68bb7cdec8cec092b89a847e",
+      "edits": [
+        {
+          "startOffset": 16,
+          "endOffset": 57,
+          "expected": "we all had our conversation in times past",
+          "replacement": "we all lived in times past",
+          "category": "contextual-phrase",
+          "reason": "The clause describes the former life governed by fleshly desires.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "sourceTextSha256": "b67d2332cda13b9400b4fe972d346ccac2490423544e42aa0f320a6a4dd1e7ef",
+      "edits": [
+        {
+          "startOffset": 34,
+          "endOffset": 38,
+          "expected": "shew",
+          "replacement": "show",
+          "category": "clear-archaic-english",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "sourceTextSha256": "a488ca2fbd41983e2b16971f83388eacd399f1210ad05a4c4203b2ee9668e8dc",
+      "edits": [
+        {
+          "startOffset": 31,
+          "endOffset": 50,
+          "expected": "former conversation",
+          "replacement": "former way of life",
+          "category": "semantic-false-friend",
+          "reason": "The old self belongs to the former way of life, not to former speech.",
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://webstersdictionary1828.com/Dictionary/conversation"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ownerReview": {
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
+    "requiredFullTest": true
+  }
+}
