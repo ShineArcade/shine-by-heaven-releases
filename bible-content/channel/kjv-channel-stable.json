@@ -22,8 +22,8 @@
         "contentVersion": 3,
         "sourceVersionId": "KJV",
         "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
-        "contentSha256": "9630d45a841d8e09edbc43046ae276880110ed590cda62a8111d7b47d92c21f6",
-        "sizeBytes": 66166,
+        "contentSha256": "3fc26fa749dd33c81ac2ca44697ac86335fc08201539768accd69acbc454155a",
+        "sizeBytes": 103429,
         "mimeType": "application/json+gzip",
         "artifactPath": "reading_2026.kjv.v3.package.json.gz",
         "expectedBookCount": 66,
@@ -31,8 +31,8 @@
         "coverage": {
           "expectedBookCount": 66,
           "includedBookCount": 66,
-          "changedVerseCount": 1190,
-          "editCount": 1232
+          "changedVerseCount": 1551,
+          "editCount": 1652
         },
         "editorialPolicy": {
           "id": "kjv-minimal-comprehension-policy",
@@ -42,11 +42,11 @@
       }
     ]
   },
-  "contentSha256": "17b13bb2cea62e3c56b3da088b48b6c91ec0d256723fb2c24dcbfbd42c069f75",
+  "contentSha256": "0b2093556382b152bc0278a06d47ccc350739363eaf3c18767973e2e9c17b78f",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "DbYsOra_0oTfmUEUO7gJV8pkAUwzXG3W0wCLKoyl7ZU96PVjHDMA_nCBtKL7q9P1iEG9CLE9sSVMere9qlFlCA"
+    "value": "vokeNlOZp8atOlAM3DsiTqIrZNKPHBJBvXCp1fAhl_QtsmDCEAOIjxvL-9EZXvPEBwSfVtcY5nua7mo1b403DQ"
   }
 }

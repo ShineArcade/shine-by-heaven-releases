@@ -4,7 +4,7 @@
   "sourceVersionId": "KJV",
   "book": "GEN",
   "sourceContentSha256": "98635839e8725b634d5f10b3349ac3c5f96b9705016d86aaa58de4fdeff52ab0",
-  "editorialStatus": "approved-genesis-complete-context-v4",
+  "editorialStatus": "approved-minimal-comprehension-v3",
   "normalizationId": "shine-kjv-visible-text-v1",
   "verses": [
     {
@@ -3028,8 +3028,8 @@
     }
   ],
   "ownerReview": {
-    "contentVersion": 4,
-    "review": "KJV Genesis complete-context review",
+    "contentVersion": 3,
+    "review": "KJV round 3 complete-verse review",
     "requiredFullTest": true
   }
 }
