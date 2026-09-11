@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "updatedAt": "2026-09-11T00:00:00.000Z",
   "sourceVersionId": "RV1909",
-  "activeChangeSet": "editorial-changes/v15.json",
+  "activeChangeSet": "editorial-changes/v16.json",
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs",
   "pending": [
@@ -2809,6 +2809,246 @@
         {
           "label": "Control contextual RVR1960 y NVI",
           "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "exodus-v16-1",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "él les hizo casas",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Las referencias explican el hebraísmo como prosperar familias o conceder descendencia; requiere decidir cuánto explicitar.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 1,
+          "verse": 21
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+1%3A21&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "exodus-v16-2",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "sino por mano fuerte",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La imagen puede referirse a la fuerza de Faraón o a la intervención poderosa de Dios; no se simplifica sin resolver el sujeto.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 3,
+          "verse": 19
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+3%3A19&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "exodus-v16-3",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "Jehová le salió al encuentro, y quiso matarlo",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "El referente de los pronombres en 4:24-26 es discutido y no debe resolverse mediante una paráfrasis automática.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 4,
+          "verse": 24
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+4%3A24&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "exodus-v16-4",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "esposo de sangre",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La expresión depende del episodio de la circuncisión y necesita nota explicativa antes que sustitución.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 4,
+          "verse": 25
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+4%3A25&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "exodus-v16-5",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "le degollarás",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "RVR1960 y NVI describen quebrar el cuello; la fuente RV1909 presenta una acción distinta y requiere cotejo textual.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 13,
+          "verse": 13
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+13%3A13&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "exodus-v16-6",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "No insultarás á los jueces",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "NVI entiende Dios donde la tradición Reina-Valera dice jueces; se conserva hasta revisión textual.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 22,
+          "verse": 28
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+22%3A28&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "exodus-v16-7",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "cárdeno",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "El color se vierte como azul en los controles, pero la terminología de todo el conjunto textil debe cambiarse de forma coherente.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 26,
+          "verse": 1
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+26%3A1&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "exodus-v16-8",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "ligurio",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Las identificaciones modernas de la piedra divergen; no se sustituye sin estudio mineralógico y textual.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 28,
+          "verse": 20
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+28%3A20&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "exodus-v16-9",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "estoraque, uña aromática, gálbano",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "Son sustancias antiguas específicas; una nota puede ayudar más que reemplazar los nombres.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 30,
+          "verse": 34
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+30%3A34&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "exodus-v16-10",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "de ningún modo justificará al malvado",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La relación entre perdón y justicia debe revisarse como cláusula completa, no modernizarse por una palabra.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 34,
+          "verse": 7
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+34%3A7&version=RVR1960%3BNVI"
         }
       ]
     }
