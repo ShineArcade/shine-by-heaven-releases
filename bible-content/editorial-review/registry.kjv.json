@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T00:00:00.000Z",
+  "updatedAt": "2026-09-11T00:00:00.000Z",
   "sourceVersionId": "KJV",
-  "activeContentVersion": 3,
+  "activeContentVersion": 4,
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/verify_kjv_reading_2026.mjs",
   "applied": [
@@ -622,6 +622,790 @@
       "category": "semantic-false-friend",
       "reason": "Quick means alive when swallowed, not rapidly.",
       "evidenceUrl": "https://www.merriam-webster.com/wordplay/quick-word-history"
+    },
+    {
+      "reference": "GEN.1.20",
+      "expected": "creature that hath life",
+      "replacement": "creature that has life",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+1%3A20&version=KJV"
+    },
+    {
+      "reference": "GEN.1.21",
+      "expected": "living creature that moveth",
+      "replacement": "living creature that moves",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+1%3A21&version=KJV"
+    },
+    {
+      "reference": "GEN.1.25",
+      "expected": "every thing that creepeth upon the earth",
+      "replacement": "everything that crawls upon the earth",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+1%3A25&version=KJV"
+    },
+    {
+      "reference": "GEN.1.28",
+      "expected": "replenish the earth",
+      "replacement": "fill the earth",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+1%3A28&version=KJV"
+    },
+    {
+      "reference": "GEN.1.28",
+      "expected": "living thing that moveth",
+      "replacement": "living thing that moves",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+1%3A28&version=KJV"
+    },
+    {
+      "reference": "GEN.1.29",
+      "expected": "for meat",
+      "replacement": "for food",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+1%3A29&version=KJV"
+    },
+    {
+      "reference": "GEN.1.30",
+      "expected": "wherein there is life",
+      "replacement": "in which there is life",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+1%3A30&version=KJV"
+    },
+    {
+      "reference": "GEN.1.30",
+      "expected": "for meat",
+      "replacement": "for food",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+1%3A30&version=KJV"
+    },
+    {
+      "reference": "GEN.2.10",
+      "expected": "from thence it was parted, and became into four heads",
+      "replacement": "from there it divided into four branches",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+2%3A10&version=KJV"
+    },
+    {
+      "reference": "GEN.3.1",
+      "expected": "more subtil",
+      "replacement": "more crafty",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+3%3A1&version=KJV"
+    },
+    {
+      "reference": "GEN.3.13",
+      "expected": "beguiled me",
+      "replacement": "deceived me",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+3%3A13&version=KJV"
+    },
+    {
+      "reference": "GEN.3.17",
+      "expected": "hearkened unto the voice of thy wife",
+      "replacement": "listened to the voice of your wife",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+3%3A17&version=KJV"
+    },
+    {
+      "reference": "GEN.4.4",
+      "expected": "firstlings of his flock",
+      "replacement": "firstborn of his flock",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+4%3A4&version=KJV"
+    },
+    {
+      "reference": "GEN.4.5",
+      "expected": "he had not respect",
+      "replacement": "he had no regard",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+4%3A5&version=KJV"
+    },
+    {
+      "reference": "GEN.4.5",
+      "expected": "very wroth, and his countenance fell",
+      "replacement": "very angry, and his face fell",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+4%3A5&version=KJV"
+    },
+    {
+      "reference": "GEN.4.7",
+      "expected": "sin lieth at the door",
+      "replacement": "sin lies at the door",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+4%3A7&version=KJV"
+    },
+    {
+      "reference": "GEN.4.10",
+      "expected": "blood crieth unto me",
+      "replacement": "blood cries out to me",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+4%3A10&version=KJV"
+    },
+    {
+      "reference": "GEN.4.12",
+      "expected": "a fugitive and a vagabond",
+      "replacement": "a fugitive and a wanderer",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+4%3A12&version=KJV"
+    },
+    {
+      "reference": "GEN.4.14",
+      "expected": "every one that findeth me shall slay me",
+      "replacement": "everyone who finds me shall kill me",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+4%3A14&version=KJV"
+    },
+    {
+      "reference": "GEN.4.15",
+      "expected": "whosoever slayeth Cain",
+      "replacement": "whoever kills Cain",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+4%3A15&version=KJV"
+    },
+    {
+      "reference": "GEN.4.23",
+      "expected": "hearken unto my speech",
+      "replacement": "listen to my speech",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+4%3A23&version=KJV"
+    },
+    {
+      "reference": "GEN.6.4",
+      "expected": "mighty men which were of old, men of renown",
+      "replacement": "mighty men of ancient times, men of renown",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+6%3A4&version=KJV"
+    },
+    {
+      "reference": "GEN.6.6",
+      "expected": "it repented the LORD",
+      "replacement": "the LORD regretted",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+6%3A6&version=KJV"
+    },
+    {
+      "reference": "GEN.8.1",
+      "expected": "the waters asswaged",
+      "replacement": "the waters subsided",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+8%3A1&version=KJV"
+    },
+    {
+      "reference": "GEN.8.21",
+      "expected": "a sweet savour",
+      "replacement": "a pleasing aroma",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+8%3A21&version=KJV"
+    },
+    {
+      "reference": "GEN.9.20",
+      "expected": "an husbandman",
+      "replacement": "a farmer",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+9%3A20&version=KJV"
+    },
+    {
+      "reference": "GEN.12.5",
+      "expected": "the souls that they had gotten",
+      "replacement": "the people they had acquired",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+12%3A5&version=KJV"
+    },
+    {
+      "reference": "GEN.15.1",
+      "expected": "thy exceeding great reward",
+      "replacement": "your very great reward",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+15%3A1&version=KJV"
+    },
+    {
+      "reference": "GEN.15.4",
+      "expected": "come forth out of thine own bowels",
+      "replacement": "come from your own body",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+15%3A4&version=KJV"
+    },
+    {
+      "reference": "GEN.15.6",
+      "expected": "counted it to him for righteousness",
+      "replacement": "credited it to him as righteousness",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+15%3A6&version=KJV"
+    },
+    {
+      "reference": "GEN.16.2",
+      "expected": "restrained me from bearing",
+      "replacement": "kept me from having children",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+16%3A2&version=KJV"
+    },
+    {
+      "reference": "GEN.16.7",
+      "expected": "a fountain of water",
+      "replacement": "a spring of water",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+16%3A7&version=KJV"
+    },
+    {
+      "reference": "GEN.16.8",
+      "expected": "whence camest thou? and whither wilt thou go?",
+      "replacement": "where did you come from, and where are you going?",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+16%3A8&version=KJV"
+    },
+    {
+      "reference": "GEN.18.5",
+      "expected": "comfort ye your hearts",
+      "replacement": "refresh yourselves",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+18%3A5&version=KJV"
+    },
+    {
+      "reference": "GEN.18.24",
+      "expected": "Peradventure",
+      "replacement": "Perhaps",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+18%3A24&version=KJV"
+    },
+    {
+      "reference": "GEN.18.28",
+      "expected": "Peradventure",
+      "replacement": "Perhaps",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+18%3A28&version=KJV"
+    },
+    {
+      "reference": "GEN.18.29",
+      "expected": "Peradventure",
+      "replacement": "Perhaps",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+18%3A29&version=KJV"
+    },
+    {
+      "reference": "GEN.18.30",
+      "expected": "Peradventure",
+      "replacement": "Perhaps",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+18%3A30&version=KJV"
+    },
+    {
+      "reference": "GEN.18.31",
+      "expected": "Peradventure",
+      "replacement": "Perhaps",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+18%3A31&version=KJV"
+    },
+    {
+      "reference": "GEN.18.32",
+      "expected": "Peradventure",
+      "replacement": "Perhaps",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+18%3A32&version=KJV"
+    },
+    {
+      "reference": "GEN.19.11",
+      "expected": "wearied themselves to find the door",
+      "replacement": "exhausted themselves trying to find the door",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+19%3A11&version=KJV"
+    },
+    {
+      "reference": "GEN.20.6",
+      "expected": "suffered I thee",
+      "replacement": "allowed you",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+20%3A6&version=KJV"
+    },
+    {
+      "reference": "GEN.21.14",
+      "expected": "a bottle of water",
+      "replacement": "a skin of water",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+21%3A14&version=KJV"
+    },
+    {
+      "reference": "GEN.21.17",
+      "expected": "What aileth thee",
+      "replacement": "What troubles you",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+21%3A17&version=KJV"
+    },
+    {
+      "reference": "GEN.22.1",
+      "expected": "God did tempt Abraham",
+      "replacement": "God tested Abraham",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+22%3A1&version=KJV"
+    },
+    {
+      "reference": "GEN.23.4",
+      "expected": "buryingplace",
+      "replacement": "burial place",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+23%3A4&version=KJV"
+    },
+    {
+      "reference": "GEN.23.6",
+      "expected": "sepulchres",
+      "replacement": "tombs",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+23%3A6&version=KJV"
+    },
+    {
+      "reference": "GEN.24.5",
+      "expected": "Peradventure",
+      "replacement": "Perhaps",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+24%3A5&version=KJV"
+    },
+    {
+      "reference": "GEN.24.39",
+      "expected": "Peradventure",
+      "replacement": "Perhaps",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+24%3A39&version=KJV"
+    },
+    {
+      "reference": "GEN.24.53",
+      "expected": "raiment",
+      "replacement": "clothing",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+24%3A53&version=KJV"
+    },
+    {
+      "reference": "GEN.25.8",
+      "expected": "gave up the ghost",
+      "replacement": "died",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+25%3A8&version=KJV"
+    },
+    {
+      "reference": "GEN.25.23",
+      "expected": "from thy bowels",
+      "replacement": "from your womb",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+25%3A23&version=KJV"
+    },
+    {
+      "reference": "GEN.25.27",
+      "expected": "a plain man",
+      "replacement": "a quiet man",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+25%3A27&version=KJV"
+    },
+    {
+      "reference": "GEN.25.29",
+      "expected": "sod pottage",
+      "replacement": "cooked stew",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+25%3A29&version=KJV"
+    },
+    {
+      "reference": "GEN.25.30",
+      "expected": "that same red pottage",
+      "replacement": "that red stew",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+25%3A30&version=KJV"
+    },
+    {
+      "reference": "GEN.25.34",
+      "expected": "pottage of lentiles",
+      "replacement": "lentil stew",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+25%3A34&version=KJV"
+    },
+    {
+      "reference": "GEN.26.14",
+      "expected": "great store of servants",
+      "replacement": "many servants",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+26%3A14&version=KJV"
+    },
+    {
+      "reference": "GEN.28.11",
+      "expected": "lighted upon a certain place",
+      "replacement": "came to a certain place",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+28%3A11&version=KJV"
+    },
+    {
+      "reference": "GEN.31.19",
+      "expected": "stolen the images",
+      "replacement": "stolen the household gods",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+31%3A19&version=KJV"
+    },
+    {
+      "reference": "GEN.31.34",
+      "expected": "the camel’s furniture",
+      "replacement": "the camel’s saddle",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+31%3A34&version=KJV"
+    },
+    {
+      "reference": "GEN.34.3",
+      "expected": "his soul clave unto Dinah",
+      "replacement": "his soul clung to Dinah",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+34%3A3&version=KJV"
+    },
+    {
+      "reference": "GEN.34.7",
+      "expected": "wrought folly in Israel",
+      "replacement": "committed a disgraceful act in Israel",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+34%3A7&version=KJV"
+    },
+    {
+      "reference": "GEN.35.18",
+      "expected": "as her soul was in departing, (for she died)",
+      "replacement": "as her life was leaving her (for she died)",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+35%3A18&version=KJV"
+    },
+    {
+      "reference": "GEN.36.6",
+      "expected": "all his substance",
+      "replacement": "all his possessions",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+36%3A6&version=KJV"
+    },
+    {
+      "reference": "GEN.38.21",
+      "expected": "the harlot",
+      "replacement": "the prostitute",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+38%3A21&version=KJV"
+    },
+    {
+      "reference": "GEN.39.6",
+      "expected": "he knew not ought he had",
+      "replacement": "he concerned himself with nothing he had",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+39%3A6&version=KJV"
+    },
+    {
+      "reference": "GEN.40.17",
+      "expected": "bakemeats",
+      "replacement": "baked goods",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+40%3A17&version=KJV"
+    },
+    {
+      "reference": "GEN.41.2",
+      "expected": "seven well favoured kine and fatfleshed",
+      "replacement": "seven healthy and well-fed cows",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+41%3A2&version=KJV"
+    },
+    {
+      "reference": "GEN.41.3",
+      "expected": "seven other kine",
+      "replacement": "seven other cows",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+41%3A3&version=KJV"
+    },
+    {
+      "reference": "GEN.41.4",
+      "expected": "the ill favoured and leanfleshed kine",
+      "replacement": "the ugly and thin cows",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+41%3A4&version=KJV"
+    },
+    {
+      "reference": "GEN.41.5",
+      "expected": "seven ears of corn",
+      "replacement": "seven heads of grain",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+41%3A5&version=KJV"
+    },
+    {
+      "reference": "GEN.41.6",
+      "expected": "blasted with the east wind",
+      "replacement": "scorched by the east wind",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+41%3A6&version=KJV"
+    },
+    {
+      "reference": "GEN.41.14",
+      "expected": "brought him hastily out of the dungeon",
+      "replacement": "quickly brought him out of prison",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+41%3A14&version=KJV"
+    },
+    {
+      "reference": "GEN.41.35",
+      "expected": "lay up corn",
+      "replacement": "store grain",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+41%3A35&version=KJV"
+    },
+    {
+      "reference": "GEN.41.49",
+      "expected": "corn as the sand of the sea",
+      "replacement": "grain as plentiful as the sand of the sea",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+41%3A49&version=KJV"
+    },
+    {
+      "reference": "GEN.42.1",
+      "expected": "corn in Egypt",
+      "replacement": "grain in Egypt",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+42%3A1&version=KJV"
+    },
+    {
+      "reference": "GEN.42.7",
+      "expected": "made himself strange unto them",
+      "replacement": "acted like a stranger toward them",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+42%3A7&version=KJV"
+    },
+    {
+      "reference": "GEN.42.9",
+      "expected": "the nakedness of the land",
+      "replacement": "the undefended parts of the land",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+42%3A9&version=KJV"
+    },
+    {
+      "reference": "GEN.42.27",
+      "expected": "he espied his money",
+      "replacement": "he saw his money",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+42%3A27&version=KJV"
+    },
+    {
+      "reference": "GEN.43.30",
+      "expected": "his bowels did yearn upon his brother",
+      "replacement": "he was deeply moved for his brother",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+43%3A30&version=KJV"
+    },
+    {
+      "reference": "GEN.44.34",
+      "expected": "lest peradventure I see the evil",
+      "replacement": "lest I see the harm",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+44%3A34&version=KJV"
+    },
+    {
+      "reference": "GEN.45.6",
+      "expected": "neither be earing nor harvest",
+      "replacement": "be neither plowing nor harvest",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+45%3A6&version=KJV"
+    },
+    {
+      "reference": "GEN.45.17",
+      "expected": "lade your beasts",
+      "replacement": "load your animals",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+45%3A17&version=KJV"
+    },
+    {
+      "reference": "GEN.45.18",
+      "expected": "the fat of the land",
+      "replacement": "the best of the land",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+45%3A18&version=KJV"
+    },
+    {
+      "reference": "GEN.45.22",
+      "expected": "changes of raiment",
+      "replacement": "changes of clothing",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+45%3A22&version=KJV"
+    },
+    {
+      "reference": "GEN.45.24",
+      "expected": "See that ye fall not out by the way",
+      "replacement": "Do not quarrel along the way",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+45%3A24&version=KJV"
+    },
+    {
+      "reference": "GEN.46.15",
+      "expected": "all the souls of his sons and his daughters were thirty and three",
+      "replacement": "all his sons and daughters numbered thirty-three people",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+46%3A15&version=KJV"
+    },
+    {
+      "reference": "GEN.46.34",
+      "expected": "Thy servants’ trade hath been about cattle",
+      "replacement": "Your servants have worked with livestock",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+46%3A34&version=KJV"
+    },
+    {
+      "reference": "GEN.47.4",
+      "expected": "the famine is sore",
+      "replacement": "the famine is severe",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+47%3A4&version=KJV"
+    },
+    {
+      "reference": "GEN.47.6",
+      "expected": "men of activity",
+      "replacement": "capable men",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+47%3A6&version=KJV"
+    },
+    {
+      "reference": "GEN.47.18",
+      "expected": "there is not ought left",
+      "replacement": "there is nothing left",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+47%3A18&version=KJV"
+    },
+    {
+      "reference": "GEN.48.6",
+      "expected": "thy issue",
+      "replacement": "your offspring",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+48%3A6&version=KJV"
+    },
+    {
+      "reference": "GEN.49.9",
+      "expected": "a lion’s whelp",
+      "replacement": "a young lion",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+49%3A9&version=KJV"
+    },
+    {
+      "reference": "GEN.49.14",
+      "expected": "a strong ass",
+      "replacement": "a strong donkey",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+49%3A14&version=KJV"
+    },
+    {
+      "reference": "GEN.49.26",
+      "expected": "my progenitors",
+      "replacement": "my ancestors",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+49%3A26&version=KJV"
+    },
+    {
+      "reference": "GEN.49.33",
+      "expected": "yielded up the ghost",
+      "replacement": "died",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+49%3A33&version=KJV"
+    },
+    {
+      "reference": "GEN.50.15",
+      "expected": "will certainly requite us",
+      "replacement": "will certainly repay us",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+50%3A15&version=KJV"
+    },
+    {
+      "reference": "GEN.50.25",
+      "expected": "from hence",
+      "replacement": "from here",
+      "category": "genesis-complete-context-review",
+      "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+50%3A25&version=KJV"
     }
   ],
   "pending": [
