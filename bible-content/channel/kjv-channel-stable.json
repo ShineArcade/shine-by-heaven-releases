@@ -1,0 +1,52 @@
+{
+  "format": "shine-public-kjv-reading-channel",
+  "schemaVersion": 1,
+  "payload": {
+    "channelId": "shine-public-kjv-reading-stable",
+    "contentVersion": 3,
+    "issuedAt": "2026-09-10T00:00:00.000Z",
+    "expiresAt": "2028-09-10T00:00:00.000Z",
+    "distributionScope": "public",
+    "updatePolicy": {
+      "versionAuthority": "contentVersion",
+      "equalVersionEqualHash": "no-op",
+      "equalVersionDifferentHash": "reject-conflict",
+      "lowerVersion": "reject-downgrade",
+      "higherVersion": "accept-after-verification"
+    },
+    "artifacts": [
+      {
+        "kind": "reading-filter",
+        "id": "KJV-READING-2026",
+        "schemaVersion": 1,
+        "contentVersion": 3,
+        "sourceVersionId": "KJV",
+        "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
+        "contentSha256": "9630d45a841d8e09edbc43046ae276880110ed590cda62a8111d7b47d92c21f6",
+        "sizeBytes": 66166,
+        "mimeType": "application/json+gzip",
+        "artifactPath": "reading_2026.kjv.v3.package.json.gz",
+        "expectedBookCount": 66,
+        "includedBookCount": 66,
+        "coverage": {
+          "expectedBookCount": 66,
+          "includedBookCount": 66,
+          "changedVerseCount": 1190,
+          "editCount": 1232
+        },
+        "editorialPolicy": {
+          "id": "kjv-minimal-comprehension-policy",
+          "version": 3,
+          "description": "Only exact, occurrence-reviewed wording that materially improves comprehension is projected. The packaged KJV remains immutable."
+        }
+      }
+    ]
+  },
+  "contentSha256": "17b13bb2cea62e3c56b3da088b48b6c91ec0d256723fb2c24dcbfbd42c069f75",
+  "signature": {
+    "algorithm": "Ed25519",
+    "keyId": "shine-bible-content-2026-01",
+    "signedObject": "payload",
+    "value": "DbYsOra_0oTfmUEUO7gJV8pkAUwzXG3W0wCLKoyl7ZU96PVjHDMA_nCBtKL7q9P1iEG9CLE9sSVMere9qlFlCA"
+  }
+}

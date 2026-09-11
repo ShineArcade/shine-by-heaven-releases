@@ -3,9 +3,9 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-bible-stable",
-    "contentVersion": 11,
-    "issuedAt": "2026-09-09T00:00:00.000Z",
-    "expiresAt": "2028-09-09T00:00:00.000Z",
+    "contentVersion": 14,
+    "issuedAt": "2026-09-10T00:00:00.000Z",
+    "expiresAt": "2028-09-10T00:00:00.000Z",
     "distributionScope": "public",
     "updatePolicy": {
       "versionAuthority": "contentVersion",
@@ -39,18 +39,18 @@
         "kind": "reading-filter",
         "id": "RV1909-LECTURA-2026",
         "schemaVersion": 1,
-        "contentVersion": 11,
+        "contentVersion": 14,
         "sourceVersionId": "RV1909",
         "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-        "contentSha256": "628870563df6892d108549b8f3db2d002295c59cc37bd22ef86cd76eac07a58f",
-        "sizeBytes": 426087,
+        "contentSha256": "df2882047fd96efc2c08c27968559adecef1a081542676ddd64f7c2b8d9a0630",
+        "sizeBytes": 465734,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.rv1909.v11.package.json.gz",
+        "artifactPath": "reading_2026.rv1909.v14.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
-          "changedVerseCount": 4582,
-          "editCount": 5433
+          "changedVerseCount": 5087,
+          "editCount": 6089
         },
         "editorialPolicy": {
           "id": "unified-minimal-comprehension-policy",
@@ -60,11 +60,11 @@
       }
     ]
   },
-  "contentSha256": "539a3cc7d055af6eb05f74a0716c186c8541a274e8c41a579bd173f2afb3c1fe",
+  "contentSha256": "a8c2784a52f7897387d296433eafb1086165d614a0341f7788e5cd3b04096233",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "rmGBc1TGRzcUhLdBXLmT9Woq4nYeETWvVInETywmuBl_cf8MAVb8PwXkVdE6wBmfYulGZUsqgI6AoV9lJag4AA"
+    "value": "F1Pw27nmooQC0GXlsKX41jQf5pVGi3rybxxQ6-DElnCINfYoUN82yJsf_WiFO0FwUrLuFmimctWCMSQW2TkqDg"
   }
 }

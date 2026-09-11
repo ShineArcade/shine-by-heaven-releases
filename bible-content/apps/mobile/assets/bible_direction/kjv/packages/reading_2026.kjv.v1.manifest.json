@@ -6,7 +6,7 @@
   "sourceVersionId": "KJV",
   "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
   "normalizationId": "shine-kjv-visible-text-v1",
-  "contentSha256": "280da9018da36ee5d15721ff97417078b4a09eddbc745919ec6fcb7982875310",
+  "contentSha256": "9630d45a841d8e09edbc43046ae276880110ed590cda62a8111d7b47d92c21f6",
   "sizeBytes": 66166,
   "expandedSizeBytes": 420506,
   "mimeType": "application/vnd.shine.reading-filter+gzip",
