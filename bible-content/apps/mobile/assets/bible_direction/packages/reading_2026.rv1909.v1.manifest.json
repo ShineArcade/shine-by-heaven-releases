@@ -2,14 +2,14 @@
   "format": "shine-reading-filter-manifest",
   "filterId": "RV1909-LECTURA-2026",
   "schemaVersion": 1,
-  "contentVersion": 14,
+  "contentVersion": 15,
   "sourceVersionId": "RV1909",
   "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-  "contentSha256": "df2882047fd96efc2c08c27968559adecef1a081542676ddd64f7c2b8d9a0630",
-  "sizeBytes": 465734,
-  "expandedSizeBytes": 2244969,
+  "contentSha256": "8b87723a766936717d6df5a38da9980ae374ad4b5e78f729d2a8ae7a0c71a922",
+  "sizeBytes": 478946,
+  "expandedSizeBytes": 2363833,
   "mimeType": "application/vnd.shine.reading-filter+gzip",
-  "generatedAt": "2026-09-10T00:00:00.000Z",
+  "generatedAt": "2026-09-11T00:00:00.000Z",
   "editorialPolicy": {
     "id": "unified-minimal-comprehension-policy",
     "version": 3,
@@ -18,8 +18,8 @@
   "coverage": {
     "expectedBookCount": 66,
     "includedBookCount": 66,
-    "changedVerseCount": 5087,
-    "editCount": 6089
+    "changedVerseCount": 5172,
+    "editCount": 6262
   },
   "books": [
     {
@@ -27,9 +27,9 @@
       "order": 1,
       "sourceFile": "genesis_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "be1ef478f6c4f4c7e774aa1a01148f46f0a1b93bd0a1f176c8f519ba771be32e",
-      "payloadSha256": "9396f1233a6118bc18f730c1efa64fe8f18dfdb2527d7c3c7687d489d263262c",
-      "changedVerseCount": 330,
-      "editCount": 407
+      "payloadSha256": "d234f73d733449a6799173b3ce6b939f1ef99c9a4a980c0c5515a941e2eb2c27",
+      "changedVerseCount": 415,
+      "editCount": 580
     },
     {
       "id": "EXO",

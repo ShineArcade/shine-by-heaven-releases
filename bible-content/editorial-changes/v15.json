@@ -1,0 +1,3379 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 15,
+  "generatedAt": "2026-09-11T00:00:00.000Z",
+  "issuedAt": "2026-09-11T00:00:00.000Z",
+  "expiresAt": "2028-09-11T00:00:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 11,
+      "expected": "hierba que dé simiente",
+      "replacement": "hierba que dé semilla",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 11,
+      "expected": "que su simiente esté en él",
+      "replacement": "cuya semilla esté en él",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 12,
+      "expected": "hierba verde, hierba que da simiente",
+      "replacement": "hierba verde que da semilla",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 12,
+      "expected": "cuya simiente está en él",
+      "replacement": "cuya semilla está en él",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 14,
+      "expected": "Sean lumbreras",
+      "replacement": "Haya luminarias",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 16,
+      "expected": "las dos grandes lumbreras",
+      "replacement": "las dos grandes luminarias",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 16,
+      "expected": "la lumbrera mayor",
+      "replacement": "la luminaria mayor",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 16,
+      "expected": "la lumbrera menor",
+      "replacement": "la luminaria menor",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 20,
+      "expected": "reptil de ánima viviente",
+      "replacement": "seres vivientes",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 21,
+      "expected": "las grandes ballenas",
+      "replacement": "los grandes animales marinos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 21,
+      "expected": "toda cosa viva que anda arrastrando",
+      "replacement": "todo ser viviente que se mueve",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 26,
+      "expected": "señoree en los peces de la mar, y en las aves de los cielos, y en las bestias, y en toda la tierra, y en",
+      "replacement": "domine sobre los peces del mar, sobre las aves de los cielos, sobre las bestias, sobre toda la tierra y sobre",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A26&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A26&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 26,
+      "expected": "todo animal que anda arrastrando",
+      "replacement": "todo animal que se arrastra",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A26&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A26&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 28,
+      "expected": "Fructificad y multiplicad",
+      "replacement": "Sean fructíferos y multiplíquense",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A28&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A28&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 28,
+      "expected": "henchid",
+      "replacement": "llenen",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A28&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A28&version=NVI"
+        }
+      ],
+      "previousReplacement": "llenad"
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 28,
+      "expected": "sojuzgadla",
+      "replacement": "sométanla",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A28&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A28&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 1,
+      "verse": 28,
+      "expected": "señoread en los peces de la mar, y en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra",
+      "replacement": "dominen sobre los peces del mar, las aves de los cielos y todas las bestias que se mueven sobre la tierra",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A28&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A28&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 2,
+      "verse": 1,
+      "expected": "Y FUERON acabados los cielos y la tierra, y todo su ornamento",
+      "replacement": "Así quedaron terminados los cielos y la tierra, y todo lo que hay en ellos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 2,
+      "verse": 7,
+      "expected": "alentó en su nariz soplo de vida",
+      "replacement": "sopló en su nariz aliento de vida",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 2,
+      "verse": 7,
+      "expected": "fué el hombre en alma viviente",
+      "replacement": "fue el hombre un ser viviente",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 2,
+      "verse": 9,
+      "expected": "árbol de ciencia del bien y del mal",
+      "replacement": "árbol del conocimiento del bien y del mal",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 2,
+      "verse": 12,
+      "expected": "bdelio",
+      "replacement": "bedelio",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 2,
+      "verse": 12,
+      "expected": "piedra cornerina",
+      "replacement": "ónice",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 2,
+      "verse": 14,
+      "expected": "Hiddekel",
+      "replacement": "Tigris",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 2,
+      "verse": 18,
+      "expected": "ayuda idónea",
+      "replacement": "ayuda adecuada",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A18&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A18&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 2,
+      "verse": 20,
+      "expected": "ayuda que estuviese idónea",
+      "replacement": "ayuda adecuada",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 2,
+      "verse": 23,
+      "expected": "será llamada Varona, porque del varón fué tomada",
+      "replacement": "será llamada Mujer, porque del hombre fue tomada",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 2,
+      "verse": 24,
+      "expected": "allegarse ha á su mujer",
+      "replacement": "se unirá a su mujer",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A24&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A24&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 3,
+      "verse": 16,
+      "expected": "tus dolores y tus preñeces",
+      "replacement": "tus dolores y tus embarazos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 3,
+      "verse": 16,
+      "expected": "con dolor parirás los hijos",
+      "replacement": "con dolor darás a luz a tus hijos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 3,
+      "verse": 16,
+      "expected": "él se enseñoreará de ti",
+      "replacement": "él te dominará",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 3,
+      "verse": 17,
+      "expected": "por amor de ti",
+      "replacement": "por tu causa",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3%3A17&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3%3A17&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 4,
+      "verse": 4,
+      "expected": "de su grosura",
+      "replacement": "de su grasa",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 4,
+      "verse": 5,
+      "expected": "Mas no miró propicio",
+      "replacement": "Pero no miró con agrado",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 4,
+      "verse": 6,
+      "expected": "te has ensañado",
+      "replacement": "te has enfurecido",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 4,
+      "verse": 6,
+      "expected": "se ha inmutado tu rostro",
+      "replacement": "ha decaído tu semblante",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 4,
+      "verse": 7,
+      "expected": "¿no serás ensalzado?",
+      "replacement": "¿no serás enaltecido?",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 4,
+      "verse": 7,
+      "expected": "tú te enseñorearás de él",
+      "replacement": "tú lo dominarás",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 4,
+      "verse": 22,
+      "expected": "acicalador de toda obra de metal y de hierro",
+      "replacement": "artífice de toda obra de bronce y de hierro",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A22&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A22&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 4,
+      "verse": 26,
+      "expected": "comenzaron á llamarse del nombre de Jehová",
+      "replacement": "comenzaron a invocar el nombre de Jehová",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A26&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+4%3A26&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 6,
+      "verse": 4,
+      "expected": "varones de nombre",
+      "replacement": "hombres de renombre",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 6,
+      "verse": 14,
+      "expected": "aposentos",
+      "replacement": "compartimentos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 6,
+      "verse": 14,
+      "expected": "la embetunarás con brea",
+      "replacement": "la cubrirás con brea",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 6,
+      "verse": 21,
+      "expected": "toda vianda que se come",
+      "replacement": "todo alimento que se come",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 6,
+      "verse": 21,
+      "expected": "allégala á ti",
+      "replacement": "almacénalo",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 7,
+      "verse": 2,
+      "expected": "de siete en siete, macho y su hembra",
+      "replacement": "siete parejas, macho y hembra",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+7%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+7%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 7,
+      "verse": 2,
+      "expected": "dos, macho y su hembra",
+      "replacement": "una pareja, macho y hembra",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+7%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+7%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 8,
+      "verse": 11,
+      "expected": "una hoja de oliva tomada en su pico",
+      "replacement": "una hoja de olivo en su pico",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+8%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+8%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 8,
+      "verse": 13,
+      "expected": "las aguas se enjugaron",
+      "replacement": "las aguas se secaron",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+8%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+8%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 8,
+      "verse": 13,
+      "expected": "la faz de la tierra estaba enjuta",
+      "replacement": "la superficie de la tierra estaba seca",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+8%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+8%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 11,
+      "verse": 2,
+      "expected": "como se partieron de oriente",
+      "replacement": "cuando salieron de oriente",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 11,
+      "verse": 2,
+      "expected": "una vega",
+      "replacement": "una llanura",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 11,
+      "verse": 2,
+      "expected": "asentaron allí",
+      "replacement": "se establecieron allí",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 11,
+      "verse": 6,
+      "expected": "nada les retraerá",
+      "replacement": "nada los hará desistir",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 11,
+      "verse": 6,
+      "expected": "han pensando hacer",
+      "replacement": "han pensado hacer",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 15,
+      "verse": 2,
+      "expected": "ando sin hijo",
+      "replacement": "sigo sin hijos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+15%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+15%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 15,
+      "verse": 3,
+      "expected": "no me has dado prole",
+      "replacement": "no me has dado descendencia",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+15%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+15%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 15,
+      "verse": 3,
+      "expected": "es mi heredero uno nacido en mi casa",
+      "replacement": "mi heredero será un esclavo nacido en mi casa",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+15%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+15%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 15,
+      "verse": 12,
+      "expected": "el pavor de una grande obscuridad cayó sobre él",
+      "replacement": "el temor de una gran oscuridad cayó sobre él",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+15%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+15%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 16,
+      "verse": 10,
+      "expected": "tu linaje",
+      "replacement": "tu descendencia",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+16%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+16%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 16,
+      "verse": 10,
+      "expected": "que no será contado á causa de la muchedumbre",
+      "replacement": "que no podrá ser contada a causa de la multitud",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+16%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+16%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 16,
+      "verse": 11,
+      "expected": "parirás un hijo",
+      "replacement": "darás a luz un hijo",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+16%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+16%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 16,
+      "verse": 11,
+      "expected": "oído ha Jehová",
+      "replacement": "Jehová ha oído",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+16%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+16%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 17,
+      "verse": 4,
+      "expected": "muchedumbre de gentes",
+      "replacement": "una multitud de naciones",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+17%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+17%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 17,
+      "verse": 7,
+      "expected": "entre mí y ti, y tu simiente después de ti",
+      "replacement": "entre mí y ti, y tu descendencia después de ti",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+17%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+17%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 17,
+      "verse": 7,
+      "expected": "por alianza perpetua",
+      "replacement": "por pacto perpetuo",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+17%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+17%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 17,
+      "verse": 7,
+      "expected": "para serte á ti por Dios, y á tu simiente después de ti",
+      "replacement": "para ser tu Dios, y el de tu descendencia después de ti",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+17%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+17%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 18,
+      "verse": 5,
+      "expected": "sustentad vuestro corazón",
+      "replacement": "recobrad fuerzas",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+18%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+18%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 18,
+      "verse": 6,
+      "expected": "de priesa",
+      "replacement": "deprisa",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+18%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+18%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 18,
+      "verse": 6,
+      "expected": "flor de harina",
+      "replacement": "harina fina",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+18%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+18%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 18,
+      "verse": 11,
+      "expected": "viejos, entrados en días",
+      "replacement": "ancianos, de edad avanzada",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+18%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+18%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 18,
+      "verse": 11,
+      "expected": "á Sara había cesado ya la costumbre de las mujeres",
+      "replacement": "Sara ya había dejado de menstruar",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+18%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+18%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 19,
+      "verse": 3,
+      "expected": "porfió con ellos mucho",
+      "replacement": "insistió tanto",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 19,
+      "verse": 3,
+      "expected": "se vinieron",
+      "replacement": "fueron",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 19,
+      "verse": 11,
+      "expected": "se fatigaban por hallar la puerta",
+      "replacement": "no podían encontrar la puerta",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 19,
+      "verse": 20,
+      "expected": "vivirá mi alma",
+      "replacement": "salvaré mi vida",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 19,
+      "verse": 21,
+      "expected": "He aquí he recibido también tu súplica sobre esto",
+      "replacement": "También he aceptado tu petición",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 19,
+      "verse": 34,
+      "expected": "conservemos de nuestro padre generación",
+      "replacement": "conservemos la descendencia de nuestro padre",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A34&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+19%3A34&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 20,
+      "verse": 3,
+      "expected": "He aquí muerto eres",
+      "replacement": "Vas a morir",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+20%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+20%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 20,
+      "verse": 3,
+      "expected": "casada con marido",
+      "replacement": "casada",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+20%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+20%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 20,
+      "verse": 12,
+      "expected": "toméla por mujer",
+      "replacement": "la tomé por mujer",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+20%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+20%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 21,
+      "verse": 6,
+      "expected": "cualquiera que lo oyere",
+      "replacement": "cualquiera que lo oiga",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+21%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+21%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 21,
+      "verse": 14,
+      "expected": "ella partió, y andaba errante",
+      "replacement": "ella salió y anduvo errante",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+21%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+21%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 21,
+      "verse": 16,
+      "expected": "como un tiro de arco",
+      "replacement": "a la distancia de un tiro de arco",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+21%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+21%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 22,
+      "verse": 1,
+      "expected": "tentó Dios á Abraham",
+      "replacement": "Dios puso a prueba a Abraham",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+22%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+22%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 22,
+      "verse": 13,
+      "expected": "trabado en un zarzal",
+      "replacement": "enredado en un matorral",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+22%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+22%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 22,
+      "verse": 20,
+      "expected": "fué dada nueva á Abraham",
+      "replacement": "informaron a Abraham",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+22%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+22%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 24,
+      "verse": 12,
+      "expected": "dame, te ruego, el tener hoy buen encuentro, y haz misericordia con mi señor Abraham",
+      "replacement": "te ruego que hoy me vaya bien y muestres misericordia a mi señor Abraham",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+24%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+24%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 24,
+      "verse": 33,
+      "expected": "delante qué comer",
+      "replacement": "comida delante",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+24%3A33&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+24%3A33&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 24,
+      "verse": 43,
+      "expected": "la doncella",
+      "replacement": "la joven",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+24%3A43&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+24%3A43&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 24,
+      "verse": 63,
+      "expected": "á orar al campo",
+      "replacement": "a meditar al campo",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+24%3A63&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+24%3A63&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 25,
+      "verse": 27,
+      "expected": "varón quieto",
+      "replacement": "hombre tranquilo",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+25%3A27&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+25%3A27&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 25,
+      "verse": 30,
+      "expected": "de eso",
+      "replacement": "de ese guiso",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+25%3A30&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+25%3A30&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 27,
+      "verse": 1,
+      "expected": "sus ojos se ofuscaron",
+      "replacement": "sus ojos se oscurecieron",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+27%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+27%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 28,
+      "verse": 11,
+      "expected": "encontró con un lugar",
+      "replacement": "llegó a cierto lugar",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+28%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+28%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 29,
+      "verse": 2,
+      "expected": "abrevaban los ganados",
+      "replacement": "bebían los ganados",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+29%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+29%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 29,
+      "verse": 7,
+      "expected": "abrevad las ovejas, é id á apacentarlas",
+      "replacement": "den de beber a las ovejas y llévenlas a pastar",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+29%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+29%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 30,
+      "verse": 32,
+      "expected": "reses manchadas y de color vario",
+      "replacement": "ovejas manchadas y salpicadas de color",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+30%3A32&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+30%3A32&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 30,
+      "verse": 32,
+      "expected": "las manchadas y de color vario entre las cabras",
+      "replacement": "las manchadas y moteadas entre las cabras",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+30%3A32&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+30%3A32&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 30,
+      "verse": 37,
+      "expected": "descortezó en ellas mondaduras blancas",
+      "replacement": "les quitó parte de la corteza para formar franjas blancas",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+30%3A37&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+30%3A37&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 31,
+      "verse": 10,
+      "expected": "las ovejas se recalentaban",
+      "replacement": "las ovejas estaban en celo",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 31,
+      "verse": 34,
+      "expected": "una albarda de un camello",
+      "replacement": "la montura de un camello",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A34&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A34&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 31,
+      "verse": 34,
+      "expected": "tentó Labán toda la tienda",
+      "replacement": "buscó Labán por toda la tienda",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A34&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A34&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 31,
+      "verse": 36,
+      "expected": "Entonces Jacob se enojó, y regañó con Labán; y respondió Jacob y dijo á Labán: ¿Qué prevaricación es la mía?",
+      "replacement": "Entonces Jacob se enojó y discutió con Labán. Jacob le dijo: ¿Qué falta he cometido?",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A36&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A36&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 31,
+      "verse": 36,
+      "expected": "con tanto ardor has venido en seguimiento mío",
+      "replacement": "me persigues con tanto ardor",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A36&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A36&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 31,
+      "verse": 39,
+      "expected": "de mi mano lo requerías",
+      "replacement": "a mí me lo cobrabas",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A39&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A39&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 31,
+      "verse": 51,
+      "expected": "este majano",
+      "replacement": "este montón de piedras",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A51&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A51&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 31,
+      "verse": 51,
+      "expected": "este título",
+      "replacement": "esta señal",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A51&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+31%3A51&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 32,
+      "verse": 18,
+      "expected": "Presente es de tu siervo Jacob",
+      "replacement": "Es un regalo de tu siervo Jacob",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A18&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A18&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 32,
+      "verse": 20,
+      "expected": "con el presente",
+      "replacement": "con el regalo",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 32,
+      "verse": 20,
+      "expected": "quizá le seré acepto",
+      "replacement": "quizá me reciba bien",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 32,
+      "verse": 25,
+      "expected": "el sitio del encaje de su muslo",
+      "replacement": "la coyuntura de su cadera",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A25&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A25&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 32,
+      "verse": 25,
+      "expected": "descoyuntóse",
+      "replacement": "se dislocó",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A25&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A25&version=NVI"
+        }
+      ],
+      "previousReplacement": "se descoyuntó"
+    },
+    {
+      "book": "GEN",
+      "chapter": 32,
+      "verse": 25,
+      "expected": "el muslo de Jacob",
+      "replacement": "la cadera de Jacob",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A25&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+32%3A25&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 33,
+      "verse": 2,
+      "expected": "los postreros",
+      "replacement": "los últimos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+33%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+33%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 33,
+      "verse": 10,
+      "expected": "toma mi presente de mi mano",
+      "replacement": "acepta el regalo que te ofrezco",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+33%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+33%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 33,
+      "verse": 10,
+      "expected": "hazme placer",
+      "replacement": "me has recibido con favor",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+33%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+33%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 34,
+      "verse": 15,
+      "expected": "os haremos placer",
+      "replacement": "aceptaremos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+34%3A15&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+34%3A15&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 34,
+      "verse": 21,
+      "expected": "traficarán en él",
+      "replacement": "comerciarán en él",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+34%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+34%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 35,
+      "verse": 17,
+      "expected": "había trabajo en su parir",
+      "replacement": "tenía dificultades en el parto",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+35%3A17&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+35%3A17&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 35,
+      "verse": 18,
+      "expected": "al salírsele el alma",
+      "replacement": "al exhalar su último aliento",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+35%3A18&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+35%3A18&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 37,
+      "verse": 11,
+      "expected": "paraba la consideración en ello",
+      "replacement": "meditaba en esto",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+37%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+37%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 37,
+      "verse": 35,
+      "expected": "no quiso tomar consolación",
+      "replacement": "no quiso recibir consuelo",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+37%3A35&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+37%3A35&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 37,
+      "verse": 36,
+      "expected": "eunuco de Faraón",
+      "replacement": "oficial de Faraón",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+37%3A36&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+37%3A36&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 38,
+      "verse": 1,
+      "expected": "descendió de con sus hermanos",
+      "replacement": "se apartó de sus hermanos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+38%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+38%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 38,
+      "verse": 8,
+      "expected": "Entra á la mujer de tu hermano, y despósate con ella, y suscita simiente á tu hermano",
+      "replacement": "Únete a la mujer de tu hermano, cumple con tu deber de cuñado y da descendencia a tu hermano",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+38%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+38%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 38,
+      "verse": 13,
+      "expected": "fué dado aviso á Thamar",
+      "replacement": "avisaron a Thamar",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+38%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+38%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 38,
+      "verse": 13,
+      "expected": "trasquilar",
+      "replacement": "esquilar",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+38%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+38%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 38,
+      "verse": 29,
+      "expected": "¿Por qué has hecho sobre ti rotura?",
+      "replacement": "¡Cómo te has abierto paso!",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+38%3A29&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+38%3A29&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 39,
+      "verse": 2,
+      "expected": "Jehová fué con José",
+      "replacement": "Jehová estaba con José",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 39,
+      "verse": 2,
+      "expected": "fué varón prosperado",
+      "replacement": "fue un hombre próspero",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 39,
+      "verse": 4,
+      "expected": "servíale",
+      "replacement": "le servía",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 39,
+      "verse": 4,
+      "expected": "mayordomo de su casa",
+      "replacement": "administrador de su casa",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 39,
+      "verse": 8,
+      "expected": "mi señor no sabe conmigo lo que hay en casa",
+      "replacement": "mi señor no se preocupa de lo que hay en casa estando yo aquí",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 39,
+      "verse": 11,
+      "expected": "para hacer su oficio",
+      "replacement": "para cumplir con sus responsabilidades",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 39,
+      "verse": 11,
+      "expected": "y no había nadie de los de casa allí en casa",
+      "replacement": "y no había nadie de la casa allí",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 39,
+      "verse": 21,
+      "expected": "el principal de la casa de la cárcel",
+      "replacement": "el jefe de la cárcel",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 39,
+      "verse": 21,
+      "expected": "gracia en ojos",
+      "replacement": "gracia ante los ojos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+39%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 40,
+      "verse": 7,
+      "expected": "aquellos eunucos de Faraón",
+      "replacement": "aquellos oficiales de Faraón",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+40%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+40%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 40,
+      "verse": 7,
+      "expected": "¿Por qué parecen hoy mal vuestros semblantes?",
+      "replacement": "¿Por qué tienen hoy tan mala cara?",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+40%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+40%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 40,
+      "verse": 14,
+      "expected": "Acuérdate, pues, de mí para contigo cuando tuvieres ese bien",
+      "replacement": "Acuérdate de mí cuando te vaya bien",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+40%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+40%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 40,
+      "verse": 17,
+      "expected": "Y en el canastillo más alto había de todas las viandas de Faraón, obra de panadero; y que las aves las comían del canastillo de sobre mi cabeza",
+      "replacement": "En la canasta más alta había toda clase de panes y pasteles para Faraón, y las aves los comían de la canasta que estaba sobre mi cabeza",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+40%3A17&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+40%3A17&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 8,
+      "expected": "mas no había quien á Faraón los declarase",
+      "replacement": "pero nadie podía interpretarlos para Faraón",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 9,
+      "expected": "Acuérdome hoy de mis faltas",
+      "replacement": "Hoy me acuerdo de mis faltas",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 15,
+      "expected": "no hay quien lo declare",
+      "replacement": "no hay quien lo interprete",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A15&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A15&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 15,
+      "expected": "oyes sueños para declararlos",
+      "replacement": "puedes interpretar sueños",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A15&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A15&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 16,
+      "expected": "Dios será el que responda paz á Faraón",
+      "replacement": "Dios dará una respuesta favorable a Faraón",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 21,
+      "expected": "su parecer era aún malo, como de primero",
+      "replacement": "su apariencia seguía tan mala como antes",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 24,
+      "expected": "helo dicho á los magos",
+      "replacement": "lo he dicho a los magos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A24&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A24&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 24,
+      "expected": "no hay quien me lo declare",
+      "replacement": "no hay quien me lo interprete",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A24&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A24&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 28,
+      "expected": "halo mostrado á Faraón",
+      "replacement": "lo ha mostrado a Faraón",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A28&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A28&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 29,
+      "expected": "grande hartura",
+      "replacement": "gran abundancia",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A29&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A29&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 34,
+      "expected": "quinte la tierra de Egipto",
+      "replacement": "recoja la quinta parte de las cosechas de Egipto",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A34&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A34&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 41,
+      "verse": 34,
+      "expected": "los siete años de la hartura",
+      "replacement": "los siete años de abundancia",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A34&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A34&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 42,
+      "verse": 6,
+      "expected": "el señor de la tierra",
+      "replacement": "el gobernador del país",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+42%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+42%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 42,
+      "verse": 6,
+      "expected": "que vendía á todo el pueblo de la tierra",
+      "replacement": "quien vendía alimento a todo el pueblo",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+42%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+42%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 42,
+      "verse": 9,
+      "expected": "Espías sois; por ver lo descubierto del país habéis venido",
+      "replacement": "Ustedes son espías; han venido a ver las zonas desprotegidas del país",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+42%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+42%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 42,
+      "verse": 28,
+      "expected": "aun helo aquí",
+      "replacement": "aquí está",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+42%3A28&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+42%3A28&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 43,
+      "verse": 23,
+      "expected": "vuestro dinero vino á mí",
+      "replacement": "yo recibí vuestro dinero",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+43%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+43%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 43,
+      "verse": 23,
+      "expected": "sacó á Simeón á ellos",
+      "replacement": "les entregó a Simeón",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+43%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+43%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 43,
+      "verse": 31,
+      "expected": "Poned pan",
+      "replacement": "Sirvan la comida",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+43%3A31&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+43%3A31&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 45,
+      "verse": 6,
+      "expected": "ni habrá arada ni siega",
+      "replacement": "no habrá siembra ni cosecha",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+45%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+45%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 46,
+      "verse": 34,
+      "expected": "Hombres de ganadería han sido tus siervos",
+      "replacement": "Tus siervos se han dedicado a criar ganado",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+46%3A34&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+46%3A34&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 46,
+      "verse": 34,
+      "expected": "nosotros y nuestros padres",
+      "replacement": "al igual que nuestros padres",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+46%3A34&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+46%3A34&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 46,
+      "verse": 34,
+      "expected": "los Egipcios abominan todo pastor de ovejas",
+      "replacement": "los egipcios detestan el oficio de pastor",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+46%3A34&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+46%3A34&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 47,
+      "verse": 12,
+      "expected": "de pan, hasta la boca del niño",
+      "replacement": "con alimento, según el número de sus hijos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+47%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+47%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 47,
+      "verse": 17,
+      "expected": "les dió alimentos por caballos, y por el ganado de las ovejas, y por el ganado de las vacas, y por asnos",
+      "replacement": "les dio alimentos a cambio de caballos, ovejas, vacas y asnos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+47%3A17&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+47%3A17&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 47,
+      "verse": 17,
+      "expected": "sustentólos",
+      "replacement": "los alimentó",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+47%3A17&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+47%3A17&version=NVI"
+        }
+      ],
+      "previousReplacement": "los sustentó"
+    },
+    {
+      "book": "GEN",
+      "chapter": 47,
+      "verse": 17,
+      "expected": "de pan por todos sus ganados aquel año",
+      "replacement": "durante aquel año a cambio de todo su ganado",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+47%3A17&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+47%3A17&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 47,
+      "verse": 23,
+      "expected": "He aquí os he hoy comprado y á vuestra tierra para Faraón: ved aquí simiente, y sembraréis la tierra",
+      "replacement": "Hoy los he comprado a ustedes y a su tierra para Faraón. Aquí tienen semilla; siembren la tierra",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+47%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+47%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 49,
+      "verse": 4,
+      "expected": "Corriente como las aguas",
+      "replacement": "Impetuoso como las aguas",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 49,
+      "verse": 4,
+      "expected": "no seas el principal",
+      "replacement": "ya no serás el principal",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 49,
+      "verse": 4,
+      "expected": "entonces te envileciste, subiendo á mi estrado",
+      "replacement": "profanaste mi lecho",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 49,
+      "verse": 23,
+      "expected": "asaeteáronle",
+      "replacement": "le lanzaron flechas",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A23&version=NVI"
+        }
+      ],
+      "previousReplacement": "le asaetearon"
+    },
+    {
+      "book": "GEN",
+      "chapter": 49,
+      "verse": 23,
+      "expected": "los archeros",
+      "replacement": "los arqueros",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 49,
+      "verse": 26,
+      "expected": "la mollera",
+      "replacement": "la frente",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A26&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A26&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "GEN",
+      "chapter": 49,
+      "verse": 26,
+      "expected": "del Nazareo de sus hermanos",
+      "replacement": "del que fue apartado de entre sus hermanos",
+      "category": "genesis-complete-context-review",
+      "reason": "El versículo completo fue contrastado con RVR1960, NVI, RV2020 y RVC. El ajuste elimina una palabra o construcción extraña y conserva el referente, la acción y el sentido del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A26&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+49%3A26&version=NVI"
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T00:00:00.000Z",
+  "updatedAt": "2026-09-11T00:00:00.000Z",
   "sourceVersionId": "RV1909",
-  "activeChangeSet": "editorial-changes/v14.json",
+  "activeChangeSet": "editorial-changes/v15.json",
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs",
   "pending": [
@@ -2482,6 +2482,333 @@
         {
           "label": "Control contextual RVR1960 y NVI",
           "url": "https://www.biblegateway.com/quicksearch/?quicksearch=solícitos&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-1",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "expansión",
+      "proposedOptions": [
+        "firmamento",
+        "bóveda celeste"
+      ],
+      "reason": "Las referencias conservan o interpretan de modo distinto el término cosmológico; cambiarlo globalmente podría imponer una explicación.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 1,
+          "verse": 6
+        },
+        {
+          "book": "GEN",
+          "chapter": 1,
+          "verse": 7
+        },
+        {
+          "book": "GEN",
+          "chapter": 1,
+          "verse": 8
+        },
+        {
+          "book": "GEN",
+          "chapter": 1,
+          "verse": 14
+        },
+        {
+          "book": "GEN",
+          "chapter": 1,
+          "verse": 15
+        },
+        {
+          "book": "GEN",
+          "chapter": 1,
+          "verse": 17
+        },
+        {
+          "book": "GEN",
+          "chapter": 1,
+          "verse": 20
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-2",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "bdelio",
+      "proposedOptions": [
+        "resina aromática",
+        "bedelio"
+      ],
+      "reason": "Es el nombre de una sustancia antigua. NVI la explica como resina, mientras las Reina-Valera conservan el nombre.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 2,
+          "verse": 12
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-3",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "madera de Gopher",
+      "proposedOptions": [
+        "madera de gofer",
+        "madera resinosa"
+      ],
+      "reason": "La especie exacta no está identificada con certeza; se conserva el término y se reserva una posible ayuda de lectura.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 6,
+          "verse": 14
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-4",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "No contenderá mi espíritu",
+      "proposedOptions": [
+        "Mi espíritu no permanecerá",
+        "Mi espíritu no luchará"
+      ],
+      "reason": "Génesis 6:3 admite matices distintos en las traducciones de control y requiere revisión teológica específica.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 6,
+          "verse": 3
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-5",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "Grande es mi iniquidad",
+      "proposedOptions": [
+        "Mi castigo es demasiado grande",
+        "Mi culpa es demasiado grande"
+      ],
+      "reason": "Génesis 4:13 alterna entre culpa y castigo en las referencias; no se debe escoger una lectura sin revisión adicional.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 4,
+          "verse": 13
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-6",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "velo de ojos",
+      "proposedOptions": [
+        "compensación",
+        "protección del honor"
+      ],
+      "reason": "Génesis 20:16 presenta una figura difícil y las referencias la explican de maneras distintas.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 20,
+          "verse": 16
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-7",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "se burlaba",
+      "proposedOptions": [
+        "se burlaba de Isaac",
+        "jugaba con Isaac"
+      ],
+      "reason": "Génesis 21:9 tiene una variante interpretativa que afecta la acción; se conserva hasta revisión textual.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 19,
+          "verse": 14
+        },
+        {
+          "book": "GEN",
+          "chapter": 21,
+          "verse": 9
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-8",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "grosuras de la tierra",
+      "proposedOptions": [
+        "lo mejor de la tierra",
+        "lejos de la fertilidad de la tierra"
+      ],
+      "reason": "Génesis 27:39 se entiende de forma opuesta entre referencias modernas; no es un cambio seguro.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 27,
+          "verse": 28
+        },
+        {
+          "book": "GEN",
+          "chapter": 27,
+          "verse": 39
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-9",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "arrancaron muro",
+      "proposedOptions": [
+        "desjarretaron toros"
+      ],
+      "reason": "Génesis 49:6 parece contener una lectura fuente distinta. Requiere cotejo textual antes de corregir la imagen.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 49,
+          "verse": 6
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-10",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "entre dos tercios",
+      "proposedOptions": [
+        "entre los apriscos",
+        "entre dos alforjas"
+      ],
+      "reason": "La imagen poética de Génesis 49:14 diverge entre referencias y no admite sustitución automática.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 49,
+          "verse": 14
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-11",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "dará dichos hermosos",
+      "proposedOptions": [
+        "tendrá hermosos cervatillos",
+        "pronunciará dichos hermosos"
+      ],
+      "reason": "Génesis 49:21 tiene dos lecturas muy distintas; queda reservado para cotejo textual.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 49,
+          "verse": 21
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "genesis-v15-12",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "collados eternos",
+      "proposedOptions": [
+        "colinas eternas",
+        "montes antiguos"
+      ],
+      "reason": "La bendición poética de Génesis 49:26 requiere conservar paralelismo y base textual antes de simplificarla.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 49,
+          "verse": 26
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis&version=RVR1960%3BNVI"
         }
       ]
     }
