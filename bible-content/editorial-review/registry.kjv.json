@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "updatedAt": "2026-09-11T00:00:00.000Z",
   "sourceVersionId": "KJV",
-  "activeContentVersion": 4,
+  "activeContentVersion": 5,
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/verify_kjv_reading_2026.mjs",
   "applied": [
@@ -1406,6 +1406,2582 @@
       "category": "genesis-complete-context-review",
       "reason": "Complete-verse Genesis review for clear, faithful contemporary reading.",
       "evidenceUrl": "https://www.biblegateway.com/passage/?search=Genesis+50%3A25&version=KJV"
+    },
+    {
+      "reference": "EXO.1.5",
+      "expected": "souls that came out of the loins of Jacob were seventy souls",
+      "replacement": "people descended from Jacob were seventy people",
+      "category": "archaic-genealogy",
+      "reason": "Loins denotes physical descent; people avoids the misleading modern sense of disembodied souls.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A5&version=KJV"
+    },
+    {
+      "reference": "EXO.1.7",
+      "expected": "waxed exceeding mighty",
+      "replacement": "became exceedingly powerful",
+      "category": "archaic-verb",
+      "reason": "Waxed means became in this population-growth statement.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.1.8",
+      "expected": "which knew not Joseph",
+      "replacement": "who did not know Joseph",
+      "category": "archaic-grammar",
+      "reason": "The clause describes a king with no knowledge of Joseph.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A8&version=KJV"
+    },
+    {
+      "reference": "EXO.1.10",
+      "expected": "when there falleth out any war",
+      "replacement": "if war breaks out",
+      "category": "archaic-phrase",
+      "reason": "Falleth out means occurs or breaks out.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A10&version=KJV"
+    },
+    {
+      "reference": "EXO.1.11",
+      "expected": "treasure cities",
+      "replacement": "storage cities",
+      "category": "false-friend",
+      "reason": "Treasure cities were supply or storage centers, not cities made of treasure.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.1.13",
+      "expected": "serve with rigour",
+      "replacement": "serve harshly",
+      "category": "archaic-lexicon",
+      "reason": "Rigour describes harsh treatment.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.1.14",
+      "expected": "was with rigour",
+      "replacement": "was harsh",
+      "category": "archaic-lexicon",
+      "reason": "Rigour describes the harshness of the forced labor.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.1.16",
+      "expected": "see them upon the stools",
+      "replacement": "see them on the birthstools",
+      "category": "historical-object",
+      "reason": "The stools are the birthing seats used during delivery.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.1.17",
+      "expected": "men children",
+      "replacement": "male children",
+      "category": "archaic-phrase",
+      "reason": "Men children means male children in this command.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A17&version=KJV"
+    },
+    {
+      "reference": "EXO.1.18",
+      "expected": "men children",
+      "replacement": "male children",
+      "category": "archaic-phrase",
+      "reason": "Men children means male children in Pharaoh's question.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.1.19",
+      "expected": "they are lively, and are delivered ere",
+      "replacement": "they are vigorous and give birth before",
+      "category": "archaic-birth-phrase",
+      "reason": "Lively means vigorous and ere means before.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A19&version=KJV"
+    },
+    {
+      "reference": "EXO.1.20",
+      "expected": "waxed very mighty",
+      "replacement": "grew very powerful",
+      "category": "archaic-verb",
+      "reason": "Waxed means became or grew.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+1%3A20&version=KJV"
+    },
+    {
+      "reference": "EXO.2.2",
+      "expected": "bare a son",
+      "replacement": "gave birth to a son",
+      "category": "archaic-verb",
+      "reason": "Bare is the historical past tense of bear in childbirth.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A2&version=KJV"
+    },
+    {
+      "reference": "EXO.2.2",
+      "expected": "a goodly child",
+      "replacement": "a beautiful child",
+      "category": "archaic-adjective",
+      "reason": "Goodly describes the child's fine appearance.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A2&version=KJV"
+    },
+    {
+      "reference": "EXO.2.3",
+      "expected": "an ark of bulrushes",
+      "replacement": "a basket of papyrus reeds",
+      "category": "historical-object",
+      "reason": "Ark here is a small basket, and bulrushes are papyrus reeds.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.2.3",
+      "expected": "daubed it with slime and with pitch",
+      "replacement": "coated it with bitumen and pitch",
+      "category": "historical-material",
+      "reason": "Slime here is bitumen used to waterproof the basket.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.2.3",
+      "expected": "in the flags by the river’s brink",
+      "replacement": "among the reeds by the riverbank",
+      "category": "archaic-geography",
+      "reason": "Flags are reeds and brink is the bank's edge.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.2.4",
+      "expected": "to wit what would be done to him",
+      "replacement": "to see what would happen to him",
+      "category": "archaic-idiom",
+      "reason": "To wit means to know or find out.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.2.11",
+      "expected": "smiting an Hebrew",
+      "replacement": "beating a Hebrew",
+      "category": "archaic-verb",
+      "reason": "Smiting describes the Egyptian striking the Hebrew.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.2.12",
+      "expected": "slew the Egyptian",
+      "replacement": "killed the Egyptian",
+      "category": "archaic-verb",
+      "reason": "Slew means killed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A12&version=KJV"
+    },
+    {
+      "reference": "EXO.2.13",
+      "expected": "two men of the Hebrews strove together",
+      "replacement": "two Hebrew men were fighting",
+      "category": "archaic-verb",
+      "reason": "Strove together means fought with each other.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.2.13",
+      "expected": "Wherefore smitest thou thy fellow?",
+      "replacement": "Why are you striking your fellow?",
+      "category": "archaic-question",
+      "reason": "The full question is modernized without changing its accusation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.2.14",
+      "expected": "intendest thou to kill me, as thou killedst",
+      "replacement": "do you intend to kill me, as you killed",
+      "category": "archaic-grammar",
+      "reason": "The coordinated verb phrase removes obsolete second-person endings.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.2.15",
+      "expected": "sought to slay Moses",
+      "replacement": "tried to kill Moses",
+      "category": "archaic-verb",
+      "reason": "Sought to slay means tried to kill.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.2.21",
+      "expected": "was content to dwell with the man",
+      "replacement": "agreed to live with the man",
+      "category": "archaic-idiom",
+      "reason": "Content here means willing or agreeable, not merely satisfied.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A21&version=KJV"
+    },
+    {
+      "reference": "EXO.2.22",
+      "expected": "she bare him a son",
+      "replacement": "she gave birth to his son",
+      "category": "archaic-verb",
+      "reason": "Bare means gave birth.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A22&version=KJV"
+    },
+    {
+      "reference": "EXO.2.23",
+      "expected": "in process of time",
+      "replacement": "after many years",
+      "category": "archaic-time-phrase",
+      "reason": "The phrase indicates the passage of a long period.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A23&version=KJV"
+    },
+    {
+      "reference": "EXO.2.25",
+      "expected": "had respect unto them",
+      "replacement": "took notice of them",
+      "category": "archaic-idiom",
+      "reason": "Had respect unto describes God's attention to Israel's condition.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+2%3A25&version=KJV"
+    },
+    {
+      "reference": "EXO.3.1",
+      "expected": "the backside of the desert",
+      "replacement": "the far side of the wilderness",
+      "category": "false-friend-geography",
+      "reason": "Backside means the far side, and desert here is wilderness.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+3%3A1&version=KJV"
+    },
+    {
+      "reference": "EXO.3.5",
+      "expected": "Draw not nigh hither",
+      "replacement": "Do not come any closer",
+      "category": "archaic-direction",
+      "reason": "The command forbids Moses from approaching further.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+3%3A5&version=KJV"
+    },
+    {
+      "reference": "EXO.3.18",
+      "expected": "hearken to thy voice",
+      "replacement": "listen to your voice",
+      "category": "archaic-verb",
+      "reason": "Hearken means listen.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+3%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.3.18",
+      "expected": "we beseech thee",
+      "replacement": "we ask you",
+      "category": "archaic-verb",
+      "reason": "Beseech means earnestly ask.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+3%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.3.22",
+      "expected": "borrow of her neighbour",
+      "replacement": "ask her neighbour for",
+      "category": "false-friend",
+      "reason": "Borrow has the historical sense of ask or request here; the following verse says the items were given.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+3%3A22&version=KJV"
+    },
+    {
+      "reference": "EXO.3.22",
+      "expected": "of her that sojourneth in her house",
+      "replacement": "from the woman staying in her house",
+      "category": "archaic-verb",
+      "reason": "Sojourneth means is temporarily staying.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+3%3A22&version=KJV"
+    },
+    {
+      "reference": "EXO.3.22",
+      "expected": "jewels of silver, and jewels of gold, and raiment",
+      "replacement": "articles of silver, articles of gold, and clothing",
+      "category": "historical-objects",
+      "reason": "Jewels can mean valuable articles generally, and raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+3%3A22&version=KJV"
+    },
+    {
+      "reference": "EXO.4.6",
+      "expected": "into thy bosom",
+      "replacement": "inside your cloak",
+      "category": "historical-clothing",
+      "reason": "Bosom here is the fold inside Moses' outer garment.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+4%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.4.7",
+      "expected": "plucked it out of his bosom",
+      "replacement": "pulled it out of his cloak",
+      "category": "archaic-action",
+      "reason": "The phrase describes withdrawing his hand from the garment fold.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+4%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.4.8",
+      "expected": "the latter sign",
+      "replacement": "the second sign",
+      "category": "archaic-sequence",
+      "reason": "Latter contrasts the second sign with the first.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+4%3A8&version=KJV"
+    },
+    {
+      "reference": "EXO.4.10",
+      "expected": "neither heretofore",
+      "replacement": "neither before",
+      "category": "archaic-time-adverb",
+      "reason": "Heretofore means before now.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+4%3A10&version=KJV"
+    },
+    {
+      "reference": "EXO.4.11",
+      "expected": "maketh the dumb",
+      "replacement": "makes a person unable to speak",
+      "category": "historical-disability-language",
+      "reason": "Dumb here means unable to speak.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+4%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.4.14",
+      "expected": "the anger of the LORD was kindled",
+      "replacement": "the anger of the LORD burned",
+      "category": "archaic-idiom",
+      "reason": "Kindled figuratively describes anger burning.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+4%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.4.19",
+      "expected": "which sought thy life",
+      "replacement": "who wanted to kill you",
+      "category": "archaic-idiom",
+      "reason": "Seeking someone's life means attempting to kill that person.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+4%3A19&version=KJV"
+    },
+    {
+      "reference": "EXO.4.20",
+      "expected": "upon an ass",
+      "replacement": "on a donkey",
+      "category": "archaic-animal-name",
+      "reason": "Ass is the historical English name for a donkey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+4%3A20&version=KJV"
+    },
+    {
+      "reference": "EXO.5.1",
+      "expected": "hold a feast unto me",
+      "replacement": "celebrate a feast for me",
+      "category": "archaic-idiom",
+      "reason": "Hold a feast unto means celebrate a feast in honor of the LORD.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A1&version=KJV"
+    },
+    {
+      "reference": "EXO.5.3",
+      "expected": "with pestilence",
+      "replacement": "with plague",
+      "category": "archaic-lexicon",
+      "reason": "Pestilence means a deadly epidemic or plague.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.5.4",
+      "expected": "Wherefore do ye, Moses and Aaron, let the people from their works?",
+      "replacement": "Why do you, Moses and Aaron, stop the people from their work?",
+      "category": "false-friend",
+      "reason": "Let here means hinder or stop, the opposite of its usual modern sense.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.5.7",
+      "expected": "as heretofore",
+      "replacement": "as before",
+      "category": "archaic-time-adverb",
+      "reason": "Heretofore means previously.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.5.8",
+      "expected": "the tale of the bricks",
+      "replacement": "the quota of bricks",
+      "category": "false-friend",
+      "reason": "Tale here means a required count or quota.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A8&version=KJV"
+    },
+    {
+      "reference": "EXO.5.8",
+      "expected": "not diminish ought thereof",
+      "replacement": "not reduce any of it",
+      "category": "archaic-quantity",
+      "reason": "Ought means anything in this negative construction.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A8&version=KJV"
+    },
+    {
+      "reference": "EXO.5.11",
+      "expected": "not ought of your work",
+      "replacement": "none of your work",
+      "category": "archaic-quantity",
+      "reason": "Not ought means none.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.5.13",
+      "expected": "hasted them",
+      "replacement": "pressed them",
+      "category": "archaic-verb",
+      "reason": "Hasted describes the taskmasters driving the workers urgently.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.5.18",
+      "expected": "deliver the tale of bricks",
+      "replacement": "produce the quota of bricks",
+      "category": "false-friend",
+      "reason": "Tale means the required count.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.5.19",
+      "expected": "were in evil case",
+      "replacement": "were in serious trouble",
+      "category": "archaic-idiom",
+      "reason": "Evil case means a difficult or dangerous situation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A19&version=KJV"
+    },
+    {
+      "reference": "EXO.5.21",
+      "expected": "made our savour to be abhorred",
+      "replacement": "made us repulsive",
+      "category": "archaic-idiom",
+      "reason": "The smell metaphor means Pharaoh and his servants now regard them with disgust.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A21&version=KJV"
+    },
+    {
+      "reference": "EXO.5.22",
+      "expected": "so evil entreated this people",
+      "replacement": "treated this people so badly",
+      "category": "archaic-verb",
+      "reason": "Evil entreated means mistreated.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+5%3A22&version=KJV"
+    },
+    {
+      "reference": "EXO.6.6",
+      "expected": "rid you out of their bondage",
+      "replacement": "free you from their bondage",
+      "category": "archaic-verb",
+      "reason": "Rid out means deliver or free.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+6%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.6.8",
+      "expected": "give it you for an heritage",
+      "replacement": "give it to you as an inheritance",
+      "category": "archaic-noun",
+      "reason": "Heritage means an inherited possession.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+6%3A8&version=KJV"
+    },
+    {
+      "reference": "EXO.6.9",
+      "expected": "for anguish of spirit",
+      "replacement": "because of their broken spirit",
+      "category": "archaic-phrase",
+      "reason": "The phrase describes the people's crushing discouragement under slavery.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+6%3A9&version=KJV"
+    },
+    {
+      "reference": "EXO.7.7",
+      "expected": "fourscore years old",
+      "replacement": "eighty years old",
+      "category": "archaic-number",
+      "reason": "Fourscore equals eighty.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+7%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.7.7",
+      "expected": "fourscore and three years old",
+      "replacement": "eighty-three years old",
+      "category": "archaic-number",
+      "reason": "Fourscore and three equals eighty-three.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+7%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.7.15",
+      "expected": "against he come",
+      "replacement": "to meet him",
+      "category": "archaic-direction",
+      "reason": "Against he come means positioned to meet him as he arrives.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+7%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.7.16",
+      "expected": "hitherto thou wouldest not hear",
+      "replacement": "until now you have refused to listen",
+      "category": "archaic-phrase",
+      "reason": "Hitherto means until now; hear here means heed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+7%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.7.18",
+      "expected": "shall lothe to drink",
+      "replacement": "will be unable to bear drinking",
+      "category": "archaic-verb",
+      "reason": "Lothe here describes finding the river water intolerable.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+7%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.7.24",
+      "expected": "digged round about",
+      "replacement": "dug all around",
+      "category": "archaic-verb",
+      "reason": "Digged is the historical past tense of dig.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+7%3A24&version=KJV"
+    },
+    {
+      "reference": "EXO.8.3",
+      "expected": "kneadingtroughs",
+      "replacement": "kneading bowls",
+      "category": "historical-object",
+      "reason": "Kneading troughs were containers used to prepare dough.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+8%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.8.8",
+      "expected": "Intreat the LORD",
+      "replacement": "Plead with the LORD",
+      "category": "archaic-verb",
+      "reason": "Intreat means plead or appeal.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+8%3A8&version=KJV"
+    },
+    {
+      "reference": "EXO.8.9",
+      "expected": "Glory over me: when shall I intreat",
+      "replacement": "You choose the time: when shall I plead",
+      "category": "opaque-idiom",
+      "reason": "Moses gives Pharaoh the honor of choosing when the prayer will be made.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+8%3A9&version=KJV"
+    },
+    {
+      "reference": "EXO.8.15",
+      "expected": "there was respite",
+      "replacement": "there was relief",
+      "category": "archaic-noun",
+      "reason": "Respite means a temporary relief.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+8%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.8.22",
+      "expected": "I will sever in that day",
+      "replacement": "I will set apart on that day",
+      "category": "archaic-verb",
+      "reason": "Sever here means distinguish or set apart Goshen.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+8%3A22&version=KJV"
+    },
+    {
+      "reference": "EXO.8.24",
+      "expected": "a grievous swarm",
+      "replacement": "a severe swarm",
+      "category": "archaic-adjective",
+      "reason": "Grievous describes the swarm's severity.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+8%3A24&version=KJV"
+    },
+    {
+      "reference": "EXO.8.26",
+      "expected": "It is not meet so to do",
+      "replacement": "It is not right to do so",
+      "category": "archaic-adjective",
+      "reason": "Meet means fitting or proper.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+8%3A26&version=KJV"
+    },
+    {
+      "reference": "EXO.8.26",
+      "expected": "the abomination of the Egyptians",
+      "replacement": "what the Egyptians consider detestable",
+      "category": "opaque-cultural-phrase",
+      "reason": "The phrase describes sacrifices the Egyptians would find offensive.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+8%3A26&version=KJV"
+    },
+    {
+      "reference": "EXO.8.28",
+      "expected": "intreat for me",
+      "replacement": "plead for me",
+      "category": "archaic-verb",
+      "reason": "Intreat means plead.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+8%3A28&version=KJV"
+    },
+    {
+      "reference": "EXO.8.29",
+      "expected": "intreat the LORD",
+      "replacement": "plead with the LORD",
+      "category": "archaic-verb",
+      "reason": "Intreat means plead.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+8%3A29&version=KJV"
+    },
+    {
+      "reference": "EXO.8.30",
+      "expected": "intreated the LORD",
+      "replacement": "pleaded with the LORD",
+      "category": "archaic-verb",
+      "reason": "Intreated means pleaded.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+8%3A30&version=KJV"
+    },
+    {
+      "reference": "EXO.9.3",
+      "expected": "upon the asses",
+      "replacement": "upon the donkeys",
+      "category": "archaic-animal-name",
+      "reason": "Asses means donkeys.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+9%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.9.3",
+      "expected": "a very grievous murrain",
+      "replacement": "a very severe plague",
+      "category": "obsolete-disease-name",
+      "reason": "Murrain is an obsolete word for a deadly livestock disease.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+9%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.9.9",
+      "expected": "a boil breaking forth with blains",
+      "replacement": "festering boils",
+      "category": "obsolete-medical-phrase",
+      "reason": "Blains are inflammatory sores; the phrase describes erupting boils.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+9%3A9&version=KJV"
+    },
+    {
+      "reference": "EXO.9.10",
+      "expected": "a boil breaking forth with blains",
+      "replacement": "festering boils",
+      "category": "obsolete-medical-phrase",
+      "reason": "Blains are inflammatory sores; the phrase describes erupting boils.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+9%3A10&version=KJV"
+    },
+    {
+      "reference": "EXO.9.16",
+      "expected": "in very deed for this cause",
+      "replacement": "for this very reason",
+      "category": "archaic-phrase",
+      "reason": "In very deed emphasizes the stated purpose.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+9%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.9.31",
+      "expected": "the barley was in the ear, and the flax was bolled",
+      "replacement": "the barley had formed heads, and the flax was in bloom",
+      "category": "obsolete-agriculture",
+      "reason": "In the ear describes grain heads and bolled describes flax in bloom.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+9%3A31&version=KJV"
+    },
+    {
+      "reference": "EXO.9.32",
+      "expected": "the wheat and the rie",
+      "replacement": "the wheat and the spelt",
+      "category": "historical-grain-name",
+      "reason": "Rie here represents the grain commonly identified as spelt.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+9%3A32&version=KJV"
+    },
+    {
+      "reference": "EXO.10.2",
+      "expected": "what things I have wrought in Egypt",
+      "replacement": "what I have done in Egypt",
+      "category": "archaic-verb",
+      "reason": "Wrought means done.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+10%3A2&version=KJV"
+    },
+    {
+      "reference": "EXO.10.4",
+      "expected": "locusts into thy coast",
+      "replacement": "locusts into your territory",
+      "category": "false-friend-geography",
+      "reason": "Coast means territory or region, not only seashore.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+10%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.10.5",
+      "expected": "the residue of that which is escaped",
+      "replacement": "the remainder that survived",
+      "category": "archaic-phrase",
+      "reason": "Residue is the remainder and escaped means survived the hail.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+10%3A5&version=KJV"
+    },
+    {
+      "reference": "EXO.10.17",
+      "expected": "intreat the LORD",
+      "replacement": "plead with the LORD",
+      "category": "archaic-verb",
+      "reason": "Intreat means plead.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+10%3A17&version=KJV"
+    },
+    {
+      "reference": "EXO.10.18",
+      "expected": "intreated the LORD",
+      "replacement": "pleaded with the LORD",
+      "category": "archaic-verb",
+      "reason": "Intreated means pleaded.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+10%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.10.24",
+      "expected": "your herds be stayed",
+      "replacement": "your herds remain behind",
+      "category": "archaic-verb",
+      "reason": "Stayed here means left behind.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+10%3A24&version=KJV"
+    },
+    {
+      "reference": "EXO.10.26",
+      "expected": "not an hoof be left behind",
+      "replacement": "not one hoof be left behind",
+      "category": "archaic-article",
+      "reason": "The modern construction is not one hoof.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+10%3A26&version=KJV"
+    },
+    {
+      "reference": "EXO.11.1",
+      "expected": "go hence",
+      "replacement": "go from here",
+      "category": "archaic-direction",
+      "reason": "Hence means from here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+11%3A1&version=KJV"
+    },
+    {
+      "reference": "EXO.11.1",
+      "expected": "thrust you out hence altogether",
+      "replacement": "drive you out from here completely",
+      "category": "archaic-phrase",
+      "reason": "The full phrase describes Pharaoh expelling the people without reservation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+11%3A1&version=KJV"
+    },
+    {
+      "reference": "EXO.11.2",
+      "expected": "borrow of his neighbour",
+      "replacement": "ask his neighbour for",
+      "category": "false-friend",
+      "reason": "Borrow has the historical sense of ask for in this passage.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+11%3A2&version=KJV"
+    },
+    {
+      "reference": "EXO.11.2",
+      "expected": "jewels of silver, and jewels of gold",
+      "replacement": "articles of silver and articles of gold",
+      "category": "historical-objects",
+      "reason": "Jewels can mean valuable articles generally.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+11%3A2&version=KJV"
+    },
+    {
+      "reference": "EXO.11.7",
+      "expected": "shall not a dog move his tongue",
+      "replacement": "not even a dog will bark",
+      "category": "archaic-idiom",
+      "reason": "The idiom emphasizes complete peace among the Israelites.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+11%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.12.3",
+      "expected": "a lamb for an house",
+      "replacement": "a lamb for each household",
+      "category": "archaic-article",
+      "reason": "The instruction assigns one lamb to each household.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.12.4",
+      "expected": "according to the number of the souls",
+      "replacement": "according to the number of people",
+      "category": "archaic-noun",
+      "reason": "Souls here means people in the household.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.12.7",
+      "expected": "the two side posts and on the upper door post",
+      "replacement": "the two doorposts and the lintel",
+      "category": "historical-architecture",
+      "reason": "These are the sides and upper crosspiece of the doorway.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.12.9",
+      "expected": "nor sodden at all with water",
+      "replacement": "nor boiled in water",
+      "category": "obsolete-cooking-verb",
+      "reason": "Sodden is the historical past participle of seethe, meaning boiled.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A9&version=KJV"
+    },
+    {
+      "reference": "EXO.12.9",
+      "expected": "with the purtenance thereof",
+      "replacement": "with its internal organs",
+      "category": "obsolete-anatomy",
+      "reason": "Purtenance denotes the animal's internal organs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A9&version=KJV"
+    },
+    {
+      "reference": "EXO.12.11",
+      "expected": "with your loins girded",
+      "replacement": "with your belts fastened",
+      "category": "archaic-clothing-idiom",
+      "reason": "Girded loins describes clothing secured for immediate travel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.12.16",
+      "expected": "an holy convocation",
+      "replacement": "a sacred assembly",
+      "category": "archaic-religious-phrase",
+      "reason": "Convocation means an assembly called together.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.12.16",
+      "expected": "save that which every man must eat",
+      "replacement": "except what each person must eat",
+      "category": "archaic-exception",
+      "reason": "Save means except.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.12.17",
+      "expected": "this selfsame day",
+      "replacement": "this very day",
+      "category": "archaic-emphasis",
+      "reason": "Selfsame means the very same.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A17&version=KJV"
+    },
+    {
+      "reference": "EXO.12.18",
+      "expected": "on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even",
+      "replacement": "on the fourteenth day of the month in the evening, you shall eat unleavened bread, until the twenty-first day of the month in the evening",
+      "category": "archaic-time-and-number",
+      "reason": "The complete span preserves both evening boundaries and expresses one-and-twentieth as twenty-first.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.12.22",
+      "expected": "the bason",
+      "replacement": "the basin",
+      "category": "archaic-spelling",
+      "reason": "Bason is the historical spelling of basin.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A22&version=KJV"
+    },
+    {
+      "reference": "EXO.12.23",
+      "expected": "will not suffer the destroyer",
+      "replacement": "will not allow the destroyer",
+      "category": "false-friend",
+      "reason": "Suffer here means allow.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A23&version=KJV"
+    },
+    {
+      "reference": "EXO.12.31",
+      "expected": "get you forth from among my people",
+      "replacement": "get out from among my people",
+      "category": "archaic-direction",
+      "reason": "Get you forth means depart.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A31&version=KJV"
+    },
+    {
+      "reference": "EXO.12.33",
+      "expected": "were urgent upon the people",
+      "replacement": "urged the people",
+      "category": "archaic-idiom",
+      "reason": "Were urgent upon means pressed them to leave.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A33&version=KJV"
+    },
+    {
+      "reference": "EXO.12.35",
+      "expected": "borrowed of the Egyptians",
+      "replacement": "asked the Egyptians for",
+      "category": "false-friend",
+      "reason": "Borrowed has the historical sense of requested.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A35&version=KJV"
+    },
+    {
+      "reference": "EXO.12.35",
+      "expected": "jewels of silver, and jewels of gold, and raiment",
+      "replacement": "articles of silver, articles of gold, and clothing",
+      "category": "historical-objects",
+      "reason": "Jewels can mean articles and raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A35&version=KJV"
+    },
+    {
+      "reference": "EXO.12.36",
+      "expected": "lent unto them such things as they required",
+      "replacement": "gave them what they requested",
+      "category": "archaic-transaction-phrase",
+      "reason": "The Egyptians granted the requested articles rather than creating ordinary loans.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A36&version=KJV"
+    },
+    {
+      "reference": "EXO.12.39",
+      "expected": "could not tarry",
+      "replacement": "could not delay",
+      "category": "archaic-verb",
+      "reason": "Tarry means remain or delay.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A39&version=KJV"
+    },
+    {
+      "reference": "EXO.12.39",
+      "expected": "any victual",
+      "replacement": "any provisions",
+      "category": "obsolete-noun",
+      "reason": "Victual means food or provisions.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A39&version=KJV"
+    },
+    {
+      "reference": "EXO.12.41",
+      "expected": "the hosts of the LORD",
+      "replacement": "the divisions of the LORD",
+      "category": "archaic-military-noun",
+      "reason": "Hosts here describes the organized divisions leaving Egypt.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A41&version=KJV"
+    },
+    {
+      "reference": "EXO.12.42",
+      "expected": "a night to be much observed",
+      "replacement": "a night of solemn observance",
+      "category": "archaic-phrase",
+      "reason": "The phrase identifies a night to be commemorated faithfully.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A42&version=KJV"
+    },
+    {
+      "reference": "EXO.12.45",
+      "expected": "an hired servant",
+      "replacement": "a hired worker",
+      "category": "archaic-grammar",
+      "reason": "Hired servant denotes a contracted worker.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A45&version=KJV"
+    },
+    {
+      "reference": "EXO.12.46",
+      "expected": "carry forth ought of the flesh abroad",
+      "replacement": "carry any of the meat outside",
+      "category": "archaic-quantity",
+      "reason": "Ought means any, and abroad here means outside the house.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A46&version=KJV"
+    },
+    {
+      "reference": "EXO.12.49",
+      "expected": "him that is homeborn",
+      "replacement": "the native-born person",
+      "category": "archaic-legal-term",
+      "reason": "Homeborn means native-born.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+12%3A49&version=KJV"
+    },
+    {
+      "reference": "EXO.13.7",
+      "expected": "in all thy quarters",
+      "replacement": "throughout your territory",
+      "category": "false-friend-geography",
+      "reason": "Quarters here means the territory where the people live.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+13%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.13.10",
+      "expected": "in his season",
+      "replacement": "at its appointed time",
+      "category": "archaic-time-phrase",
+      "reason": "Season here is the appointed annual time.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+13%3A10&version=KJV"
+    },
+    {
+      "reference": "EXO.13.12",
+      "expected": "all that openeth the matrix",
+      "replacement": "every firstborn that opens the womb",
+      "category": "obsolete-anatomy",
+      "reason": "Matrix is the historical anatomical term for womb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+13%3A12&version=KJV"
+    },
+    {
+      "reference": "EXO.13.13",
+      "expected": "firstling of an ass",
+      "replacement": "firstborn donkey",
+      "category": "archaic-animal-phrase",
+      "reason": "Firstling means firstborn and ass means donkey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+13%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.13.15",
+      "expected": "would hardly let us go",
+      "replacement": "stubbornly refused to let us go",
+      "category": "false-friend",
+      "reason": "Hardly here describes Pharaoh's stubborn refusal, not a narrow possibility.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+13%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.13.15",
+      "expected": "all that openeth the matrix",
+      "replacement": "every firstborn that opens the womb",
+      "category": "obsolete-anatomy",
+      "reason": "Matrix is the historical anatomical term for womb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+13%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.13.16",
+      "expected": "for frontlets between thine eyes",
+      "replacement": "as a reminder on your forehead",
+      "category": "historical-object",
+      "reason": "Frontlets describe a visible reminder associated with the forehead.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+13%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.13.17",
+      "expected": "Lest peradventure the people repent",
+      "replacement": "Perhaps the people will change their minds",
+      "category": "false-friend",
+      "reason": "Repent here means change course and return to Egypt; peradventure means perhaps.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+13%3A17&version=KJV"
+    },
+    {
+      "reference": "EXO.13.19",
+      "expected": "straitly sworn",
+      "replacement": "made to swear solemnly",
+      "category": "archaic-idiom",
+      "reason": "Straitly intensifies the seriousness of the oath.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+13%3A19&version=KJV"
+    },
+    {
+      "reference": "EXO.14.4",
+      "expected": "be honoured upon Pharaoh",
+      "replacement": "gain honor through Pharaoh",
+      "category": "archaic-idiom",
+      "reason": "The phrase describes the LORD displaying his glory through judgment on Pharaoh.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+14%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.14.8",
+      "expected": "went out with an high hand",
+      "replacement": "went out boldly",
+      "category": "archaic-idiom",
+      "reason": "A high hand describes open, confident defiance rather than a physical gesture.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+14%3A8&version=KJV"
+    },
+    {
+      "reference": "EXO.14.10",
+      "expected": "were sore afraid",
+      "replacement": "were terrified",
+      "category": "archaic-intensifier",
+      "reason": "Sore intensifies their fear.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+14%3A10&version=KJV"
+    },
+    {
+      "reference": "EXO.14.14",
+      "expected": "hold your peace",
+      "replacement": "remain silent",
+      "category": "archaic-idiom",
+      "reason": "Hold your peace means remain silent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+14%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.14.17",
+      "expected": "get me honour upon Pharaoh",
+      "replacement": "gain honor through Pharaoh",
+      "category": "archaic-idiom",
+      "reason": "The phrase describes the LORD displaying his glory through judgment.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+14%3A17&version=KJV"
+    },
+    {
+      "reference": "EXO.14.18",
+      "expected": "gotten me honour upon Pharaoh",
+      "replacement": "gained honor through Pharaoh",
+      "category": "archaic-idiom",
+      "reason": "The phrase describes glory displayed through Pharaoh's defeat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+14%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.14.24",
+      "expected": "the host of the Egyptians",
+      "replacement": "the army of the Egyptians",
+      "category": "archaic-military-noun",
+      "reason": "Host here means army.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+14%3A24&version=KJV"
+    },
+    {
+      "reference": "EXO.14.25",
+      "expected": "drave them heavily",
+      "replacement": "drove them with difficulty",
+      "category": "archaic-verb",
+      "reason": "Drave is an old past tense of drive; heavily describes the impeded chariots.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+14%3A25&version=KJV"
+    },
+    {
+      "reference": "EXO.14.28",
+      "expected": "all the host of Pharaoh",
+      "replacement": "all the army of Pharaoh",
+      "category": "archaic-military-noun",
+      "reason": "Host here means army.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+14%3A28&version=KJV"
+    },
+    {
+      "reference": "EXO.15.4",
+      "expected": "Pharaoh’s chariots and his host",
+      "replacement": "Pharaoh’s chariots and his army",
+      "category": "archaic-military-noun",
+      "reason": "Host here means army.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+15%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.15.6",
+      "expected": "hath dashed in pieces the enemy",
+      "replacement": "has shattered the enemy",
+      "category": "archaic-phrase",
+      "reason": "Dashed in pieces means shattered.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+15%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.15.7",
+      "expected": "in the greatness of thine excellency",
+      "replacement": "in the greatness of your majesty",
+      "category": "archaic-noun",
+      "reason": "Excellency here denotes divine majesty.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+15%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.15.8",
+      "expected": "the depths were congealed",
+      "replacement": "the depths became firm",
+      "category": "archaic-verb",
+      "reason": "Congealed describes the waters becoming fixed or firm.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+15%3A8&version=KJV"
+    },
+    {
+      "reference": "EXO.15.9",
+      "expected": "my lust shall be satisfied upon them",
+      "replacement": "my desire shall be satisfied upon them",
+      "category": "false-friend",
+      "reason": "Lust here means strong desire, not specifically sexual desire.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+15%3A9&version=KJV"
+    },
+    {
+      "reference": "EXO.15.15",
+      "expected": "the dukes of Edom",
+      "replacement": "the chiefs of Edom",
+      "category": "historical-title",
+      "reason": "Dukes here are tribal chiefs, not later European nobles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+15%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.15.16",
+      "expected": "still as a stone",
+      "replacement": "motionless as a stone",
+      "category": "false-friend",
+      "reason": "Still describes being unable to move.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+15%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.15.25",
+      "expected": "there he proved them",
+      "replacement": "there he tested them",
+      "category": "false-friend",
+      "reason": "Proved means tested.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+15%3A25&version=KJV"
+    },
+    {
+      "reference": "EXO.15.27",
+      "expected": "threescore and ten palm trees",
+      "replacement": "seventy palm trees",
+      "category": "archaic-number",
+      "reason": "Threescore and ten equals seventy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+15%3A27&version=KJV"
+    },
+    {
+      "reference": "EXO.16.3",
+      "expected": "the flesh pots",
+      "replacement": "the pots of meat",
+      "category": "archaic-word-order",
+      "reason": "Flesh pots were pots in which meat was cooked.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.16.4",
+      "expected": "gather a certain rate every day",
+      "replacement": "gather each day's portion",
+      "category": "archaic-quantity-phrase",
+      "reason": "Rate here means an allotted daily amount.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.16.4",
+      "expected": "that I may prove them",
+      "replacement": "that I may test them",
+      "category": "false-friend",
+      "reason": "Prove means test.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.16.6",
+      "expected": "At even",
+      "replacement": "In the evening",
+      "category": "archaic-time",
+      "reason": "Even means evening.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.16.12",
+      "expected": "At even",
+      "replacement": "In the evening",
+      "category": "archaic-time",
+      "reason": "Even means evening.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A12&version=KJV"
+    },
+    {
+      "reference": "EXO.16.13",
+      "expected": "round about the host",
+      "replacement": "all around the camp",
+      "category": "archaic-military-noun",
+      "reason": "Host here means the encampment.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.16.14",
+      "expected": "the hoar frost",
+      "replacement": "frost",
+      "category": "archaic-weather-term",
+      "reason": "Hoar frost means a white frost.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.16.18",
+      "expected": "did mete it",
+      "replacement": "measured it",
+      "category": "archaic-verb",
+      "reason": "Mete means measure.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.16.20",
+      "expected": "Moses was wroth",
+      "replacement": "Moses was angry",
+      "category": "archaic-adjective",
+      "reason": "Wroth means angry.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A20&version=KJV"
+    },
+    {
+      "reference": "EXO.16.21",
+      "expected": "the sun waxed hot",
+      "replacement": "the sun grew hot",
+      "category": "archaic-verb",
+      "reason": "Waxed means became or grew.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A21&version=KJV"
+    },
+    {
+      "reference": "EXO.16.23",
+      "expected": "seethe that ye will seethe",
+      "replacement": "boil what you will boil",
+      "category": "obsolete-cooking-verb",
+      "reason": "Seethe means boil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A23&version=KJV"
+    },
+    {
+      "reference": "EXO.16.24",
+      "expected": "as Moses bade",
+      "replacement": "as Moses instructed",
+      "category": "archaic-verb",
+      "reason": "Bade means instructed or commanded.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A24&version=KJV"
+    },
+    {
+      "reference": "EXO.16.29",
+      "expected": "abide ye every man in his place",
+      "replacement": "each of you remain in your place",
+      "category": "archaic-verb",
+      "reason": "Abide here means remain.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+16%3A29&version=KJV"
+    },
+    {
+      "reference": "EXO.17.1",
+      "expected": "pitched in Rephidim",
+      "replacement": "camped in Rephidim",
+      "category": "archaic-travel-verb",
+      "reason": "Pitched means set up camp.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+17%3A1&version=KJV"
+    },
+    {
+      "reference": "EXO.17.2",
+      "expected": "did chide with Moses",
+      "replacement": "quarreled with Moses",
+      "category": "archaic-verb",
+      "reason": "Chide here means contend or quarrel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+17%3A2&version=KJV"
+    },
+    {
+      "reference": "EXO.17.2",
+      "expected": "wherefore do ye tempt the LORD?",
+      "replacement": "why do you test the LORD?",
+      "category": "false-friend",
+      "reason": "Tempt here means put to the test.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+17%3A2&version=KJV"
+    },
+    {
+      "reference": "EXO.17.7",
+      "expected": "because of the chiding",
+      "replacement": "because of the quarrelling",
+      "category": "archaic-noun",
+      "reason": "Chiding here means contention.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+17%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.17.7",
+      "expected": "they tempted the LORD",
+      "replacement": "they tested the LORD",
+      "category": "false-friend",
+      "reason": "Tempted here means put to the test.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+17%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.17.12",
+      "expected": "stayed up his hands",
+      "replacement": "supported his hands",
+      "category": "archaic-verb",
+      "reason": "Stayed up means supported.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+17%3A12&version=KJV"
+    },
+    {
+      "reference": "EXO.17.13",
+      "expected": "discomfited Amalek",
+      "replacement": "defeated Amalek",
+      "category": "obsolete-verb",
+      "reason": "Discomfited means defeated, not merely made uncomfortable.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+17%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.17.14",
+      "expected": "rehearse it in the ears of Joshua",
+      "replacement": "recite it to Joshua",
+      "category": "archaic-idiom",
+      "reason": "Rehearse here means recount or recite.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+17%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.18.7",
+      "expected": "did obeisance",
+      "replacement": "bowed down",
+      "category": "archaic-noun",
+      "reason": "Obeisance is a respectful bow.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+18%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.18.8",
+      "expected": "all the travail",
+      "replacement": "all the hardship",
+      "category": "false-friend",
+      "reason": "Travail here means hardship, not childbirth.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+18%3A8&version=KJV"
+    },
+    {
+      "reference": "EXO.18.13",
+      "expected": "on the morrow",
+      "replacement": "the next day",
+      "category": "archaic-time",
+      "reason": "Morrow means the next day.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+18%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.18.14",
+      "expected": "from morning unto even",
+      "replacement": "from morning until evening",
+      "category": "archaic-time",
+      "reason": "Even means evening.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+18%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.18.15",
+      "expected": "to enquire of God",
+      "replacement": "to seek guidance from God",
+      "category": "archaic-spelling-and-idiom",
+      "reason": "Enquire means seek an answer or guidance.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+18%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.18.18",
+      "expected": "wilt surely wear away",
+      "replacement": "will surely wear yourselves out",
+      "category": "archaic-idiom",
+      "reason": "Wear away describes exhaustion from the workload.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+18%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.18.19",
+      "expected": "to God-ward",
+      "replacement": "as the people's representative before God",
+      "category": "opaque-directional-phrase",
+      "reason": "God-ward describes Moses' representative role before God.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+18%3A19&version=KJV"
+    },
+    {
+      "reference": "EXO.18.21",
+      "expected": "hating covetousness",
+      "replacement": "hating dishonest gain",
+      "category": "false-friend",
+      "reason": "Covetousness in this leadership qualification concerns corrupt gain.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+18%3A21&version=KJV"
+    },
+    {
+      "reference": "EXO.18.26",
+      "expected": "the hard causes",
+      "replacement": "the difficult cases",
+      "category": "archaic-legal-noun",
+      "reason": "Causes here means legal cases.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+18%3A26&version=KJV"
+    },
+    {
+      "reference": "EXO.19.5",
+      "expected": "a peculiar treasure",
+      "replacement": "a treasured possession",
+      "category": "false-friend",
+      "reason": "Peculiar here means specially belonging to God, not strange.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+19%3A5&version=KJV"
+    },
+    {
+      "reference": "EXO.19.11",
+      "expected": "ready against the third day",
+      "replacement": "ready for the third day",
+      "category": "archaic-preposition",
+      "reason": "Against here means in preparation for.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+19%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.19.15",
+      "expected": "come not at your wives",
+      "replacement": "do not have sexual relations with your wives",
+      "category": "archaic-euphemism",
+      "reason": "Come at is a historical euphemism for sexual relations.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+19%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.19.17",
+      "expected": "the nether part of the mount",
+      "replacement": "the foot of the mountain",
+      "category": "archaic-geography",
+      "reason": "Nether part means the lower part or foot.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+19%3A17&version=KJV"
+    },
+    {
+      "reference": "EXO.19.18",
+      "expected": "was altogether on a smoke",
+      "replacement": "was completely covered in smoke",
+      "category": "archaic-phrase",
+      "reason": "On a smoke means enveloped in smoke.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+19%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.19.21",
+      "expected": "charge the people",
+      "replacement": "warn the people",
+      "category": "false-friend",
+      "reason": "Charge here means give a solemn warning.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+19%3A21&version=KJV"
+    },
+    {
+      "reference": "EXO.20.4",
+      "expected": "any graven image",
+      "replacement": "any carved image",
+      "category": "archaic-adjective",
+      "reason": "Graven means carved.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+20%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.20.11",
+      "expected": "hallowed it",
+      "replacement": "made it holy",
+      "category": "archaic-verb",
+      "reason": "Hallowed means made holy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+20%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.20.20",
+      "expected": "God is come to prove you",
+      "replacement": "God has come to test you",
+      "category": "false-friend",
+      "reason": "Prove means test.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+20%3A20&version=KJV"
+    },
+    {
+      "reference": "EXO.20.25",
+      "expected": "hewn stone",
+      "replacement": "cut stone",
+      "category": "archaic-craft-term",
+      "reason": "Hewn stone has been cut or shaped with tools.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+20%3A25&version=KJV"
+    },
+    {
+      "reference": "EXO.21.6",
+      "expected": "with an aul",
+      "replacement": "with an awl",
+      "category": "archaic-spelling",
+      "reason": "Aul is the historical spelling of awl.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+21%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.21.7",
+      "expected": "to be a maidservant",
+      "replacement": "to be a female servant",
+      "category": "archaic-noun",
+      "reason": "Maidservant means female servant in this law.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+21%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.21.7",
+      "expected": "as the menservants do",
+      "replacement": "as the male servants do",
+      "category": "archaic-noun",
+      "reason": "Menservants means male servants.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+21%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.21.10",
+      "expected": "her raiment",
+      "replacement": "her clothing",
+      "category": "archaic-noun",
+      "reason": "Raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+21%3A10&version=KJV"
+    },
+    {
+      "reference": "EXO.21.14",
+      "expected": "come presumptuously upon his neighbour, to slay him with guile",
+      "replacement": "deliberately attack his neighbour and kill him by treachery",
+      "category": "opaque-legal-phrase",
+      "reason": "The clause describes premeditated, treacherous killing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+21%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.21.33",
+      "expected": "an ass fall therein",
+      "replacement": "a donkey fall into it",
+      "category": "archaic-animal-and-direction",
+      "reason": "Ass means donkey and therein means into it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+21%3A33&version=KJV"
+    },
+    {
+      "reference": "EXO.22.6",
+      "expected": "stacks of corn, or the standing corn",
+      "replacement": "stacks of grain, or the standing grain",
+      "category": "false-friend-agriculture",
+      "reason": "Corn here means grain generally.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.22.7",
+      "expected": "money or stuff to keep",
+      "replacement": "money or property to keep",
+      "category": "false-friend",
+      "reason": "Stuff here means property entrusted for safekeeping.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.22.9",
+      "expected": "which another challengeth to be his",
+      "replacement": "which another claims to be his",
+      "category": "archaic-verb",
+      "reason": "Challengeth here means claims ownership.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A9&version=KJV"
+    },
+    {
+      "reference": "EXO.22.14",
+      "expected": "borrow ought of his neighbour",
+      "replacement": "borrow anything from his neighbour",
+      "category": "archaic-quantity",
+      "reason": "Ought means anything.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.22.16",
+      "expected": "entice a maid that is not betrothed",
+      "replacement": "seduce an unmarried young woman",
+      "category": "archaic-social-phrase",
+      "reason": "Maid means an unmarried young woman and entice describes seduction in context.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.22.16",
+      "expected": "surely endow her to be his wife",
+      "replacement": "surely pay the bride-price for her to be his wife",
+      "category": "historical-legal-term",
+      "reason": "Endow here refers to paying the required marriage price.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.22.18",
+      "expected": "suffer a witch to live",
+      "replacement": "allow a sorceress to live",
+      "category": "false-friend",
+      "reason": "Suffer means allow; sorceress gives the historical sense of witch.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.22.20",
+      "expected": "save unto the LORD only",
+      "replacement": "except to the LORD only",
+      "category": "archaic-exception",
+      "reason": "Save means except.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A20&version=KJV"
+    },
+    {
+      "reference": "EXO.22.21",
+      "expected": "neither vex a stranger",
+      "replacement": "neither mistreat a foreigner",
+      "category": "false-friend",
+      "reason": "Vex means mistreat and stranger means a resident foreigner here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A21&version=KJV"
+    },
+    {
+      "reference": "EXO.22.23",
+      "expected": "in any wise",
+      "replacement": "in any way",
+      "category": "archaic-idiom",
+      "reason": "In any wise means in any way.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A23&version=KJV"
+    },
+    {
+      "reference": "EXO.22.25",
+      "expected": "as an usurer, neither shalt thou lay upon him usury",
+      "replacement": "as a moneylender, nor charge him interest",
+      "category": "obsolete-financial-terms",
+      "reason": "Usurer and usury refer here to lending at interest.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A25&version=KJV"
+    },
+    {
+      "reference": "EXO.22.26",
+      "expected": "thy neighbour’s raiment to pledge",
+      "replacement": "your neighbour’s cloak as collateral",
+      "category": "archaic-legal-terms",
+      "reason": "Raiment is the cloak and pledge is collateral.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A26&version=KJV"
+    },
+    {
+      "reference": "EXO.22.26",
+      "expected": "by that the sun goeth down",
+      "replacement": "before the sun goes down",
+      "category": "archaic-time-clause",
+      "reason": "The phrase sets sunset as the deadline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A26&version=KJV"
+    },
+    {
+      "reference": "EXO.22.27",
+      "expected": "it is his raiment for his skin",
+      "replacement": "it is his cloak for his body",
+      "category": "archaic-noun",
+      "reason": "Raiment means clothing; the specific garment is his cloak.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A27&version=KJV"
+    },
+    {
+      "reference": "EXO.22.30",
+      "expected": "with his dam",
+      "replacement": "with its mother",
+      "category": "archaic-animal-term",
+      "reason": "Dam means the mother of an animal.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A30&version=KJV"
+    },
+    {
+      "reference": "EXO.23.13",
+      "expected": "be circumspect",
+      "replacement": "be careful",
+      "category": "archaic-adjective",
+      "reason": "Circumspect means careful.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+23%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.23.19",
+      "expected": "seethe a kid",
+      "replacement": "boil a young goat",
+      "category": "obsolete-cooking-and-animal",
+      "reason": "Seethe means boil and kid means a young goat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+23%3A19&version=KJV"
+    },
+    {
+      "reference": "EXO.23.24",
+      "expected": "quite break down their images",
+      "replacement": "completely break down their images",
+      "category": "false-friend",
+      "reason": "Quite here means completely.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+23%3A24&version=KJV"
+    },
+    {
+      "reference": "EXO.24.6",
+      "expected": "put it in basons",
+      "replacement": "put it in basins",
+      "category": "archaic-spelling",
+      "reason": "Basons is the historical spelling of basins.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+24%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.24.14",
+      "expected": "Tarry ye here for us",
+      "replacement": "Wait here for us",
+      "category": "archaic-verb",
+      "reason": "Tarry means wait.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+24%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.24.16",
+      "expected": "abode upon mount Sinai",
+      "replacement": "remained upon mount Sinai",
+      "category": "archaic-verb",
+      "reason": "Abode means remained.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+24%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.25.5",
+      "expected": "shittim wood",
+      "replacement": "acacia wood",
+      "category": "obsolete-material-name",
+      "reason": "Shittim is the historical name for acacia wood.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+25%3A5&version=KJV"
+    },
+    {
+      "reference": "EXO.25.13",
+      "expected": "staves of shittim wood",
+      "replacement": "poles of acacia wood",
+      "category": "obsolete-object-and-material",
+      "reason": "Staves are carrying poles and shittim is acacia.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+25%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.25.15",
+      "expected": "The staves shall be in the rings",
+      "replacement": "The poles shall remain in the rings",
+      "category": "archaic-object",
+      "reason": "Staves are carrying poles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+25%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.25.23",
+      "expected": "a table of shittim wood",
+      "replacement": "a table of acacia wood",
+      "category": "obsolete-material-name",
+      "reason": "Shittim is acacia wood.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+25%3A23&version=KJV"
+    },
+    {
+      "reference": "EXO.25.28",
+      "expected": "staves of shittim wood",
+      "replacement": "poles of acacia wood",
+      "category": "obsolete-object-and-material",
+      "reason": "Staves are carrying poles and shittim is acacia.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+25%3A28&version=KJV"
+    },
+    {
+      "reference": "EXO.25.30",
+      "expected": "shewbread before me",
+      "replacement": "bread of the Presence before me",
+      "category": "archaic-liturgical-term",
+      "reason": "Shewbread is the bread displayed before the LORD.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+25%3A30&version=KJV"
+    },
+    {
+      "reference": "EXO.25.31",
+      "expected": "a candlestick of pure gold",
+      "replacement": "a lampstand of pure gold",
+      "category": "false-friend-object",
+      "reason": "Candlestick here is a multi-branched oil lampstand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+25%3A31&version=KJV"
+    },
+    {
+      "reference": "EXO.25.31",
+      "expected": "his knops",
+      "replacement": "its ornamental buds",
+      "category": "obsolete-craft-term",
+      "reason": "Knops are ornamental buds on the lampstand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+25%3A31&version=KJV"
+    },
+    {
+      "reference": "EXO.25.38",
+      "expected": "snuffdishes",
+      "replacement": "wick trays",
+      "category": "obsolete-object",
+      "reason": "Snuffdishes are trays for burned wick trimmings.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+25%3A38&version=KJV"
+    },
+    {
+      "reference": "EXO.26.1",
+      "expected": "cherubims of cunning work",
+      "replacement": "cherubim of skilled workmanship",
+      "category": "archaic-craft-phrase",
+      "reason": "Cunning work means skilled workmanship; cherubim is already plural.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+26%3A1&version=KJV"
+    },
+    {
+      "reference": "EXO.26.4",
+      "expected": "from the selvedge",
+      "replacement": "from the edge",
+      "category": "obsolete-textile-term",
+      "reason": "Selvedge is the finished edge of fabric.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+26%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.26.6",
+      "expected": "fifty taches of gold",
+      "replacement": "fifty gold clasps",
+      "category": "obsolete-object",
+      "reason": "Taches are clasps joining the curtains.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+26%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.26.11",
+      "expected": "fifty taches of brass",
+      "replacement": "fifty bronze clasps",
+      "category": "obsolete-object-and-material",
+      "reason": "Taches are clasps and brass here denotes bronze.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+26%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.26.15",
+      "expected": "shittim wood standing up",
+      "replacement": "acacia wood standing upright",
+      "category": "obsolete-material-and-grammar",
+      "reason": "Shittim is acacia and standing up means upright.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+26%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.26.31",
+      "expected": "a vail",
+      "replacement": "a veil",
+      "category": "archaic-spelling",
+      "reason": "Vail is the historical spelling of veil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+26%3A31&version=KJV"
+    },
+    {
+      "reference": "EXO.26.36",
+      "expected": "an hanging for the door",
+      "replacement": "a curtain for the entrance",
+      "category": "archaic-object",
+      "reason": "The hanging is the entrance curtain.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+26%3A36&version=KJV"
+    },
+    {
+      "reference": "EXO.27.1",
+      "expected": "altar of shittim wood",
+      "replacement": "altar of acacia wood",
+      "category": "obsolete-material-name",
+      "reason": "Shittim is acacia wood.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+27%3A1&version=KJV"
+    },
+    {
+      "reference": "EXO.27.3",
+      "expected": "his basons, and his fleshhooks",
+      "replacement": "its basins and its meat forks",
+      "category": "obsolete-objects",
+      "reason": "Basons are basins and fleshhooks are forks used with sacrificial meat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+27%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.27.4",
+      "expected": "four brasen rings",
+      "replacement": "four bronze rings",
+      "category": "archaic-material",
+      "reason": "Brasen means made of bronze.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+27%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.27.6",
+      "expected": "staves for the altar, staves of shittim wood",
+      "replacement": "poles for the altar, poles of acacia wood",
+      "category": "obsolete-object-and-material",
+      "reason": "Staves are carrying poles and shittim is acacia.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+27%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.27.9",
+      "expected": "hangings for the court",
+      "replacement": "curtains for the courtyard",
+      "category": "archaic-object",
+      "reason": "Hangings here are the courtyard curtains.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+27%3A9&version=KJV"
+    },
+    {
+      "reference": "EXO.27.19",
+      "expected": "all the pins thereof, and all the pins of the court",
+      "replacement": "all its tent pegs, and all the courtyard pegs",
+      "category": "false-friend-object",
+      "reason": "Pins here are tent pegs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+27%3A19&version=KJV"
+    },
+    {
+      "reference": "EXO.28.4",
+      "expected": "a broidered coat, a mitre, and a girdle",
+      "replacement": "an embroidered coat, a turban, and a sash",
+      "category": "obsolete-clothing-terms",
+      "reason": "Broidered, mitre, and girdle name the embroidered coat, turban, and sash.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+28%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.28.6",
+      "expected": "with cunning work",
+      "replacement": "with skilled workmanship",
+      "category": "false-friend",
+      "reason": "Cunning here means skillful, not deceptive.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+28%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.28.8",
+      "expected": "the curious girdle",
+      "replacement": "the skillfully woven waistband",
+      "category": "false-friend-craft",
+      "reason": "Curious means skillfully made; the girdle is the woven waistband.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+28%3A8&version=KJV"
+    },
+    {
+      "reference": "EXO.28.11",
+      "expected": "set in ouches of gold",
+      "replacement": "set in gold settings",
+      "category": "obsolete-jewelry-term",
+      "reason": "Ouches are settings or sockets for stones.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+28%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.28.14",
+      "expected": "of wreathen work",
+      "replacement": "of braided work",
+      "category": "obsolete-craft-term",
+      "reason": "Wreathen means braided or twisted.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+28%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.28.32",
+      "expected": "the hole of an habergeon, that it be not rent",
+      "replacement": "the opening of a coat of mail, so that it does not tear",
+      "category": "obsolete-object-and-verb",
+      "reason": "A habergeon is a coat of mail; rent means torn.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+28%3A32&version=KJV"
+    },
+    {
+      "reference": "EXO.28.40",
+      "expected": "bonnets shalt thou make for them",
+      "replacement": "you shall make caps for them",
+      "category": "false-friend-clothing",
+      "reason": "Bonnets here are priestly caps.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+28%3A40&version=KJV"
+    },
+    {
+      "reference": "EXO.28.42",
+      "expected": "linen breeches",
+      "replacement": "linen undergarments",
+      "category": "false-friend-clothing",
+      "reason": "Breeches here are linen undergarments.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+28%3A42&version=KJV"
+    },
+    {
+      "reference": "EXO.29.31",
+      "expected": "seethe his flesh",
+      "replacement": "boil its meat",
+      "category": "obsolete-cooking-verb",
+      "reason": "Seethe means boil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+29%3A31&version=KJV"
+    },
+    {
+      "reference": "EXO.29.34",
+      "expected": "if ought of the flesh",
+      "replacement": "if any of the meat",
+      "category": "archaic-quantity",
+      "reason": "Ought means any.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+29%3A34&version=KJV"
+    },
+    {
+      "reference": "EXO.30.5",
+      "expected": "staves of shittim wood",
+      "replacement": "poles of acacia wood",
+      "category": "obsolete-object-and-material",
+      "reason": "Staves are carrying poles and shittim is acacia.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+30%3A5&version=KJV"
+    },
+    {
+      "reference": "EXO.30.18",
+      "expected": "a laver of brass",
+      "replacement": "a bronze basin",
+      "category": "obsolete-object-and-material",
+      "reason": "A laver is a wash basin and brass here denotes bronze.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+30%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.30.25",
+      "expected": "after the art of the apothecary",
+      "replacement": "as prepared by a perfumer",
+      "category": "false-friend-profession",
+      "reason": "Apothecary here is a skilled perfumer or compounder of fragrances.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+30%3A25&version=KJV"
+    },
+    {
+      "reference": "EXO.31.9",
+      "expected": "all his furniture, and the laver and his foot",
+      "replacement": "all its utensils, and the basin and its stand",
+      "category": "false-friend-objects",
+      "reason": "Furniture means equipment; laver and foot are the basin and its stand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+31%3A9&version=KJV"
+    },
+    {
+      "reference": "EXO.32.30",
+      "expected": "on the morrow",
+      "replacement": "the next day",
+      "category": "archaic-time",
+      "reason": "Morrow means the next day.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+32%3A30&version=KJV"
+    },
+    {
+      "reference": "EXO.32.30",
+      "expected": "peradventure I shall make an atonement",
+      "replacement": "perhaps I can make atonement",
+      "category": "archaic-adverb",
+      "reason": "Peradventure means perhaps.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+32%3A30&version=KJV"
+    },
+    {
+      "reference": "EXO.33.1",
+      "expected": "go up hence",
+      "replacement": "go up from here",
+      "category": "archaic-direction",
+      "reason": "Hence means from here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+33%3A1&version=KJV"
+    },
+    {
+      "reference": "EXO.33.18",
+      "expected": "I beseech thee",
+      "replacement": "I plead with you",
+      "category": "archaic-request",
+      "reason": "Beseech means plead; the existing spelling review already handles shew separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+33%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.34.26",
+      "expected": "seethe a kid",
+      "replacement": "boil a young goat",
+      "category": "obsolete-cooking-and-animal",
+      "reason": "Seethe means boil and kid means young goat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+34%3A26&version=KJV"
+    },
+    {
+      "reference": "EXO.34.33",
+      "expected": "a vail on his face",
+      "replacement": "a veil over his face",
+      "category": "archaic-spelling",
+      "reason": "Vail is the historical spelling of veil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+34%3A33&version=KJV"
+    },
+    {
+      "reference": "EXO.35.7",
+      "expected": "shittim wood",
+      "replacement": "acacia wood",
+      "category": "obsolete-material-name",
+      "reason": "Shittim is acacia wood.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+35%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.35.11",
+      "expected": "his taches",
+      "replacement": "its clasps",
+      "category": "obsolete-object",
+      "reason": "Taches are curtain clasps.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+35%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.35.12",
+      "expected": "the staves thereof",
+      "replacement": "its carrying poles",
+      "category": "archaic-object",
+      "reason": "Staves are carrying poles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+35%3A12&version=KJV"
+    },
+    {
+      "reference": "EXO.35.13",
+      "expected": "the shewbread",
+      "replacement": "the bread of the Presence",
+      "category": "archaic-liturgical-term",
+      "reason": "Shewbread is the bread displayed before the LORD.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+35%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.35.14",
+      "expected": "The candlestick",
+      "replacement": "The lampstand",
+      "category": "false-friend-object",
+      "reason": "Candlestick here is a multi-branched oil lampstand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+35%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.35.16",
+      "expected": "his brasen grate, his staves",
+      "replacement": "its bronze grate, its poles",
+      "category": "archaic-material-and-object",
+      "reason": "Brasen means bronze and staves are carrying poles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+35%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.35.16",
+      "expected": "the laver and his foot",
+      "replacement": "the basin and its stand",
+      "category": "obsolete-object",
+      "reason": "Laver and foot mean the wash basin and its stand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+35%3A16&version=KJV"
+    },
+    {
+      "reference": "EXO.35.18",
+      "expected": "The pins of the tabernacle, and the pins of the court",
+      "replacement": "The tent pegs of the tabernacle and the pegs of the courtyard",
+      "category": "false-friend-object",
+      "reason": "Pins here are tent pegs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+35%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.36.3",
+      "expected": "to make it withal",
+      "replacement": "to make it with",
+      "category": "archaic-adverb",
+      "reason": "Withal means with it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+36%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.36.7",
+      "expected": "For the stuff they had",
+      "replacement": "For the material they had",
+      "category": "false-friend",
+      "reason": "Stuff here means the supplied material.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+36%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.36.11",
+      "expected": "from the selvedge",
+      "replacement": "from the edge",
+      "category": "obsolete-textile-term",
+      "reason": "Selvedge is the finished fabric edge.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+36%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.36.13",
+      "expected": "fifty taches of gold",
+      "replacement": "fifty gold clasps",
+      "category": "obsolete-object",
+      "reason": "Taches are clasps.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+36%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.36.18",
+      "expected": "fifty taches of brass",
+      "replacement": "fifty bronze clasps",
+      "category": "obsolete-object-and-material",
+      "reason": "Taches are clasps and brass denotes bronze.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+36%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.36.20",
+      "expected": "shittim wood, standing up",
+      "replacement": "acacia wood, standing upright",
+      "category": "obsolete-material-and-grammar",
+      "reason": "Shittim is acacia and standing up means upright.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+36%3A20&version=KJV"
+    },
+    {
+      "reference": "EXO.36.35",
+      "expected": "a vail",
+      "replacement": "a veil",
+      "category": "archaic-spelling",
+      "reason": "Vail is the historical spelling of veil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+36%3A35&version=KJV"
+    },
+    {
+      "reference": "EXO.36.38",
+      "expected": "their chapiters and their fillets",
+      "replacement": "their capitals and their bands",
+      "category": "obsolete-architecture",
+      "reason": "Chapiters are column capitals and fillets are decorative bands.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+36%3A38&version=KJV"
+    },
+    {
+      "reference": "EXO.37.1",
+      "expected": "ark of shittim wood",
+      "replacement": "ark of acacia wood",
+      "category": "obsolete-material-name",
+      "reason": "Shittim is acacia wood.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+37%3A1&version=KJV"
+    },
+    {
+      "reference": "EXO.37.4",
+      "expected": "staves of shittim wood",
+      "replacement": "poles of acacia wood",
+      "category": "obsolete-object-and-material",
+      "reason": "Staves are carrying poles and shittim is acacia.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+37%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.37.10",
+      "expected": "table of shittim wood",
+      "replacement": "table of acacia wood",
+      "category": "obsolete-material-name",
+      "reason": "Shittim is acacia wood.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+37%3A10&version=KJV"
+    },
+    {
+      "reference": "EXO.37.15",
+      "expected": "staves of shittim wood",
+      "replacement": "poles of acacia wood",
+      "category": "obsolete-object-and-material",
+      "reason": "Staves are carrying poles and shittim is acacia.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+37%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.37.17",
+      "expected": "the candlestick of pure gold",
+      "replacement": "the lampstand of pure gold",
+      "category": "false-friend-object",
+      "reason": "Candlestick here is a multi-branched oil lampstand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+37%3A17&version=KJV"
+    },
+    {
+      "reference": "EXO.37.25",
+      "expected": "incense altar of shittim wood",
+      "replacement": "incense altar of acacia wood",
+      "category": "obsolete-material-name",
+      "reason": "Shittim is acacia wood.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+37%3A25&version=KJV"
+    },
+    {
+      "reference": "EXO.37.28",
+      "expected": "staves of shittim wood",
+      "replacement": "poles of acacia wood",
+      "category": "obsolete-object-and-material",
+      "reason": "Staves are carrying poles and shittim is acacia.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+37%3A28&version=KJV"
+    },
+    {
+      "reference": "EXO.37.29",
+      "expected": "work of the apothecary",
+      "replacement": "work of a perfumer",
+      "category": "false-friend-profession",
+      "reason": "Apothecary here is a perfumer.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+37%3A29&version=KJV"
+    },
+    {
+      "reference": "EXO.38.1",
+      "expected": "offering of shittim wood",
+      "replacement": "offering of acacia wood",
+      "category": "obsolete-material-name",
+      "reason": "Shittim is acacia wood.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+38%3A1&version=KJV"
+    },
+    {
+      "reference": "EXO.38.3",
+      "expected": "the basons, and the fleshhooks",
+      "replacement": "the basins and the meat forks",
+      "category": "obsolete-objects",
+      "reason": "Basons are basins and fleshhooks are meat forks.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+38%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.38.4",
+      "expected": "a brasen grate",
+      "replacement": "a bronze grate",
+      "category": "archaic-material",
+      "reason": "Brasen means bronze.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+38%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.38.6",
+      "expected": "staves of shittim wood",
+      "replacement": "poles of acacia wood",
+      "category": "obsolete-object-and-material",
+      "reason": "Staves are carrying poles and shittim is acacia.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+38%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.38.8",
+      "expected": "the laver of brass, and the foot of it of brass, of the lookingglasses",
+      "replacement": "the bronze basin and its bronze stand from the mirrors",
+      "category": "obsolete-objects",
+      "reason": "Laver is a basin, foot is its stand, and lookingglasses are mirrors.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+38%3A8&version=KJV"
+    },
+    {
+      "reference": "EXO.38.17",
+      "expected": "their chapiters",
+      "replacement": "their capitals",
+      "category": "obsolete-architecture",
+      "reason": "Chapiters are the capitals at the tops of pillars.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+38%3A17&version=KJV"
+    },
+    {
+      "reference": "EXO.38.20",
+      "expected": "all the pins of the tabernacle",
+      "replacement": "all the tent pegs of the tabernacle",
+      "category": "false-friend-object",
+      "reason": "Pins here are tent pegs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+38%3A20&version=KJV"
+    },
+    {
+      "reference": "EXO.39.6",
+      "expected": "inclosed in ouches of gold, graven, as signets are graven",
+      "replacement": "enclosed in gold settings, engraved like signet seals",
+      "category": "obsolete-craft-terms",
+      "reason": "Ouches are settings; graven means engraved; signets are seals.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.39.15",
+      "expected": "of wreathen work",
+      "replacement": "of braided work",
+      "category": "obsolete-craft-term",
+      "reason": "Wreathen means braided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A15&version=KJV"
+    },
+    {
+      "reference": "EXO.39.23",
+      "expected": "the hole of an habergeon, with a band round about the hole, that it should not rend",
+      "replacement": "the opening of a coat of mail, with a band around the opening, so that it would not tear",
+      "category": "obsolete-object-and-verb",
+      "reason": "A habergeon is a coat of mail and rend means tear.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A23&version=KJV"
+    },
+    {
+      "reference": "EXO.39.28",
+      "expected": "a mitre of fine linen, and goodly bonnets of fine linen, and linen breeches",
+      "replacement": "a fine linen turban, fine linen caps, and linen undergarments",
+      "category": "obsolete-clothing-terms",
+      "reason": "Mitre, bonnets, and breeches denote the priestly turban, caps, and undergarments.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A28&version=KJV"
+    },
+    {
+      "reference": "EXO.39.33",
+      "expected": "all his furniture, his taches",
+      "replacement": "all its equipment and its clasps",
+      "category": "false-friend-objects",
+      "reason": "Furniture means equipment and taches are clasps.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A33&version=KJV"
+    },
+    {
+      "reference": "EXO.39.34",
+      "expected": "the vail of the covering",
+      "replacement": "the covering veil",
+      "category": "archaic-spelling",
+      "reason": "Vail is the historical spelling of veil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A34&version=KJV"
+    },
+    {
+      "reference": "EXO.39.35",
+      "expected": "the staves thereof",
+      "replacement": "its carrying poles",
+      "category": "archaic-object",
+      "reason": "Staves are carrying poles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A35&version=KJV"
+    },
+    {
+      "reference": "EXO.39.36",
+      "expected": "the shewbread",
+      "replacement": "the bread of the Presence",
+      "category": "archaic-liturgical-term",
+      "reason": "Shewbread is the bread displayed before the LORD.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A36&version=KJV"
+    },
+    {
+      "reference": "EXO.39.37",
+      "expected": "The pure candlestick",
+      "replacement": "The pure lampstand",
+      "category": "false-friend-object",
+      "reason": "Candlestick here is an oil lampstand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A37&version=KJV"
+    },
+    {
+      "reference": "EXO.39.39",
+      "expected": "The brasen altar, and his grate of brass, his staves",
+      "replacement": "The bronze altar, its bronze grate, and its poles",
+      "category": "archaic-material-and-object",
+      "reason": "Brasen means bronze and staves are carrying poles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A39&version=KJV"
+    },
+    {
+      "reference": "EXO.39.39",
+      "expected": "the laver and his foot",
+      "replacement": "the basin and its stand",
+      "category": "obsolete-object",
+      "reason": "Laver and foot mean the basin and its stand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A39&version=KJV"
+    },
+    {
+      "reference": "EXO.39.40",
+      "expected": "his cords, and his pins",
+      "replacement": "its cords and its tent pegs",
+      "category": "false-friend-object",
+      "reason": "Pins here are tent pegs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+39%3A40&version=KJV"
+    },
+    {
+      "reference": "EXO.40.3",
+      "expected": "cover the ark with the vail",
+      "replacement": "screen the ark with the veil",
+      "category": "archaic-spelling-and-verb",
+      "reason": "Vail is the historical spelling; cover here means screen from view.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+40%3A3&version=KJV"
+    },
+    {
+      "reference": "EXO.40.4",
+      "expected": "bring in the candlestick",
+      "replacement": "bring in the lampstand",
+      "category": "false-friend-object",
+      "reason": "Candlestick here is an oil lampstand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+40%3A4&version=KJV"
+    },
+    {
+      "reference": "EXO.40.7",
+      "expected": "set the laver",
+      "replacement": "set the basin",
+      "category": "obsolete-object",
+      "reason": "Laver means wash basin.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+40%3A7&version=KJV"
+    },
+    {
+      "reference": "EXO.40.11",
+      "expected": "anoint the laver and his foot",
+      "replacement": "anoint the basin and its stand",
+      "category": "obsolete-object",
+      "reason": "Laver and foot mean basin and stand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+40%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.40.20",
+      "expected": "set the staves on the ark",
+      "replacement": "set the poles on the ark",
+      "category": "archaic-object",
+      "reason": "Staves are carrying poles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+40%3A20&version=KJV"
+    },
+    {
+      "reference": "EXO.40.21",
+      "expected": "the vail of the covering",
+      "replacement": "the covering veil",
+      "category": "archaic-spelling",
+      "reason": "Vail is the historical spelling of veil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+40%3A21&version=KJV"
+    },
+    {
+      "reference": "EXO.40.24",
+      "expected": "the candlestick",
+      "replacement": "the lampstand",
+      "category": "false-friend-object",
+      "reason": "Candlestick here is an oil lampstand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+40%3A24&version=KJV"
+    },
+    {
+      "reference": "EXO.40.30",
+      "expected": "put water there, to wash withal",
+      "replacement": "put water there for washing",
+      "category": "archaic-adverb",
+      "reason": "Withal means with it or thereby.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+40%3A30&version=KJV"
+    },
+    {
+      "reference": "EXO.40.35",
+      "expected": "the cloud abode thereon",
+      "replacement": "the cloud remained upon it",
+      "category": "archaic-verb",
+      "reason": "Abode means remained and thereon means upon it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+40%3A35&version=KJV"
+    },
+    {
+      "reference": "EXO.22.9",
+      "expected": "for ox, for ass, for sheep, for raiment",
+      "replacement": "for ox, for donkey, for sheep, for clothing",
+      "category": "archaic-object-names",
+      "reason": "Ass means donkey and raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+22%3A9&version=KJV"
+    },
+    {
+      "reference": "EXO.25.31",
+      "expected": "of beaten work shall the candlestick be made",
+      "replacement": "the lampstand shall be made of hammered work",
+      "category": "false-friend-craft",
+      "reason": "Candlestick is an oil lampstand and beaten work means hammered work.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+25%3A31&version=KJV"
+    },
+    {
+      "reference": "EXO.26.6",
+      "expected": "with the taches",
+      "replacement": "with the clasps",
+      "category": "obsolete-object",
+      "reason": "Taches are clasps.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+26%3A6&version=KJV"
+    },
+    {
+      "reference": "EXO.26.11",
+      "expected": "put the taches into the loops",
+      "replacement": "put the clasps into the loops",
+      "category": "obsolete-object",
+      "reason": "Taches are clasps.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+26%3A11&version=KJV"
+    },
+    {
+      "reference": "EXO.26.31",
+      "expected": "of cunning work",
+      "replacement": "of skilled workmanship",
+      "category": "false-friend",
+      "reason": "Cunning here means skillful.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+26%3A31&version=KJV"
+    },
+    {
+      "reference": "EXO.28.14",
+      "expected": "fasten the wreathen chains to the ouches",
+      "replacement": "fasten the braided chains to the settings",
+      "category": "obsolete-craft-terms",
+      "reason": "Wreathen means braided and ouches are jewelry settings.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+28%3A14&version=KJV"
+    },
+    {
+      "reference": "EXO.30.18",
+      "expected": "and his foot also of brass, to wash withal",
+      "replacement": "and its stand also of bronze, for washing",
+      "category": "obsolete-object-and-material",
+      "reason": "The foot is the basin stand; brass denotes bronze; withal means with it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+30%3A18&version=KJV"
+    },
+    {
+      "reference": "EXO.34.34",
+      "expected": "the vail off",
+      "replacement": "the veil off",
+      "category": "archaic-spelling",
+      "reason": "Vail is the historical spelling of veil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+34%3A34&version=KJV"
+    },
+    {
+      "reference": "EXO.35.12",
+      "expected": "the vail of the covering",
+      "replacement": "the covering veil",
+      "category": "archaic-spelling",
+      "reason": "Vail is the historical spelling of veil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+35%3A12&version=KJV"
+    },
+    {
+      "reference": "EXO.35.13",
+      "expected": "his staves",
+      "replacement": "its carrying poles",
+      "category": "archaic-object",
+      "reason": "Staves are carrying poles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+35%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.36.13",
+      "expected": "with the taches",
+      "replacement": "with the clasps",
+      "category": "obsolete-object",
+      "reason": "Taches are clasps.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+36%3A13&version=KJV"
+    },
+    {
+      "reference": "EXO.36.35",
+      "expected": "of cunning work",
+      "replacement": "with skilled workmanship",
+      "category": "false-friend",
+      "reason": "Cunning here means skillful.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+36%3A35&version=KJV"
+    },
+    {
+      "reference": "EXO.37.17",
+      "expected": "of beaten work made he the candlestick",
+      "replacement": "he made the lampstand of hammered work",
+      "category": "false-friend-craft",
+      "reason": "Candlestick is an oil lampstand and beaten work means hammered work.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+37%3A17&version=KJV"
+    },
+    {
+      "reference": "EXO.37.17",
+      "expected": "his knops",
+      "replacement": "its ornamental buds",
+      "category": "obsolete-craft-term",
+      "reason": "Knops are ornamental buds.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+37%3A17&version=KJV"
+    },
+    {
+      "reference": "EXO.38.17",
+      "expected": "their fillets of silver",
+      "replacement": "their silver bands",
+      "category": "obsolete-architecture",
+      "reason": "Fillets here are decorative bands on the pillars.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+38%3A17&version=KJV"
+    },
+    {
+      "reference": "EXO.40.30",
+      "expected": "set the laver",
+      "replacement": "set the basin",
+      "category": "obsolete-object",
+      "reason": "Laver means wash basin.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Exodus+40%3A30&version=KJV"
     }
   ],
   "pending": [
@@ -97814,6 +100390,176 @@
         {
           "label": "KJV lexical and complete-verse review",
           "url": "https://www.merriam-webster.com/"
+        }
+      ]
+    },
+    {
+      "id": "kjv-exodus-harnessed",
+      "status": "pending-review",
+      "scope": "Exodus 13:18",
+      "term": "went up harnessed",
+      "proposedOptions": [
+        "went up in orderly ranks",
+        "went up equipped for battle"
+      ],
+      "reason": "The Hebrew can describe either military equipment or an ordered formation; the English should not choose one without stronger editorial evidence.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 13,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+13%3A18&version=KJV"
+        }
+      ]
+    },
+    {
+      "id": "kjv-exodus-gods-judges",
+      "status": "pending-review",
+      "scope": "Exodus 22:28",
+      "term": "revile the gods",
+      "proposedOptions": [
+        "insult God",
+        "insult the judges"
+      ],
+      "reason": "The underlying term can be read as God or appointed judges in this legal context; changing the referent would exceed a reading clarification.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 22,
+          "verse": 28
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+22%3A28&version=KJV"
+        }
+      ]
+    },
+    {
+      "id": "kjv-exodus-liquors",
+      "status": "pending-review",
+      "scope": "Exodus 22:29",
+      "term": "the first of thy ripe fruits, and of thy liquors",
+      "proposedOptions": [
+        "the first of your harvest and your wine",
+        "the first of your produce and your flowing yield"
+      ],
+      "reason": "Liquors is clearly archaic, but the precise offering represented by the term needs an editorial decision before replacement.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 22,
+          "verse": 29
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+22%3A29&version=KJV"
+        }
+      ]
+    },
+    {
+      "id": "kjv-exodus-badgers-skins",
+      "status": "pending-review",
+      "scope": "Exodus tabernacle passages",
+      "term": "badgers’ skins",
+      "proposedOptions": [
+        "durable hides",
+        "fine leather",
+        "sea-cow hides"
+      ],
+      "reason": "The animal or material behind the Hebrew term is disputed, so a confident modern species name would be misleading.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 25,
+          "verse": 5
+        },
+        {
+          "book": "EXO",
+          "chapter": 35,
+          "verse": 7
+        },
+        {
+          "book": "EXO",
+          "chapter": 36,
+          "verse": 19
+        },
+        {
+          "book": "EXO",
+          "chapter": 39,
+          "verse": 34
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+25%3A5&version=KJV"
+        }
+      ]
+    },
+    {
+      "id": "kjv-exodus-bloody-husband",
+      "status": "pending-review",
+      "scope": "Exodus 4:25-26",
+      "term": "a bloody husband",
+      "proposedOptions": [
+        "a bridegroom of blood",
+        "a husband obtained through blood"
+      ],
+      "reason": "The ritual expression is difficult and interpretively disputed; a smooth paraphrase could conceal its ambiguity.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 4,
+          "verse": 25
+        },
+        {
+          "book": "EXO",
+          "chapter": 4,
+          "verse": 26
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-passage KJV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+4%3A25-26&version=KJV"
+        }
+      ]
+    },
+    {
+      "id": "kjv-exodus-uncircumcised-lips",
+      "status": "pending-review",
+      "scope": "Exodus 6:12,30",
+      "term": "uncircumcised lips",
+      "proposedOptions": [
+        "faltering speech",
+        "unskilled speech"
+      ],
+      "reason": "The metaphor concerns Moses' perceived inability to speak, but replacing it requires choosing an interpretation of the image.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 6,
+          "verse": 12
+        },
+        {
+          "book": "EXO",
+          "chapter": 6,
+          "verse": 30
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-passage KJV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+6%3A12%2C30&version=KJV"
         }
       ]
     }

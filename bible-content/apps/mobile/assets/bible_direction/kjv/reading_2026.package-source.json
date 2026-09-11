@@ -1,7 +1,7 @@
 {
   "filterId": "KJV-READING-2026",
   "schemaVersion": 1,
-  "contentVersion": 4,
+  "contentVersion": 5,
   "sourceVersionId": "KJV",
   "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
   "normalizationId": "shine-kjv-visible-text-v1",
@@ -9,7 +9,7 @@
   "expectedBookCount": 66,
   "editorialPolicy": {
     "id": "kjv-minimal-comprehension-policy",
-    "version": 4,
+    "version": 5,
     "description": "Only exact, occurrence-reviewed wording that materially improves comprehension is projected. The packaged KJV remains immutable."
   }
 }
