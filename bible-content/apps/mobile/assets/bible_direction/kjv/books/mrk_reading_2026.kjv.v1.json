@@ -1,1 +1,349 @@
-{"book":"MRK","editionId":"KJV-READING-2026","editorialStatus":"approved-minimal-comprehension-v3","normalizationId":"shine-kjv-visible-text-v1","ownerReview":{"contentVersion":3,"requiredFullTest":true,"review":"KJV round 3 complete-verse review"},"schemaVersion":1,"sourceContentSha256":"433c67a53068e3fd46bd30fb1dc3a73dd4bd72902b742642a7b476c1c1a1f753","sourceVersionId":"KJV","verses":[{"chapter":1,"edits":[{"category":"archaic-time-adverb","endOffset":55,"evidence":[{"label":"Reviewed lexical evidence","url":"https://www.merriam-webster.com/dictionary/anon"}],"expected":"anon","reason":"Anon has its archaic immediate sense: those present tell Jesus about the sick woman without delay.","replacement":"immediately","startOffset":51}],"sourceTextSha256":"d94b70845ded4130a1aa514a4d30fbdd27e91b6104ad9c0e1a92b5b824cb22bf","verse":30},{"chapter":1,"edits":[{"category":"clear-archaic-english","endOffset":71,"expected":"shew","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"show","startOffset":67}],"sourceTextSha256":"567eff9f1c887873123f761d4ca7a789bdf54551f31e27bf9603030b79bf84b9","verse":44},{"chapter":3,"edits":[{"category":"clear-archaic-english","endOffset":12,"expected":"spake","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"spoke","startOffset":7}],"sourceTextSha256":"5fc9a6ccaa2a129d861f62ea21c11378ca5f74878202057883bca779a21748e6","verse":9},{"chapter":4,"edits":[{"category":"clear-archaic-english","endOffset":33,"expected":"spake","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"spoke","startOffset":28}],"sourceTextSha256":"40bff4733e66288ef50b300f9fad2f280e5ab319b75b22b17eb277256f7fc67e","verse":33},{"chapter":4,"edits":[{"category":"clear-archaic-english","endOffset":27,"expected":"spake","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"spoke","startOffset":22}],"sourceTextSha256":"0f78521f6a50b5617ba8250f456171b67d4d0eadd1e00f42ef88bb4b4560f4b9","verse":34},{"chapter":5,"edits":[{"category":"clear-archaic-english","endOffset":18,"expected":"spake","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"spoke","startOffset":13}],"sourceTextSha256":"c0ec9903f8cf468f1c98c3fed74746f97543b313b33f15706f3dee93d405e6c7","verse":35},{"chapter":6,"edits":[{"category":"clear-archaic-english","endOffset":157,"expected":"shew","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"show","startOffset":153}],"sourceTextSha256":"73a929c41968e78fedcf6ba2f0d025e655362d144ded93748cd092a04bb172ed","verse":14},{"chapter":6,"edits":[{"category":"clear-archaic-english","endOffset":12,"expected":"sware","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"swore","startOffset":7}],"sourceTextSha256":"1d2a0fdeba2464894b4560f65e2b0506bdb72cb25ebb951b197e01081ff4eeb8","verse":23},{"chapter":7,"edits":[{"category":"clear-archaic-english","endOffset":91,"expected":"spake","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"spoke","startOffset":86}],"sourceTextSha256":"111c0f28e722b5571a517788144c96b1b9ff781a9cf46c7c90f96abc24e012c3","verse":35},{"chapter":8,"edits":[{"category":"clear-archaic-english","endOffset":12,"expected":"spake","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"spoke","startOffset":7}],"sourceTextSha256":"ab37a3f0e2a7b1438313ef8bab2f17f5c19436a02f92a45ebc0613b623037784","verse":32},{"chapter":9,"edits":[{"category":"archaic-knowledge-verb","endOffset":20,"evidence":[{"label":"Reviewed lexical evidence","url":"https://www.merriam-webster.com/dictionary/wist"}],"expected":"he wist not what","reason":"Wist is the archaic past-tense verb knew. Peter does not know what to say because of fear.","replacement":"he did not know what","startOffset":4}],"sourceTextSha256":"3e35f7c4ff9eadf72660b940412771eed1b2902daf3be66c98c5d7a4207f56c9","verse":6},{"chapter":9,"edits":[{"category":"clear-archaic-english","endOffset":120,"expected":"spake","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"spoke","startOffset":115}],"sourceTextSha256":"5177506e5a194cf3e51335dd750910767f1580241e93dc1eb448ffaecedce788","verse":18},{"chapter":12,"edits":[{"category":"clear-archaic-english","endOffset":103,"expected":"spake","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"spoke","startOffset":98}],"sourceTextSha256":"635c1dd9dca3b359383db7f2283845614b8611e4aacf41dec98f04dd6ef376ef","verse":26},{"chapter":13,"edits":[{"category":"clear-archaic-english","endOffset":62,"expected":"shew","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"show","startOffset":58}],"sourceTextSha256":"a80bae88957e64d70d88398a4a0a8df1096b432ae19e0a4d32527f80f2b56a13","verse":22},{"chapter":14,"edits":[{"category":"clear-archaic-english","endOffset":16,"expected":"shew","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"show","startOffset":12}],"sourceTextSha256":"c324d28a973699492d544ff8940e81d4515359637c4c095486a87ba621309343","verse":15},{"chapter":14,"edits":[{"category":"clear-archaic-english","endOffset":134,"expected":"thrice","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"three times","startOffset":128}],"sourceTextSha256":"c7fd6fac07c8704379cfa9f212f0b15a4dce7775e1d7ac28cd7ac32abd1f6c35","verse":30},{"chapter":14,"edits":[{"category":"clear-archaic-english","endOffset":12,"expected":"spake","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"spoke","startOffset":7}],"sourceTextSha256":"83df7876d751af543fd1909e22abfcc641e7b42298a0dc31dfa556a972d03b46","verse":31},{"chapter":14,"edits":[{"category":"clear-archaic-english","endOffset":45,"expected":"spake","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"spoke","startOffset":40}],"sourceTextSha256":"9b8afa6e9507bc50697c7edba4a00a2a5eb578a8d37f99b780454c313067a887","verse":39},{"chapter":14,"edits":[{"category":"context-reviewed-knowledge-phrase","endOffset":101,"evidence":[{"label":"Reviewed lexical evidence","url":"https://www.merriam-webster.com/dictionary/wist"}],"expected":"neither wist they what","reason":"Wist is the archaic past-tense verb knew. The disciples do not know what answer to give Jesus.","replacement":"neither did they know what","startOffset":79}],"sourceTextSha256":"b3238b3c906481769a8070f873fe4232d4ace6d94c46b702877758e4cfc9f8f8","verse":40},{"chapter":14,"edits":[{"category":"clear-archaic-english","endOffset":37,"expected":"spake","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"spoke","startOffset":32}],"sourceTextSha256":"db9a9c995b20b4f5012c433117a560804a2e3f8f302ad81777e55499e38af840","verse":43},{"chapter":14,"edits":[{"category":"clear-archaic-english","endOffset":147,"expected":"thrice","reason":"Exact modern wording preserves the full verse meaning and grammar.","replacement":"three times","startOffset":141}],"sourceTextSha256":"594fabead8d220485d448582f7094e1e96c7bba713be67223c0315e038cfee33","verse":72}]}
+{
+  "book": "MRK",
+  "editionId": "KJV-READING-2026",
+  "editorialStatus": "approved-minimal-comprehension-v3",
+  "normalizationId": "shine-kjv-visible-text-v1",
+  "ownerReview": {
+    "contentVersion": 3,
+    "requiredFullTest": true,
+    "review": "KJV round 3 complete-verse review"
+  },
+  "schemaVersion": 1,
+  "sourceContentSha256": "433c67a53068e3fd46bd30fb1dc3a73dd4bd72902b742642a7b476c1c1a1f753",
+  "sourceVersionId": "KJV",
+  "verses": [
+    {
+      "chapter": 1,
+      "edits": [
+        {
+          "category": "archaic-time-adverb",
+          "endOffset": 55,
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/anon"
+            }
+          ],
+          "expected": "anon",
+          "reason": "Anon has its archaic immediate sense: those present tell Jesus about the sick woman without delay.",
+          "replacement": "immediately",
+          "startOffset": 51
+        }
+      ],
+      "sourceTextSha256": "d94b70845ded4130a1aa514a4d30fbdd27e91b6104ad9c0e1a92b5b824cb22bf",
+      "verse": 30
+    },
+    {
+      "chapter": 1,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 71,
+          "expected": "shew",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "show",
+          "startOffset": 67
+        }
+      ],
+      "sourceTextSha256": "567eff9f1c887873123f761d4ca7a789bdf54551f31e27bf9603030b79bf84b9",
+      "verse": 44
+    },
+    {
+      "chapter": 3,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 12,
+          "expected": "spake",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "spoke",
+          "startOffset": 7
+        }
+      ],
+      "sourceTextSha256": "5fc9a6ccaa2a129d861f62ea21c11378ca5f74878202057883bca779a21748e6",
+      "verse": 9
+    },
+    {
+      "chapter": 4,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 33,
+          "expected": "spake",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "spoke",
+          "startOffset": 28
+        }
+      ],
+      "sourceTextSha256": "40bff4733e66288ef50b300f9fad2f280e5ab319b75b22b17eb277256f7fc67e",
+      "verse": 33
+    },
+    {
+      "chapter": 4,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 27,
+          "expected": "spake",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "spoke",
+          "startOffset": 22
+        }
+      ],
+      "sourceTextSha256": "0f78521f6a50b5617ba8250f456171b67d4d0eadd1e00f42ef88bb4b4560f4b9",
+      "verse": 34
+    },
+    {
+      "chapter": 5,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 18,
+          "expected": "spake",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "spoke",
+          "startOffset": 13
+        }
+      ],
+      "sourceTextSha256": "c0ec9903f8cf468f1c98c3fed74746f97543b313b33f15706f3dee93d405e6c7",
+      "verse": 35
+    },
+    {
+      "chapter": 6,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 157,
+          "expected": "shew",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "show",
+          "startOffset": 153
+        }
+      ],
+      "sourceTextSha256": "73a929c41968e78fedcf6ba2f0d025e655362d144ded93748cd092a04bb172ed",
+      "verse": 14
+    },
+    {
+      "chapter": 6,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 12,
+          "expected": "sware",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "swore",
+          "startOffset": 7
+        }
+      ],
+      "sourceTextSha256": "1d2a0fdeba2464894b4560f65e2b0506bdb72cb25ebb951b197e01081ff4eeb8",
+      "verse": 23
+    },
+    {
+      "chapter": 7,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 91,
+          "expected": "spake",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "spoke",
+          "startOffset": 86
+        }
+      ],
+      "sourceTextSha256": "111c0f28e722b5571a517788144c96b1b9ff781a9cf46c7c90f96abc24e012c3",
+      "verse": 35
+    },
+    {
+      "chapter": 8,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 12,
+          "expected": "spake",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "spoke",
+          "startOffset": 7
+        }
+      ],
+      "sourceTextSha256": "ab37a3f0e2a7b1438313ef8bab2f17f5c19436a02f92a45ebc0613b623037784",
+      "verse": 32
+    },
+    {
+      "chapter": 9,
+      "edits": [
+        {
+          "category": "archaic-knowledge-verb",
+          "endOffset": 20,
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/wist"
+            }
+          ],
+          "expected": "he wist not what",
+          "reason": "Wist is the archaic past-tense verb knew. Peter does not know what to say because of fear.",
+          "replacement": "he did not know what",
+          "startOffset": 4
+        }
+      ],
+      "sourceTextSha256": "3e35f7c4ff9eadf72660b940412771eed1b2902daf3be66c98c5d7a4207f56c9",
+      "verse": 6
+    },
+    {
+      "chapter": 9,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 120,
+          "expected": "spake",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "spoke",
+          "startOffset": 115
+        }
+      ],
+      "sourceTextSha256": "5177506e5a194cf3e51335dd750910767f1580241e93dc1eb448ffaecedce788",
+      "verse": 18
+    },
+    {
+      "chapter": 12,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 103,
+          "expected": "spake",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "spoke",
+          "startOffset": 98
+        }
+      ],
+      "sourceTextSha256": "635c1dd9dca3b359383db7f2283845614b8611e4aacf41dec98f04dd6ef376ef",
+      "verse": 26
+    },
+    {
+      "chapter": 13,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 62,
+          "expected": "shew",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "show",
+          "startOffset": 58
+        }
+      ],
+      "sourceTextSha256": "a80bae88957e64d70d88398a4a0a8df1096b432ae19e0a4d32527f80f2b56a13",
+      "verse": 22
+    },
+    {
+      "chapter": 14,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 16,
+          "expected": "shew",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "show",
+          "startOffset": 12
+        }
+      ],
+      "sourceTextSha256": "c324d28a973699492d544ff8940e81d4515359637c4c095486a87ba621309343",
+      "verse": 15
+    },
+    {
+      "chapter": 14,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 134,
+          "expected": "thrice",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "three times",
+          "startOffset": 128
+        }
+      ],
+      "sourceTextSha256": "c7fd6fac07c8704379cfa9f212f0b15a4dce7775e1d7ac28cd7ac32abd1f6c35",
+      "verse": 30
+    },
+    {
+      "chapter": 14,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 12,
+          "expected": "spake",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "spoke",
+          "startOffset": 7
+        }
+      ],
+      "sourceTextSha256": "83df7876d751af543fd1909e22abfcc641e7b42298a0dc31dfa556a972d03b46",
+      "verse": 31
+    },
+    {
+      "chapter": 14,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 45,
+          "expected": "spake",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "spoke",
+          "startOffset": 40
+        }
+      ],
+      "sourceTextSha256": "9b8afa6e9507bc50697c7edba4a00a2a5eb578a8d37f99b780454c313067a887",
+      "verse": 39
+    },
+    {
+      "chapter": 14,
+      "edits": [
+        {
+          "category": "context-reviewed-knowledge-phrase",
+          "endOffset": 101,
+          "evidence": [
+            {
+              "label": "Reviewed lexical evidence",
+              "url": "https://www.merriam-webster.com/dictionary/wist"
+            }
+          ],
+          "expected": "neither wist they what",
+          "reason": "Wist is the archaic past-tense verb knew. The disciples do not know what answer to give Jesus.",
+          "replacement": "neither did they know what",
+          "startOffset": 79
+        }
+      ],
+      "sourceTextSha256": "b3238b3c906481769a8070f873fe4232d4ace6d94c46b702877758e4cfc9f8f8",
+      "verse": 40
+    },
+    {
+      "chapter": 14,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 37,
+          "expected": "spake",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "spoke",
+          "startOffset": 32
+        }
+      ],
+      "sourceTextSha256": "db9a9c995b20b4f5012c433117a560804a2e3f8f302ad81777e55499e38af840",
+      "verse": 43
+    },
+    {
+      "chapter": 14,
+      "edits": [
+        {
+          "category": "clear-archaic-english",
+          "endOffset": 147,
+          "expected": "thrice",
+          "reason": "Exact modern wording preserves the full verse meaning and grammar.",
+          "replacement": "three times",
+          "startOffset": 141
+        }
+      ],
+      "sourceTextSha256": "594fabead8d220485d448582f7094e1e96c7bba713be67223c0315e038cfee33",
+      "verse": 72
+    }
+  ]
+}

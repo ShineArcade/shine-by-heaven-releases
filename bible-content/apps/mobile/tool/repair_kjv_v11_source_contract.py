@@ -135,7 +135,8 @@ def main():
             direction_changed = direction_changed or offset_changes > 0
             verse["edits"] = repaired
         if direction_changed:
-            write(direction_paths[code], direction, compact=True)
+            preserve_compact = direction_paths[code].read_text(encoding="utf-8").count("\n") <= 2
+            write(direction_paths[code], direction, compact=preserve_compact)
         direction_books.append(direction)
 
     package["contentVersion"] = VERSION
