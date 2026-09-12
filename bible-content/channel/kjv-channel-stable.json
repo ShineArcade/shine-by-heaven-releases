@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-kjv-reading-stable",
-    "contentVersion": 13,
+    "contentVersion": 14,
     "issuedAt": "2026-09-10T00:00:00.000Z",
     "expiresAt": "2028-09-10T00:00:00.000Z",
     "distributionScope": "public",
@@ -19,34 +19,34 @@
         "kind": "reading-filter",
         "id": "KJV-READING-2026",
         "schemaVersion": 1,
-        "contentVersion": 13,
+        "contentVersion": 14,
         "sourceVersionId": "KJV",
         "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
-        "contentSha256": "c80f0e9f463c29f713f7b42164f3ba5970a957063d7b201a00681969537fabfe",
-        "sizeBytes": 400925,
+        "contentSha256": "49e1b0d973f2b96e69b94fe8b689f66aa8ec3f7042449e5abbde35aa4f8b024a",
+        "sizeBytes": 409985,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.kjv.v13.package.json.gz",
+        "artifactPath": "reading_2026.kjv.v14.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
           "expectedBookCount": 66,
           "includedBookCount": 66,
-          "changedVerseCount": 4709,
-          "editCount": 5537
+          "changedVerseCount": 4763,
+          "editCount": 5610
         },
         "editorialPolicy": {
           "id": "kjv-minimal-comprehension-policy",
-          "version": 13,
+          "version": 14,
           "description": "Only exact, occurrence-reviewed wording that materially improves comprehension is projected. The packaged KJV remains immutable, and ambiguous or doctrinal families remain pending."
         }
       }
     ]
   },
-  "contentSha256": "bfe84a200fa25891f68c73618c690eeb42172a93196e2fde2ea1227af2d79894",
+  "contentSha256": "bddc19e0921a234ea25565b93a6f9542820f6432be1f313e56c06a43f9ed4170",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "91tcnZSzck-SSijfxpvWFxxTjDbTvBOFy3r2Y_zTsJePSgXnjqHx6HXHA65frnXcH8lDbmprg53v4glIPCX5AA"
+    "value": "u_vFx4mGfGRPEP_s636l85eM7IDADq09OFoTvpHKYHtuqf6_Ztc5nipySjankVZ4oWAcxv4yVmqNgWpkYiL1CA"
   }
 }
