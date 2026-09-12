@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-kjv-reading-stable",
-    "contentVersion": 10,
+    "contentVersion": 11,
     "issuedAt": "2026-09-10T00:00:00.000Z",
     "expiresAt": "2028-09-10T00:00:00.000Z",
     "distributionScope": "public",
@@ -19,13 +19,13 @@
         "kind": "reading-filter",
         "id": "KJV-READING-2026",
         "schemaVersion": 1,
-        "contentVersion": 10,
+        "contentVersion": 11,
         "sourceVersionId": "KJV",
         "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
-        "contentSha256": "55fdf4ba493aab372643b8fb201a64c0d60c04acd068b04be728daeab5427d98",
-        "sizeBytes": 298511,
+        "contentSha256": "0a612d327f030563083b11fc4bbc0b5cd1b08a1c3bc5ead14cf5f4a7c7247d25",
+        "sizeBytes": 298505,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.kjv.v10.package.json.gz",
+        "artifactPath": "reading_2026.kjv.v11.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
@@ -36,17 +36,17 @@
         },
         "editorialPolicy": {
           "id": "kjv-minimal-comprehension-policy",
-          "version": 10,
+          "version": 11,
           "description": "Only exact, occurrence-reviewed wording that materially improves comprehension is projected. The packaged KJV remains immutable."
         }
       }
     ]
   },
-  "contentSha256": "acb75b73848d6c352de697f600a784add81c297e3625b0c2000eaa9c1809354b",
+  "contentSha256": "5120edd10c591e7ea82e6db980b0406b05499cd4f81886e983e5a1965f9d28cd",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "td309FZNQsAROxJKDQJFggZbyvItDm65zRJXTCeuba-u0H_4zJjAulqOBoi-_X7mBX6lfxWEIeFh7sC2iP1ZBA"
+    "value": "-97r1Qd9ZNBlRH4_M5qTV-ZVIpamS3_KkdqcwC1eslUxbTxuUclqePjEJPrXl0nFX-CHN5g0elDkTQvnrVOxBw"
   }
 }
