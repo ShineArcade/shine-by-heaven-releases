@@ -49,6 +49,8 @@ for (const [bookId, changes] of changesByBook) {
   const directionPath = path.join(directionRoot, directionName)
   const direction = await readJson(directionPath)
   assert(direction.book === bookId, `direction book ${bookId}`)
+  const changesByOccurrence = Map.groupBy(changes, occurrenceKey)
+  const nextOccurrenceByKey = new Map()
 
   for (const change of changes) {
     validateChange(change)
@@ -56,10 +58,34 @@ for (const [bookId, changes] of changesByBook) {
     const verse = chapter?.verses.find((entry) => entry.verse === change.verse)
     assert(verse, `${bookId} ${change.chapter}:${change.verse}`)
     const matches = allOffsets(verse.text, change.expected)
-    assert(matches.length === 1, `${bookId} ${change.chapter}:${change.verse} expected text`)
+    const key = occurrenceKey(change)
+    const siblingChanges = changesByOccurrence.get(key)
+    assert(
+      matches.length === siblingChanges.length,
+      `${bookId} ${change.chapter}:${change.verse} expected text`,
+    )
+    if (siblingChanges.length > 1) {
+      const [first] = siblingChanges
+      assert(
+        siblingChanges.every((candidate) =>
+          candidate.replacement === first.replacement &&
+          candidate.category === first.category &&
+          candidate.reason === first.reason &&
+          JSON.stringify(candidate.evidence ?? null) === JSON.stringify(first.evidence ?? null)
+        ),
+        `${bookId} ${change.chapter}:${change.verse} repeated text requires identical reviewed changes`,
+      )
+    }
+    const occurrenceIndex = nextOccurrenceByKey.get(key) ?? 0
+    const startOffset = matches[occurrenceIndex]
+    assert(
+      Number.isSafeInteger(startOffset),
+      `${bookId} ${change.chapter}:${change.verse} occurrence index`,
+    )
+    nextOccurrenceByKey.set(key, occurrenceIndex + 1)
     const edit = {
-      startOffset: matches[0],
-      endOffset: matches[0] + change.expected.length,
+      startOffset,
+      endOffset: startOffset + change.expected.length,
       expected: change.expected,
       replacement: change.replacement,
       category: change.category,
@@ -117,10 +143,16 @@ for (const [bookId, changes] of changesByBook) {
       .sort(([left], [right]) => left.localeCompare(right))
       .map(([category, entries]) => [category, entries.length]),
   )
-  direction.ownerReview = {
-    contentVersion: changeSet.contentVersion,
-    changeSet: path.relative(contentRoot, changeSetPath).replaceAll('\\', '/'),
-    appliedEditCount: changes.length,
+  const appliedChangeSet = path.relative(contentRoot, changeSetPath).replaceAll('\\', '/')
+  if (
+    direction.ownerReview?.contentVersion !== changeSet.contentVersion ||
+    direction.ownerReview?.changeSet !== appliedChangeSet
+  ) {
+    direction.ownerReview = {
+      contentVersion: changeSet.contentVersion,
+      changeSet: appliedChangeSet,
+      appliedEditCount: changes.length,
+    }
   }
   await fs.writeFile(directionPath, `${JSON.stringify(direction)}\n`, 'utf8')
 }
@@ -146,9 +178,11 @@ const channelSourcePath = path.join(
   'bible_content_channel.v1.source.json',
 )
 const channelSource = await readJson(channelSourcePath)
-channelSource.contentVersion = changeSet.contentVersion
-channelSource.issuedAt = changeSet.issuedAt
-channelSource.expiresAt = changeSet.expiresAt
+if (channelSource.contentVersion !== changeSet.contentVersion) {
+  channelSource.contentVersion = changeSet.contentVersion
+  channelSource.issuedAt = changeSet.issuedAt
+  channelSource.expiresAt = changeSet.expiresAt
+}
 await fs.writeFile(channelSourcePath, `${JSON.stringify(channelSource, null, 2)}\n`, 'utf8')
 
 console.log(JSON.stringify({
@@ -223,6 +257,10 @@ function allOffsets(text, expected) {
     cursor = offset + expected.length
   }
   return offsets
+}
+
+function occurrenceKey(change) {
+  return `${change.chapter}:${change.verse}\u0000${change.expected}`
 }
 
 function sha256(value) {
