@@ -4,7 +4,7 @@
   "sourceVersionId": "KJV",
   "book": "JOS",
   "sourceContentSha256": "25bf2ec8861ac80a8330ff5cd14d8be87e01cf844b729279fe7c7c460834d993",
-  "editorialStatus": "approved-minimal-comprehension-v3",
+  "editorialStatus": "approved-joshua-complete-context-v8",
   "normalizationId": "shine-kjv-visible-text-v1",
   "verses": [
     {
@@ -19,6 +19,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "sourceTextSha256": "55a3c859581f7af51371d6151fe16bcc624c261c8254f71ee3faae88858bf670",
+      "edits": [
+        {
+          "startOffset": 186,
+          "endOffset": 191,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A4&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -39,6 +60,62 @@
     },
     {
       "chapter": 1,
+      "verse": 8,
+      "sourceTextSha256": "2a986a0a655fb291c3a719c5d3b1c7eb18b197bdbc953623e5bc2eee38bd4493",
+      "edits": [
+        {
+          "startOffset": 80,
+          "endOffset": 87,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A8&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 167,
+          "endOffset": 174,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "sourceTextSha256": "05acf7bff53b55e1b05ab0f8e060b7d30527cd3bb2b4b83d4d2d8bef2594a2d2",
+      "edits": [
+        {
+          "startOffset": 67,
+          "endOffset": 75,
+          "expected": "victuals",
+          "replacement": "provisions",
+          "category": "archaic-food-term",
+          "reason": "Victuals means provisions for a journey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
       "verse": 12,
       "sourceTextSha256": "3da69eb0889ae36a7f8388a8fdac47344936b355ae3a8a6d35001725d0bddc51",
       "edits": [
@@ -49,6 +126,48 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "sourceTextSha256": "58a4bd20c269d60a5eec2e304dd16a114bfce1f6a5be7a3478a625cd2a90805f",
+      "edits": [
+        {
+          "startOffset": 143,
+          "endOffset": 149,
+          "expected": "harlot",
+          "replacement": "prostitute",
+          "category": "archaic-person-term",
+          "reason": "Harlot is the historical term used for Rahab's occupation.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A1&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "sourceTextSha256": "752df3d50834e049b10740210654d637dd5c541be072e6dea06f35e2ad86a413",
+      "edits": [
+        {
+          "startOffset": 71,
+          "endOffset": 77,
+          "expected": "hither",
+          "replacement": "here",
+          "category": "archaic-location",
+          "reason": "Hither means to this place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A2&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -78,6 +197,20 @@
       "verse": 5,
       "sourceTextSha256": "42fc3d53b1381f8961bd5c83a29d2302d48f73193d2031678a949c5f32b5c4cc",
       "edits": [
+        {
+          "startOffset": 101,
+          "endOffset": 108,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither asks where someone went.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A5&version=KJV%3BNIV"
+            }
+          ]
+        },
         {
           "startOffset": 122,
           "endOffset": 131,
@@ -118,6 +251,69 @@
       ]
     },
     {
+      "chapter": 2,
+      "verse": 15,
+      "sourceTextSha256": "86efb3cc0fb4d0ff3a22cea31af246041ac5a7a7018668922452d10fdfb2dd47",
+      "edits": [
+        {
+          "startOffset": 99,
+          "endOffset": 104,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A15&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "sourceTextSha256": "19a979a951d3a2bbfb926856d85396966559ebae2ee1c0c26a369b7669c25332",
+      "edits": [
+        {
+          "startOffset": 47,
+          "endOffset": 52,
+          "expected": "abode",
+          "replacement": "stayed",
+          "category": "archaic-residence-verb",
+          "reason": "Abode means stayed.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A22&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "sourceTextSha256": "3ff6df1078f71c147545427684474e79d314ffbb41fedec49cff075353ad4d75",
+      "edits": [
+        {
+          "startOffset": 58,
+          "endOffset": 67,
+          "expected": "to morrow",
+          "replacement": "tomorrow",
+          "category": "archaic-time-phrase",
+          "reason": "The two-word historical spelling is modernized.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+3%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 3,
       "verse": 6,
       "sourceTextSha256": "cf1fae6090dff853fa70c1225309d62de6ae4c91db8e4a33d5b4d67459376b08",
@@ -129,6 +325,48 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "sourceTextSha256": "b16fb7c25a16ff3e6ca65b567ba96b2fa3977331929b278c53c28fb6cb1cccdb",
+      "edits": [
+        {
+          "startOffset": 52,
+          "endOffset": 58,
+          "expected": "hither",
+          "replacement": "here",
+          "category": "archaic-location",
+          "reason": "Hither means to this place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+3%3A9&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "sourceTextSha256": "15c8e074d139ff794ad6d792e97aa6216204ad00cd7b657845d81ef95633763c",
+      "edits": [
+        {
+          "startOffset": 94,
+          "endOffset": 99,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+3%3A17&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -149,9 +387,79 @@
     },
     {
       "chapter": 4,
+      "verse": 3,
+      "sourceTextSha256": "84e104f13af7e14a03eef2b511faa8f1a408261e335e4070b12f6f31af4913fc",
+      "edits": [
+        {
+          "startOffset": 38,
+          "endOffset": 43,
+          "expected": "hence",
+          "replacement": "here",
+          "category": "archaic-location",
+          "reason": "Hence means from here in this departure phrase.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+4%3A3&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 55,
+          "endOffset": 60,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+4%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "sourceTextSha256": "64e99880512eb6b82dda97a154f0d3f77c446c49af0c5ba40db05750501c92e4",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 87,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+4%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
       "verse": 8,
       "sourceTextSha256": "d8b786ffa6dd7f0467bbae0e75174eba533d81e0e24f3e68cfff07cc25b1cee9",
       "edits": [
+        {
+          "startOffset": 92,
+          "endOffset": 97,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+4%3A8&version=KJV%3BNIV"
+            }
+          ]
+        },
         {
           "startOffset": 121,
           "endOffset": 126,
@@ -159,6 +467,48 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "sourceTextSha256": "2f2adf0ee70baf49017dbfe1cff5ea6412b4992adc628d8f3e8085773f1832ab",
+      "edits": [
+        {
+          "startOffset": 39,
+          "endOffset": 44,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+4%3A9&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "sourceTextSha256": "1b0d3e9857d695ee2cb7342004246d517d655f3bb787cd5cfed91139750a3745",
+      "edits": [
+        {
+          "startOffset": 50,
+          "endOffset": 55,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+4%3A10&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -189,6 +539,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "sourceTextSha256": "e5d92e6393193910b182dde0bb3a7be6b72dbe7d22516eb694e04cf4570572c4",
+      "edits": [
+        {
+          "startOffset": 108,
+          "endOffset": 113,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+4%3A18&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -239,10 +610,360 @@
       ]
     },
     {
+      "chapter": 5,
+      "verse": 8,
+      "sourceTextSha256": "0126958f2326624b9ee10fe24d5eea211682785a60babca40289c994b0cdb800",
+      "edits": [
+        {
+          "startOffset": 79,
+          "endOffset": 84,
+          "expected": "abode",
+          "replacement": "stayed",
+          "category": "archaic-residence-verb",
+          "reason": "Abode means stayed.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "sourceTextSha256": "faacc5980ba49d4d148804f9820c165d9e91f1d647b9ba0f8dd9d381c1b535ac",
+      "edits": [
+        {
+          "startOffset": 63,
+          "endOffset": 71,
+          "expected": "reproach",
+          "replacement": "disgrace",
+          "category": "archaic-noun",
+          "reason": "Reproach means disgrace in the declaration about Egypt.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A9&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 95,
+          "endOffset": 113,
+          "expected": "Wherefore the name",
+          "replacement": "Therefore the name",
+          "category": "archaic-connector",
+          "reason": "Wherefore introduces the resulting place name.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A9&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "sourceTextSha256": "6d905674578ce0208d10b7c322becfdf12f897a98c7ef14e9e5bc9e7ab1be8fb",
+      "edits": [
+        {
+          "startOffset": 24,
+          "endOffset": 32,
+          "expected": "old corn",
+          "replacement": "old grain",
+          "category": "false-friend-food-term",
+          "reason": "Corn denotes grain rather than modern maize.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A11&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 45,
+          "endOffset": 58,
+          "expected": "on the morrow",
+          "replacement": "the next day",
+          "category": "archaic-time-phrase",
+          "reason": "On the morrow means the next day.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A11&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 101,
+          "endOffset": 113,
+          "expected": "parched corn",
+          "replacement": "parched grain",
+          "category": "false-friend-food-term",
+          "reason": "Corn denotes grain rather than modern maize.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "sourceTextSha256": "873998c52d51d493898080c11e1c6a4d71804479ddf4b9ccdb744902f872d48f",
+      "edits": [
+        {
+          "startOffset": 23,
+          "endOffset": 36,
+          "expected": "on the morrow",
+          "replacement": "the next day",
+          "category": "archaic-time-phrase",
+          "reason": "On the morrow means the next day.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A12&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 65,
+          "endOffset": 73,
+          "expected": "old corn",
+          "replacement": "old grain",
+          "category": "false-friend-food-term",
+          "reason": "Corn denotes grain rather than modern maize.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "sourceTextSha256": "8160bcf78f0a1296e025cc4135feb44384c8a26dda501c07466d3dd5c0119907",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 94,
+          "expected": "king thereof",
+          "replacement": "its king",
+          "category": "archaic-relative",
+          "reason": "The phrase means its king.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "sourceTextSha256": "d74d8fcbd382f9c222d00f27d5afe583904948f6046c613eafad7a87069e313f",
+      "edits": [
+        {
+          "startOffset": 13,
+          "endOffset": 29,
+          "expected": "compass the city",
+          "replacement": "march around the city",
+          "category": "archaic-military-verb",
+          "reason": "Compass means march around the city.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "sourceTextSha256": "6f816edc3f06328fb0ff9124d4762db51efb783a1b426089c2a889e7cc36257e",
+      "edits": [
+        {
+          "startOffset": 104,
+          "endOffset": 120,
+          "expected": "compass the city",
+          "replacement": "march around the city",
+          "category": "archaic-military-verb",
+          "reason": "Compass means march around the city.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "sourceTextSha256": "e44d800a9032258b8fd5a120a675166a478424852e0c0dcbc69c9bfe9d809ff3",
+      "edits": [
+        {
+          "startOffset": 42,
+          "endOffset": 58,
+          "expected": "compass the city",
+          "replacement": "march around the city",
+          "category": "archaic-military-verb",
+          "reason": "Compass means march around the city.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "sourceTextSha256": "19d69e3b49a501200b0799f1e436f989ef489c0696e6418f9dddcbc4d350e076",
+      "edits": [
+        {
+          "startOffset": 81,
+          "endOffset": 89,
+          "expected": "rereward",
+          "replacement": "rear guard",
+          "category": "obsolete-military-term",
+          "reason": "Rereward means the rear guard of the procession.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A9&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "sourceTextSha256": "1e30450458d14181658246e206dc5d5003e7693844a185c3b1d44d74efc12f01",
+      "edits": [
+        {
+          "startOffset": 176,
+          "endOffset": 184,
+          "expected": "rereward",
+          "replacement": "rear guard",
+          "category": "obsolete-military-term",
+          "reason": "Rereward means the rear guard of the procession.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "sourceTextSha256": "5bf343f84f7da71b6db958b5e57ce6ede6a608e38fc2464d591fa83a6cc355b8",
+      "edits": [
+        {
+          "startOffset": 60,
+          "endOffset": 67,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A17&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 97,
+          "endOffset": 103,
+          "expected": "harlot",
+          "replacement": "prostitute",
+          "category": "archaic-person-term",
+          "reason": "Harlot is the historical term used for Rahab's occupation.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A17&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 21,
+      "sourceTextSha256": "24a527ce4939d9d52d2ece45498c4c2e806015869163135b037aa16d40ddf7be",
+      "edits": [
+        {
+          "startOffset": 111,
+          "endOffset": 114,
+          "expected": "ass",
+          "replacement": "donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 6,
       "verse": 22,
       "sourceTextSha256": "1589ea447bf40309c64afecf491fb2184952e75c310718e4c90156567700c65d",
       "edits": [
+        {
+          "startOffset": 81,
+          "endOffset": 87,
+          "expected": "harlot",
+          "replacement": "prostitute",
+          "category": "archaic-person-term",
+          "reason": "Harlot is the historical term used for Rahab's occupation.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A22&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 101,
+          "endOffset": 127,
+          "expected": "bring out thence the woman",
+          "replacement": "bring the woman out from there",
+          "category": "archaic-location-phrase",
+          "reason": "Thence means from that house; the clause is reordered for current English.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A22&version=KJV%3BNIV"
+            }
+          ]
+        },
         {
           "startOffset": 158,
           "endOffset": 163,
@@ -250,6 +971,83 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 24,
+      "sourceTextSha256": "8cdffe60d76f53dcb156a3659d577267cebbcd110d2cea62a4898764e07efe63",
+      "edits": [
+        {
+          "startOffset": 52,
+          "endOffset": 59,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A24&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 25,
+      "sourceTextSha256": "88d91137ed273b3a45bee91dbe7d2d3616d2926a2539c9ab79ae1a781392121d",
+      "edits": [
+        {
+          "startOffset": 27,
+          "endOffset": 33,
+          "expected": "harlot",
+          "replacement": "prostitute",
+          "category": "archaic-person-term",
+          "reason": "Harlot is the historical term used for Rahab's occupation.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A25&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 26,
+      "sourceTextSha256": "aaefa2c4ea9a0f35ce771ac6a7e5ad749aded2e349a4bbe4b94e24684834a9b1",
+      "edits": [
+        {
+          "startOffset": 6,
+          "endOffset": 25,
+          "expected": "Joshua adjured them",
+          "replacement": "Joshua bound them under oath",
+          "category": "archaic-oath-verb",
+          "reason": "Adjured means to bind solemnly under oath.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A26&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 147,
+          "endOffset": 165,
+          "expected": "foundation thereof",
+          "replacement": "its foundation",
+          "category": "archaic-relative",
+          "reason": "The phrase means its foundation.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A26&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -265,6 +1063,447 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "sourceTextSha256": "c07244410afdc777b10596b07699c42e5e6fefff9699382d81c184b5c1e90475",
+      "edits": [
+        {
+          "startOffset": 176,
+          "endOffset": 183,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "sourceTextSha256": "29f7f99d662bebd18ff6ecf01e57090091e4ccdb54055c7e069d427f254e6ca6",
+      "edits": [
+        {
+          "startOffset": 17,
+          "endOffset": 24,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "sourceTextSha256": "4bc298a574a29d21120b0e9bdc0a1469bc93338c4afbf8903b9fdb8dba4cffdd",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 56,
+          "expected": "smote of them about thirty and six men",
+          "replacement": "killed about thirty-six of them",
+          "category": "archaic-battle-phrase",
+          "reason": "The clause reports approximately thirty-six Israelite deaths.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A5&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 124,
+          "endOffset": 129,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A5&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 154,
+          "endOffset": 174,
+          "expected": "wherefore the hearts",
+          "replacement": "therefore the hearts",
+          "category": "archaic-connector",
+          "reason": "Wherefore introduces the result of Israel's defeat.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "sourceTextSha256": "4d89450780588318cd10da25fdd99a08110e9910aa6e9cc11f0bb4e307b467f6",
+      "edits": [
+        {
+          "startOffset": 35,
+          "endOffset": 54,
+          "expected": "wherefore hast thou",
+          "replacement": "why hast thou",
+          "category": "archaic-question",
+          "reason": "Wherefore asks why in Joshua's lament.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A7&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 193,
+          "endOffset": 198,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "sourceTextSha256": "e6bd40666c1e69c15a5f22f1e6b240fa2b88dc81f2aa90cde232485755b6ff58",
+      "edits": [
+        {
+          "startOffset": 46,
+          "endOffset": 66,
+          "expected": "wherefore liest thou",
+          "replacement": "why liest thou",
+          "category": "archaic-question",
+          "reason": "Wherefore asks why Joshua remains on his face.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A10&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "sourceTextSha256": "cd1b85ef08779da2c3903c29755ebe2625b64e1c398020e6c6ff2beeae8038dd",
+      "edits": [
+        {
+          "startOffset": 181,
+          "endOffset": 198,
+          "expected": "except ye destroy",
+          "replacement": "unless ye destroy",
+          "category": "archaic-condition",
+          "reason": "Except means unless in this condition.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "sourceTextSha256": "17f4e0ebfde17abdef352e7e95089a25bf9b0f61710fdfc632049600a8eed76c",
+      "edits": [
+        {
+          "startOffset": 54,
+          "endOffset": 71,
+          "expected": "against to morrow",
+          "replacement": "for tomorrow",
+          "category": "archaic-time-phrase",
+          "reason": "The command prepares the people for the next day's assembly.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A13&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 146,
+          "endOffset": 151,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "sourceTextSha256": "be3bd81f78f3e1fa4368b3df84e610f264d50d0419ca33fd08325d316a7a0eb0",
+      "edits": [
+        {
+          "startOffset": 153,
+          "endOffset": 169,
+          "expected": "families thereof",
+          "replacement": "its families",
+          "category": "archaic-relative",
+          "reason": "The phrase means its families.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "sourceTextSha256": "7684e2f6ea40a448c77dc74ecaac0ce9c121ac5608e1e596762be32b94c0346b",
+      "edits": [
+        {
+          "startOffset": 189,
+          "endOffset": 212,
+          "expected": "wrought folly in Israel",
+          "replacement": "committed a disgraceful act in Israel",
+          "category": "archaic-moral-phrase",
+          "reason": "Wrought folly describes a disgraceful act against the covenant community.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A15&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "sourceTextSha256": "57759a0e00043707a67ac67ffcdd9aa01ca73226e0bd17b02c33d4bf30ec0486",
+      "edits": [
+        {
+          "startOffset": 30,
+          "endOffset": 36,
+          "expected": "goodly",
+          "replacement": "fine",
+          "category": "archaic-adjective",
+          "reason": "Goodly describes a fine Babylonian garment.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A21&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 219,
+          "endOffset": 224,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 23,
+      "sourceTextSha256": "88d050f139d3aead4f4dd9eaacd730a489cb516ddbd3982da23a0ac654d4c6a1",
+      "edits": [
+        {
+          "startOffset": 30,
+          "endOffset": 35,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A23&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 24,
+      "sourceTextSha256": "6b134eec5453237cbd5ec8b4764fe5f60a53c74b9c3707706633f017962546f2",
+      "edits": [
+        {
+          "startOffset": 177,
+          "endOffset": 182,
+          "expected": "asses",
+          "replacement": "donkeys",
+          "category": "archaic-animal-name",
+          "reason": "Asses is the historical plural for donkeys.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A24&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 26,
+      "sourceTextSha256": "7c459ab1ef129c8490be4a1fb72eaae8d19c08ab7b15d1cad92c5c373cdf6133",
+      "edits": [
+        {
+          "startOffset": 116,
+          "endOffset": 134,
+          "expected": "Wherefore the name",
+          "replacement": "Therefore the name",
+          "category": "archaic-connector",
+          "reason": "Wherefore introduces the resulting place name.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A26&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "sourceTextSha256": "a6ba2285d749bd41b122979951a128cee2e01fae2bc0803c91565bfa0de8f37d",
+      "edits": [
+        {
+          "startOffset": 87,
+          "endOffset": 100,
+          "expected": "spoil thereof",
+          "replacement": "its spoil",
+          "category": "archaic-relative",
+          "reason": "The phrase means its spoil.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A2&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 110,
+          "endOffset": 124,
+          "expected": "cattle thereof",
+          "replacement": "its cattle",
+          "category": "archaic-relative",
+          "reason": "The phrase means its cattle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "sourceTextSha256": "74151657491924ee3612202570519737f783eb970e1cf142f2fa6a285792c265",
+      "edits": [
+        {
+          "startOffset": 72,
+          "endOffset": 77,
+          "expected": "abode",
+          "replacement": "stayed",
+          "category": "archaic-residence-verb",
+          "reason": "Abode means stayed.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A9&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "sourceTextSha256": "bcf57e1be91175197a0218e4aaed59f8ff38b03e2987166ffd3b945cb8507aaf",
+      "edits": [
+        {
+          "startOffset": 81,
+          "endOffset": 85,
+          "expected": "nigh",
+          "replacement": "near",
+          "category": "archaic-location",
+          "reason": "Nigh means near.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "sourceTextSha256": "a720370d87d0cc6480f3cf8a716f45f5c90b8d6ca908f24b17876092f7dd4b79",
+      "edits": [
+        {
+          "startOffset": 168,
+          "endOffset": 173,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A13&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -290,10 +1529,276 @@
       ]
     },
     {
+      "chapter": 8,
+      "verse": 21,
+      "sourceTextSha256": "35b6f3a4458070b2daf5990ce274a33093d299ec0e53eae3cc4914df35da9b6a",
+      "edits": [
+        {
+          "startOffset": 140,
+          "endOffset": 144,
+          "expected": "slew",
+          "replacement": "killed",
+          "category": "archaic-battle-verb",
+          "reason": "Slew means killed.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 22,
+      "sourceTextSha256": "129317acf1a58fa407fc0acdf106c23dcecde6eb4f150f81a5054fb8c452f6a5",
+      "edits": [
+        {
+          "startOffset": 71,
+          "endOffset": 76,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A22&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 139,
+          "endOffset": 144,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A22&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 24,
+      "sourceTextSha256": "763761c7c9b6e868edfa32eba29e39c6f5bf1483fd96ca60c0aa383e645a5cf9",
+      "edits": [
+        {
+          "startOffset": 118,
+          "endOffset": 125,
+          "expected": "wherein",
+          "replacement": "in which",
+          "category": "archaic-relative",
+          "reason": "Wherein means in which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A24&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 272,
+          "endOffset": 277,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A24&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 26,
+      "sourceTextSha256": "7ed286f2bd424e1f9be8e5f74a541237bee8b30c3fb704f87d2edce2e8d17fc1",
+      "edits": [
+        {
+          "startOffset": 35,
+          "endOffset": 44,
+          "expected": "wherewith",
+          "replacement": "with which",
+          "category": "archaic-relative",
+          "reason": "Wherewith means with which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A26&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 29,
+      "sourceTextSha256": "e2b33a97f9ec2c8226abc9d61ee43a450cb8c333d794631267ba991ac7e6bc88",
+      "edits": [
+        {
+          "startOffset": 222,
+          "endOffset": 229,
+          "expected": "thereon",
+          "replacement": "on it",
+          "category": "archaic-relative",
+          "reason": "Thereon means on it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A29&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 31,
+      "sourceTextSha256": "31ca5edf1f4998180ae182f782c9f4f11040eeffb021d822e591b532709f26b5",
+      "edits": [
+        {
+          "startOffset": 201,
+          "endOffset": 208,
+          "expected": "thereon",
+          "replacement": "on it",
+          "category": "archaic-relative",
+          "reason": "Thereon means on it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A31&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "sourceTextSha256": "5fe696754df9cc774c2080bc590955d6b6e08a5512e3653e44148a4c1bd35953",
+      "edits": [
+        {
+          "startOffset": 110,
+          "endOffset": 144,
+          "expected": "in all the coasts of the great sea",
+          "replacement": "throughout all the regions along the great sea",
+          "category": "false-friend-geography",
+          "reason": "Coasts refers to the regions along the Mediterranean.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A1&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 257,
+          "endOffset": 270,
+          "expected": "heard thereof",
+          "replacement": "heard of it",
+          "category": "archaic-relative",
+          "reason": "The phrase means heard of it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A1&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "sourceTextSha256": "0656ed4f27d62a64ba3c4c80dc465ae0601b5b3a6f507cf863aa6a1a48476e7a",
+      "edits": [
+        {
+          "startOffset": 103,
+          "endOffset": 108,
+          "expected": "asses",
+          "replacement": "donkeys",
+          "category": "archaic-animal-name",
+          "reason": "Asses is the historical plural for donkeys.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "sourceTextSha256": "92cc1b8dc4fb25e1ae507eec44a04522538e75b29055fa6df94d23da9bf8c051",
+      "edits": [
+        {
+          "startOffset": 45,
+          "endOffset": 57,
+          "expected": "Peradventure",
+          "replacement": "Perhaps",
+          "category": "archaic-adverb",
+          "reason": "Peradventure means perhaps.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "sourceTextSha256": "6743f417d566df4f3252a6e66bf452473a75ca65c73d0643f7de154f77ff21df",
+      "edits": [
+        {
+          "startOffset": 96,
+          "endOffset": 102,
+          "expected": "whence",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whence means from where; the source clauses already contain from.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 9,
       "verse": 11,
       "sourceTextSha256": "03eb36659d7118f63b4a2941b3ed5491535b3cda97d7b5ea4d0f05ddb03c4b67",
       "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 20,
+          "expected": "Wherefore our elders",
+          "replacement": "Therefore our elders",
+          "category": "archaic-connector",
+          "reason": "Wherefore introduces the elders' response.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A11&version=KJV%3BNIV"
+            }
+          ]
+        },
         {
           "startOffset": 60,
           "endOffset": 65,
@@ -301,6 +1806,41 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 86,
+          "endOffset": 94,
+          "expected": "victuals",
+          "replacement": "provisions",
+          "category": "archaic-food-term",
+          "reason": "Victuals means provisions for a journey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "sourceTextSha256": "ceb9976f0e548576c2948e975988bdb6b3494a13b23188b76d8edc5873d1b839",
+      "edits": [
+        {
+          "startOffset": 26,
+          "endOffset": 34,
+          "expected": "victuals",
+          "replacement": "provisions",
+          "category": "archaic-food-term",
+          "reason": "Victuals means provisions for a journey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A14&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -316,6 +1856,48 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 16,
+      "sourceTextSha256": "c65bb2349d79d5888f05a1d83ae1cf8581fe6ad17ccfa5373bb4b156b572ddc1",
+      "edits": [
+        {
+          "startOffset": 150,
+          "endOffset": 155,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A16&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 18,
+      "sourceTextSha256": "888b78770885aec4bf4c42c031ef039fdcc6be7fbec0583f0b49c33e3ef6dbfa",
+      "edits": [
+        {
+          "startOffset": 27,
+          "endOffset": 41,
+          "expected": "smote them not",
+          "replacement": "did not attack them",
+          "category": "archaic-battle-verb",
+          "reason": "Israel refrained from attacking the Gibeonites because of the oath.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A18&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -346,6 +1928,153 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 62,
+          "endOffset": 91,
+          "expected": "Wherefore have ye beguiled us",
+          "replacement": "Why have ye deceived us",
+          "category": "archaic-question",
+          "reason": "Wherefore asks why, and beguiled means deceived.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A22&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 26,
+      "sourceTextSha256": "9381374d38f2261a9336b158abdee7eeed0c1baf57c554a694d3af2c7144e75a",
+      "edits": [
+        {
+          "startOffset": 97,
+          "endOffset": 101,
+          "expected": "slew",
+          "replacement": "killed",
+          "category": "archaic-battle-verb",
+          "reason": "Slew means killed.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A26&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "sourceTextSha256": "f64d6732b30e78af3e499943098f2f367f71ddb3844835f4fbcf6298f7fdb68d",
+      "edits": [
+        {
+          "startOffset": 135,
+          "endOffset": 146,
+          "expected": "men thereof",
+          "replacement": "its men",
+          "category": "archaic-relative",
+          "reason": "The phrase means its men.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "sourceTextSha256": "937e0375bb334cdbefaa7d7d85811f64f45314f9a4a6657d8c9258eee0abf34c",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 21,
+          "expected": "Wherefore Adoni-zedek",
+          "replacement": "Therefore Adoni-zedek",
+          "category": "archaic-connector",
+          "reason": "Wherefore introduces the king's response to the preceding news.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "sourceTextSha256": "831e232e4c0c7842d9f3e350e7c8715ce24297b704ec74cf5f894d7617a91a19",
+      "edits": [
+        {
+          "startOffset": 13,
+          "endOffset": 29,
+          "expected": "discomfited them",
+          "replacement": "threw them into confusion",
+          "category": "obsolete-battle-verb",
+          "reason": "Discomfited means threw the enemy into confusion before Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A10&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 49,
+          "endOffset": 53,
+          "expected": "slew",
+          "replacement": "killed",
+          "category": "archaic-battle-verb",
+          "reason": "Slew means killed.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A10&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 156,
+          "endOffset": 176,
+          "expected": "smote them to Azekah",
+          "replacement": "struck them down as far as Azekah",
+          "category": "archaic-battle-phrase",
+          "reason": "The pursuit and defeat continued as far as Azekah.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A10&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "sourceTextSha256": "91b49e3b68d3e7448e0d6ad254cf0ca4e74d1d0439002f817680d3299d1a599f",
+      "edits": [
+        {
+          "startOffset": 263,
+          "endOffset": 267,
+          "expected": "slew",
+          "replacement": "killed",
+          "category": "archaic-battle-verb",
+          "reason": "Slew means killed.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A11&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -361,6 +2090,1126 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "sourceTextSha256": "63e94ffe167f6008a0afbac28e3f67853938696f772d73cb3783cb7c847dcf42",
+      "edits": [
+        {
+          "startOffset": 179,
+          "endOffset": 184,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "sourceTextSha256": "76285a31165f0eedd2b3b971d755a0073d3e6146c11a08acfbed6e5a9b763f59",
+      "edits": [
+        {
+          "startOffset": 80,
+          "endOffset": 122,
+          "expected": "suffer them not to enter into their cities",
+          "replacement": "do not allow them to enter their cities",
+          "category": "archaic-permission-verb",
+          "reason": "Suffer means allow in this pursuit command.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 26,
+      "sourceTextSha256": "8c205cf467ebda5fb6e028a72ad387b08969ace3184e64d5a4ab322a32f3868a",
+      "edits": [
+        {
+          "startOffset": 21,
+          "endOffset": 26,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A26&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 37,
+          "endOffset": 41,
+          "expected": "slew",
+          "replacement": "killed",
+          "category": "archaic-battle-verb",
+          "reason": "Slew means killed.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A26&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 27,
+      "sourceTextSha256": "938ab1f119406e1c33cc324d2fda91c43e8337dc27223c1ecd292c4050409c53",
+      "edits": [
+        {
+          "startOffset": 152,
+          "endOffset": 159,
+          "expected": "wherein",
+          "replacement": "in which",
+          "category": "archaic-relative",
+          "reason": "Wherein means in which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A27&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 28,
+      "sourceTextSha256": "f59452abff6bbfdbcc24751e942c29dadb3a99c4bcd4ab2d6f801a1d14fd6f8f",
+      "edits": [
+        {
+          "startOffset": 41,
+          "endOffset": 46,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A28&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 86,
+          "endOffset": 98,
+          "expected": "king thereof",
+          "replacement": "its king",
+          "category": "archaic-relative",
+          "reason": "The phrase means its king.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A28&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 155,
+          "endOffset": 162,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A28&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 30,
+      "sourceTextSha256": "5776efc325bbce628a298b1c6aef624c156d38bee157181190fa3afd6ca82efd",
+      "edits": [
+        {
+          "startOffset": 40,
+          "endOffset": 52,
+          "expected": "king thereof",
+          "replacement": "its king",
+          "category": "archaic-relative",
+          "reason": "The phrase means its king.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A30&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 86,
+          "endOffset": 91,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A30&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 151,
+          "endOffset": 158,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A30&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 203,
+          "endOffset": 215,
+          "expected": "king thereof",
+          "replacement": "its king",
+          "category": "archaic-relative",
+          "reason": "The phrase means its king.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A30&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 32,
+      "sourceTextSha256": "4fe84f6659f340332670e5f072eb48e6e9522deac50bb8dbeeb2f66132fc743f",
+      "edits": [
+        {
+          "startOffset": 93,
+          "endOffset": 98,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A32&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 158,
+          "endOffset": 165,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A32&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 33,
+      "sourceTextSha256": "d4e878acb09d90acc06fe2e669a9fca01a9a9b14f4e4f0112f4bed1ee1b9e4a7",
+      "edits": [
+        {
+          "startOffset": 63,
+          "endOffset": 68,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A33&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 35,
+      "sourceTextSha256": "9caf7f991d85ef49703b79f6b43b0a1d8fc09a92900dbb37c0d3b1269b83a98e",
+      "edits": [
+        {
+          "startOffset": 34,
+          "endOffset": 39,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A35&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 99,
+          "endOffset": 106,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A35&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 37,
+      "sourceTextSha256": "23593be6320a91d956f52a9d724353a3a650a18193e68ce8f0e4b66370e476f3",
+      "edits": [
+        {
+          "startOffset": 22,
+          "endOffset": 27,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A37&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 67,
+          "endOffset": 79,
+          "expected": "king thereof",
+          "replacement": "its king",
+          "category": "archaic-relative",
+          "reason": "The phrase means its king.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A37&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 93,
+          "endOffset": 107,
+          "expected": "cities thereof",
+          "replacement": "its cities",
+          "category": "archaic-relative",
+          "reason": "The phrase means its cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A37&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 137,
+          "endOffset": 144,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A37&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 268,
+          "endOffset": 275,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A37&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 39,
+      "sourceTextSha256": "bdede43befd2e24ef5b26780af53f7310701c7927ec0be5c1bad376c7aa89d21",
+      "edits": [
+        {
+          "startOffset": 24,
+          "endOffset": 36,
+          "expected": "king thereof",
+          "replacement": "its king",
+          "category": "archaic-relative",
+          "reason": "The phrase means its king.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A39&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 50,
+          "endOffset": 64,
+          "expected": "cities thereof",
+          "replacement": "its cities",
+          "category": "archaic-relative",
+          "reason": "The phrase means its cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A39&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 75,
+          "endOffset": 80,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A39&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 160,
+          "endOffset": 167,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A39&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 250,
+          "endOffset": 262,
+          "expected": "king thereof",
+          "replacement": "its king",
+          "category": "archaic-relative",
+          "reason": "The phrase means its king.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A39&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 40,
+      "sourceTextSha256": "8b15eb8e7e79edb35636cc2080dd87ec1e634c767f7af3ee092961e5d392380b",
+      "edits": [
+        {
+          "startOffset": 5,
+          "endOffset": 33,
+          "expected": "Joshua smote all the country",
+          "replacement": "Joshua conquered all the country",
+          "category": "archaic-battle-verb",
+          "reason": "Smote describes Joshua's conquest of the region.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A40&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 41,
+      "sourceTextSha256": "b4b8d3e109d5fa5e4bc7c4f2523a9b2995794c03b1b188ebf5ce1b94e594434b",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 40,
+          "expected": "Joshua smote them from Kadesh-barnea",
+          "replacement": "Joshua defeated them from Kadesh-barnea",
+          "category": "archaic-battle-verb",
+          "reason": "Smote describes military defeat across the named region.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A41&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "sourceTextSha256": "dbdcf932bb3297638b3f831093c638a9746301d39c32e1f87adb0b47afc74f08",
+      "edits": [
+        {
+          "startOffset": 68,
+          "endOffset": 93,
+          "expected": "to morrow about this time",
+          "replacement": "tomorrow about this time",
+          "category": "archaic-time-phrase",
+          "reason": "The two-word historical spelling is modernized.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A6&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "sourceTextSha256": "553708d7497e793869fc7922de89fd89ce47844ef83896de8ec6177ebdddb8b9",
+      "edits": [
+        {
+          "startOffset": 57,
+          "endOffset": 62,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A8&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 178,
+          "endOffset": 183,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "sourceTextSha256": "794e16e559e5815cc3b3a7c19a5a5e2b0ce10309fd3ad794c934bacb37c357d8",
+      "edits": [
+        {
+          "startOffset": 37,
+          "endOffset": 41,
+          "expected": "bade",
+          "replacement": "commanded",
+          "category": "archaic-verb",
+          "reason": "Bade means commanded in Joshua's obedience to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A9&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "sourceTextSha256": "1e71b2666743a09186f3420796adb25e0de45b284f99fc0ac23537261e5474c6",
+      "edits": [
+        {
+          "startOffset": 59,
+          "endOffset": 64,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A10&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 69,
+          "endOffset": 81,
+          "expected": "king thereof",
+          "replacement": "its king",
+          "category": "archaic-relative",
+          "reason": "The phrase means its king.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A10&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 108,
+          "endOffset": 118,
+          "expected": "beforetime",
+          "replacement": "formerly",
+          "category": "archaic-time",
+          "reason": "Beforetime means formerly.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A10&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "sourceTextSha256": "27e747be494608f2d565fa2500521969ebe2d2eadf4bfe1ed5028998fcc52a9b",
+      "edits": [
+        {
+          "startOffset": 9,
+          "endOffset": 14,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A11&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 39,
+          "endOffset": 46,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "sourceTextSha256": "dccde0b8ad5dc1cb06659183fff1986b121990cb9534d119e807a80fcdf6acb2",
+      "edits": [
+        {
+          "startOffset": 83,
+          "endOffset": 88,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 13,
+      "sourceTextSha256": "1d20e2bbb124f19fd0c859659e43190ee6d2e9c08ee366b2877ee9200f9baf3c",
+      "edits": [
+        {
+          "startOffset": 86,
+          "endOffset": 101,
+          "expected": "save Hazor only",
+          "replacement": "except Hazor only",
+          "category": "archaic-exception",
+          "reason": "Save means except in this comparison of cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 14,
+      "sourceTextSha256": "994ac2a68a6a8b2d1c86ce54dcb5032bf8dc562f4c6134fad648f6c87c424eda",
+      "edits": [
+        {
+          "startOffset": 126,
+          "endOffset": 131,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 17,
+      "sourceTextSha256": "11084503f212e077446ba10e2cceeb4c14eaca224aca8602518e408ccb9b9c29",
+      "edits": [
+        {
+          "startOffset": 147,
+          "endOffset": 152,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A17&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 163,
+          "endOffset": 167,
+          "expected": "slew",
+          "replacement": "killed",
+          "category": "archaic-battle-verb",
+          "reason": "Slew means killed.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A17&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 19,
+      "sourceTextSha256": "ae65553ce5b3bdc7f36f17593cd4d34c95f0e9be3244eb2a5eb5a7e99a602ce5",
+      "edits": [
+        {
+          "startOffset": 66,
+          "endOffset": 82,
+          "expected": "save the Hivites",
+          "replacement": "except the Hivites",
+          "category": "archaic-exception",
+          "reason": "Save means except in this statement about peace.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "sourceTextSha256": "2959fe9796115eb1ed454de414f319bece6cfe66d007b8f3c8390ce45aa4ddff",
+      "edits": [
+        {
+          "startOffset": 37,
+          "endOffset": 71,
+          "expected": "which the children of Israel smote",
+          "replacement": "whom the children of Israel defeated",
+          "category": "archaic-battle-verb",
+          "reason": "Smote describes the defeat of the kings.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A1&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "sourceTextSha256": "ea10949e1eddac7eb8e15789b2bce743fba8a6fe2b2f6b180cdd3b2616d78f98",
+      "edits": [
+        {
+          "startOffset": 32,
+          "endOffset": 37,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "sourceTextSha256": "893b433e70895fa18687443eb032d3ff25df00881f954cb3a33777f41527a200",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 15,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A4&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 83,
+          "endOffset": 88,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "sourceTextSha256": "5be2434e3785a278c0e61dbb10445b41a5500ec8909deef594a76ea549841062",
+      "edits": [
+        {
+          "startOffset": 41,
+          "endOffset": 86,
+          "expected": "which Joshua and the children of Israel smote",
+          "replacement": "whom Joshua and the children of Israel defeated",
+          "category": "archaic-battle-verb",
+          "reason": "Smote describes the defeat of the kings.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 23,
+      "sourceTextSha256": "d7b12c56cd73c144d197cb0a701342ab64d7a72b272872cb3c6ff5a101d387a1",
+      "edits": [
+        {
+          "startOffset": 23,
+          "endOffset": 28,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A23&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 9,
+      "sourceTextSha256": "c95993ddb05c680cf27d1b5da329897b0892c2b3288562ac4a370fd2afcdd35e",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 87,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A9&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 16,
+      "sourceTextSha256": "471e89cf6b537804a1ee9f7d2d1e6ae9410ca28af45e8bd7d9bec2684e225ac2",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 15,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A16&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 100,
+          "endOffset": 105,
+          "expected": "midst",
+          "replacement": "middle",
+          "category": "archaic-location",
+          "reason": "Midst means middle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A16&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 21,
+      "sourceTextSha256": "11bc0accb0e282e5fcf5d80b73ef10bdd3d58f21da69b0516108d761cfca0220",
+      "edits": [
+        {
+          "startOffset": 110,
+          "endOffset": 126,
+          "expected": "whom Moses smote",
+          "replacement": "whom Moses defeated",
+          "category": "archaic-battle-verb",
+          "reason": "Smote describes Moses' defeat of Sihon and the Midianite leaders.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 23,
+      "sourceTextSha256": "2d8984eb84e22fa5ac6063d3dbef8d10ae6adb364e93a50583a20556954b54b5",
+      "edits": [
+        {
+          "startOffset": 61,
+          "endOffset": 75,
+          "expected": "border thereof",
+          "replacement": "its border",
+          "category": "archaic-relative",
+          "reason": "The phrase means its border.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A23&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 169,
+          "endOffset": 185,
+          "expected": "villages thereof",
+          "replacement": "its villages",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the villages belonging to that territory.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A23&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 25,
+      "sourceTextSha256": "f6c5f4b3b67d38c437f779b8de69e3835128f81338cc5143b33db286c8017bbd",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 15,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A25&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 30,
+      "sourceTextSha256": "c4c4bb9f547dc0431a245d2b8d09a8c68d74aa883170b328e6d2f06490d6f195",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 15,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A30&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 133,
+          "endOffset": 150,
+          "expected": "threescore cities",
+          "replacement": "sixty cities",
+          "category": "archaic-number",
+          "reason": "Threescore equals sixty.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A30&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 4,
+      "sourceTextSha256": "17e899c13f655e0e86768fc4cb5703c346a6f3a186c6a42871ac1e43db6213a1",
+      "edits": [
+        {
+          "startOffset": 124,
+          "endOffset": 147,
+          "expected": "save cities to dwell in",
+          "replacement": "except cities to live in",
+          "category": "archaic-exception",
+          "reason": "Save means except, and dwell means live in this allocation.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A4&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 160,
+          "endOffset": 167,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "sourceTextSha256": "bbd2d28e774c72b31a9214e876d71510a2f246b6df22e4ca659787581a333678",
+      "edits": [
+        {
+          "startOffset": 84,
+          "endOffset": 104,
+          "expected": "to espy out the land",
+          "replacement": "to explore the land",
+          "category": "archaic-exploration-verb",
+          "reason": "Espy out means explore in the mission from Kadesh-barnea.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A7&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -391,6 +3240,20 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 218,
+          "endOffset": 246,
+          "expected": "fourscore and five years old",
+          "replacement": "eighty-five years old",
+          "category": "archaic-number",
+          "reason": "Fourscore and five equals eighty-five.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A10&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -410,6 +3273,503 @@
       ]
     },
     {
+      "chapter": 15,
+      "verse": 1,
+      "sourceTextSha256": "8e9f8fab4ac8b6a171af21cdc736f9bd132fdfe3a4eae400bd98f92b50d0aec3",
+      "edits": [
+        {
+          "startOffset": 146,
+          "endOffset": 155,
+          "expected": "uttermost",
+          "replacement": "farthest",
+          "category": "archaic-geographic-term",
+          "reason": "Uttermost means farthest or outermost in the boundary description.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A1&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 174,
+          "endOffset": 179,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A1&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 3,
+      "sourceTextSha256": "13d4204100baf4d19629075b4860d2bf9750b2682a283a727c5af1285c537ad8",
+      "edits": [
+        {
+          "startOffset": 186,
+          "endOffset": 213,
+          "expected": "fetched a compass to Karkaa",
+          "replacement": "turned toward Karkaa",
+          "category": "archaic-geographic-phrase",
+          "reason": "Fetched a compass describes the boundary turning toward Karkaa.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 4,
+      "sourceTextSha256": "5e7a4d139c7ca75852810de7468fc6e67e4923268bb5c40f0514b5224cf9ce28",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 11,
+          "expected": "From thence",
+          "replacement": "From there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A4&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 101,
+          "endOffset": 106,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A4&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 149,
+          "endOffset": 154,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 5,
+      "sourceTextSha256": "73a8e661651e87502f547025f2c92d35f1e28c189494e942ffc663cd853db471",
+      "edits": [
+        {
+          "startOffset": 140,
+          "endOffset": 149,
+          "expected": "uttermost",
+          "replacement": "farthest",
+          "category": "archaic-geographic-term",
+          "reason": "Uttermost means farthest or outermost in the boundary description.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 7,
+      "sourceTextSha256": "5a01ee90e86690ec60bfe08c5b82a0ca625449f19644f018474f9d4b9c248820",
+      "edits": [
+        {
+          "startOffset": 247,
+          "endOffset": 265,
+          "expected": "goings out thereof",
+          "replacement": "its outgoings",
+          "category": "archaic-relative",
+          "reason": "The phrase identifies where that border ends.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 12,
+      "sourceTextSha256": "85239fc0b490e7ae256200a07312a12457632ad74110b35b607eae2cf5c513b0",
+      "edits": [
+        {
+          "startOffset": 50,
+          "endOffset": 55,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A12&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 56,
+          "endOffset": 63,
+          "expected": "thereof",
+          "replacement": "of it",
+          "category": "archaic-relative",
+          "reason": "Thereof means of it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A12&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 77,
+          "endOffset": 82,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 14,
+      "sourceTextSha256": "c3277c79ad40605b4bd44d5a004d0bcc4ce8afecac8868155f521d225e422087",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 22,
+          "expected": "drove thence",
+          "replacement": "drove from there",
+          "category": "archaic-location",
+          "reason": "Thence means from that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 15,
+      "sourceTextSha256": "f2c3342fb7986050c39b0bd5fc46313ddfdd2a3c29b99eb7dd7a56aea56ddfd3",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 21,
+          "expected": "went up thence",
+          "replacement": "went up from there",
+          "category": "archaic-location",
+          "reason": "Thence means from that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A15&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 18,
+      "sourceTextSha256": "ef673df73ad57eaa8f902ac495c487aa12a8d96a539477b1eb530494d6b48f14",
+      "edits": [
+        {
+          "startOffset": 116,
+          "endOffset": 119,
+          "expected": "ass",
+          "replacement": "donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A18&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 19,
+      "sourceTextSha256": "6cee337eca332ad6c0200c48a497cd4bc85bd5f2835f91c30bcd1b4fc016db1a",
+      "edits": [
+        {
+          "startOffset": 145,
+          "endOffset": 151,
+          "expected": "nether",
+          "replacement": "lower",
+          "category": "archaic-geographic-term",
+          "reason": "Nether means lower in these place descriptions.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 21,
+      "sourceTextSha256": "e2ad527282ef4cc184e17e0e51274557cb9ffba875ac35d09e17eb4ee284dccc",
+      "edits": [
+        {
+          "startOffset": 8,
+          "endOffset": 17,
+          "expected": "uttermost",
+          "replacement": "farthest",
+          "category": "archaic-geographic-term",
+          "reason": "Uttermost means farthest or outermost in the boundary description.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A21&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 74,
+          "endOffset": 79,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 47,
+      "sourceTextSha256": "0fce9e407a5079b53d2ef995abefad279f9001533e8b89f7aa709213d9fccddc",
+      "edits": [
+        {
+          "startOffset": 130,
+          "endOffset": 144,
+          "expected": "border thereof",
+          "replacement": "its border",
+          "category": "archaic-relative",
+          "reason": "The phrase means its border.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A47&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 3,
+      "sourceTextSha256": "de4cd17b831a335e941c2a793834ce0d9305152adf76da94d968eb6596f32ce7",
+      "edits": [
+        {
+          "startOffset": 31,
+          "endOffset": 36,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A3&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 59,
+          "endOffset": 64,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A3&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 83,
+          "endOffset": 89,
+          "expected": "nether",
+          "replacement": "lower",
+          "category": "archaic-geographic-term",
+          "reason": "Nether means lower in these place descriptions.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A3&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 113,
+          "endOffset": 131,
+          "expected": "goings out thereof",
+          "replacement": "its outgoings",
+          "category": "archaic-relative",
+          "reason": "The phrase identifies where that border ends.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 8,
+      "sourceTextSha256": "e4b841b94fc2ecdd81cc3488ddf2eb672bb57d051d82c87cb16935bffaa21ee3",
+      "edits": [
+        {
+          "startOffset": 72,
+          "endOffset": 90,
+          "expected": "goings out thereof",
+          "replacement": "its outgoings",
+          "category": "archaic-relative",
+          "reason": "The phrase identifies where that border ends.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 10,
+      "sourceTextSha256": "e4c6bbf0a8916899dedbe1de70a84fa401855835d597803037a4e07a383ee0c4",
+      "edits": [
+        {
+          "startOffset": 43,
+          "endOffset": 48,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A10&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 7,
+      "sourceTextSha256": "0203a341723ed45e6182a7951aeed61934a1dbc3f6a75f24147a144a143fd415",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 15,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 9,
+      "sourceTextSha256": "2468b8e794b1006153fd75b3750991efad380544a559e5c7affe9a7ac34361d3",
+      "edits": [
+        {
+          "startOffset": 8,
+          "endOffset": 13,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A9&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 132,
+          "endOffset": 137,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A9&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 17,
       "verse": 14,
       "sourceTextSha256": "cb8ea00adbb500b909c462431f2a6945d59f8659584732f5d3b5bb7d69bd9baf",
@@ -421,6 +3781,20 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 183,
+          "endOffset": 191,
+          "expected": "hitherto",
+          "replacement": "until now",
+          "category": "archaic-time",
+          "reason": "Hitherto means until now.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A14&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -436,6 +3810,552 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 5,
+      "sourceTextSha256": "42356bcd9caeb3ac25760d88489a3deeef1ac390c461d2ccd499f2467997a7ca",
+      "edits": [
+        {
+          "startOffset": 43,
+          "endOffset": 154,
+          "expected": "Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north",
+          "replacement": "Judah shall remain in their territory on the south, and the house of Joseph shall remain in their territory on the north",
+          "category": "false-friend-geography",
+          "reason": "Coast means tribal territory in this allocation, and abide means remain.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 6,
+      "sourceTextSha256": "3860526f5f1cdba3d1ca10b20403f018a6e4a5ab07459000a3b8febe07016088",
+      "edits": [
+        {
+          "startOffset": 81,
+          "endOffset": 87,
+          "expected": "hither",
+          "replacement": "here",
+          "category": "archaic-location",
+          "reason": "Hither means to this place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A6&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 11,
+      "sourceTextSha256": "fb8f5b8a5323a6c9f6782d217131396e2fac1012fa2b799aba2103ee9e3d4ea9",
+      "edits": [
+        {
+          "startOffset": 100,
+          "endOffset": 105,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 12,
+      "sourceTextSha256": "8fd6faa762f4f4e57378f4f5ad8ac45ea2c1a2921f67bdbc870930fb596138e2",
+      "edits": [
+        {
+          "startOffset": 169,
+          "endOffset": 187,
+          "expected": "goings out thereof",
+          "replacement": "its outgoings",
+          "category": "archaic-relative",
+          "reason": "The phrase identifies where that border ends.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 13,
+      "sourceTextSha256": "c85e42475ea9af8d723b8ee26913f7798c31ba0cf7b93c17aa72592d7446d7dc",
+      "edits": [
+        {
+          "startOffset": 25,
+          "endOffset": 36,
+          "expected": "from thence",
+          "replacement": "from there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A13&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 190,
+          "endOffset": 196,
+          "expected": "nether",
+          "replacement": "lower",
+          "category": "archaic-geographic-term",
+          "reason": "Nether means lower in these place descriptions.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 14,
+      "sourceTextSha256": "49e9cfada4a68cefaf932dba1970d436cc01841bc7e02d451084a2ffe896d9e7",
+      "edits": [
+        {
+          "startOffset": 19,
+          "endOffset": 31,
+          "expected": "drawn thence",
+          "replacement": "drawn from there",
+          "category": "archaic-location",
+          "reason": "Thence means from that point.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A14&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 142,
+          "endOffset": 160,
+          "expected": "goings out thereof",
+          "replacement": "its outgoings",
+          "category": "archaic-relative",
+          "reason": "The phrase identifies where that border ends.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 19,
+      "sourceTextSha256": "8767e84814da3f025ff4d66286998e98832ac65c0907516477d781d8184ef33b",
+      "edits": [
+        {
+          "startOffset": 183,
+          "endOffset": 188,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 20,
+      "sourceTextSha256": "9180a6c5263a8c73e40ccb94ee61b16db4ffcffb028482319b0558d080a9aa2d",
+      "edits": [
+        {
+          "startOffset": 111,
+          "endOffset": 117,
+          "expected": "coasts",
+          "replacement": "borders",
+          "category": "false-friend-geography",
+          "reason": "Coasts denotes territorial borders or regions in Joshua.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A20&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 118,
+          "endOffset": 125,
+          "expected": "thereof",
+          "replacement": "of it",
+          "category": "archaic-relative",
+          "reason": "Thereof means of it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A20&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 13,
+      "sourceTextSha256": "b56d7820b0f4ead0fa92305c8d301717f0886aa9209482ae2dbfbb8ad6a6622d",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 15,
+          "expected": "from thence",
+          "replacement": "from there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 14,
+      "sourceTextSha256": "cb4c8cd7d31d03bbaf918abc614572a25f67edd744686a821f62ee86aa43c0d3",
+      "edits": [
+        {
+          "startOffset": 69,
+          "endOffset": 86,
+          "expected": "outgoings thereof",
+          "replacement": "its outgoings",
+          "category": "archaic-relative",
+          "reason": "The phrase identifies where that border ends.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 22,
+      "sourceTextSha256": "8727a9416ead36e97e16ba7d9186b582dd6c6922a95340e83b4f50d6aa2dd43b",
+      "edits": [
+        {
+          "startOffset": 8,
+          "endOffset": 13,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A22&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 29,
+      "sourceTextSha256": "7639c1c37123785005278baae2d26a89e78d28cff80c33d03dc9a07abf99d493",
+      "edits": [
+        {
+          "startOffset": 13,
+          "endOffset": 18,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A29&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 74,
+          "endOffset": 79,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A29&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 106,
+          "endOffset": 123,
+          "expected": "outgoings thereof",
+          "replacement": "its outgoings",
+          "category": "archaic-relative",
+          "reason": "The phrase identifies where that border ends.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A29&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 148,
+          "endOffset": 153,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A29&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 33,
+      "sourceTextSha256": "a47f98928e4db5bd4aae29c9581836ffad1bd9c5b455bf807270aae97ec47341",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 15,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A33&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 109,
+          "endOffset": 126,
+          "expected": "outgoings thereof",
+          "replacement": "its outgoings",
+          "category": "archaic-relative",
+          "reason": "The phrase identifies where that border ends.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A33&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 34,
+      "sourceTextSha256": "3ede141f89824f1336895603bf241738f4f7e9e6dcd9c24d0ac8cf857cd4b2ea",
+      "edits": [
+        {
+          "startOffset": 13,
+          "endOffset": 18,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A34&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 67,
+          "endOffset": 78,
+          "expected": "from thence",
+          "replacement": "from there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A34&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 41,
+      "sourceTextSha256": "9ec0094f9380359c76ea3bd3e6973fef621e08a547a4a7c4575e458bdb029bde",
+      "edits": [
+        {
+          "startOffset": 8,
+          "endOffset": 13,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A41&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 47,
+      "sourceTextSha256": "2ae08988652cd40120219199c0667b518613a39517eb935b2ee719e7d3981d07",
+      "edits": [
+        {
+          "startOffset": 8,
+          "endOffset": 13,
+          "expected": "coast",
+          "replacement": "border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A47&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 147,
+          "endOffset": 152,
+          "expected": "smote",
+          "replacement": "struck",
+          "category": "archaic-battle-verb",
+          "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A47&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 206,
+          "endOffset": 211,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A47&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 212,
+          "endOffset": 219,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A47&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 49,
+      "sourceTextSha256": "b3d2e0279d4a099962ad7d1293e8c2abb7b2748bd40956aed15c809e36553398",
+      "edits": [
+        {
+          "startOffset": 74,
+          "endOffset": 80,
+          "expected": "coasts",
+          "replacement": "borders",
+          "category": "false-friend-geography",
+          "reason": "Coasts denotes territorial borders or regions in Joshua.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A49&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 50,
+      "sourceTextSha256": "2a9df5b1d36af7bdddf899b47a8cec21e1ae40dd0b14a4bdb9e87e0144be36dc",
+      "edits": [
+        {
+          "startOffset": 137,
+          "endOffset": 142,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A50&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 143,
+          "endOffset": 150,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A50&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -470,6 +4390,118 @@
       ]
     },
     {
+      "chapter": 20,
+      "verse": 3,
+      "sourceTextSha256": "38fffa8dff8dfea514e3fbce474be1d1a075d3cdca28d6653fb00c4826b1aea5",
+      "edits": [
+        {
+          "startOffset": 53,
+          "endOffset": 64,
+          "expected": "unwittingly",
+          "replacement": "unintentionally",
+          "category": "archaic-legal-adverb",
+          "reason": "Unwittingly means without intent in the refuge-city law.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+20%3A3&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 74,
+          "endOffset": 81,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+20%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 5,
+      "sourceTextSha256": "0c5ea8f021ca365b3c0b3836df697f32589d1043c3ac0b48cca23a318ae7f5dd",
+      "edits": [
+        {
+          "startOffset": 111,
+          "endOffset": 145,
+          "expected": "he smote his neighbour unwittingly",
+          "replacement": "he killed his neighbour unintentionally",
+          "category": "archaic-legal-phrase",
+          "reason": "The refuge law concerns an unintentional killing.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+20%3A5&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 165,
+          "endOffset": 175,
+          "expected": "beforetime",
+          "replacement": "formerly",
+          "category": "archaic-time",
+          "reason": "Beforetime means formerly.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+20%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 6,
+      "sourceTextSha256": "a25d7fa02895e7ac4faf3cc0c6647bcea6d1aaa619b17ad7c0a0a3d8d044d626",
+      "edits": [
+        {
+          "startOffset": 255,
+          "endOffset": 261,
+          "expected": "whence",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whence means from where; the source clauses already contain from.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+20%3A6&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 9,
+      "sourceTextSha256": "f0977f7e52651232b4ff81c452358191f05e66a35b4d8a1510df9fd6f01f1a7e",
+      "edits": [
+        {
+          "startOffset": 170,
+          "endOffset": 177,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+20%3A9&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 21,
       "verse": 2,
       "sourceTextSha256": "188a592397532fa5b7d34189fbd282949b5a2d04cd4a9fdae4a66e2507675c3c",
@@ -481,6 +4513,1042 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 146,
+          "endOffset": 161,
+          "expected": "suburbs thereof",
+          "replacement": "its pasturelands",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the city's pasturelands.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 3,
+      "sourceTextSha256": "b234efe91bd34af4b1f29aa1d8170a91ff72bf28570d99434e1d322c7629af55",
+      "edits": [
+        {
+          "startOffset": 130,
+          "endOffset": 137,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 8,
+      "sourceTextSha256": "fca99ce979bc30bffbcf65bb7dd7039a88f901fdffb74609e6338a094d86ee1c",
+      "edits": [
+        {
+          "startOffset": 80,
+          "endOffset": 87,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 11,
+      "sourceTextSha256": "3ed0ef45c50da3828d30a3d795949760801a91c77b975d0a3c967e3ec13e23bc",
+      "edits": [
+        {
+          "startOffset": 117,
+          "endOffset": 132,
+          "expected": "suburbs thereof",
+          "replacement": "its pasturelands",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the city's pasturelands.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 12,
+      "sourceTextSha256": "de860b2111b1e65d32ae8a56aaff82ca21c32832d02a89f7e1107cdf1725f594",
+      "edits": [
+        {
+          "startOffset": 36,
+          "endOffset": 52,
+          "expected": "villages thereof",
+          "replacement": "its villages",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the villages belonging to that territory.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 13,
+      "sourceTextSha256": "f128094d7a3289b37a64dc4ad02d320ecbf4b905c1eef52502738173dba61a4d",
+      "edits": [
+        {
+          "startOffset": 69,
+          "endOffset": 76,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A13&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 137,
+          "endOffset": 144,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 14,
+      "sourceTextSha256": "5d19eb8f96a3b83c03acb317f6e4bbf9e337e922308dcdab45fb69afa8aed148",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 27,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A14&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 51,
+          "endOffset": 58,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 15,
+      "sourceTextSha256": "e9e675ed38fec2c960d204b066ca0eb97a4157afb4a6e3d78da9ea1a1b4aa610",
+      "edits": [
+        {
+          "startOffset": 19,
+          "endOffset": 26,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A15&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 47,
+          "endOffset": 54,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A15&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 16,
+      "sourceTextSha256": "cab291daa50fd24d6e66f96272b78e13886bb1013bfb8c81e21c155e6893f339",
+      "edits": [
+        {
+          "startOffset": 17,
+          "endOffset": 24,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 46,
+          "endOffset": 53,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 81,
+          "endOffset": 88,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 17,
+      "sourceTextSha256": "da685f481e12db0cf63b3e59995d40f438530f2b05cf2728e93d47545f3cc9fc",
+      "edits": [
+        {
+          "startOffset": 50,
+          "endOffset": 57,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A17&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 73,
+          "endOffset": 80,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A17&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 18,
+      "sourceTextSha256": "04dd3626178f6aebb2a4a9416f8ada680cd6b22468a2484c04fae31209dd9ce3",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 25,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A18&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 46,
+          "endOffset": 53,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A18&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 19,
+      "sourceTextSha256": "4430238daf7491059741a5d68b2571a2e49378259c4e23ac3eb3266127e6a5ef",
+      "edits": [
+        {
+          "startOffset": 86,
+          "endOffset": 93,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 21,
+      "sourceTextSha256": "e4014f3b4be09b85eebfd20504ea498960854ca71f903d1cc21fd877cc21c98a",
+      "edits": [
+        {
+          "startOffset": 36,
+          "endOffset": 43,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A21&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 120,
+          "endOffset": 127,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 22,
+      "sourceTextSha256": "61045c223df0ffc1a349a09618396ecb711a7bb65ac67d02142c76999ee962d4",
+      "edits": [
+        {
+          "startOffset": 21,
+          "endOffset": 28,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A22&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 54,
+          "endOffset": 61,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A22&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 23,
+      "sourceTextSha256": "def50a234b7086bf81dcca15dcc2a1b085f10cf73f32e791197c574384a16abd",
+      "edits": [
+        {
+          "startOffset": 46,
+          "endOffset": 53,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A23&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 74,
+          "endOffset": 81,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A23&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 24,
+      "sourceTextSha256": "154a10477ee81ae3a327d433ff5d090ea568737f61387f6f375a49fc7cbf3b10",
+      "edits": [
+        {
+          "startOffset": 17,
+          "endOffset": 24,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A24&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 47,
+          "endOffset": 54,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A24&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 25,
+      "sourceTextSha256": "45b7aac5b3be7e5b4b6c52f39e0eff818aaf25c5185e3d8ba0f33490ec90d381",
+      "edits": [
+        {
+          "startOffset": 55,
+          "endOffset": 62,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A25&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 89,
+          "endOffset": 96,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A25&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 26,
+      "sourceTextSha256": "44fe9abe74af1da99dc207fbb9426fbd9f026ece4c70f9bbd48942f4677481e2",
+      "edits": [
+        {
+          "startOffset": 35,
+          "endOffset": 42,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A26&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 27,
+      "sourceTextSha256": "cbb4f277e7328b58a22c4d3de4458b2b3dd2d3bff92b2e0873daa2a7e72f3f21",
+      "edits": [
+        {
+          "startOffset": 143,
+          "endOffset": 150,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A27&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 216,
+          "endOffset": 223,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A27&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 28,
+      "sourceTextSha256": "900a654e0ac271ae57a125c4edf6ca0c8951fd127fefd2c1c30db5a8e48a535b",
+      "edits": [
+        {
+          "startOffset": 50,
+          "endOffset": 57,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A28&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 76,
+          "endOffset": 83,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A28&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 29,
+      "sourceTextSha256": "b7cee51f8d4fa4ea215f49e23c30cffb3430434d3625914bbbcd0c06c28174d5",
+      "edits": [
+        {
+          "startOffset": 17,
+          "endOffset": 24,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A29&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 45,
+          "endOffset": 52,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A29&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 30,
+      "sourceTextSha256": "f21d651954d00e0d80867c37b3b5c1e566eb668505914eabd8b685f85f86068e",
+      "edits": [
+        {
+          "startOffset": 47,
+          "endOffset": 54,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A30&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 71,
+          "endOffset": 78,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A30&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 31,
+      "sourceTextSha256": "4d4e20f6766d26a2e4b65528c037edb5e79f3ad3a5101865aa40792b631ebe4e",
+      "edits": [
+        {
+          "startOffset": 17,
+          "endOffset": 24,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A31&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 45,
+          "endOffset": 52,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A31&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 32,
+      "sourceTextSha256": "56134bb3ea14abe236f1e4e3e96d5d956a2c25b53030b248ec26e1172e4c45a1",
+      "edits": [
+        {
+          "startOffset": 61,
+          "endOffset": 68,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 134,
+          "endOffset": 141,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 163,
+          "endOffset": 170,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 33,
+      "sourceTextSha256": "a5fd7e9ec7d185e43caf0b2528c94b34d8962cd8a915eed7f633f834a2103917",
+      "edits": [
+        {
+          "startOffset": 94,
+          "endOffset": 101,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A33&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 34,
+      "sourceTextSha256": "72f8c0a121fa9f86e7eaae081b79792db02788dc0462419c1c7dfbbe142dd3d0",
+      "edits": [
+        {
+          "startOffset": 122,
+          "endOffset": 129,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A34&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 151,
+          "endOffset": 158,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A34&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 35,
+      "sourceTextSha256": "5249dc0e6560c6a250ccabbc4dd5d13068d615a6c36df1f9f8437497dd3eaae5",
+      "edits": [
+        {
+          "startOffset": 16,
+          "endOffset": 23,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A35&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 42,
+          "endOffset": 49,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A35&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 36,
+      "sourceTextSha256": "fb3422539d075e3b57649cb042ae6e941ffccfadbfa78ec404ce7040e1033f14",
+      "edits": [
+        {
+          "startOffset": 47,
+          "endOffset": 54,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A36&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 77,
+          "endOffset": 84,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A36&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 37,
+      "sourceTextSha256": "cd7a705ef74733c5de5569fa8dcda1a4faed733129beaa2250e0d0ac0f5c3da6",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 25,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A37&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 49,
+          "endOffset": 56,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A37&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 38,
+      "sourceTextSha256": "0a0dddb530f8f75d841650868b49e41d27a1a4701b56c0d10dfd6519a388530b",
+      "edits": [
+        {
+          "startOffset": 55,
+          "endOffset": 62,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A38&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 125,
+          "endOffset": 132,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A38&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 39,
+      "sourceTextSha256": "12ef2ff264ffbe91f91c5d6b4caf77e48ab6d6f9fc767a34dc4f0f04fd9d1d72",
+      "edits": [
+        {
+          "startOffset": 17,
+          "endOffset": 24,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A39&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 41,
+          "endOffset": 48,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A39&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 41,
+      "sourceTextSha256": "cf7205aa8eacbafa12cda848ca293074ec5fb9484d6858eeeafee68a0651d843",
+      "edits": [
+        {
+          "startOffset": 117,
+          "endOffset": 124,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A41&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 42,
+      "sourceTextSha256": "5b15b1b8b725a2b16edb3f46eb5d39374e1510772f77aafb5840433695dfb21b",
+      "edits": [
+        {
+          "startOffset": 39,
+          "endOffset": 46,
+          "expected": "suburbs",
+          "replacement": "pasturelands",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A42&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -496,6 +5564,34 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 115,
+          "endOffset": 120,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A43&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 121,
+          "endOffset": 128,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A43&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -516,6 +5612,48 @@
     },
     {
       "chapter": 22,
+      "verse": 5,
+      "sourceTextSha256": "4a52cde77bd85c853fb1f849f60801f7d5adc4318bf4e603222da6a7bc3ab6a1",
+      "edits": [
+        {
+          "startOffset": 200,
+          "endOffset": 215,
+          "expected": "cleave unto him",
+          "replacement": "remain faithful to him",
+          "category": "archaic-covenant-verb",
+          "reason": "Cleave unto the LORD means remain faithfully attached to him.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 7,
+      "sourceTextSha256": "e7541d9026a040e4fa7db69c4db77a0585425e6326730b0cc1a1eea3d91ee43b",
+      "edits": [
+        {
+          "startOffset": 98,
+          "endOffset": 116,
+          "expected": "other half thereof",
+          "replacement": "its other half",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the other half of the tribe.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
       "verse": 8,
       "sourceTextSha256": "a70eb4cab4143753766bab13bae0202f5f64a4974182e6ab3c4c70783bb4225a",
       "edits": [
@@ -526,6 +5664,20 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 178,
+          "endOffset": 185,
+          "expected": "raiment",
+          "replacement": "clothing",
+          "category": "archaic-clothing-term",
+          "reason": "Raiment means clothing.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A8&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -546,6 +5698,118 @@
     },
     {
       "chapter": 22,
+      "verse": 18,
+      "sourceTextSha256": "e769b9348f0b2f5df5c7aeb15900f41a29380d8eb8c2b119a34e16428c88e3a8",
+      "edits": [
+        {
+          "startOffset": 123,
+          "endOffset": 132,
+          "expected": "to morrow",
+          "replacement": "tomorrow",
+          "category": "archaic-time-phrase",
+          "reason": "The two-word historical spelling is modernized.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A18&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 19,
+      "sourceTextSha256": "3c833bdc5d9a9b78ebcd2b0dc7b5ffdc55179479853a5d9ad9c0c51df512ecf2",
+      "edits": [
+        {
+          "startOffset": 123,
+          "endOffset": 130,
+          "expected": "wherein",
+          "replacement": "in which",
+          "category": "archaic-relative",
+          "reason": "Wherein means in which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 23,
+      "sourceTextSha256": "0d55975ecb60d38edf51859047b2ac8e1e16f1934752f047ba507ce82b242b6c",
+      "edits": [
+        {
+          "startOffset": 79,
+          "endOffset": 86,
+          "expected": "thereon",
+          "replacement": "on it",
+          "category": "archaic-relative",
+          "reason": "Thereon means on it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A23&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 105,
+          "endOffset": 118,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering-term",
+          "reason": "Meat offering is the historical name for a grain offering.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A23&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 151,
+          "endOffset": 158,
+          "expected": "thereon",
+          "replacement": "on it",
+          "category": "archaic-relative",
+          "reason": "Thereon means on it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A23&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 29,
+      "sourceTextSha256": "31cc43084daec580bec29b9b5c524d5bacb2bdaba54679cb7adde2a1194c9b53",
+      "edits": [
+        {
+          "startOffset": 136,
+          "endOffset": 150,
+          "expected": "meat offerings",
+          "replacement": "grain offerings",
+          "category": "false-friend-offering-term",
+          "reason": "Meat offering is the historical name for a grain offering.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A29&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
       "verse": 30,
       "sourceTextSha256": "253d0b7575daf3b3569038da1802c9c4a6104f21960259d395f1e103873dd9e5",
       "edits": [
@@ -556,6 +5820,104 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 33,
+      "sourceTextSha256": "cbb4644d8af0450af5c741adb167e66db2040112de57c81c57421128a6827a84",
+      "edits": [
+        {
+          "startOffset": 158,
+          "endOffset": 165,
+          "expected": "wherein",
+          "replacement": "in which",
+          "category": "archaic-relative",
+          "reason": "Wherein means in which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A33&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 197,
+          "endOffset": 202,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A33&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 1,
+      "sourceTextSha256": "8476a60e191443938ddf92111ffa17fe6582e7400b08411882f007c7daec34bc",
+      "edits": [
+        {
+          "startOffset": 127,
+          "endOffset": 132,
+          "expected": "waxed",
+          "replacement": "grew",
+          "category": "archaic-verb",
+          "reason": "Waxed means grew in the description of Joshua's age.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A1&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 8,
+      "sourceTextSha256": "37872c115df98e2e50dbfce2b5787adda95c4a39e575362d4f34ef630e7d42f4",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 24,
+          "expected": "cleave unto the LORD",
+          "replacement": "remain faithful to the LORD",
+          "category": "archaic-covenant-verb",
+          "reason": "Cleave unto the LORD means remain faithful to him.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 12,
+      "sourceTextSha256": "20c08dc029b82eb4b397b80de3fab3f9ed4e97119f7a3a328a1c84fb59723566",
+      "edits": [
+        {
+          "startOffset": 39,
+          "endOffset": 79,
+          "expected": "cleave unto the remnant of these nations",
+          "replacement": "join the remnant of these nations",
+          "category": "archaic-alliance-verb",
+          "reason": "Cleave means join in the warning against alliances and intermarriage.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A12&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -571,6 +5933,125 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 274,
+          "endOffset": 281,
+          "expected": "thereof",
+          "replacement": "of it",
+          "category": "archaic-relative",
+          "reason": "Thereof means of it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 2,
+      "sourceTextSha256": "f379b9386b59e4720a4bfc25a496de99ccce1bcfeb5f6a672b4efe86a49d391c",
+      "edits": [
+        {
+          "startOffset": 85,
+          "endOffset": 90,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 7,
+      "sourceTextSha256": "ddc743a767a7759997fe2c85c9e03f4cc88015a571190ff82afa20fe50e450f3",
+      "edits": [
+        {
+          "startOffset": 189,
+          "endOffset": 194,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 8,
+      "sourceTextSha256": "96be02ef6f15c4ed0402e9eb952fb6dc7a41bf6f9e86753d3d8a47c6cd51d8c9",
+      "edits": [
+        {
+          "startOffset": 55,
+          "endOffset": 60,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 17,
+      "sourceTextSha256": "e1be66efe37d4d885a3c56c327f68f29aa5552b7d6d49670426360da99c9b090",
+      "edits": [
+        {
+          "startOffset": 197,
+          "endOffset": 204,
+          "expected": "wherein",
+          "replacement": "in which",
+          "category": "archaic-relative",
+          "reason": "Wherein means in which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A17&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 18,
+      "sourceTextSha256": "9d78895e17bc1283f1585a8359bc97dadbafdd2f0d7d030b42ed0ad9625e2782",
+      "edits": [
+        {
+          "startOffset": 78,
+          "endOffset": 83,
+          "expected": "dwelt",
+          "replacement": "lived",
+          "category": "archaic-residence-verb",
+          "reason": "Dwelt means lived or resided.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A18&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -591,8 +6072,8 @@
     }
   ],
   "ownerReview": {
-    "contentVersion": 3,
-    "review": "KJV round 3 complete-verse review",
+    "contentVersion": 8,
+    "review": "KJV Joshua complete-context review",
     "requiredFullTest": true
   }
 }

@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T00:00:00.000Z",
+  "updatedAt": "2026-09-12T06:30:00.000Z",
   "sourceVersionId": "KJV",
-  "activeContentVersion": 7,
+  "activeContentVersion": 8,
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/verify_kjv_reading_2026.mjs",
   "applied": [
@@ -7910,6 +7910,2094 @@
       "category": "archaic-verb",
       "reason": "Lusteth after means desires in this food permission.",
       "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+14%3A26&version=KJV"
+    },
+    {
+      "reference": "JOS.3.5",
+      "expected": "to morrow",
+      "replacement": "tomorrow",
+      "category": "archaic-time-phrase",
+      "reason": "The two-word historical spelling is modernized.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+3%3A5&version=KJV"
+    },
+    {
+      "reference": "JOS.5.11",
+      "expected": "on the morrow",
+      "replacement": "the next day",
+      "category": "archaic-time-phrase",
+      "reason": "On the morrow means the next day.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+5%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.5.12",
+      "expected": "on the morrow",
+      "replacement": "the next day",
+      "category": "archaic-time-phrase",
+      "reason": "On the morrow means the next day.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+5%3A12&version=KJV"
+    },
+    {
+      "reference": "JOS.7.13",
+      "expected": "against to morrow",
+      "replacement": "for tomorrow",
+      "category": "archaic-time-phrase",
+      "reason": "The command prepares the people for the next day's assembly.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A13&version=KJV"
+    },
+    {
+      "reference": "JOS.11.6",
+      "expected": "to morrow about this time",
+      "replacement": "tomorrow about this time",
+      "category": "archaic-time-phrase",
+      "reason": "The two-word historical spelling is modernized.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A6&version=KJV"
+    },
+    {
+      "reference": "JOS.22.18",
+      "expected": "to morrow",
+      "replacement": "tomorrow",
+      "category": "archaic-time-phrase",
+      "reason": "The two-word historical spelling is modernized.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+22%3A18&version=KJV"
+    },
+    {
+      "reference": "JOS.6.22",
+      "expected": "bring out thence the woman",
+      "replacement": "bring the woman out from there",
+      "category": "archaic-location-phrase",
+      "reason": "Thence means from that house; the clause is reordered for current English.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A22&version=KJV"
+    },
+    {
+      "reference": "JOS.15.4",
+      "expected": "From thence",
+      "replacement": "From there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A4&version=KJV"
+    },
+    {
+      "reference": "JOS.15.14",
+      "expected": "drove thence",
+      "replacement": "drove from there",
+      "category": "archaic-location",
+      "reason": "Thence means from that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A14&version=KJV"
+    },
+    {
+      "reference": "JOS.15.15",
+      "expected": "went up thence",
+      "replacement": "went up from there",
+      "category": "archaic-location",
+      "reason": "Thence means from that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A15&version=KJV"
+    },
+    {
+      "reference": "JOS.18.13",
+      "expected": "from thence",
+      "replacement": "from there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+18%3A13&version=KJV"
+    },
+    {
+      "reference": "JOS.18.14",
+      "expected": "drawn thence",
+      "replacement": "drawn from there",
+      "category": "archaic-location",
+      "reason": "Thence means from that point.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+18%3A14&version=KJV"
+    },
+    {
+      "reference": "JOS.19.13",
+      "expected": "from thence",
+      "replacement": "from there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A13&version=KJV"
+    },
+    {
+      "reference": "JOS.19.34",
+      "expected": "from thence",
+      "replacement": "from there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A34&version=KJV"
+    },
+    {
+      "reference": "JOS.9.7",
+      "expected": "Peradventure",
+      "replacement": "Perhaps",
+      "category": "archaic-adverb",
+      "reason": "Peradventure means perhaps.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A7&version=KJV"
+    },
+    {
+      "reference": "JOS.5.9",
+      "expected": "Wherefore the name",
+      "replacement": "Therefore the name",
+      "category": "archaic-connector",
+      "reason": "Wherefore introduces the resulting place name.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+5%3A9&version=KJV"
+    },
+    {
+      "reference": "JOS.7.5",
+      "expected": "wherefore the hearts",
+      "replacement": "therefore the hearts",
+      "category": "archaic-connector",
+      "reason": "Wherefore introduces the result of Israel's defeat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A5&version=KJV"
+    },
+    {
+      "reference": "JOS.7.7",
+      "expected": "wherefore hast thou",
+      "replacement": "why hast thou",
+      "category": "archaic-question",
+      "reason": "Wherefore asks why in Joshua's lament.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A7&version=KJV"
+    },
+    {
+      "reference": "JOS.7.10",
+      "expected": "wherefore liest thou",
+      "replacement": "why liest thou",
+      "category": "archaic-question",
+      "reason": "Wherefore asks why Joshua remains on his face.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A10&version=KJV"
+    },
+    {
+      "reference": "JOS.7.26",
+      "expected": "Wherefore the name",
+      "replacement": "Therefore the name",
+      "category": "archaic-connector",
+      "reason": "Wherefore introduces the resulting place name.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A26&version=KJV"
+    },
+    {
+      "reference": "JOS.9.11",
+      "expected": "Wherefore our elders",
+      "replacement": "Therefore our elders",
+      "category": "archaic-connector",
+      "reason": "Wherefore introduces the elders' response.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.9.22",
+      "expected": "Wherefore have ye beguiled us",
+      "replacement": "Why have ye deceived us",
+      "category": "archaic-question",
+      "reason": "Wherefore asks why, and beguiled means deceived.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A22&version=KJV"
+    },
+    {
+      "reference": "JOS.10.3",
+      "expected": "Wherefore Adoni-zedek",
+      "replacement": "Therefore Adoni-zedek",
+      "category": "archaic-connector",
+      "reason": "Wherefore introduces the king's response to the preceding news.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.6.26",
+      "expected": "Joshua adjured them",
+      "replacement": "Joshua bound them under oath",
+      "category": "archaic-oath-verb",
+      "reason": "Adjured means to bind solemnly under oath.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A26&version=KJV"
+    },
+    {
+      "reference": "JOS.6.3",
+      "expected": "compass the city",
+      "replacement": "march around the city",
+      "category": "archaic-military-verb",
+      "reason": "Compass means march around the city.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.6.4",
+      "expected": "compass the city",
+      "replacement": "march around the city",
+      "category": "archaic-military-verb",
+      "reason": "Compass means march around the city.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A4&version=KJV"
+    },
+    {
+      "reference": "JOS.6.7",
+      "expected": "compass the city",
+      "replacement": "march around the city",
+      "category": "archaic-military-verb",
+      "reason": "Compass means march around the city.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A7&version=KJV"
+    },
+    {
+      "reference": "JOS.15.3",
+      "expected": "fetched a compass to Karkaa",
+      "replacement": "turned toward Karkaa",
+      "category": "archaic-geographic-phrase",
+      "reason": "Fetched a compass describes the boundary turning toward Karkaa.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.10.10",
+      "expected": "discomfited them",
+      "replacement": "threw them into confusion",
+      "category": "obsolete-battle-verb",
+      "reason": "Discomfited means threw the enemy into confusion before Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A10&version=KJV"
+    },
+    {
+      "reference": "JOS.7.15",
+      "expected": "wrought folly in Israel",
+      "replacement": "committed a disgraceful act in Israel",
+      "category": "archaic-moral-phrase",
+      "reason": "Wrought folly describes a disgraceful act against the covenant community.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A15&version=KJV"
+    },
+    {
+      "reference": "JOS.14.7",
+      "expected": "to espy out the land",
+      "replacement": "to explore the land",
+      "category": "archaic-exploration-verb",
+      "reason": "Espy out means explore in the mission from Kadesh-barnea.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+14%3A7&version=KJV"
+    },
+    {
+      "reference": "JOS.13.30",
+      "expected": "threescore cities",
+      "replacement": "sixty cities",
+      "category": "archaic-number",
+      "reason": "Threescore equals sixty.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+13%3A30&version=KJV"
+    },
+    {
+      "reference": "JOS.14.10",
+      "expected": "fourscore and five years old",
+      "replacement": "eighty-five years old",
+      "category": "archaic-number",
+      "reason": "Fourscore and five equals eighty-five.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+14%3A10&version=KJV"
+    },
+    {
+      "reference": "JOS.11.13",
+      "expected": "save Hazor only",
+      "replacement": "except Hazor only",
+      "category": "archaic-exception",
+      "reason": "Save means except in this comparison of cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A13&version=KJV"
+    },
+    {
+      "reference": "JOS.11.19",
+      "expected": "save the Hivites",
+      "replacement": "except the Hivites",
+      "category": "archaic-exception",
+      "reason": "Save means except in this statement about peace.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A19&version=KJV"
+    },
+    {
+      "reference": "JOS.14.4",
+      "expected": "save cities to dwell in",
+      "replacement": "except cities to live in",
+      "category": "archaic-exception",
+      "reason": "Save means except, and dwell means live in this allocation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+14%3A4&version=KJV"
+    },
+    {
+      "reference": "JOS.7.12",
+      "expected": "except ye destroy",
+      "replacement": "unless ye destroy",
+      "category": "archaic-condition",
+      "reason": "Except means unless in this condition.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A12&version=KJV"
+    },
+    {
+      "reference": "JOS.5.11",
+      "expected": "old corn",
+      "replacement": "old grain",
+      "category": "false-friend-food-term",
+      "reason": "Corn denotes grain rather than modern maize.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+5%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.5.11",
+      "expected": "parched corn",
+      "replacement": "parched grain",
+      "category": "false-friend-food-term",
+      "reason": "Corn denotes grain rather than modern maize.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+5%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.5.12",
+      "expected": "old corn",
+      "replacement": "old grain",
+      "category": "false-friend-food-term",
+      "reason": "Corn denotes grain rather than modern maize.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+5%3A12&version=KJV"
+    },
+    {
+      "reference": "JOS.22.23",
+      "expected": "meat offering",
+      "replacement": "grain offering",
+      "category": "false-friend-offering-term",
+      "reason": "Meat offering is the historical name for a grain offering.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+22%3A23&version=KJV"
+    },
+    {
+      "reference": "JOS.22.29",
+      "expected": "meat offerings",
+      "replacement": "grain offerings",
+      "category": "false-friend-offering-term",
+      "reason": "Meat offering is the historical name for a grain offering.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+22%3A29&version=KJV"
+    },
+    {
+      "reference": "JOS.22.5",
+      "expected": "cleave unto him",
+      "replacement": "remain faithful to him",
+      "category": "archaic-covenant-verb",
+      "reason": "Cleave unto the LORD means remain faithfully attached to him.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+22%3A5&version=KJV"
+    },
+    {
+      "reference": "JOS.23.8",
+      "expected": "cleave unto the LORD",
+      "replacement": "remain faithful to the LORD",
+      "category": "archaic-covenant-verb",
+      "reason": "Cleave unto the LORD means remain faithful to him.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+23%3A8&version=KJV"
+    },
+    {
+      "reference": "JOS.23.12",
+      "expected": "cleave unto the remnant of these nations",
+      "replacement": "join the remnant of these nations",
+      "category": "archaic-alliance-verb",
+      "reason": "Cleave means join in the warning against alliances and intermarriage.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+23%3A12&version=KJV"
+    },
+    {
+      "reference": "JOS.7.5",
+      "expected": "smote of them about thirty and six men",
+      "replacement": "killed about thirty-six of them",
+      "category": "archaic-battle-phrase",
+      "reason": "The clause reports approximately thirty-six Israelite deaths.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A5&version=KJV"
+    },
+    {
+      "reference": "JOS.9.18",
+      "expected": "smote them not",
+      "replacement": "did not attack them",
+      "category": "archaic-battle-verb",
+      "reason": "Israel refrained from attacking the Gibeonites because of the oath.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A18&version=KJV"
+    },
+    {
+      "reference": "JOS.10.10",
+      "expected": "smote them to Azekah",
+      "replacement": "struck them down as far as Azekah",
+      "category": "archaic-battle-phrase",
+      "reason": "The pursuit and defeat continued as far as Azekah.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A10&version=KJV"
+    },
+    {
+      "reference": "JOS.10.40",
+      "expected": "Joshua smote all the country",
+      "replacement": "Joshua conquered all the country",
+      "category": "archaic-battle-verb",
+      "reason": "Smote describes Joshua's conquest of the region.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A40&version=KJV"
+    },
+    {
+      "reference": "JOS.10.41",
+      "expected": "Joshua smote them from Kadesh-barnea",
+      "replacement": "Joshua defeated them from Kadesh-barnea",
+      "category": "archaic-battle-verb",
+      "reason": "Smote describes military defeat across the named region.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A41&version=KJV"
+    },
+    {
+      "reference": "JOS.12.1",
+      "expected": "which the children of Israel smote",
+      "replacement": "whom the children of Israel defeated",
+      "category": "archaic-battle-verb",
+      "reason": "Smote describes the defeat of the kings.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+12%3A1&version=KJV"
+    },
+    {
+      "reference": "JOS.12.7",
+      "expected": "which Joshua and the children of Israel smote",
+      "replacement": "whom Joshua and the children of Israel defeated",
+      "category": "archaic-battle-verb",
+      "reason": "Smote describes the defeat of the kings.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+12%3A7&version=KJV"
+    },
+    {
+      "reference": "JOS.13.21",
+      "expected": "whom Moses smote",
+      "replacement": "whom Moses defeated",
+      "category": "archaic-battle-verb",
+      "reason": "Smote describes Moses' defeat of Sihon and the Midianite leaders.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+13%3A21&version=KJV"
+    },
+    {
+      "reference": "JOS.20.5",
+      "expected": "he smote his neighbour unwittingly",
+      "replacement": "he killed his neighbour unintentionally",
+      "category": "archaic-legal-phrase",
+      "reason": "The refuge law concerns an unintentional killing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+20%3A5&version=KJV"
+    },
+    {
+      "reference": "JOS.18.5",
+      "expected": "Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north",
+      "replacement": "Judah shall remain in their territory on the south, and the house of Joseph shall remain in their territory on the north",
+      "category": "false-friend-geography",
+      "reason": "Coast means tribal territory in this allocation, and abide means remain.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+18%3A5&version=KJV"
+    },
+    {
+      "reference": "JOS.9.1",
+      "expected": "in all the coasts of the great sea",
+      "replacement": "throughout all the regions along the great sea",
+      "category": "false-friend-geography",
+      "reason": "Coasts refers to the regions along the Mediterranean.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A1&version=KJV"
+    },
+    {
+      "reference": "JOS.10.19",
+      "expected": "suffer them not to enter into their cities",
+      "replacement": "do not allow them to enter their cities",
+      "category": "archaic-permission-verb",
+      "reason": "Suffer means allow in this pursuit command.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A19&version=KJV"
+    },
+    {
+      "reference": "JOS.6.2",
+      "expected": "king thereof",
+      "replacement": "its king",
+      "category": "archaic-relative",
+      "reason": "The phrase means its king.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A2&version=KJV"
+    },
+    {
+      "reference": "JOS.10.28",
+      "expected": "king thereof",
+      "replacement": "its king",
+      "category": "archaic-relative",
+      "reason": "The phrase means its king.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A28&version=KJV"
+    },
+    {
+      "reference": "JOS.10.30",
+      "expected": "king thereof",
+      "replacement": "its king",
+      "category": "archaic-relative",
+      "reason": "The phrase means its king.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A30&version=KJV"
+    },
+    {
+      "reference": "JOS.10.37",
+      "expected": "king thereof",
+      "replacement": "its king",
+      "category": "archaic-relative",
+      "reason": "The phrase means its king.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A37&version=KJV"
+    },
+    {
+      "reference": "JOS.10.39",
+      "expected": "king thereof",
+      "replacement": "its king",
+      "category": "archaic-relative",
+      "reason": "The phrase means its king.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A39&version=KJV"
+    },
+    {
+      "reference": "JOS.11.10",
+      "expected": "king thereof",
+      "replacement": "its king",
+      "category": "archaic-relative",
+      "reason": "The phrase means its king.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A10&version=KJV"
+    },
+    {
+      "reference": "JOS.6.26",
+      "expected": "foundation thereof",
+      "replacement": "its foundation",
+      "category": "archaic-relative",
+      "reason": "The phrase means its foundation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A26&version=KJV"
+    },
+    {
+      "reference": "JOS.7.14",
+      "expected": "families thereof",
+      "replacement": "its families",
+      "category": "archaic-relative",
+      "reason": "The phrase means its families.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A14&version=KJV"
+    },
+    {
+      "reference": "JOS.8.2",
+      "expected": "spoil thereof",
+      "replacement": "its spoil",
+      "category": "archaic-relative",
+      "reason": "The phrase means its spoil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A2&version=KJV"
+    },
+    {
+      "reference": "JOS.8.2",
+      "expected": "cattle thereof",
+      "replacement": "its cattle",
+      "category": "archaic-relative",
+      "reason": "The phrase means its cattle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A2&version=KJV"
+    },
+    {
+      "reference": "JOS.10.2",
+      "expected": "men thereof",
+      "replacement": "its men",
+      "category": "archaic-relative",
+      "reason": "The phrase means its men.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A2&version=KJV"
+    },
+    {
+      "reference": "JOS.10.37",
+      "expected": "cities thereof",
+      "replacement": "its cities",
+      "category": "archaic-relative",
+      "reason": "The phrase means its cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A37&version=KJV"
+    },
+    {
+      "reference": "JOS.10.39",
+      "expected": "cities thereof",
+      "replacement": "its cities",
+      "category": "archaic-relative",
+      "reason": "The phrase means its cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A39&version=KJV"
+    },
+    {
+      "reference": "JOS.13.23",
+      "expected": "border thereof",
+      "replacement": "its border",
+      "category": "archaic-relative",
+      "reason": "The phrase means its border.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+13%3A23&version=KJV"
+    },
+    {
+      "reference": "JOS.15.47",
+      "expected": "border thereof",
+      "replacement": "its border",
+      "category": "archaic-relative",
+      "reason": "The phrase means its border.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A47&version=KJV"
+    },
+    {
+      "reference": "JOS.15.7",
+      "expected": "goings out thereof",
+      "replacement": "its outgoings",
+      "category": "archaic-relative",
+      "reason": "The phrase identifies where that border ends.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A7&version=KJV"
+    },
+    {
+      "reference": "JOS.16.3",
+      "expected": "goings out thereof",
+      "replacement": "its outgoings",
+      "category": "archaic-relative",
+      "reason": "The phrase identifies where that border ends.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+16%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.16.8",
+      "expected": "goings out thereof",
+      "replacement": "its outgoings",
+      "category": "archaic-relative",
+      "reason": "The phrase identifies where that border ends.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+16%3A8&version=KJV"
+    },
+    {
+      "reference": "JOS.18.12",
+      "expected": "goings out thereof",
+      "replacement": "its outgoings",
+      "category": "archaic-relative",
+      "reason": "The phrase identifies where that border ends.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+18%3A12&version=KJV"
+    },
+    {
+      "reference": "JOS.18.14",
+      "expected": "goings out thereof",
+      "replacement": "its outgoings",
+      "category": "archaic-relative",
+      "reason": "The phrase identifies where that border ends.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+18%3A14&version=KJV"
+    },
+    {
+      "reference": "JOS.19.14",
+      "expected": "outgoings thereof",
+      "replacement": "its outgoings",
+      "category": "archaic-relative",
+      "reason": "The phrase identifies where that border ends.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A14&version=KJV"
+    },
+    {
+      "reference": "JOS.19.29",
+      "expected": "outgoings thereof",
+      "replacement": "its outgoings",
+      "category": "archaic-relative",
+      "reason": "The phrase identifies where that border ends.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A29&version=KJV"
+    },
+    {
+      "reference": "JOS.19.33",
+      "expected": "outgoings thereof",
+      "replacement": "its outgoings",
+      "category": "archaic-relative",
+      "reason": "The phrase identifies where that border ends.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A33&version=KJV"
+    },
+    {
+      "reference": "JOS.21.2",
+      "expected": "suburbs thereof",
+      "replacement": "its pasturelands",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the city's pasturelands.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A2&version=KJV"
+    },
+    {
+      "reference": "JOS.21.11",
+      "expected": "suburbs thereof",
+      "replacement": "its pasturelands",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the city's pasturelands.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.13.23",
+      "expected": "villages thereof",
+      "replacement": "its villages",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the villages belonging to that territory.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+13%3A23&version=KJV"
+    },
+    {
+      "reference": "JOS.21.12",
+      "expected": "villages thereof",
+      "replacement": "its villages",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the villages belonging to that territory.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A12&version=KJV"
+    },
+    {
+      "reference": "JOS.22.7",
+      "expected": "other half thereof",
+      "replacement": "its other half",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the other half of the tribe.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+22%3A7&version=KJV"
+    },
+    {
+      "reference": "JOS.9.1",
+      "expected": "heard thereof",
+      "replacement": "heard of it",
+      "category": "archaic-relative",
+      "reason": "The phrase means heard of it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A1&version=KJV"
+    },
+    {
+      "reference": "JOS.8.11",
+      "expected": "nigh",
+      "replacement": "near",
+      "category": "archaic-location",
+      "reason": "Nigh means near.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.2.5",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither asks where someone went.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+2%3A5&version=KJV"
+    },
+    {
+      "reference": "JOS.7.3",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.7.4",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A4&version=KJV"
+    },
+    {
+      "reference": "JOS.20.3",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+20%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.20.9",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+20%3A9&version=KJV"
+    },
+    {
+      "reference": "JOS.9.8",
+      "expected": "whence",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whence means from where; the source clauses already contain from.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A8&version=KJV"
+    },
+    {
+      "reference": "JOS.20.6",
+      "expected": "whence",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whence means from where; the source clauses already contain from.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+20%3A6&version=KJV"
+    },
+    {
+      "reference": "JOS.8.24",
+      "expected": "wherein",
+      "replacement": "in which",
+      "category": "archaic-relative",
+      "reason": "Wherein means in which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A24&version=KJV"
+    },
+    {
+      "reference": "JOS.10.27",
+      "expected": "wherein",
+      "replacement": "in which",
+      "category": "archaic-relative",
+      "reason": "Wherein means in which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A27&version=KJV"
+    },
+    {
+      "reference": "JOS.22.19",
+      "expected": "wherein",
+      "replacement": "in which",
+      "category": "archaic-relative",
+      "reason": "Wherein means in which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+22%3A19&version=KJV"
+    },
+    {
+      "reference": "JOS.22.33",
+      "expected": "wherein",
+      "replacement": "in which",
+      "category": "archaic-relative",
+      "reason": "Wherein means in which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+22%3A33&version=KJV"
+    },
+    {
+      "reference": "JOS.24.17",
+      "expected": "wherein",
+      "replacement": "in which",
+      "category": "archaic-relative",
+      "reason": "Wherein means in which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+24%3A17&version=KJV"
+    },
+    {
+      "reference": "JOS.8.26",
+      "expected": "wherewith",
+      "replacement": "with which",
+      "category": "archaic-relative",
+      "reason": "Wherewith means with which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A26&version=KJV"
+    },
+    {
+      "reference": "JOS.15.12",
+      "expected": "thereof",
+      "replacement": "of it",
+      "category": "archaic-relative",
+      "reason": "Thereof means of it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A12&version=KJV"
+    },
+    {
+      "reference": "JOS.18.20",
+      "expected": "thereof",
+      "replacement": "of it",
+      "category": "archaic-relative",
+      "reason": "Thereof means of it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+18%3A20&version=KJV"
+    },
+    {
+      "reference": "JOS.23.14",
+      "expected": "thereof",
+      "replacement": "of it",
+      "category": "archaic-relative",
+      "reason": "Thereof means of it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+23%3A14&version=KJV"
+    },
+    {
+      "reference": "JOS.1.8",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+1%3A8&version=KJV"
+    },
+    {
+      "reference": "JOS.6.17",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A17&version=KJV"
+    },
+    {
+      "reference": "JOS.6.24",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A24&version=KJV"
+    },
+    {
+      "reference": "JOS.10.28",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A28&version=KJV"
+    },
+    {
+      "reference": "JOS.10.30",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A30&version=KJV"
+    },
+    {
+      "reference": "JOS.10.32",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A32&version=KJV"
+    },
+    {
+      "reference": "JOS.10.35",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A35&version=KJV"
+    },
+    {
+      "reference": "JOS.10.37",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A37&version=KJV"
+    },
+    {
+      "reference": "JOS.10.39",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A39&version=KJV"
+    },
+    {
+      "reference": "JOS.11.11",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.19.47",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A47&version=KJV"
+    },
+    {
+      "reference": "JOS.19.50",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A50&version=KJV"
+    },
+    {
+      "reference": "JOS.21.43",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A43&version=KJV"
+    },
+    {
+      "reference": "JOS.8.29",
+      "expected": "thereon",
+      "replacement": "on it",
+      "category": "archaic-relative",
+      "reason": "Thereon means on it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A29&version=KJV"
+    },
+    {
+      "reference": "JOS.8.31",
+      "expected": "thereon",
+      "replacement": "on it",
+      "category": "archaic-relative",
+      "reason": "Thereon means on it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A31&version=KJV"
+    },
+    {
+      "reference": "JOS.22.23",
+      "expected": "thereon",
+      "replacement": "on it",
+      "category": "archaic-relative",
+      "reason": "Thereon means on it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+22%3A23&version=KJV"
+    },
+    {
+      "reference": "JOS.2.2",
+      "expected": "hither",
+      "replacement": "here",
+      "category": "archaic-location",
+      "reason": "Hither means to this place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+2%3A2&version=KJV"
+    },
+    {
+      "reference": "JOS.3.9",
+      "expected": "hither",
+      "replacement": "here",
+      "category": "archaic-location",
+      "reason": "Hither means to this place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+3%3A9&version=KJV"
+    },
+    {
+      "reference": "JOS.18.6",
+      "expected": "hither",
+      "replacement": "here",
+      "category": "archaic-location",
+      "reason": "Hither means to this place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+18%3A6&version=KJV"
+    },
+    {
+      "reference": "JOS.4.3",
+      "expected": "hence",
+      "replacement": "here",
+      "category": "archaic-location",
+      "reason": "Hence means from here in this departure phrase.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+4%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.17.14",
+      "expected": "hitherto",
+      "replacement": "until now",
+      "category": "archaic-time",
+      "reason": "Hitherto means until now.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+17%3A14&version=KJV"
+    },
+    {
+      "reference": "JOS.11.9",
+      "expected": "bade",
+      "replacement": "commanded",
+      "category": "archaic-verb",
+      "reason": "Bade means commanded in Joshua's obedience to the LORD.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A9&version=KJV"
+    },
+    {
+      "reference": "JOS.8.21",
+      "expected": "slew",
+      "replacement": "killed",
+      "category": "archaic-battle-verb",
+      "reason": "Slew means killed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A21&version=KJV"
+    },
+    {
+      "reference": "JOS.9.26",
+      "expected": "slew",
+      "replacement": "killed",
+      "category": "archaic-battle-verb",
+      "reason": "Slew means killed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A26&version=KJV"
+    },
+    {
+      "reference": "JOS.10.10",
+      "expected": "slew",
+      "replacement": "killed",
+      "category": "archaic-battle-verb",
+      "reason": "Slew means killed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A10&version=KJV"
+    },
+    {
+      "reference": "JOS.10.11",
+      "expected": "slew",
+      "replacement": "killed",
+      "category": "archaic-battle-verb",
+      "reason": "Slew means killed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.10.26",
+      "expected": "slew",
+      "replacement": "killed",
+      "category": "archaic-battle-verb",
+      "reason": "Slew means killed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A26&version=KJV"
+    },
+    {
+      "reference": "JOS.11.17",
+      "expected": "slew",
+      "replacement": "killed",
+      "category": "archaic-battle-verb",
+      "reason": "Slew means killed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A17&version=KJV"
+    },
+    {
+      "reference": "JOS.23.1",
+      "expected": "waxed",
+      "replacement": "grew",
+      "category": "archaic-verb",
+      "reason": "Waxed means grew in the description of Joshua's age.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+23%3A1&version=KJV"
+    },
+    {
+      "reference": "JOS.6.21",
+      "expected": "ass",
+      "replacement": "donkey",
+      "category": "archaic-animal-name",
+      "reason": "Ass is the historical name for a donkey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A21&version=KJV"
+    },
+    {
+      "reference": "JOS.15.18",
+      "expected": "ass",
+      "replacement": "donkey",
+      "category": "archaic-animal-name",
+      "reason": "Ass is the historical name for a donkey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A18&version=KJV"
+    },
+    {
+      "reference": "JOS.7.24",
+      "expected": "asses",
+      "replacement": "donkeys",
+      "category": "archaic-animal-name",
+      "reason": "Asses is the historical plural for donkeys.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A24&version=KJV"
+    },
+    {
+      "reference": "JOS.9.4",
+      "expected": "asses",
+      "replacement": "donkeys",
+      "category": "archaic-animal-name",
+      "reason": "Asses is the historical plural for donkeys.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A4&version=KJV"
+    },
+    {
+      "reference": "JOS.1.11",
+      "expected": "victuals",
+      "replacement": "provisions",
+      "category": "archaic-food-term",
+      "reason": "Victuals means provisions for a journey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+1%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.9.11",
+      "expected": "victuals",
+      "replacement": "provisions",
+      "category": "archaic-food-term",
+      "reason": "Victuals means provisions for a journey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.9.14",
+      "expected": "victuals",
+      "replacement": "provisions",
+      "category": "archaic-food-term",
+      "reason": "Victuals means provisions for a journey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A14&version=KJV"
+    },
+    {
+      "reference": "JOS.22.8",
+      "expected": "raiment",
+      "replacement": "clothing",
+      "category": "archaic-clothing-term",
+      "reason": "Raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+22%3A8&version=KJV"
+    },
+    {
+      "reference": "JOS.2.1",
+      "expected": "harlot",
+      "replacement": "prostitute",
+      "category": "archaic-person-term",
+      "reason": "Harlot is the historical term used for Rahab's occupation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+2%3A1&version=KJV"
+    },
+    {
+      "reference": "JOS.6.17",
+      "expected": "harlot",
+      "replacement": "prostitute",
+      "category": "archaic-person-term",
+      "reason": "Harlot is the historical term used for Rahab's occupation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A17&version=KJV"
+    },
+    {
+      "reference": "JOS.6.22",
+      "expected": "harlot",
+      "replacement": "prostitute",
+      "category": "archaic-person-term",
+      "reason": "Harlot is the historical term used for Rahab's occupation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A22&version=KJV"
+    },
+    {
+      "reference": "JOS.6.25",
+      "expected": "harlot",
+      "replacement": "prostitute",
+      "category": "archaic-person-term",
+      "reason": "Harlot is the historical term used for Rahab's occupation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A25&version=KJV"
+    },
+    {
+      "reference": "JOS.1.4",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+1%3A4&version=KJV"
+    },
+    {
+      "reference": "JOS.12.4",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+12%3A4&version=KJV"
+    },
+    {
+      "reference": "JOS.12.23",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+12%3A23&version=KJV"
+    },
+    {
+      "reference": "JOS.13.16",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+13%3A16&version=KJV"
+    },
+    {
+      "reference": "JOS.13.25",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+13%3A25&version=KJV"
+    },
+    {
+      "reference": "JOS.13.30",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+13%3A30&version=KJV"
+    },
+    {
+      "reference": "JOS.15.1",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A1&version=KJV"
+    },
+    {
+      "reference": "JOS.15.4",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A4&version=KJV"
+    },
+    {
+      "reference": "JOS.15.12",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A12&version=KJV"
+    },
+    {
+      "reference": "JOS.15.21",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A21&version=KJV"
+    },
+    {
+      "reference": "JOS.16.3",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+16%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.17.7",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+17%3A7&version=KJV"
+    },
+    {
+      "reference": "JOS.17.9",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+17%3A9&version=KJV"
+    },
+    {
+      "reference": "JOS.18.11",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+18%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.18.19",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+18%3A19&version=KJV"
+    },
+    {
+      "reference": "JOS.19.22",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A22&version=KJV"
+    },
+    {
+      "reference": "JOS.19.29",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A29&version=KJV"
+    },
+    {
+      "reference": "JOS.19.33",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A33&version=KJV"
+    },
+    {
+      "reference": "JOS.19.34",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A34&version=KJV"
+    },
+    {
+      "reference": "JOS.19.41",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A41&version=KJV"
+    },
+    {
+      "reference": "JOS.19.47",
+      "expected": "coast",
+      "replacement": "border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes a territorial border in Joshua, not only a shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A47&version=KJV"
+    },
+    {
+      "reference": "JOS.18.20",
+      "expected": "coasts",
+      "replacement": "borders",
+      "category": "false-friend-geography",
+      "reason": "Coasts denotes territorial borders or regions in Joshua.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+18%3A20&version=KJV"
+    },
+    {
+      "reference": "JOS.19.49",
+      "expected": "coasts",
+      "replacement": "borders",
+      "category": "false-friend-geography",
+      "reason": "Coasts denotes territorial borders or regions in Joshua.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A49&version=KJV"
+    },
+    {
+      "reference": "JOS.7.21",
+      "expected": "goodly",
+      "replacement": "fine",
+      "category": "archaic-adjective",
+      "reason": "Goodly describes a fine Babylonian garment.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A21&version=KJV"
+    },
+    {
+      "reference": "JOS.5.9",
+      "expected": "reproach",
+      "replacement": "disgrace",
+      "category": "archaic-noun",
+      "reason": "Reproach means disgrace in the declaration about Egypt.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+5%3A9&version=KJV"
+    },
+    {
+      "reference": "JOS.6.9",
+      "expected": "rereward",
+      "replacement": "rear guard",
+      "category": "obsolete-military-term",
+      "reason": "Rereward means the rear guard of the procession.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A9&version=KJV"
+    },
+    {
+      "reference": "JOS.6.13",
+      "expected": "rereward",
+      "replacement": "rear guard",
+      "category": "obsolete-military-term",
+      "reason": "Rereward means the rear guard of the procession.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+6%3A13&version=KJV"
+    },
+    {
+      "reference": "JOS.3.17",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+3%3A17&version=KJV"
+    },
+    {
+      "reference": "JOS.4.3",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+4%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.4.5",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+4%3A5&version=KJV"
+    },
+    {
+      "reference": "JOS.4.8",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+4%3A8&version=KJV"
+    },
+    {
+      "reference": "JOS.4.9",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+4%3A9&version=KJV"
+    },
+    {
+      "reference": "JOS.4.10",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+4%3A10&version=KJV"
+    },
+    {
+      "reference": "JOS.4.18",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+4%3A18&version=KJV"
+    },
+    {
+      "reference": "JOS.7.13",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A13&version=KJV"
+    },
+    {
+      "reference": "JOS.7.21",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A21&version=KJV"
+    },
+    {
+      "reference": "JOS.7.23",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A23&version=KJV"
+    },
+    {
+      "reference": "JOS.8.13",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A13&version=KJV"
+    },
+    {
+      "reference": "JOS.8.22",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A22&version=KJV"
+    },
+    {
+      "reference": "JOS.10.13",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A13&version=KJV"
+    },
+    {
+      "reference": "JOS.13.9",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+13%3A9&version=KJV"
+    },
+    {
+      "reference": "JOS.13.16",
+      "expected": "midst",
+      "replacement": "middle",
+      "category": "archaic-location",
+      "reason": "Midst means middle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+13%3A16&version=KJV"
+    },
+    {
+      "reference": "JOS.2.15",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+2%3A15&version=KJV"
+    },
+    {
+      "reference": "JOS.7.7",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A7&version=KJV"
+    },
+    {
+      "reference": "JOS.9.16",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+9%3A16&version=KJV"
+    },
+    {
+      "reference": "JOS.12.2",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+12%3A2&version=KJV"
+    },
+    {
+      "reference": "JOS.12.4",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+12%3A4&version=KJV"
+    },
+    {
+      "reference": "JOS.16.10",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+16%3A10&version=KJV"
+    },
+    {
+      "reference": "JOS.19.47",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A47&version=KJV"
+    },
+    {
+      "reference": "JOS.19.50",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A50&version=KJV"
+    },
+    {
+      "reference": "JOS.21.43",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A43&version=KJV"
+    },
+    {
+      "reference": "JOS.22.33",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+22%3A33&version=KJV"
+    },
+    {
+      "reference": "JOS.24.2",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+24%3A2&version=KJV"
+    },
+    {
+      "reference": "JOS.24.7",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+24%3A7&version=KJV"
+    },
+    {
+      "reference": "JOS.24.8",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+24%3A8&version=KJV"
+    },
+    {
+      "reference": "JOS.24.18",
+      "expected": "dwelt",
+      "replacement": "lived",
+      "category": "archaic-residence-verb",
+      "reason": "Dwelt means lived or resided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+24%3A18&version=KJV"
+    },
+    {
+      "reference": "JOS.2.22",
+      "expected": "abode",
+      "replacement": "stayed",
+      "category": "archaic-residence-verb",
+      "reason": "Abode means stayed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+2%3A22&version=KJV"
+    },
+    {
+      "reference": "JOS.5.8",
+      "expected": "abode",
+      "replacement": "stayed",
+      "category": "archaic-residence-verb",
+      "reason": "Abode means stayed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+5%3A8&version=KJV"
+    },
+    {
+      "reference": "JOS.8.9",
+      "expected": "abode",
+      "replacement": "stayed",
+      "category": "archaic-residence-verb",
+      "reason": "Abode means stayed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A9&version=KJV"
+    },
+    {
+      "reference": "JOS.7.5",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+7%3A5&version=KJV"
+    },
+    {
+      "reference": "JOS.8.22",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A22&version=KJV"
+    },
+    {
+      "reference": "JOS.8.24",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+8%3A24&version=KJV"
+    },
+    {
+      "reference": "JOS.10.26",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A26&version=KJV"
+    },
+    {
+      "reference": "JOS.10.28",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A28&version=KJV"
+    },
+    {
+      "reference": "JOS.10.30",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A30&version=KJV"
+    },
+    {
+      "reference": "JOS.10.32",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A32&version=KJV"
+    },
+    {
+      "reference": "JOS.10.33",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A33&version=KJV"
+    },
+    {
+      "reference": "JOS.10.35",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A35&version=KJV"
+    },
+    {
+      "reference": "JOS.10.37",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A37&version=KJV"
+    },
+    {
+      "reference": "JOS.10.39",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+10%3A39&version=KJV"
+    },
+    {
+      "reference": "JOS.11.8",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A8&version=KJV"
+    },
+    {
+      "reference": "JOS.11.10",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A10&version=KJV"
+    },
+    {
+      "reference": "JOS.11.11",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A11&version=KJV"
+    },
+    {
+      "reference": "JOS.11.12",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A12&version=KJV"
+    },
+    {
+      "reference": "JOS.11.14",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A14&version=KJV"
+    },
+    {
+      "reference": "JOS.11.17",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A17&version=KJV"
+    },
+    {
+      "reference": "JOS.19.47",
+      "expected": "smote",
+      "replacement": "struck",
+      "category": "archaic-battle-verb",
+      "reason": "Smote means struck; complete-clause exceptions are handled separately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+19%3A47&version=KJV"
+    },
+    {
+      "reference": "JOS.20.3",
+      "expected": "unwittingly",
+      "replacement": "unintentionally",
+      "category": "archaic-legal-adverb",
+      "reason": "Unwittingly means without intent in the refuge-city law.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+20%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.14.4",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+14%3A4&version=KJV"
+    },
+    {
+      "reference": "JOS.21.3",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.21.8",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A8&version=KJV"
+    },
+    {
+      "reference": "JOS.21.13",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A13&version=KJV"
+    },
+    {
+      "reference": "JOS.21.14",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A14&version=KJV"
+    },
+    {
+      "reference": "JOS.21.15",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A15&version=KJV"
+    },
+    {
+      "reference": "JOS.21.16",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=KJV"
+    },
+    {
+      "reference": "JOS.21.17",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A17&version=KJV"
+    },
+    {
+      "reference": "JOS.21.18",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A18&version=KJV"
+    },
+    {
+      "reference": "JOS.21.19",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A19&version=KJV"
+    },
+    {
+      "reference": "JOS.21.21",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A21&version=KJV"
+    },
+    {
+      "reference": "JOS.21.22",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A22&version=KJV"
+    },
+    {
+      "reference": "JOS.21.23",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A23&version=KJV"
+    },
+    {
+      "reference": "JOS.21.24",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A24&version=KJV"
+    },
+    {
+      "reference": "JOS.21.25",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A25&version=KJV"
+    },
+    {
+      "reference": "JOS.21.26",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A26&version=KJV"
+    },
+    {
+      "reference": "JOS.21.27",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A27&version=KJV"
+    },
+    {
+      "reference": "JOS.21.28",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A28&version=KJV"
+    },
+    {
+      "reference": "JOS.21.29",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A29&version=KJV"
+    },
+    {
+      "reference": "JOS.21.30",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A30&version=KJV"
+    },
+    {
+      "reference": "JOS.21.31",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A31&version=KJV"
+    },
+    {
+      "reference": "JOS.21.32",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=KJV"
+    },
+    {
+      "reference": "JOS.21.33",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A33&version=KJV"
+    },
+    {
+      "reference": "JOS.21.34",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A34&version=KJV"
+    },
+    {
+      "reference": "JOS.21.35",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A35&version=KJV"
+    },
+    {
+      "reference": "JOS.21.36",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A36&version=KJV"
+    },
+    {
+      "reference": "JOS.21.37",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A37&version=KJV"
+    },
+    {
+      "reference": "JOS.21.38",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A38&version=KJV"
+    },
+    {
+      "reference": "JOS.21.39",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A39&version=KJV"
+    },
+    {
+      "reference": "JOS.21.41",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A41&version=KJV"
+    },
+    {
+      "reference": "JOS.21.42",
+      "expected": "suburbs",
+      "replacement": "pasturelands",
+      "category": "false-friend-land-term",
+      "reason": "Suburbs denotes pasturelands surrounding the Levitical cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+21%3A42&version=KJV"
+    },
+    {
+      "reference": "JOS.15.19",
+      "expected": "nether",
+      "replacement": "lower",
+      "category": "archaic-geographic-term",
+      "reason": "Nether means lower in these place descriptions.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A19&version=KJV"
+    },
+    {
+      "reference": "JOS.16.3",
+      "expected": "nether",
+      "replacement": "lower",
+      "category": "archaic-geographic-term",
+      "reason": "Nether means lower in these place descriptions.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+16%3A3&version=KJV"
+    },
+    {
+      "reference": "JOS.18.13",
+      "expected": "nether",
+      "replacement": "lower",
+      "category": "archaic-geographic-term",
+      "reason": "Nether means lower in these place descriptions.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+18%3A13&version=KJV"
+    },
+    {
+      "reference": "JOS.11.10",
+      "expected": "beforetime",
+      "replacement": "formerly",
+      "category": "archaic-time",
+      "reason": "Beforetime means formerly.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+11%3A10&version=KJV"
+    },
+    {
+      "reference": "JOS.20.5",
+      "expected": "beforetime",
+      "replacement": "formerly",
+      "category": "archaic-time",
+      "reason": "Beforetime means formerly.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+20%3A5&version=KJV"
+    },
+    {
+      "reference": "JOS.15.1",
+      "expected": "uttermost",
+      "replacement": "farthest",
+      "category": "archaic-geographic-term",
+      "reason": "Uttermost means farthest or outermost in the boundary description.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A1&version=KJV"
+    },
+    {
+      "reference": "JOS.15.5",
+      "expected": "uttermost",
+      "replacement": "farthest",
+      "category": "archaic-geographic-term",
+      "reason": "Uttermost means farthest or outermost in the boundary description.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A5&version=KJV"
+    },
+    {
+      "reference": "JOS.15.21",
+      "expected": "uttermost",
+      "replacement": "farthest",
+      "category": "archaic-geographic-term",
+      "reason": "Uttermost means farthest or outermost in the boundary description.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Joshua+15%3A21&version=KJV"
     }
   ],
   "pending": [
@@ -104584,6 +106672,102 @@
         {
           "label": "Complete-verse KJV and NIV contextual review",
           "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A29&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "joshua-kjv-v8-1",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "accursed / accursed thing",
+      "proposedOptions": [
+        "Retain with a note",
+        "Modernize after textual review"
+      ],
+      "reason": "The phrase combines devotion to the LORD with destruction and should be modernized as one coherent passage.",
+      "references": [
+        {
+          "book": "JOS",
+          "chapter": 6,
+          "verse": 17
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A17&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "joshua-kjv-v8-2",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "trespass in the accursed thing",
+      "proposedOptions": [
+        "Retain with a note",
+        "Modernize after textual review"
+      ],
+      "reason": "The covenant offense and the devoted property must be explained together rather than by isolated word replacement.",
+      "references": [
+        {
+          "book": "JOS",
+          "chapter": 7,
+          "verse": 1
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A1&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "joshua-kjv-v8-3",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "Sun, stand thou still upon Gibeon",
+      "proposedOptions": [
+        "Retain with a note",
+        "Modernize after textual review"
+      ],
+      "reason": "The poetic and cosmological wording should remain intact unless an explanatory note is approved.",
+      "references": [
+        {
+          "book": "JOS",
+          "chapter": 10,
+          "verse": 12
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A12&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "joshua-kjv-v8-4",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "a south land",
+      "proposedOptions": [
+        "Retain with a note",
+        "Modernize after textual review"
+      ],
+      "reason": "The request concerns dry land and water sources; the exact modern wording needs a full-clause review.",
+      "references": [
+        {
+          "book": "JOS",
+          "chapter": 15,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A18&version=KJV%3BNIV"
         }
       ]
     }
