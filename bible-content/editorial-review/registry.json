@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T07:00:00.000Z",
+  "updatedAt": "2026-09-12T11:00:00.000Z",
   "sourceVersionId": "RV1909",
-  "activeChangeSet": "editorial-changes/v21.json",
+  "activeChangeSet": "editorial-changes/v22.json",
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs",
   "pending": [
@@ -6619,6 +6619,394 @@
         {
           "label": "Revisión contextual por versículo",
           "url": "https://www.biblegateway.com/quicksearch/?quicksearch=allegar&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-1",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "conocer",
+      "proposedOptions": [
+        "no tuvo relaciones con ella",
+        "conservar con nota"
+      ],
+      "reason": "Mateo 1:25 usa conocer como eufemismo marital; debe preservarse el alcance exacto de hasta que.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 1,
+          "verse": 25
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-2",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "Raca",
+      "proposedOptions": [
+        "conservar con nota",
+        "insulto"
+      ],
+      "reason": "Mateo 5:22 translitera un insulto arameo; sustituirlo borraría la progresión retórica si no se explica.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 22
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-3",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "fornicación",
+      "proposedOptions": [
+        "inmoralidad sexual",
+        "relación sexual ilícita",
+        "conservar"
+      ],
+      "reason": "Mateo 5:32 y 19:9 son textos doctrinalmente sensibles; porneia requiere una decisión editorial explícita.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 32
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 9
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-4",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "ojo bueno",
+      "proposedOptions": [
+        "ojo sano",
+        "ojo generoso",
+        "conservar imagen"
+      ],
+      "reason": "Mateo 6:22-23 puede expresar salud visual y también generosidad; no se debe escoger un solo matiz automáticamente.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 23
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-5",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "reino se hace fuerza",
+      "proposedOptions": [
+        "avanza con fuerza",
+        "sufre violencia",
+        "conservar con nota"
+      ],
+      "reason": "Mateo 11:12 admite lecturas activas y pasivas; la modernización exige decisión exegética.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 12
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-6",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "infiernos",
+      "proposedOptions": [
+        "Hades",
+        "lugar de los muertos",
+        "conservar"
+      ],
+      "reason": "Mateo 11:23 y 16:18 usan Hades, mientras otros pasajes usan Gehenna; no deben colapsarse.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-7",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "blasfemia contra el Espíritu",
+      "proposedOptions": [
+        "conservar íntegro"
+      ],
+      "reason": "Mateo 12:31-32 es doctrinal; solo necesita claridad circundante, no paráfrasis automática.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 31
+        },
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 32
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-8",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "iniquidad",
+      "proposedOptions": [
+        "maldad",
+        "desobediencia a la ley",
+        "conservar"
+      ],
+      "reason": "Mateo alterna maldad general y práctica contraria a la ley; cada referencia requiere análisis.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 41
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 28
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-9",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "atar y desatar",
+      "proposedOptions": [
+        "conservar con nota",
+        "prohibir y permitir"
+      ],
+      "reason": "Mateo 16:19 y 18:18 contienen una fórmula jurídica y eclesial cuya paráfrasis puede estrechar el sentido.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 19
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-10",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "regeneración",
+      "proposedOptions": [
+        "renovación de todas las cosas",
+        "nuevo mundo",
+        "conservar"
+      ],
+      "reason": "Mateo 19:28 usa palingenesia en un contexto escatológico, no solo de conversión individual.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 28
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-11",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "cuerpo y águilas",
+      "proposedOptions": [
+        "cadáver y buitres",
+        "conservar imagen"
+      ],
+      "reason": "Mateo 24:28 contiene vocabulario e imagen discutidos; una especie moderna no debe imponerse sin decisión editorial.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 28
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-12",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "cortar por medio",
+      "proposedOptions": [
+        "castigar severamente",
+        "cortar en dos",
+        "conservar"
+      ],
+      "reason": "Mateo 24:51 tiene una imagen de juicio fuerte; suavizarla o literalizarla cambia el efecto.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 51
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-13",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "verdugos",
+      "proposedOptions": [
+        "carceleros",
+        "torturadores",
+        "conservar"
+      ],
+      "reason": "Mateo 18:34 usa un término que puede referirse a carceleros que aplican tormento; una sola equivalencia puede perder el matiz.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 34
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "matthew-v22-14",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "texto tradicional añadido",
+      "proposedOptions": [
+        "conservar por política textual",
+        "marcar variante"
+      ],
+      "reason": "Mateo 17:21, 18:11 y cláusulas de 20:22-23 pertenecen a la tradición textual recibida; no se alteran en una revisión léxica.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 17,
+          "verse": 21
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 11
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 23
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual de Mateo",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
         }
       ]
     }

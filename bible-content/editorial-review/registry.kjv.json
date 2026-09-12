@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T07:05:00.000Z",
+  "updatedAt": "2026-09-12T12:15:00.000Z",
   "sourceVersionId": "KJV",
-  "activeContentVersion": 9,
+  "activeContentVersion": 10,
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/verify_kjv_reading_2026.mjs",
   "applied": [
@@ -24198,6 +24198,2646 @@
       "category": "grammar-duplicate-preposition",
       "reason": "The source preposition is included so the modern location phrase contains only one from.",
       "evidenceUrl": "https://www.biblegateway.com/passage/?search=RUT+2%3A8&version=KJV"
+    },
+    {
+      "reference": "MAT.1.2",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A2&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.3",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A3&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.4",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A4&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.5",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A5&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.6",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.7",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.8",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.9",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A9&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.10",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A10&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.11",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A11&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.12",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A12&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.13",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A13&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.14",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A14&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.15",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.16",
+      "expected": "begat",
+      "replacement": "fathered",
+      "category": "archaic-genealogy-verb",
+      "reason": "Begat means fathered in Matthew's genealogy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A16&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.18",
+      "expected": "on this wise",
+      "replacement": "in this way",
+      "category": "archaic-narrative-phrase",
+      "reason": "On this wise means in this way.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A18&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.18",
+      "expected": "espoused to Joseph",
+      "replacement": "pledged to marry Joseph",
+      "category": "historical-betrothal-phrase",
+      "reason": "Espoused describes Mary's binding betrothal to Joseph before they lived together.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A18&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.19",
+      "expected": "put her away",
+      "replacement": "divorce her",
+      "category": "archaic-divorce-phrase",
+      "reason": "Put her away means divorce her in this legal-marital context.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A19&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.20",
+      "expected": "Holy Ghost",
+      "replacement": "Holy Spirit",
+      "category": "historical-spirit-term",
+      "reason": "Holy Ghost is modernized to Holy Spirit without changing the referent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A20&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.21",
+      "expected": "bring forth a son",
+      "replacement": "give birth to a son",
+      "category": "archaic-birth-phrase",
+      "reason": "Bring forth means give birth in this announcement.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A21&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.23",
+      "expected": "bring forth a son",
+      "replacement": "give birth to a son",
+      "category": "archaic-birth-phrase",
+      "reason": "Bring forth means give birth in this prophecy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A23&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.24",
+      "expected": "bidden him",
+      "replacement": "commanded him",
+      "category": "archaic-command-verb",
+      "reason": "Bidden means commanded in the angel's instruction.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.2.7",
+      "expected": "enquired of them diligently",
+      "replacement": "carefully learned from them",
+      "category": "archaic-inquiry-phrase",
+      "reason": "Herod carefully determined the star's appearing time from the visitors.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+2%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.2.16",
+      "expected": "exceeding wroth",
+      "replacement": "furious",
+      "category": "archaic-anger-phrase",
+      "reason": "Exceeding wroth means furious.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+2%3A16&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.2.16",
+      "expected": "slew all the children",
+      "replacement": "killed all the children",
+      "category": "archaic-kill-verb",
+      "reason": "Slew means killed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+2%3A16&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.2.16",
+      "expected": "coasts thereof",
+      "replacement": "surrounding region",
+      "category": "false-friend-region",
+      "reason": "Coasts means the surrounding region, not a seacoast.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+2%3A16&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.3.4",
+      "expected": "raiment",
+      "replacement": "clothing",
+      "category": "archaic-clothing-term",
+      "reason": "Raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+3%3A4&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.3.4",
+      "expected": "about his loins",
+      "replacement": "around his waist",
+      "category": "archaic-body-term",
+      "reason": "Loins identifies the waist in this clothing description.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+3%3A4&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.3.4",
+      "expected": "meat was locusts",
+      "replacement": "food was locusts",
+      "category": "false-friend-food-term",
+      "reason": "Meat means food generally here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+3%3A4&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.3.8",
+      "expected": "fruits meet for repentance",
+      "replacement": "fruit consistent with repentance",
+      "category": "archaic-repentance-phrase",
+      "reason": "Meet means appropriate or consistent with repentance.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+3%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.3.15",
+      "expected": "Suffer it to be so now",
+      "replacement": "Allow it to be so now",
+      "category": "archaic-permission-verb",
+      "reason": "Suffer means allow in Jesus' reply.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+3%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.3.15",
+      "expected": "Then he suffered him",
+      "replacement": "Then he allowed him",
+      "category": "archaic-permission-verb",
+      "reason": "Suffered means allowed in the narrative response.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+3%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.3.16",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+3%3A16&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.4.8",
+      "expected": "sheweth him",
+      "replacement": "shows him",
+      "category": "historical-spelling",
+      "reason": "Sheweth means shows.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+4%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.4.20",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+4%3A20&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.4.21",
+      "expected": "in a ship",
+      "replacement": "in a boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the fishing boat used on the Sea of Galilee.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+4%3A21&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.4.24",
+      "expected": "divers diseases",
+      "replacement": "various diseases",
+      "category": "false-friend-variety-term",
+      "reason": "Divers means various.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+4%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.4.24",
+      "expected": "possessed with devils",
+      "replacement": "demon-possessed",
+      "category": "historical-demon-phrase",
+      "reason": "Devils refers to demons in this healing list.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+4%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.4.24",
+      "expected": "lunatick",
+      "replacement": "having seizures",
+      "category": "obsolete-medical-term",
+      "reason": "Lunatick is an obsolete diagnosis; the immediate list describes a seizure condition.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+4%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.4.24",
+      "expected": "had the palsy",
+      "replacement": "were paralyzed",
+      "category": "obsolete-medical-term",
+      "reason": "Palsy denotes paralysis here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+4%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.13",
+      "expected": "lost his savour",
+      "replacement": "lost its flavor",
+      "category": "false-friend-taste-term",
+      "reason": "Savour means flavor in the salt image.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A13&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.15",
+      "expected": "under a bushel",
+      "replacement": "under a basket",
+      "category": "historical-container-term",
+      "reason": "Bushel denotes the measuring container covering the lamp.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.15",
+      "expected": "on a candlestick",
+      "replacement": "on a lampstand",
+      "category": "false-friend-lamp-term",
+      "reason": "Candlestick denotes a lampstand for an oil lamp.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.26",
+      "expected": "uttermost farthing",
+      "replacement": "last small coin",
+      "category": "historical-coin-term",
+      "reason": "The phrase means the final coin owed, not a modern currency amount.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A26&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.29",
+      "expected": "eye offend thee",
+      "replacement": "eye causes thee to sin",
+      "category": "false-friend-stumble-verb",
+      "reason": "Offend means cause to stumble into sin here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A29&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.30",
+      "expected": "hand offend thee",
+      "replacement": "hand causes thee to sin",
+      "category": "false-friend-stumble-verb",
+      "reason": "Offend means cause to stumble into sin here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A30&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.31",
+      "expected": "put away his wife",
+      "replacement": "divorce his wife",
+      "category": "archaic-divorce-phrase",
+      "reason": "Put away means divorce in this legal-marital context.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A31&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.31",
+      "expected": "writing of divorcement",
+      "replacement": "certificate of divorce",
+      "category": "archaic-legal-phrase",
+      "reason": "The phrase names the written divorce certificate.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A31&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.32",
+      "expected": "put away his wife",
+      "replacement": "divorce his wife",
+      "category": "archaic-divorce-phrase",
+      "reason": "Put away means divorce in this legal-marital context.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A32&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.41",
+      "expected": "go with him twain",
+      "replacement": "go with him two",
+      "category": "archaic-number-term",
+      "reason": "Twain means two.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A41&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.46",
+      "expected": "publicans",
+      "replacement": "tax collectors",
+      "category": "historical-tax-term",
+      "reason": "Publicans were tax collectors.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A46&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.5.47",
+      "expected": "publicans",
+      "replacement": "tax collectors",
+      "category": "historical-tax-term",
+      "reason": "Publicans were tax collectors.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+5%3A47&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.6.5",
+      "expected": "corners of the streets",
+      "replacement": "street corners",
+      "category": "grammar-word-order",
+      "reason": "The modern order preserves the public location.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+6%3A5&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.6.6",
+      "expected": "enter into thy closet",
+      "replacement": "enter thy private room",
+      "category": "false-friend-private-room",
+      "reason": "Closet means a private room for prayer.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+6%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.6.7",
+      "expected": "vain repetitions",
+      "replacement": "meaningless repetitions",
+      "category": "archaic-prayer-phrase",
+      "reason": "Vain describes empty or meaningless repetition.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+6%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.6.24",
+      "expected": "mammon",
+      "replacement": "wealth",
+      "category": "historical-wealth-term",
+      "reason": "Mammon personifies money or wealth in the contrast with serving God.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+6%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.6.25",
+      "expected": "Take no thought for your life",
+      "replacement": "Do not worry about your life",
+      "category": "false-friend-worry-phrase",
+      "reason": "Take no thought means do not worry, not do not plan or think.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+6%3A25&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.6.25",
+      "expected": "life more than meat",
+      "replacement": "life more than food",
+      "category": "false-friend-food-term",
+      "reason": "Meat means food generally here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+6%3A25&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.6.25",
+      "expected": "body than raiment",
+      "replacement": "body than clothing",
+      "category": "archaic-clothing-term",
+      "reason": "Raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+6%3A25&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.6.26",
+      "expected": "fowls of the air",
+      "replacement": "birds of the air",
+      "category": "archaic-bird-term",
+      "reason": "Fowls means birds.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+6%3A26&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.6.28",
+      "expected": "take ye thought for raiment",
+      "replacement": "worry about clothing",
+      "category": "archaic-worry-phrase",
+      "reason": "Take thought means worry, and raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+6%3A28&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.6.34",
+      "expected": "Take therefore no thought for the morrow",
+      "replacement": "Therefore do not worry about tomorrow",
+      "category": "archaic-worry-phrase",
+      "reason": "The morrow means tomorrow and take no thought means do not worry.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+6%3A34&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.7.3",
+      "expected": "mote that is in thy brother",
+      "replacement": "speck that is in thy brother",
+      "category": "false-friend-small-object",
+      "reason": "Mote means a tiny speck in the eye.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+7%3A3&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.7.5",
+      "expected": "mote out of thy brother",
+      "replacement": "speck out of thy brother",
+      "category": "false-friend-small-object",
+      "reason": "Mote means a tiny speck in the eye.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+7%3A5&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.7.6",
+      "expected": "pearls before swine",
+      "replacement": "pearls before pigs",
+      "category": "historical-animal-term",
+      "reason": "Swine means pigs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+7%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.7.13",
+      "expected": "strait gate",
+      "replacement": "narrow gate",
+      "category": "false-friend-width-term",
+      "reason": "Strait means narrow in this gate image.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+7%3A13&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.7.14",
+      "expected": "strait is the gate",
+      "replacement": "narrow is the gate",
+      "category": "false-friend-width-term",
+      "reason": "Strait means narrow in this gate image.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+7%3A14&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.7.15",
+      "expected": "ravening wolves",
+      "replacement": "ferocious wolves",
+      "category": "archaic-violence-term",
+      "reason": "Ravening describes violently predatory wolves.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+7%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.7.22",
+      "expected": "cast out devils",
+      "replacement": "cast out demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons in this exorcism.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+7%3A22&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.6",
+      "expected": "sick of the palsy",
+      "replacement": "paralyzed",
+      "category": "obsolete-medical-term",
+      "reason": "Palsy denotes paralysis here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.21",
+      "expected": "suffer me first",
+      "replacement": "allow me first",
+      "category": "archaic-permission-verb",
+      "reason": "Suffer means allow in the disciple's request.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A21&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.23",
+      "expected": "entered into a ship",
+      "replacement": "entered a boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat used on the lake.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A23&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.24",
+      "expected": "great tempest",
+      "replacement": "great storm",
+      "category": "archaic-storm-term",
+      "reason": "Tempest means storm.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.24",
+      "expected": "the ship was covered",
+      "replacement": "the boat was covered",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat used on the lake.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.28",
+      "expected": "possessed with devils",
+      "replacement": "demon-possessed",
+      "category": "historical-demon-phrase",
+      "reason": "Devils refers to demons here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A28&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.31",
+      "expected": "devils besought him",
+      "replacement": "demons begged him",
+      "category": "archaic-demon-phrase",
+      "reason": "Devils refers to demons and besought means begged.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A31&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.31",
+      "expected": "herd of swine",
+      "replacement": "herd of pigs",
+      "category": "historical-animal-term",
+      "reason": "Swine means pigs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A31&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.32",
+      "expected": "herd of swine",
+      "replacement": "herd of pigs",
+      "category": "historical-animal-term",
+      "reason": "Swine means pigs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A32&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.34",
+      "expected": "depart out of their coasts",
+      "replacement": "leave their region",
+      "category": "false-friend-region",
+      "reason": "Coasts means their region, not a seacoast.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A34&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.2",
+      "expected": "sick of the palsy",
+      "replacement": "paralyzed",
+      "category": "obsolete-medical-term",
+      "reason": "Palsy denotes paralysis here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A2&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.6",
+      "expected": "sick of the palsy",
+      "replacement": "paralyzed",
+      "category": "obsolete-medical-term",
+      "reason": "Palsy denotes paralysis here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.9",
+      "expected": "receipt of custom",
+      "replacement": "tax collection booth",
+      "category": "historical-tax-phrase",
+      "reason": "The phrase names Matthew's tax collection booth.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A9&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.10",
+      "expected": "sat at meat",
+      "replacement": "was dining",
+      "category": "false-friend-meal-phrase",
+      "reason": "Sat at meat means was eating a meal.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A10&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.10",
+      "expected": "publicans",
+      "replacement": "tax collectors",
+      "category": "historical-tax-term",
+      "reason": "Publicans were tax collectors.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A10&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.11",
+      "expected": "publicans",
+      "replacement": "tax collectors",
+      "category": "historical-tax-term",
+      "reason": "Publicans were tax collectors.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A11&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.16",
+      "expected": "the rent is made worse",
+      "replacement": "the tear is made worse",
+      "category": "false-friend-tear-term",
+      "reason": "Rent means a tear in the garment.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A16&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.17",
+      "expected": "old bottles",
+      "replacement": "old wineskins",
+      "category": "false-friend-container-term",
+      "reason": "Bottles here were skin containers for wine.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A17&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.17",
+      "expected": "new bottles",
+      "replacement": "new wineskins",
+      "category": "false-friend-container-term",
+      "reason": "Bottles here were skin containers for wine.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A17&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.20",
+      "expected": "issue of blood",
+      "replacement": "chronic bleeding",
+      "category": "historical-medical-phrase",
+      "reason": "Issue of blood describes the woman's long-term bleeding.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A20&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.23",
+      "expected": "minstrels",
+      "replacement": "flute players",
+      "category": "historical-funeral-musician",
+      "reason": "The minstrels are the musicians playing pipes at the mourning scene.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A23&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.30",
+      "expected": "straitly charged them",
+      "replacement": "sternly warned them",
+      "category": "archaic-warning-phrase",
+      "reason": "Straitly charged means sternly warned.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A30&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.32",
+      "expected": "dumb man",
+      "replacement": "mute man",
+      "category": "historical-disability-term",
+      "reason": "Dumb means unable to speak in this account.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A32&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.34",
+      "expected": "casteth out devils",
+      "replacement": "casts out demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A34&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.37",
+      "expected": "labourers",
+      "replacement": "workers",
+      "category": "archaic-worker-term",
+      "reason": "Labourers means workers in the harvest image.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A37&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.38",
+      "expected": "labourers",
+      "replacement": "workers",
+      "category": "archaic-worker-term",
+      "reason": "Labourers means workers in the harvest image.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A38&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.10.8",
+      "expected": "cast out devils",
+      "replacement": "cast out demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+10%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.10.10",
+      "expected": "scrip for your journey",
+      "replacement": "bag for your journey",
+      "category": "archaic-travel-bag",
+      "reason": "Scrip means a travel bag.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+10%3A10&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.10.10",
+      "expected": "nor yet staves",
+      "replacement": "nor a staff",
+      "category": "archaic-travel-staff",
+      "reason": "Staves is the historical plural of staff; the instruction concerns carrying a staff.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+10%3A10&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.10.10",
+      "expected": "workman is worthy of his meat",
+      "replacement": "worker is worthy of his food",
+      "category": "archaic-work-and-food-phrase",
+      "reason": "Workman means worker and meat means food generally.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+10%3A10&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.10.29",
+      "expected": "sold for a farthing",
+      "replacement": "sold for a small coin",
+      "category": "historical-coin-term",
+      "reason": "Farthing names a very small ancient coin in the comparison.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+10%3A29&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.10.35",
+      "expected": "set a man at variance against his father",
+      "replacement": "set a man against his father",
+      "category": "archaic-conflict-phrase",
+      "reason": "At variance means in conflict or opposition.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+10%3A35&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.6",
+      "expected": "offended in me",
+      "replacement": "caused to stumble because of me",
+      "category": "false-friend-stumble-phrase",
+      "reason": "Offended means caused to stumble or fall away because of Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.8",
+      "expected": "soft raiment",
+      "replacement": "fine clothing",
+      "category": "archaic-clothing-phrase",
+      "reason": "Soft raiment means fine clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.17",
+      "expected": "piped unto you",
+      "replacement": "played the pipe for you",
+      "category": "archaic-music-verb",
+      "reason": "Piped means played a pipe.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A17&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.17",
+      "expected": "mourned unto you",
+      "replacement": "sang a dirge for you",
+      "category": "archaic-mourning-phrase",
+      "reason": "The parallel line describes singing a funeral lament.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A17&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.19",
+      "expected": "winebibber",
+      "replacement": "drunkard",
+      "category": "archaic-person-term",
+      "reason": "Winebibber means drunkard.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A19&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.19",
+      "expected": "publicans",
+      "replacement": "tax collectors",
+      "category": "historical-tax-term",
+      "reason": "Publicans were tax collectors.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A19&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.20",
+      "expected": "upbraid the cities",
+      "replacement": "denounce the cities",
+      "category": "archaic-rebuke-verb",
+      "reason": "Upbraid means strongly rebuke or denounce.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A20&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.20",
+      "expected": "mighty works",
+      "replacement": "miracles",
+      "category": "archaic-miracle-phrase",
+      "reason": "Mighty works refers to Jesus' miracles in these towns.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A20&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.21",
+      "expected": "mighty works",
+      "replacement": "miracles",
+      "category": "archaic-miracle-phrase",
+      "reason": "Mighty works refers to Jesus' miracles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A21&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.21",
+      "expected": "sackcloth and ashes",
+      "replacement": "mourning clothes and ashes",
+      "category": "historical-mourning-term",
+      "reason": "Sackcloth was rough clothing used as a sign of mourning and repentance.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A21&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.23",
+      "expected": "mighty works",
+      "replacement": "miracles",
+      "category": "archaic-miracle-phrase",
+      "reason": "Mighty works refers to Jesus' miracles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A23&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.28",
+      "expected": "labour and are heavy laden",
+      "replacement": "are weary and burdened",
+      "category": "archaic-burden-phrase",
+      "reason": "The invitation addresses people who are weary and burdened.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A28&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.10",
+      "expected": "hand withered",
+      "replacement": "disabled hand",
+      "category": "historical-disability-phrase",
+      "reason": "Withered describes the man's disabled hand.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A10&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.16",
+      "expected": "charged them",
+      "replacement": "warned them",
+      "category": "archaic-warning-verb",
+      "reason": "Charged means warned or ordered here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A16&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.20",
+      "expected": "smoking flax",
+      "replacement": "smoldering wick",
+      "category": "false-friend-lamp-image",
+      "reason": "Smoking flax denotes a dimly burning lamp wick.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A20&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.29",
+      "expected": "spoil his goods",
+      "replacement": "carry off his possessions",
+      "category": "false-friend-plunder-phrase",
+      "reason": "Spoil means plunder or carry off possessions.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A29&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.29",
+      "expected": "spoil his house",
+      "replacement": "plunder his house",
+      "category": "false-friend-plunder-phrase",
+      "reason": "Spoil means plunder.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A29&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.36",
+      "expected": "idle word",
+      "replacement": "careless word",
+      "category": "false-friend-speech-term",
+      "reason": "Idle means careless or empty in this warning about speech.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A36&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.40",
+      "expected": "whale’s belly",
+      "replacement": "great fish's belly",
+      "category": "historical-animal-term",
+      "reason": "Matthew's comparison refers to Jonah's great fish; whale is overly specific in current usage.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A40&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.42",
+      "expected": "uttermost parts",
+      "replacement": "farthest parts",
+      "category": "archaic-location-term",
+      "reason": "Uttermost means farthest.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A42&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.2",
+      "expected": "went into a ship",
+      "replacement": "went into a boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes a boat on the lake.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A2&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.4",
+      "expected": "fowls came",
+      "replacement": "birds came",
+      "category": "archaic-bird-term",
+      "reason": "Fowls means birds.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A4&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.21",
+      "expected": "by and by he is offended",
+      "replacement": "he immediately falls away",
+      "category": "archaic-stumble-phrase",
+      "reason": "By and by means immediately here, and offended means falls away under persecution.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A21&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.25",
+      "expected": "tares among the wheat",
+      "replacement": "weeds among the wheat",
+      "category": "historical-weed-term",
+      "reason": "Tares are weeds resembling wheat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A25&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.27",
+      "expected": "servants of the householder",
+      "replacement": "landowner's servants",
+      "category": "archaic-landowner-term",
+      "reason": "Householder means the owner of the field.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A27&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.27",
+      "expected": "hath it tares",
+      "replacement": "has it weeds",
+      "category": "historical-weed-term",
+      "reason": "Tares are weeds resembling wheat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A27&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.33",
+      "expected": "leaven",
+      "replacement": "yeast",
+      "category": "historical-baking-term",
+      "reason": "Leaven means yeast in this baking image.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A33&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.33",
+      "expected": "three measures of meal",
+      "replacement": "three measures of flour",
+      "category": "false-friend-flour-term",
+      "reason": "Meal means flour in this baking image.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A33&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.36",
+      "expected": "tares of the field",
+      "replacement": "weeds of the field",
+      "category": "historical-weed-term",
+      "reason": "Tares are weeds resembling wheat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A36&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.38",
+      "expected": "the tares are",
+      "replacement": "the weeds are",
+      "category": "historical-weed-term",
+      "reason": "Tares are weeds in Jesus' explanation of the parable.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A38&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.41",
+      "expected": "all things that offend",
+      "replacement": "everything that causes sin",
+      "category": "false-friend-stumble-phrase",
+      "reason": "Offend means cause sin or stumbling in this judgment statement.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A41&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.49",
+      "expected": "sever the wicked",
+      "replacement": "separate the wicked",
+      "category": "archaic-separate-verb",
+      "reason": "Sever means separate here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A49&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.54",
+      "expected": "mighty works",
+      "replacement": "miracles",
+      "category": "archaic-miracle-phrase",
+      "reason": "Mighty works refers to Jesus' miracles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A54&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.58",
+      "expected": "mighty works",
+      "replacement": "miracles",
+      "category": "archaic-miracle-phrase",
+      "reason": "Mighty works refers to Jesus' miracles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A58&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.14.9",
+      "expected": "sat with him at meat",
+      "replacement": "dined with him",
+      "category": "archaic-meal-phrase",
+      "reason": "Sitting at meat means dining.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+14%3A9&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.14.15",
+      "expected": "buy themselves victuals",
+      "replacement": "buy themselves food",
+      "category": "archaic-food-term",
+      "reason": "Victuals means food or provisions.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+14%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.14.22",
+      "expected": "straightway Jesus constrained his disciples",
+      "replacement": "immediately Jesus made his disciples",
+      "category": "archaic-command-phrase",
+      "reason": "Straightway means immediately and constrained means made or compelled in this instruction.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+14%3A22&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.14.22",
+      "expected": "get into a ship",
+      "replacement": "get into a boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes a boat on the lake.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+14%3A22&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.14.24",
+      "expected": "the ship",
+      "replacement": "the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes a boat on the lake.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+14%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.14.25",
+      "expected": "fourth watch of the night",
+      "replacement": "hours before dawn",
+      "category": "historical-night-watch",
+      "reason": "The fourth Roman watch was the final period before dawn.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+14%3A25&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.14.27",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+14%3A27&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.14.30",
+      "expected": "wind boisterous",
+      "replacement": "strong wind",
+      "category": "archaic-wind-term",
+      "reason": "Boisterous describes the wind as strong or violent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+14%3A30&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.14.36",
+      "expected": "besought him",
+      "replacement": "begged him",
+      "category": "archaic-request-verb",
+      "reason": "Besought means begged.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+14%3A36&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.2",
+      "expected": "transgress the tradition",
+      "replacement": "break the tradition",
+      "category": "archaic-break-verb",
+      "reason": "Transgress means break or violate.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A2&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.3",
+      "expected": "transgress the commandment",
+      "replacement": "break the commandment",
+      "category": "archaic-break-verb",
+      "reason": "Transgress means break or violate.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A3&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.17",
+      "expected": "cast out into the draught",
+      "replacement": "eliminated from the body",
+      "category": "false-friend-bodily-phrase",
+      "reason": "Draught refers to bodily waste disposal, not a drink or air current.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A17&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.21",
+      "expected": "coasts of Tyre and Sidon",
+      "replacement": "region of Tyre and Sidon",
+      "category": "false-friend-region",
+      "reason": "Coasts means region or vicinity.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A21&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.22",
+      "expected": "same coasts",
+      "replacement": "same region",
+      "category": "false-friend-region",
+      "reason": "Coasts means region or vicinity.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A22&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.22",
+      "expected": "grievously vexed with a devil",
+      "replacement": "terribly tormented by a demon",
+      "category": "archaic-demon-phrase",
+      "reason": "The daughter is suffering terribly under demonic oppression.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A22&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.23",
+      "expected": "besought him",
+      "replacement": "begged him",
+      "category": "archaic-request-verb",
+      "reason": "Besought means begged.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A23&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.29",
+      "expected": "came nigh unto",
+      "replacement": "came near",
+      "category": "archaic-location-phrase",
+      "reason": "Nigh means near.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A29&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.30",
+      "expected": "dumb, maimed",
+      "replacement": "mute, disabled",
+      "category": "historical-disability-terms",
+      "reason": "Dumb means unable to speak and maimed describes disability here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A30&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.37",
+      "expected": "broken meat",
+      "replacement": "broken pieces",
+      "category": "false-friend-leftovers-term",
+      "reason": "Meat here denotes pieces of bread or food left over.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A37&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.39",
+      "expected": "coasts of Magdala",
+      "replacement": "region of Magdala",
+      "category": "false-friend-region",
+      "reason": "Coasts means region or vicinity.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A39&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.16.1",
+      "expected": "tempting desired him",
+      "replacement": "testing him, asked him",
+      "category": "false-friend-test-verb",
+      "reason": "Tempting means testing Jesus with a demand for a sign.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+16%3A1&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.16.13",
+      "expected": "coasts of Caesarea Philippi",
+      "replacement": "region of Caesarea Philippi",
+      "category": "false-friend-region",
+      "reason": "Coasts means region or vicinity.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+16%3A13&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.16.20",
+      "expected": "charged he his disciples",
+      "replacement": "warned his disciples",
+      "category": "archaic-warning-verb",
+      "reason": "Charged means warned or instructed here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+16%3A20&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.16.23",
+      "expected": "an offence unto me",
+      "replacement": "a stumbling block to me",
+      "category": "false-friend-stumble-term",
+      "reason": "Offence means a stumbling block here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+16%3A23&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.16.23",
+      "expected": "savourest not the things",
+      "replacement": "do not have in mind the things",
+      "category": "archaic-thought-phrase",
+      "reason": "Savourest means set the mind on or have in mind, not taste.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+16%3A23&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.17.2",
+      "expected": "raiment was white",
+      "replacement": "clothing was white",
+      "category": "archaic-clothing-term",
+      "reason": "Raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+17%3A2&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.17.4",
+      "expected": "three tabernacles",
+      "replacement": "three shelters",
+      "category": "historical-shelter-term",
+      "reason": "Tabernacles means temporary shelters in Peter's proposal.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+17%3A4&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.17.6",
+      "expected": "sore afraid",
+      "replacement": "very afraid",
+      "category": "archaic-intensity-adverb",
+      "reason": "Sore means very in this fear phrase.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+17%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.17.9",
+      "expected": "charged them",
+      "replacement": "instructed them",
+      "category": "archaic-command-verb",
+      "reason": "Charged means instructed or commanded here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+17%3A9&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.17.12",
+      "expected": "whatsoever they listed",
+      "replacement": "whatever they wanted",
+      "category": "archaic-desire-verb",
+      "reason": "Listed means wished or wanted.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+17%3A12&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.17.15",
+      "expected": "lunatick, and sore vexed",
+      "replacement": "having seizures and suffering terribly",
+      "category": "obsolete-medical-phrase",
+      "reason": "Lunatick is obsolete; the verse itself describes recurring seizures and severe suffering.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+17%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.17.17",
+      "expected": "shall I suffer you",
+      "replacement": "shall I bear with you",
+      "category": "false-friend-endure-verb",
+      "reason": "Suffer means endure or bear with in this lament.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+17%3A17&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.17.24",
+      "expected": "received tribute money",
+      "replacement": "collected the temple tax",
+      "category": "historical-tax-term",
+      "reason": "Tribute money here is the temple tax.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+17%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.6",
+      "expected": "offend one of these little ones",
+      "replacement": "cause one of these little ones to stumble",
+      "category": "false-friend-stumble-verb",
+      "reason": "Offend means cause to stumble spiritually.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.7",
+      "expected": "because of offences",
+      "replacement": "because of stumbling blocks",
+      "category": "false-friend-stumble-term",
+      "reason": "Offences means causes of spiritual stumbling.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.7",
+      "expected": "offences come",
+      "replacement": "stumbling blocks come",
+      "category": "false-friend-stumble-term",
+      "reason": "Offences means causes of spiritual stumbling.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.7",
+      "expected": "offence cometh",
+      "replacement": "stumbling block comes",
+      "category": "false-friend-stumble-term",
+      "reason": "Offence means a cause of spiritual stumbling.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.8",
+      "expected": "foot offend thee",
+      "replacement": "foot causes thee to sin",
+      "category": "false-friend-stumble-verb",
+      "reason": "Offend means cause to sin here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.9",
+      "expected": "eye offend thee",
+      "replacement": "eye causes thee to sin",
+      "category": "false-friend-stumble-verb",
+      "reason": "Offend means cause to sin here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A9&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.15",
+      "expected": "brother shall trespass against thee",
+      "replacement": "brother sins against thee",
+      "category": "archaic-sin-verb",
+      "reason": "Trespass means sin or do wrong in this church-discipline instruction.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.17",
+      "expected": "as an heathen man and a publican",
+      "replacement": "as a Gentile and a tax collector",
+      "category": "historical-community-terms",
+      "reason": "Heathen and publican identify a Gentile and a tax collector in this social comparison.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A17&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.28",
+      "expected": "an hundred pence",
+      "replacement": "a hundred silver coins",
+      "category": "historical-coin-term",
+      "reason": "Pence refers to ancient silver denarii, not modern pennies.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A28&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.29",
+      "expected": "fellowservant",
+      "replacement": "fellow servant",
+      "category": "historical-compound-spacing",
+      "reason": "The historical compound is separated for modern readability.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A29&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.29",
+      "expected": "besought him",
+      "replacement": "begged him",
+      "category": "archaic-request-verb",
+      "reason": "Besought means begged.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A29&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.18.33",
+      "expected": "fellowservant",
+      "replacement": "fellow servant",
+      "category": "historical-compound-spacing",
+      "reason": "The historical compound is separated for modern readability.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+18%3A33&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.19.1",
+      "expected": "coasts of Judaea",
+      "replacement": "region of Judea",
+      "category": "false-friend-region",
+      "reason": "Coasts means region, and the place name uses modern English spelling.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+19%3A1&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.19.3",
+      "expected": "tempting him",
+      "replacement": "testing him",
+      "category": "false-friend-test-verb",
+      "reason": "Tempting means testing Jesus with a disputed legal question.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+19%3A3&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.19.3",
+      "expected": "put away his wife",
+      "replacement": "divorce his wife",
+      "category": "archaic-divorce-phrase",
+      "reason": "Put away means divorce.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+19%3A3&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.19.5",
+      "expected": "they twain",
+      "replacement": "the two",
+      "category": "archaic-number-term",
+      "reason": "Twain means two.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+19%3A5&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.19.6",
+      "expected": "no more twain",
+      "replacement": "no longer two",
+      "category": "archaic-number-phrase",
+      "reason": "Twain means two.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+19%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.19.6",
+      "expected": "put asunder",
+      "replacement": "separate",
+      "category": "archaic-separate-phrase",
+      "reason": "Put asunder means separate.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+19%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.19.7",
+      "expected": "put her away",
+      "replacement": "divorce her",
+      "category": "archaic-divorce-phrase",
+      "reason": "Put away means divorce.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+19%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.19.8",
+      "expected": "suffered you to put away your wives",
+      "replacement": "allowed you to divorce your wives",
+      "category": "archaic-divorce-phrase",
+      "reason": "Suffered means allowed and put away means divorce.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+19%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.19.9",
+      "expected": "put away his wife",
+      "replacement": "divorce his wife",
+      "category": "archaic-divorce-phrase",
+      "reason": "Put away means divorce.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+19%3A9&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.19.9",
+      "expected": "which is put away",
+      "replacement": "who is divorced",
+      "category": "archaic-divorce-phrase",
+      "reason": "Put away means divorced.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+19%3A9&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.1",
+      "expected": "man that is an householder",
+      "replacement": "landowner",
+      "category": "archaic-landowner-term",
+      "reason": "Householder means the owner of the vineyard.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A1&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.1",
+      "expected": "hire labourers",
+      "replacement": "hire workers",
+      "category": "archaic-worker-term",
+      "reason": "Labourers means workers.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A1&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.2",
+      "expected": "labourers for a penny a day",
+      "replacement": "workers for a denarius a day",
+      "category": "historical-wage-term",
+      "reason": "The wage was one denarius for the day, not a modern penny.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A2&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.6",
+      "expected": "standing idle",
+      "replacement": "standing without work",
+      "category": "false-friend-work-status",
+      "reason": "Idle means without work in the hiring scene.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.8",
+      "expected": "even was come",
+      "replacement": "evening came",
+      "category": "archaic-time-phrase",
+      "reason": "Even means evening here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.8",
+      "expected": "unto his steward",
+      "replacement": "to his foreman",
+      "category": "historical-manager-term",
+      "reason": "The steward manages the vineyard labor and wages.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.8",
+      "expected": "Call the labourers and give them their hire",
+      "replacement": "Call the workers and give them their wages",
+      "category": "archaic-wage-phrase",
+      "reason": "Labourers means workers and hire means wages in this payment instruction.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.11",
+      "expected": "murmured against the goodman of the house",
+      "replacement": "grumbled against the landowner",
+      "category": "archaic-complaint-phrase",
+      "reason": "The goodman of the house is the landowner, and murmured means grumbled.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A11&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.13",
+      "expected": "for a penny",
+      "replacement": "for a denarius",
+      "category": "historical-wage-term",
+      "reason": "Penny denotes the agreed denarius wage.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A13&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.19",
+      "expected": "to mock and to scourge",
+      "replacement": "to ridicule and to whip",
+      "category": "historical-abuse-terms",
+      "reason": "Scourge means whip in the passion prediction.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A19&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.26",
+      "expected": "let him be your minister",
+      "replacement": "let him be your servant",
+      "category": "false-friend-service-term",
+      "reason": "Minister means servant in Jesus' teaching about greatness.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A26&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.20.28",
+      "expected": "not to be ministered unto but to minister",
+      "replacement": "not to be served but to serve",
+      "category": "false-friend-service-phrase",
+      "reason": "Minister denotes serving others in both clauses.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+20%3A28&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.1",
+      "expected": "drew nigh unto Jerusalem",
+      "replacement": "came near Jerusalem",
+      "category": "archaic-location-phrase",
+      "reason": "Nigh means near.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A1&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.2",
+      "expected": "straightway ye shall find an ass",
+      "replacement": "immediately ye shall find a donkey",
+      "category": "historical-animal-term",
+      "reason": "Straightway means immediately and ass means donkey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A2&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.5",
+      "expected": "sitting upon an ass",
+      "replacement": "sitting upon a donkey",
+      "category": "historical-animal-term",
+      "reason": "Ass means donkey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A5&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.7",
+      "expected": "brought the ass",
+      "replacement": "brought the donkey",
+      "category": "historical-animal-term",
+      "reason": "Ass means donkey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.12",
+      "expected": "overthrew the tables of the moneychangers",
+      "replacement": "overturned the tables of the money changers",
+      "category": "archaic-overturn-phrase",
+      "reason": "Overthrew means physically overturned; money changers is spaced normally.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A12&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.13",
+      "expected": "den of thieves",
+      "replacement": "den of robbers",
+      "category": "historical-robber-term",
+      "reason": "The cited phrase concerns robbers using a den.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A13&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.17",
+      "expected": "lodged there",
+      "replacement": "stayed there overnight",
+      "category": "archaic-lodging-verb",
+      "reason": "Lodged means stayed overnight.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A17&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.31",
+      "expected": "publicans and the harlots",
+      "replacement": "tax collectors and the prostitutes",
+      "category": "historical-person-terms",
+      "reason": "Publicans were tax collectors and harlots were prostitutes.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A31&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.32",
+      "expected": "publicans and the harlots",
+      "replacement": "tax collectors and the prostitutes",
+      "category": "historical-person-terms",
+      "reason": "Publicans were tax collectors and harlots were prostitutes.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A32&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.33",
+      "expected": "certain householder",
+      "replacement": "certain landowner",
+      "category": "archaic-landowner-term",
+      "reason": "Householder means the landowner in the parable.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A33&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.33",
+      "expected": "let it out to husbandmen",
+      "replacement": "rented it to tenant farmers",
+      "category": "archaic-tenant-phrase",
+      "reason": "Husbandmen are the tenant farmers managing the vineyard.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A33&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.34",
+      "expected": "to the husbandmen",
+      "replacement": "to the tenant farmers",
+      "category": "archaic-tenant-term",
+      "reason": "Husbandmen are the tenant farmers.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A34&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.35",
+      "expected": "the husbandmen",
+      "replacement": "the tenant farmers",
+      "category": "archaic-tenant-term",
+      "reason": "Husbandmen are the tenant farmers.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A35&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.38",
+      "expected": "the husbandmen",
+      "replacement": "the tenant farmers",
+      "category": "archaic-tenant-term",
+      "reason": "Husbandmen are the tenant farmers.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A38&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.40",
+      "expected": "those husbandmen",
+      "replacement": "those tenant farmers",
+      "category": "archaic-tenant-term",
+      "reason": "Husbandmen are the tenant farmers.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A40&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.41",
+      "expected": "other husbandmen",
+      "replacement": "other tenant farmers",
+      "category": "archaic-tenant-term",
+      "reason": "Husbandmen are the tenant farmers.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A41&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.21.41",
+      "expected": "render him the fruits",
+      "replacement": "give him the fruit",
+      "category": "archaic-give-verb",
+      "reason": "Render means give in the tenant payment.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+21%3A41&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.22.3",
+      "expected": "bidden to the wedding",
+      "replacement": "invited to the wedding",
+      "category": "archaic-invitation-term",
+      "reason": "Bidden means invited.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+22%3A3&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.22.4",
+      "expected": "which are bidden",
+      "replacement": "who are invited",
+      "category": "archaic-invitation-term",
+      "reason": "Bidden means invited.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+22%3A4&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.22.4",
+      "expected": "fatlings",
+      "replacement": "fattened cattle",
+      "category": "historical-banquet-animal",
+      "reason": "Fatlings are animals fattened for the banquet.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+22%3A4&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.22.6",
+      "expected": "entreated them spitefully",
+      "replacement": "mistreated them",
+      "category": "archaic-abuse-phrase",
+      "reason": "Entreated spitefully means treated abusively.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+22%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.22.8",
+      "expected": "which were bidden",
+      "replacement": "who were invited",
+      "category": "archaic-invitation-term",
+      "reason": "Bidden means invited.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+22%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.22.20",
+      "expected": "superscription",
+      "replacement": "inscription",
+      "category": "archaic-coin-term",
+      "reason": "Superscription means the inscription on the coin.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+22%3A20&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.22.35",
+      "expected": "a lawyer",
+      "replacement": "an expert in the law",
+      "category": "historical-law-expert",
+      "reason": "Lawyer here means an expert in the religious law.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+22%3A35&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.22.46",
+      "expected": "neither durst any man",
+      "replacement": "and no one dared",
+      "category": "archaic-dare-verb",
+      "reason": "Durst means dared.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+22%3A46&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.23.14",
+      "expected": "devour widows’ houses",
+      "replacement": "take over widows' houses",
+      "category": "archaic-exploitation-phrase",
+      "reason": "The image condemns exploitation that consumes widows' property.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+23%3A14&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.23.15",
+      "expected": "compass sea and land",
+      "replacement": "travel over sea and land",
+      "category": "false-friend-travel-verb",
+      "reason": "Compass means travel around or across here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+23%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.23.15",
+      "expected": "one proselyte",
+      "replacement": "one convert",
+      "category": "historical-convert-term",
+      "reason": "Proselyte means a religious convert.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+23%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.23.23",
+      "expected": "omitted the weightier matters",
+      "replacement": "neglected the more important matters",
+      "category": "archaic-priority-phrase",
+      "reason": "Weightier means more important, and omitted means neglected.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+23%3A23&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.23.23",
+      "expected": "judgment mercy and faith",
+      "replacement": "justice mercy and faith",
+      "category": "false-friend-justice-term",
+      "reason": "Judgment denotes justice as a requirement of the law.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+23%3A23&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.23.24",
+      "expected": "strain at a gnat",
+      "replacement": "strain out a gnat",
+      "category": "historical-filtering-phrase",
+      "reason": "The image is filtering a gnat out of a drink; at obscures the action today.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+23%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.23.27",
+      "expected": "whited sepulchres",
+      "replacement": "whitewashed tombs",
+      "category": "archaic-tomb-phrase",
+      "reason": "Whited sepulchres means tombs whitened on the outside.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+23%3A27&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.23.29",
+      "expected": "garnish the sepulchres",
+      "replacement": "decorate the tombs",
+      "category": "archaic-decoration-phrase",
+      "reason": "Garnish means decorate, and sepulchres means tombs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+23%3A29&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.24.7",
+      "expected": "divers places",
+      "replacement": "various places",
+      "category": "false-friend-variety-term",
+      "reason": "Divers means various.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+24%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.24.8",
+      "expected": "beginning of sorrows",
+      "replacement": "beginning of birth pains",
+      "category": "context-reviewed-birth-image",
+      "reason": "The Greek image and the discourse context identify labor pains, not generic sadness.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+24%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.24.10",
+      "expected": "many be offended",
+      "replacement": "many fall away",
+      "category": "false-friend-apostasy-phrase",
+      "reason": "Offended means fall away in this warning.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+24%3A10&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.24.12",
+      "expected": "love of many shall wax cold",
+      "replacement": "love of many shall grow cold",
+      "category": "archaic-growth-verb",
+      "reason": "Wax means grow or become.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+24%3A12&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.24.19",
+      "expected": "them that are with child",
+      "replacement": "pregnant women",
+      "category": "archaic-pregnancy-phrase",
+      "reason": "With child means pregnant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+24%3A19&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.24.19",
+      "expected": "them that give suck",
+      "replacement": "nursing mothers",
+      "category": "archaic-nursing-phrase",
+      "reason": "Give suck means nurse an infant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+24%3A19&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.24.43",
+      "expected": "goodman of the house",
+      "replacement": "owner of the house",
+      "category": "archaic-homeowner-term",
+      "reason": "Goodman means the male owner or head of the house.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+24%3A43&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.24.43",
+      "expected": "suffered his house to be broken up",
+      "replacement": "allowed his house to be broken into",
+      "category": "false-friend-burglary-phrase",
+      "reason": "Suffered means allowed and broken up means burglarized.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+24%3A43&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.24.45",
+      "expected": "give them meat in due season",
+      "replacement": "give them food at the proper time",
+      "category": "archaic-food-phrase",
+      "reason": "Meat means food and due season means the proper time.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+24%3A45&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.24.49",
+      "expected": "smite his fellowservants",
+      "replacement": "beat his fellow servants",
+      "category": "archaic-violence-phrase",
+      "reason": "Smite means beat here; fellowservants is separated for readability.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+24%3A49&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.5",
+      "expected": "bridegroom tarried",
+      "replacement": "bridegroom was delayed",
+      "category": "archaic-delay-verb",
+      "reason": "Tarried means was delayed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A5&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.5",
+      "expected": "slumbered and slept",
+      "replacement": "became drowsy and slept",
+      "category": "archaic-sleep-verb",
+      "reason": "Slumbered means became drowsy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A5&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.7",
+      "expected": "trimmed their lamps",
+      "replacement": "prepared their lamps",
+      "category": "historical-lamp-phrase",
+      "reason": "Trimming an oil lamp means preparing it for use.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.27",
+      "expected": "money to the exchangers",
+      "replacement": "money with the bankers",
+      "category": "historical-finance-term",
+      "reason": "Exchangers means bankers or money dealers in this deposit example.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A27&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.27",
+      "expected": "mine own with usury",
+      "replacement": "my own with interest",
+      "category": "historical-interest-term",
+      "reason": "Usury denotes interest on the deposited money here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A27&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.35",
+      "expected": "I was an hungred",
+      "replacement": "I was hungry",
+      "category": "archaic-hunger-phrase",
+      "reason": "An hungred means hungry.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A35&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.35",
+      "expected": "gave me meat",
+      "replacement": "gave me food",
+      "category": "false-friend-food-term",
+      "reason": "Meat means food generally.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A35&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.35",
+      "expected": "ye took me in",
+      "replacement": "ye welcomed me",
+      "category": "archaic-hospitality-phrase",
+      "reason": "Took me in means welcomed or hosted me.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A35&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.38",
+      "expected": "took thee in",
+      "replacement": "welcomed thee",
+      "category": "archaic-hospitality-phrase",
+      "reason": "Took thee in means welcomed thee.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A38&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.42",
+      "expected": "I was an hungred",
+      "replacement": "I was hungry",
+      "category": "archaic-hunger-phrase",
+      "reason": "An hungred means hungry.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A42&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.42",
+      "expected": "gave me no meat",
+      "replacement": "gave me no food",
+      "category": "false-friend-food-term",
+      "reason": "Meat means food generally.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A42&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.43",
+      "expected": "ye took me not in",
+      "replacement": "ye did not welcome me",
+      "category": "archaic-hospitality-phrase",
+      "reason": "Took me in means welcomed me.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A43&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.25.44",
+      "expected": "did not minister unto thee",
+      "replacement": "did not serve thee",
+      "category": "false-friend-service-phrase",
+      "reason": "Minister means serve in this response.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+25%3A44&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.7",
+      "expected": "alabaster box",
+      "replacement": "alabaster jar",
+      "category": "historical-container-term",
+      "reason": "Box denotes a jar or flask of alabaster.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.7",
+      "expected": "precious ointment",
+      "replacement": "expensive perfume",
+      "category": "false-friend-perfume-term",
+      "reason": "Ointment denotes the costly aromatic perfume used for anointing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.7",
+      "expected": "sat at meat",
+      "replacement": "was dining",
+      "category": "archaic-meal-phrase",
+      "reason": "Sat at meat means was eating a meal.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A7&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.28",
+      "expected": "remission of sins",
+      "replacement": "forgiveness of sins",
+      "category": "doctrinally-controlled-forgiveness",
+      "reason": "Remission means forgiveness; the relation to the covenant blood remains intact.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A28&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.31",
+      "expected": "shall be offended because of me",
+      "replacement": "shall fall away because of me",
+      "category": "false-friend-desertion-phrase",
+      "reason": "Offended means the disciples will fall away and scatter.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A31&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.37",
+      "expected": "very heavy",
+      "replacement": "deeply troubled",
+      "category": "false-friend-emotional-phrase",
+      "reason": "Heavy describes deep distress, not physical weight.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A37&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.38",
+      "expected": "exceeding sorrowful",
+      "replacement": "overwhelmed with sorrow",
+      "category": "archaic-intensity-phrase",
+      "reason": "Exceeding sorrowful means overwhelmed with sorrow.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A38&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.38",
+      "expected": "tarry ye here",
+      "replacement": "stay here",
+      "category": "archaic-stay-verb",
+      "reason": "Tarry means stay.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A38&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.47",
+      "expected": "swords and staves",
+      "replacement": "swords and clubs",
+      "category": "archaic-weapon-term",
+      "reason": "Staves means clubs or staffs carried as weapons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A47&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.55",
+      "expected": "swords and staves",
+      "replacement": "swords and clubs",
+      "category": "archaic-weapon-term",
+      "reason": "Staves means clubs or staffs carried as weapons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A55&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.63",
+      "expected": "I adjure thee",
+      "replacement": "I charge thee under oath",
+      "category": "archaic-oath-phrase",
+      "reason": "Adjure means solemnly command under oath.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A63&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.65",
+      "expected": "rent his clothes",
+      "replacement": "tore his clothes",
+      "category": "false-friend-tear-verb",
+      "reason": "Rent means tore in this mourning and accusation gesture.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A65&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.67",
+      "expected": "buffeted him",
+      "replacement": "struck him with their fists",
+      "category": "archaic-violence-verb",
+      "reason": "Buffeted means struck repeatedly with fists.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A67&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.67",
+      "expected": "smote him with the palms of their hands",
+      "replacement": "slapped him",
+      "category": "archaic-violence-phrase",
+      "reason": "The phrase describes striking Jesus with open hands.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A67&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.26.73",
+      "expected": "speech bewrayeth thee",
+      "replacement": "accent gives thee away",
+      "category": "archaic-reveal-phrase",
+      "reason": "Bewrayeth means reveals; Peter's regional speech exposes him.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+26%3A73&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.3",
+      "expected": "repented himself",
+      "replacement": "was filled with remorse",
+      "category": "false-friend-remorse-phrase",
+      "reason": "The phrase describes Judas's remorse after the condemnation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A3&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.15",
+      "expected": "was wont to release",
+      "replacement": "customarily released",
+      "category": "archaic-custom-phrase",
+      "reason": "Was wont means customarily did something.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A15&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.16",
+      "expected": "notable prisoner",
+      "replacement": "notorious prisoner",
+      "category": "false-friend-prisoner-term",
+      "reason": "Notable describes Barabbas as notorious, not admirable.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A16&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.26",
+      "expected": "scourged Jesus",
+      "replacement": "whipped Jesus",
+      "category": "historical-punishment-term",
+      "reason": "Scourged means whipped as a Roman punishment.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A26&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.27",
+      "expected": "common hall",
+      "replacement": "governor's headquarters",
+      "category": "historical-government-building",
+      "reason": "The common hall is the governor's Praetorium or headquarters.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A27&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.27",
+      "expected": "whole band of soldiers",
+      "replacement": "whole company of soldiers",
+      "category": "historical-military-term",
+      "reason": "Band denotes the assembled company of soldiers.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A27&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.31",
+      "expected": "his own raiment",
+      "replacement": "his own clothes",
+      "category": "archaic-clothing-term",
+      "reason": "Raiment means clothes.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A31&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.38",
+      "expected": "two thieves",
+      "replacement": "two robbers",
+      "category": "historical-robber-term",
+      "reason": "The term identifies robbers crucified beside Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A38&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.39",
+      "expected": "reviled him",
+      "replacement": "insulted him",
+      "category": "archaic-abuse-verb",
+      "reason": "Reviled means insulted abusively.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A39&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.39",
+      "expected": "wagging their heads",
+      "replacement": "shaking their heads",
+      "category": "archaic-gesture-verb",
+      "reason": "Wagging means shaking in this gesture of mockery.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A39&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.44",
+      "expected": "The thieves",
+      "replacement": "The robbers",
+      "category": "historical-robber-term",
+      "reason": "The term identifies the robbers crucified beside Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A44&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.50",
+      "expected": "yielded up the ghost",
+      "replacement": "gave up his spirit",
+      "category": "archaic-death-phrase",
+      "reason": "The phrase describes Jesus giving up his spirit at death.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A50&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.51",
+      "expected": "veil of the temple was rent in twain",
+      "replacement": "curtain of the temple was torn in two",
+      "category": "archaic-temple-phrase",
+      "reason": "Veil means curtain, rent means torn, and twain means two.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A51&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.60",
+      "expected": "hewn out in the rock",
+      "replacement": "cut out of the rock",
+      "category": "archaic-cut-verb",
+      "reason": "Hewn means cut or carved out.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A60&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.60",
+      "expected": "door of the sepulchre",
+      "replacement": "entrance of the tomb",
+      "category": "archaic-tomb-phrase",
+      "reason": "Sepulchre means tomb and door denotes its entrance.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A60&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.64",
+      "expected": "sepulchre be made sure",
+      "replacement": "tomb be secured",
+      "category": "archaic-tomb-phrase",
+      "reason": "The order is to secure the tomb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A64&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.66",
+      "expected": "made the sepulchre sure",
+      "replacement": "secured the tomb",
+      "category": "archaic-tomb-phrase",
+      "reason": "The guards secured the tomb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A66&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.28.3",
+      "expected": "raiment white as snow",
+      "replacement": "clothing white as snow",
+      "category": "archaic-clothing-term",
+      "reason": "Raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+28%3A3&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.28.4",
+      "expected": "keepers",
+      "replacement": "guards",
+      "category": "historical-guard-term",
+      "reason": "Keepers means the guards assigned to the tomb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+28%3A4&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.28.8",
+      "expected": "departed quickly from the sepulchre",
+      "replacement": "departed quickly from the tomb",
+      "category": "archaic-tomb-term",
+      "reason": "Sepulchre means tomb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+28%3A8&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.28.19",
+      "expected": "teach all nations",
+      "replacement": "make disciples of all nations",
+      "category": "context-reviewed-great-commission",
+      "reason": "The command is to make disciples among all nations; teach alone no longer carries the whole action.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+28%3A19&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.28.19",
+      "expected": "Holy Ghost",
+      "replacement": "Holy Spirit",
+      "category": "historical-spirit-term",
+      "reason": "Holy Ghost is modernized to Holy Spirit without changing the referent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+28%3A19&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.6",
+      "expected": "of her that had been the wife of Urias",
+      "replacement": "by her who had been the wife of Urias",
+      "category": "archaic-parentage-phrase",
+      "reason": "The genealogy identifies Solomon's mother through her former marriage to Uriah; by expresses parentage clearly.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A6&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.18",
+      "expected": "When as his mother",
+      "replacement": "When his mother",
+      "category": "archaic-conjunction-phrase",
+      "reason": "When as is an obsolete conjunction; modern English uses when.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A18&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.3.11",
+      "expected": "Holy Ghost",
+      "replacement": "Holy Spirit",
+      "category": "historical-spirit-term",
+      "reason": "Holy Ghost is modernized to Holy Spirit without changing the referent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+3%3A11&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.16",
+      "expected": "When the even was come",
+      "replacement": "When evening came",
+      "category": "archaic-time-phrase",
+      "reason": "Even means evening in this time marker.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A16&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.16",
+      "expected": "possessed with devils",
+      "replacement": "demon-possessed",
+      "category": "historical-demon-phrase",
+      "reason": "Devils refers to demons here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A16&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.33",
+      "expected": "possessed of the devils",
+      "replacement": "demon-possessed men",
+      "category": "historical-demon-phrase",
+      "reason": "The phrase identifies the men formerly possessed by demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A33&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.8.34",
+      "expected": "besought him",
+      "replacement": "begged him",
+      "category": "archaic-request-verb",
+      "reason": "Besought means begged.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+8%3A34&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.34",
+      "expected": "prince of the devils",
+      "replacement": "prince of the demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A34&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.22",
+      "expected": "possessed with a devil",
+      "replacement": "possessed by a demon",
+      "category": "historical-demon-phrase",
+      "reason": "Devil refers to a demon in this healing account.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A22&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.24",
+      "expected": "cast out devils",
+      "replacement": "cast out demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.24",
+      "expected": "prince of the devils",
+      "replacement": "prince of the demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A24&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.27",
+      "expected": "cast out devils",
+      "replacement": "cast out demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A27&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.28",
+      "expected": "cast out devils",
+      "replacement": "cast out demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A28&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.31",
+      "expected": "Holy Ghost",
+      "replacement": "Holy Spirit",
+      "category": "historical-spirit-term",
+      "reason": "Holy Ghost is modernized to Holy Spirit without changing the referent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A31&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.32",
+      "expected": "Holy Ghost",
+      "replacement": "Holy Spirit",
+      "category": "historical-spirit-term",
+      "reason": "Holy Ghost is modernized to Holy Spirit without changing the referent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A32&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.26",
+      "expected": "the tares also",
+      "replacement": "the weeds also",
+      "category": "historical-weed-term",
+      "reason": "Tares are weeds resembling wheat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A26&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.29",
+      "expected": "gather up the tares",
+      "replacement": "gather up the weeds",
+      "category": "historical-weed-term",
+      "reason": "Tares are weeds resembling wheat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A29&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.30",
+      "expected": "first the tares",
+      "replacement": "first the weeds",
+      "category": "historical-weed-term",
+      "reason": "Tares are weeds resembling wheat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A30&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.40",
+      "expected": "the tares are gathered",
+      "replacement": "the weeds are gathered",
+      "category": "historical-weed-term",
+      "reason": "Tares are weeds resembling wheat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A40&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.14.2",
+      "expected": "mighty works",
+      "replacement": "miracles",
+      "category": "archaic-miracle-phrase",
+      "reason": "Mighty works refers to miracles in Herod's explanation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+14%3A2&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.27.61",
+      "expected": "the sepulchre",
+      "replacement": "the tomb",
+      "category": "archaic-tomb-term",
+      "reason": "Sepulchre means tomb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+27%3A61&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.28.1",
+      "expected": "In the end of the sabbath, as it began to dawn toward the first day of the week",
+      "replacement": "After the sabbath, as the first day of the week began to dawn",
+      "category": "archaic-resurrection-time-phrase",
+      "reason": "The phrase places the visit after the sabbath at the dawn of the first day, without changing the event sequence.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+28%3A1&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.28.1",
+      "expected": "see the sepulchre",
+      "replacement": "see the tomb",
+      "category": "archaic-tomb-term",
+      "reason": "Sepulchre means tomb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+28%3A1&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.32",
+      "expected": "possessed with a devil",
+      "replacement": "possessed by a demon",
+      "category": "historical-demon-phrase",
+      "reason": "Devil refers to a demon in this possession account.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A32&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.33",
+      "expected": "the devil was cast out",
+      "replacement": "the demon was cast out",
+      "category": "historical-demon-term",
+      "reason": "Devil refers to a demon in this possession account.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A33&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.11.18",
+      "expected": "He hath a devil",
+      "replacement": "He has a demon",
+      "category": "historical-demon-phrase",
+      "reason": "The accusation claims demonic possession; devil refers to a demon here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+11%3A18&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.17.18",
+      "expected": "rebuked the devil",
+      "replacement": "rebuked the demon",
+      "category": "historical-demon-term",
+      "reason": "Devil refers to the demon afflicting the child.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+17%3A18&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.18",
+      "expected": "found with child of the Holy Ghost",
+      "replacement": "found to be pregnant through the Holy Spirit",
+      "category": "archaic-pregnancy-phrase",
+      "reason": "The phrase describes Mary's pregnancy through the Holy Spirit; the complete span avoids the ungrammatical wording produced by separate substitutions.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A18&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.19",
+      "expected": "publick",
+      "replacement": "public",
+      "category": "historical-spelling",
+      "reason": "The historical spelling is modernized without changing the meaning.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A19&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.1.25",
+      "expected": "brought forth her firstborn son",
+      "replacement": "given birth to her firstborn son",
+      "category": "archaic-birth-phrase",
+      "reason": "Brought forth means given birth in this narrative.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+1%3A25&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.9.33",
+      "expected": "the dumb",
+      "replacement": "the mute man",
+      "category": "historical-disability-term",
+      "reason": "Dumb means unable to speak in this account.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+9%3A33&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.22",
+      "expected": "blind, and dumb",
+      "replacement": "blind and mute",
+      "category": "historical-disability-term",
+      "reason": "Dumb means unable to speak in this healing account.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A22&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.12.22",
+      "expected": "the blind and dumb",
+      "replacement": "the blind and mute man",
+      "category": "historical-disability-phrase",
+      "reason": "The two disabilities belong to the same man; the modern phrase preserves both healings.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+12%3A22&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.13.52",
+      "expected": "man that is an householder",
+      "replacement": "head of a household",
+      "category": "archaic-householder-term",
+      "reason": "Householder means the person responsible for a household and its stored treasure.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+13%3A52&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MAT.15.31",
+      "expected": "the dumb to speak",
+      "replacement": "those who could not speak begin to speak",
+      "category": "historical-disability-phrase",
+      "reason": "Dumb means unable to speak; the complete phrase is made grammatical in current English.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A31&version=KJV%3BNIV"
     }
   ],
   "pending": [
@@ -125724,6 +128364,2302 @@
         {
           "label": "Complete-verse KJV contextual review",
           "url": "https://www.biblegateway.com/quicksearch/?quicksearch=palmerworm&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-pronoun-system",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "thee/thou/thy/ye verb system",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Modernizing isolated pronouns or verb endings creates mixed grammar; Matthew requires a complete person-and-number pass before any such conversion.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 1,
+          "verse": 20
+        },
+        {
+          "book": "MAT",
+          "chapter": 1,
+          "verse": 21
+        },
+        {
+          "book": "MAT",
+          "chapter": 2,
+          "verse": 6
+        },
+        {
+          "book": "MAT",
+          "chapter": 2,
+          "verse": 8
+        },
+        {
+          "book": "MAT",
+          "chapter": 2,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 3,
+          "verse": 2
+        },
+        {
+          "book": "MAT",
+          "chapter": 3,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 3,
+          "verse": 7
+        },
+        {
+          "book": "MAT",
+          "chapter": 3,
+          "verse": 14
+        },
+        {
+          "book": "MAT",
+          "chapter": 4,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 4,
+          "verse": 6
+        },
+        {
+          "book": "MAT",
+          "chapter": 4,
+          "verse": 7
+        },
+        {
+          "book": "MAT",
+          "chapter": 4,
+          "verse": 9
+        },
+        {
+          "book": "MAT",
+          "chapter": 4,
+          "verse": 10
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 11
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 14
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 20
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 21
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 24
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 25
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 26
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 27
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 29
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 30
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 31
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 33
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 36
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 38
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 39
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 40
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 41
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 42
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 43
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 45
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 46
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 47
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 48
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 1
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 2
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 4
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 5
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 6
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 7
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 8
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 9
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 10
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 14
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 15
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 17
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 18
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 19
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 20
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 24
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 25
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 26
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 30
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 32
+        },
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 33
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 1
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 2
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 4
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 5
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 6
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 7
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 11
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 12
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 20
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 7,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 8,
+          "verse": 2
+        },
+        {
+          "book": "MAT",
+          "chapter": 8,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 8,
+          "verse": 4
+        },
+        {
+          "book": "MAT",
+          "chapter": 8,
+          "verse": 8
+        },
+        {
+          "book": "MAT",
+          "chapter": 8,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 8,
+          "verse": 19
+        },
+        {
+          "book": "MAT",
+          "chapter": 8,
+          "verse": 20
+        },
+        {
+          "book": "MAT",
+          "chapter": 8,
+          "verse": 26
+        },
+        {
+          "book": "MAT",
+          "chapter": 8,
+          "verse": 29
+        },
+        {
+          "book": "MAT",
+          "chapter": 8,
+          "verse": 31
+        },
+        {
+          "book": "MAT",
+          "chapter": 9,
+          "verse": 2
+        },
+        {
+          "book": "MAT",
+          "chapter": 9,
+          "verse": 4
+        },
+        {
+          "book": "MAT",
+          "chapter": 9,
+          "verse": 5
+        },
+        {
+          "book": "MAT",
+          "chapter": 9,
+          "verse": 6
+        },
+        {
+          "book": "MAT",
+          "chapter": 9,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 9,
+          "verse": 14
+        },
+        {
+          "book": "MAT",
+          "chapter": 9,
+          "verse": 18
+        },
+        {
+          "book": "MAT",
+          "chapter": 9,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 9,
+          "verse": 27
+        },
+        {
+          "book": "MAT",
+          "chapter": 9,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 9,
+          "verse": 38
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 5
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 7
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 8
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 11
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 12
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 14
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 18
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 19
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 20
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 27
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 31
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 4
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 7
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 8
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 9
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 10
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 11
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 14
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 15
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 17
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 18
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 21
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 24
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 25
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 26
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 29
+        },
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 2
+        },
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 5
+        },
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 7
+        },
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 24
+        },
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 34
+        },
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 37
+        },
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 38
+        },
+        {
+          "book": "MAT",
+          "chapter": 12,
+          "verse": 47
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 9
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 10
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 12
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 14
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 17
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 18
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 21
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 27
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 29
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 30
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 43
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 44
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 51
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 54
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 56
+        },
+        {
+          "book": "MAT",
+          "chapter": 14,
+          "verse": 4
+        },
+        {
+          "book": "MAT",
+          "chapter": 14,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 14,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 14,
+          "verse": 31
+        },
+        {
+          "book": "MAT",
+          "chapter": 14,
+          "verse": 33
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 2
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 4
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 5
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 6
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 7
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 12
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 17
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 15,
+          "verse": 34
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 2
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 8
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 9
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 10
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 11
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 14
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 15
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 17
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 18
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 19
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 17,
+          "verse": 4
+        },
+        {
+          "book": "MAT",
+          "chapter": 17,
+          "verse": 5
+        },
+        {
+          "book": "MAT",
+          "chapter": 17,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 17,
+          "verse": 20
+        },
+        {
+          "book": "MAT",
+          "chapter": 17,
+          "verse": 24
+        },
+        {
+          "book": "MAT",
+          "chapter": 17,
+          "verse": 25
+        },
+        {
+          "book": "MAT",
+          "chapter": 17,
+          "verse": 27
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 8
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 9
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 10
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 12
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 15
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 17
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 18
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 26
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 29
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 32
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 33
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 35
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 4
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 6
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 9
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 17
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 18
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 19
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 21
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 27
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 29
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 4
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 6
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 7
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 12
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 14
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 15
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 21
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 25
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 30
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 31
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 32
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 2
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 5
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 19
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 21
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 24
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 25
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 32
+        },
+        {
+          "book": "MAT",
+          "chapter": 21,
+          "verse": 42
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 9
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 12
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 17
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 18
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 29
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 31
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 37
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 39
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 42
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 43
+        },
+        {
+          "book": "MAT",
+          "chapter": 22,
+          "verse": 44
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 8
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 10
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 14
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 15
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 17
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 19
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 24
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 25
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 26
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 27
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 29
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 31
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 32
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 33
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 34
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 35
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 37
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 39
+        },
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 2
+        },
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 3
+        },
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 6
+        },
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 9
+        },
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 15
+        },
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 20
+        },
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 32
+        },
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 33
+        },
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 42
+        },
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 44
+        },
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 45
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 6
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 9
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 20
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 21
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 24
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 25
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 26
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 27
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 29
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 30
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 34
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 35
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 36
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 37
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 38
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 39
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 40
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 41
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 42
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 43
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 44
+        },
+        {
+          "book": "MAT",
+          "chapter": 25,
+          "verse": 45
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 2
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 10
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 11
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 12
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 15
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 17
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 18
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 25
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 27
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 31
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 33
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 34
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 35
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 36
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 38
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 39
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 40
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 41
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 42
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 46
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 50
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 52
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 53
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 55
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 62
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 63
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 64
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 65
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 66
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 68
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 69
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 70
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 73
+        },
+        {
+          "book": "MAT",
+          "chapter": 26,
+          "verse": 75
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 4
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 11
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 17
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 19
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 21
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 24
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 40
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 46
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 65
+        },
+        {
+          "book": "MAT",
+          "chapter": 28,
+          "verse": 5
+        },
+        {
+          "book": "MAT",
+          "chapter": 28,
+          "verse": 7
+        },
+        {
+          "book": "MAT",
+          "chapter": 28,
+          "verse": 13
+        },
+        {
+          "book": "MAT",
+          "chapter": 28,
+          "verse": 19
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-raca",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "Raca",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "The transliterated insult in Matthew 5:22 has cultural and legal force that a one-word replacement may flatten.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 22
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-fornication",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "fornication in divorce sayings",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "The scope of porneia in Matthew 5:32 and 19:9 is doctrinally disputed and needs explicit owner review.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 32
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 9
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-hell-terms",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "hell / hell fire",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Matthew uses distinct underlying terms and images; they must not be flattened through a broad replacement.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 29
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 30
+        },
+        {
+          "book": "MAT",
+          "chapter": 10,
+          "verse": 28
+        },
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 23
+        },
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 18
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 9
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 15
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 33
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-single-eye",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "single eye",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Matthew 6:22 is an idiom whose best plain-English rendering depends on interpretation.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 6,
+          "verse": 22
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-kingdom-violence",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "kingdom suffereth violence",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Matthew 11:12 has major interpretive and grammatical alternatives; it remains unchanged pending a focused note.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 11,
+          "verse": 12
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-bind-loose",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "bind and loose",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Matthew 16:19 and 18:18 carry legal and ecclesial background that a simple paraphrase could distort.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 16,
+          "verse": 19
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-regeneration",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "in the regeneration",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Matthew 19:28 refers to cosmic renewal; replacing the theological term requires a note and owner review.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 28
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-eunuchs",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "eunuchs",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Matthew 19:12 uses the term literally and figuratively within one verse; it needs explanation rather than a blind synonym.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 12
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-carcase-eagles",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "carcase and eagles",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Matthew 24:28 may be rendered carcass with vultures or eagles; the zoological and symbolic choice remains debated.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 28
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-cut-asunder",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "cut him asunder",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Matthew 24:51 can be read literally or as severe punishment language; it remains unchanged pending focused review.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 24,
+          "verse": 51
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-tormentors",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "tormentors",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Matthew 18:34 may identify jailers who torture; a replacement should preserve both custody and punishment.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 34
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-textual-additions",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "traditional KJV textual additions",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Verses and clauses absent from some modern critical-text editions remain untouched; editorial modernization must not silently decide textual criticism.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 22
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 44
+        },
+        {
+          "book": "MAT",
+          "chapter": 17,
+          "verse": 21
+        },
+        {
+          "book": "MAT",
+          "chapter": 18,
+          "verse": 11
+        },
+        {
+          "book": "MAT",
+          "chapter": 20,
+          "verse": 16
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 14
+        },
+        {
+          "book": "MAT",
+          "chapter": 27,
+          "verse": 35
+        },
+        {
+          "book": "MAT",
+          "chapter": 28,
+          "verse": 20
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "matthew-kjv-v10-marital-know",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "knew her not",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Matthew 1:25 uses know as a marital euphemism; its temporal wording should be explained without implying a doctrinal conclusion.",
+      "references": [
+        {
+          "book": "MAT",
+          "chapter": 1,
+          "verse": 25
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Matthew KJV/NIV contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
         }
       ]
     }
