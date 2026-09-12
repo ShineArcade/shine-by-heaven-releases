@@ -3,9 +3,9 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-bible-stable",
-    "contentVersion": 22,
-    "issuedAt": "2026-09-12T11:00:00.000Z",
-    "expiresAt": "2028-09-12T11:00:00.000Z",
+    "contentVersion": 25,
+    "issuedAt": "2026-09-12T17:20:00.000Z",
+    "expiresAt": "2028-09-12T17:20:00.000Z",
     "distributionScope": "public",
     "updatePolicy": {
       "versionAuthority": "contentVersion",
@@ -39,32 +39,32 @@
         "kind": "reading-filter",
         "id": "RV1909-LECTURA-2026",
         "schemaVersion": 1,
-        "contentVersion": 22,
+        "contentVersion": 25,
         "sourceVersionId": "RV1909",
         "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-        "contentSha256": "7914e0056a6242a20ee5d0407bc591a2cb5871e3038c63da3eda1c5ff1c9eda9",
-        "sizeBytes": 713131,
+        "contentSha256": "9f4c993d890822ce129f6afa8d2da8e088e07a2c809c670069a8e319033d2514",
+        "sizeBytes": 780773,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.rv1909.v22.package.json.gz",
+        "artifactPath": "reading_2026.rv1909.v25.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
-          "changedVerseCount": 7329,
-          "editCount": 9393
+          "changedVerseCount": 7722,
+          "editCount": 10011
         },
         "editorialPolicy": {
           "id": "unified-minimal-comprehension-policy",
-          "version": 3,
-          "description": "Only exact, reviewed, comprehension-essential projections are applied. The packaged RV1909 corpus remains immutable."
+          "version": 25,
+          "description": "Only exact, full-context comprehension improvements are applied. Understandable wording and doctrinal or textual ambiguities remain unchanged."
         }
       }
     ]
   },
-  "contentSha256": "bbee62448beb8b579655cf77ea328128a0a4ee84bc89598e1653d64b57be3625",
+  "contentSha256": "1c2068c1d8041aa52dface71f5723d89ef94e0a6743889c5cbd222dbcf114d0a",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "hfoPqV9AKeBIVUQobMbkoYShORGoJi3YYVrL_MXbvuMBTQtk4vwQvXkKZPtwo8SfuIbaL7drNjGp-rV2iodvBw"
+    "value": "TX8uUKSsPs_nA6wQrFALyTU2A1hO8LlZUViSC6E0esRY816ETIKPifPlDsXgQ9bCpRgWgD1Ler1o4DEOEtHhCQ"
   }
 }

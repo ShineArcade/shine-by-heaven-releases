@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-kjv-reading-stable",
-    "contentVersion": 11,
+    "contentVersion": 13,
     "issuedAt": "2026-09-10T00:00:00.000Z",
     "expiresAt": "2028-09-10T00:00:00.000Z",
     "distributionScope": "public",
@@ -19,34 +19,34 @@
         "kind": "reading-filter",
         "id": "KJV-READING-2026",
         "schemaVersion": 1,
-        "contentVersion": 11,
+        "contentVersion": 13,
         "sourceVersionId": "KJV",
         "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
-        "contentSha256": "0a612d327f030563083b11fc4bbc0b5cd1b08a1c3bc5ead14cf5f4a7c7247d25",
-        "sizeBytes": 298505,
+        "contentSha256": "c80f0e9f463c29f713f7b42164f3ba5970a957063d7b201a00681969537fabfe",
+        "sizeBytes": 400925,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.kjv.v11.package.json.gz",
+        "artifactPath": "reading_2026.kjv.v13.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
           "expectedBookCount": 66,
           "includedBookCount": 66,
-          "changedVerseCount": 3946,
-          "editCount": 4666
+          "changedVerseCount": 4709,
+          "editCount": 5537
         },
         "editorialPolicy": {
           "id": "kjv-minimal-comprehension-policy",
-          "version": 11,
-          "description": "Only exact, occurrence-reviewed wording that materially improves comprehension is projected. The packaged KJV remains immutable."
+          "version": 13,
+          "description": "Only exact, occurrence-reviewed wording that materially improves comprehension is projected. The packaged KJV remains immutable, and ambiguous or doctrinal families remain pending."
         }
       }
     ]
   },
-  "contentSha256": "5120edd10c591e7ea82e6db980b0406b05499cd4f81886e983e5a1965f9d28cd",
+  "contentSha256": "bfe84a200fa25891f68c73618c690eeb42172a93196e2fde2ea1227af2d79894",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "-97r1Qd9ZNBlRH4_M5qTV-ZVIpamS3_KkdqcwC1eslUxbTxuUclqePjEJPrXl0nFX-CHN5g0elDkTQvnrVOxBw"
+    "value": "91tcnZSzck-SSijfxpvWFxxTjDbTvBOFy3r2Y_zTsJePSgXnjqHx6HXHA65frnXcH8lDbmprg53v4glIPCX5AA"
   }
 }
