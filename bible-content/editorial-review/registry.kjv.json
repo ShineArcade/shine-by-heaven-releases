@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "updatedAt": "2026-09-12T00:00:00.000Z",
   "sourceVersionId": "KJV",
-  "activeContentVersion": 6,
+  "activeContentVersion": 7,
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/verify_kjv_reading_2026.mjs",
   "applied": [
@@ -5982,6 +5982,1934 @@
       "category": "archaic-animal-name",
       "reason": "Asses is the historical plural of donkey.",
       "evidenceUrl": "https://www.biblegateway.com/passage/?search=Numbers+31%3A30&version=KJV"
+    },
+    {
+      "reference": "DEU.1.7",
+      "expected": "nigh thereunto",
+      "replacement": "near it",
+      "category": "archaic-location",
+      "reason": "The phrase means near that mountain region.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A7&version=KJV"
+    },
+    {
+      "reference": "DEU.1.19",
+      "expected": "great and terrible wilderness",
+      "replacement": "great and terrifying wilderness",
+      "category": "false-friend",
+      "reason": "Terrible describes a frightening wilderness.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.1.28",
+      "expected": "Whither shall we go up?",
+      "replacement": "Where shall we go up?",
+      "category": "archaic-question",
+      "reason": "Whither asks where they can go.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A28&version=KJV"
+    },
+    {
+      "reference": "DEU.2.4",
+      "expected": "the coast of your brethren",
+      "replacement": "the territory of your brethren",
+      "category": "false-friend-geography",
+      "reason": "Coast means territory, not shoreline.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A4&version=KJV"
+    },
+    {
+      "reference": "DEU.2.18",
+      "expected": "the coast of Moab",
+      "replacement": "the border of Moab",
+      "category": "false-friend-geography",
+      "reason": "Coast means the border region.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A18&version=KJV"
+    },
+    {
+      "reference": "DEU.2.33",
+      "expected": "we smote him, and his sons, and all his people",
+      "replacement": "we defeated him, his sons, and all his people",
+      "category": "archaic-battle-verb",
+      "reason": "Smote describes defeating the king and his people in battle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A33&version=KJV"
+    },
+    {
+      "reference": "DEU.3.3",
+      "expected": "we smote him until none was left to him remaining",
+      "replacement": "we defeated him until none of his people remained",
+      "category": "archaic-battle-verb",
+      "reason": "The complete clause describes total military defeat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A3&version=KJV"
+    },
+    {
+      "reference": "DEU.3.4",
+      "expected": "threescore cities",
+      "replacement": "sixty cities",
+      "category": "archaic-number",
+      "reason": "Threescore equals sixty.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A4&version=KJV"
+    },
+    {
+      "reference": "DEU.3.17",
+      "expected": "Jordan, and the coast thereof",
+      "replacement": "Jordan and its border",
+      "category": "false-friend-geography",
+      "reason": "Coast denotes the territorial boundary along the Jordan.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A17&version=KJV"
+    },
+    {
+      "reference": "DEU.3.25",
+      "expected": "that goodly mountain",
+      "replacement": "that beautiful mountain",
+      "category": "archaic-adjective",
+      "reason": "Goodly means beautiful or desirable here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A25&version=KJV"
+    },
+    {
+      "reference": "DEU.4.2",
+      "expected": "neither shall ye diminish ought from it",
+      "replacement": "neither shall ye diminish anything from it",
+      "category": "archaic-pronoun",
+      "reason": "Ought means anything in this prohibition.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A2&version=KJV"
+    },
+    {
+      "reference": "DEU.4.42",
+      "expected": "kill his neighbour unawares",
+      "replacement": "kill his neighbour unintentionally",
+      "category": "archaic-legal-adverb",
+      "reason": "Unawares means unintentionally in the refuge-city law.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A42&version=KJV"
+    },
+    {
+      "reference": "DEU.4.29",
+      "expected": "from thence",
+      "replacement": "from there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A29&version=KJV"
+    },
+    {
+      "reference": "DEU.5.14",
+      "expected": "thine ass",
+      "replacement": "thy donkey",
+      "category": "archaic-animal-and-grammar",
+      "reason": "The noun is modernized while retaining correct singular KJV possessive grammar.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.5.15",
+      "expected": "brought thee out thence",
+      "replacement": "brought thee out from there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A15&version=KJV"
+    },
+    {
+      "reference": "DEU.6.10",
+      "expected": "great and goodly cities",
+      "replacement": "great and beautiful cities",
+      "category": "archaic-adjective",
+      "reason": "Goodly means beautiful or desirable here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A10&version=KJV"
+    },
+    {
+      "reference": "DEU.6.23",
+      "expected": "brought us out from thence",
+      "replacement": "brought us out from there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A23&version=KJV"
+    },
+    {
+      "reference": "DEU.7.12",
+      "expected": "Wherefore it shall come to pass",
+      "replacement": "Therefore it shall come to pass",
+      "category": "archaic-connector",
+      "reason": "Wherefore has the result sense therefore here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A12&version=KJV"
+    },
+    {
+      "reference": "DEU.7.19",
+      "expected": "The great temptations",
+      "replacement": "The great trials",
+      "category": "false-friend",
+      "reason": "Temptations means trials or tests witnessed in Egypt.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.7.21",
+      "expected": "a mighty God and terrible",
+      "replacement": "a mighty and awe-inspiring God",
+      "category": "false-friend-divine-description",
+      "reason": "Terrible means inspiring reverent fear, not morally bad.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.8.4",
+      "expected": "Thy raiment waxed not old upon thee",
+      "replacement": "Thy clothing did not wear out upon thee",
+      "category": "archaic-verb-phrase",
+      "reason": "Waxed not old means did not wear out.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A4&version=KJV"
+    },
+    {
+      "reference": "DEU.8.9",
+      "expected": "eat bread without scarceness",
+      "replacement": "eat bread without shortage",
+      "category": "archaic-noun",
+      "reason": "Scarceness means shortage.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A9&version=KJV"
+    },
+    {
+      "reference": "DEU.8.12",
+      "expected": "goodly houses",
+      "replacement": "fine houses",
+      "category": "archaic-adjective",
+      "reason": "Goodly describes fine houses.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A12&version=KJV"
+    },
+    {
+      "reference": "DEU.8.15",
+      "expected": "great and terrible wilderness",
+      "replacement": "great and terrifying wilderness",
+      "category": "false-friend",
+      "reason": "Terrible describes a frightening wilderness.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A15&version=KJV"
+    },
+    {
+      "reference": "DEU.9.19",
+      "expected": "hot displeasure, wherewith the LORD was wroth",
+      "replacement": "great anger, with which the LORD was angry",
+      "category": "archaic-emotion-phrase",
+      "reason": "Hot displeasure and wroth describe great anger.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.9.12",
+      "expected": "from hence",
+      "replacement": "from here",
+      "category": "archaic-location",
+      "reason": "Hence means here in this departure command.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A12&version=KJV"
+    },
+    {
+      "reference": "DEU.9.28",
+      "expected": "the land whence thou broughtest us out",
+      "replacement": "the land from which thou broughtest us out",
+      "category": "archaic-relative",
+      "reason": "Whence means from which place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A28&version=KJV"
+    },
+    {
+      "reference": "DEU.10.7",
+      "expected": "From thence",
+      "replacement": "From there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A7&version=KJV"
+    },
+    {
+      "reference": "DEU.10.17",
+      "expected": "a mighty, and a terrible",
+      "replacement": "mighty and awe-inspiring",
+      "category": "false-friend-divine-description",
+      "reason": "Terrible means awe-inspiring in this description of God.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A17&version=KJV"
+    },
+    {
+      "reference": "DEU.10.17",
+      "expected": "taketh reward",
+      "replacement": "accepts bribes",
+      "category": "false-friend-legal-term",
+      "reason": "Reward means a bribe in the impartial-judgment clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A17&version=KJV"
+    },
+    {
+      "reference": "DEU.10.21",
+      "expected": "great and terrible things",
+      "replacement": "great and awesome things",
+      "category": "false-friend",
+      "reason": "Terrible describes awe-inspiring acts witnessed by Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.10.22",
+      "expected": "threescore and ten persons",
+      "replacement": "seventy persons",
+      "category": "archaic-number",
+      "reason": "Threescore and ten equals seventy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A22&version=KJV"
+    },
+    {
+      "reference": "DEU.11.24",
+      "expected": "shall your coast be",
+      "replacement": "shall your border be",
+      "category": "false-friend-geography",
+      "reason": "Coast means territorial border.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A24&version=KJV"
+    },
+    {
+      "reference": "DEU.11.10",
+      "expected": "from whence",
+      "replacement": "from where",
+      "category": "archaic-relative",
+      "reason": "Whence means from where.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A10&version=KJV"
+    },
+    {
+      "reference": "DEU.14.2",
+      "expected": "a peculiar people unto himself",
+      "replacement": "a people who are his special possession",
+      "category": "false-friend-covenant-term",
+      "reason": "Peculiar means specially possessed, not strange.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+14%3A2&version=KJV"
+    },
+    {
+      "reference": "DEU.14.21",
+      "expected": "seethe a kid",
+      "replacement": "boil a young goat",
+      "category": "archaic-cooking-verb",
+      "reason": "Seethe means boil; kid here is a young goat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+14%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.15.2",
+      "expected": "lendeth ought",
+      "replacement": "lends anything",
+      "category": "archaic-pronoun",
+      "reason": "Ought means anything.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A2&version=KJV"
+    },
+    {
+      "reference": "DEU.15.17",
+      "expected": "take an aul",
+      "replacement": "take an awl",
+      "category": "archaic-spelling",
+      "reason": "Aul is the historical spelling of awl.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A17&version=KJV"
+    },
+    {
+      "reference": "DEU.16.4",
+      "expected": "in all thy coast",
+      "replacement": "throughout all thy territory",
+      "category": "false-friend-geography",
+      "reason": "Coast means the whole territory.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A4&version=KJV"
+    },
+    {
+      "reference": "DEU.17.1",
+      "expected": "any evilfavouredness",
+      "replacement": "any serious defect",
+      "category": "obsolete-description",
+      "reason": "Evilfavouredness means an unacceptable physical defect.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A1&version=KJV"
+    },
+    {
+      "reference": "DEU.19.3",
+      "expected": "divide the coasts of thy land",
+      "replacement": "divide the territory of thy land",
+      "category": "false-friend-geography",
+      "reason": "Coasts means the territorial area divided for refuge cities.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A3&version=KJV"
+    },
+    {
+      "reference": "DEU.19.4",
+      "expected": "killeth his neighbour ignorantly",
+      "replacement": "kills his neighbour unintentionally",
+      "category": "false-friend-legal-adverb",
+      "reason": "Ignorantly means without intent in this law.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A4&version=KJV"
+    },
+    {
+      "reference": "DEU.19.7",
+      "expected": "Wherefore I command thee",
+      "replacement": "Therefore I command thee",
+      "category": "archaic-connector",
+      "reason": "Wherefore has the result sense therefore.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A7&version=KJV"
+    },
+    {
+      "reference": "DEU.19.8",
+      "expected": "enlarge thy coast",
+      "replacement": "enlarge thy territory",
+      "category": "false-friend-geography",
+      "reason": "Coast means territory.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A8&version=KJV"
+    },
+    {
+      "reference": "DEU.19.12",
+      "expected": "fetch him thence",
+      "replacement": "fetch him from there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A12&version=KJV"
+    },
+    {
+      "reference": "DEU.22.8",
+      "expected": "make a battlement for thy roof",
+      "replacement": "make a parapet for thy roof",
+      "category": "obsolete-building-term",
+      "reason": "A battlement here is a protective parapet around a flat roof.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A8&version=KJV"
+    },
+    {
+      "reference": "DEU.22.8",
+      "expected": "fall from thence",
+      "replacement": "fall from there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A8&version=KJV"
+    },
+    {
+      "reference": "DEU.22.19",
+      "expected": "amerce him in an hundred shekels",
+      "replacement": "fine him one hundred shekels",
+      "category": "obsolete-legal-verb",
+      "reason": "Amerce means impose a monetary fine.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.22.21",
+      "expected": "hath wrought folly in Israel",
+      "replacement": "has committed a disgraceful act in Israel",
+      "category": "archaic-legal-phrase",
+      "reason": "Wrought folly denotes a disgraceful act against the community.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.23.13",
+      "expected": "a paddle upon thy weapon",
+      "replacement": "a digging tool among thy equipment",
+      "category": "false-friend-camp-term",
+      "reason": "Weapon denotes equipment here; the object is a digging tool.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A13&version=KJV"
+    },
+    {
+      "reference": "DEU.23.13",
+      "expected": "when thou wilt ease thyself abroad",
+      "replacement": "when thou relievest thyself outside",
+      "category": "archaic-euphemism",
+      "reason": "The phrase describes using the designated place outside the camp.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A13&version=KJV"
+    },
+    {
+      "reference": "DEU.26.14",
+      "expected": "taken away ought thereof",
+      "replacement": "taken away anything from it",
+      "category": "archaic-pronoun",
+      "reason": "Ought means anything.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.26.14",
+      "expected": "given ought thereof",
+      "replacement": "given anything from it",
+      "category": "archaic-pronoun",
+      "reason": "Ought means anything.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.26.18",
+      "expected": "his peculiar people",
+      "replacement": "his special possession",
+      "category": "false-friend-covenant-term",
+      "reason": "Peculiar means specially possessed, not strange.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A18&version=KJV"
+    },
+    {
+      "reference": "DEU.24.18",
+      "expected": "redeemed thee thence",
+      "replacement": "redeemed thee from there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A18&version=KJV"
+    },
+    {
+      "reference": "DEU.28.31",
+      "expected": "thine ass",
+      "replacement": "thy donkey",
+      "category": "archaic-animal-and-grammar",
+      "reason": "The noun is modernized while retaining correct singular KJV possessive grammar.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A31&version=KJV"
+    },
+    {
+      "reference": "DEU.28.52",
+      "expected": "high and fenced walls",
+      "replacement": "high and fortified walls",
+      "category": "false-friend",
+      "reason": "Fenced means fortified by defensive walls.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A52&version=KJV"
+    },
+    {
+      "reference": "DEU.29.7",
+      "expected": "we smote them",
+      "replacement": "we defeated them",
+      "category": "archaic-battle-verb",
+      "reason": "Smote describes defeating the kings in battle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A7&version=KJV"
+    },
+    {
+      "reference": "DEU.29.24",
+      "expected": "Wherefore hath the LORD done thus",
+      "replacement": "Why has the LORD done this",
+      "category": "archaic-question",
+      "reason": "Wherefore asks why in this direct question.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A24&version=KJV"
+    },
+    {
+      "reference": "DEU.30.14",
+      "expected": "the word is very nigh unto thee",
+      "replacement": "the word is very near to thee",
+      "category": "archaic-location",
+      "reason": "Nigh means near.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.30.4",
+      "expected": "from thence",
+      "replacement": "from there",
+      "category": "archaic-location",
+      "reason": "Thence means from there.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A4&version=KJV"
+    },
+    {
+      "reference": "DEU.31.16",
+      "expected": "go a whoring after the gods of the strangers of the land",
+      "replacement": "be unfaithful by pursuing the gods of the foreigners in the land",
+      "category": "archaic-covenant-metaphor",
+      "reason": "The phrase describes covenant unfaithfulness through idolatry.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A16&version=KJV"
+    },
+    {
+      "reference": "DEU.32.15",
+      "expected": "Jeshurun waxed fat",
+      "replacement": "Jeshurun grew fat",
+      "category": "archaic-verb",
+      "reason": "Waxed means became or grew.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A15&version=KJV"
+    },
+    {
+      "reference": "DEU.32.18",
+      "expected": "the Rock that begat thee",
+      "replacement": "the Rock that gave thee birth",
+      "category": "archaic-birth-verb",
+      "reason": "Begat describes giving birth within the parental metaphor for God.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A18&version=KJV"
+    },
+    {
+      "reference": "DEU.32.20",
+      "expected": "a very froward generation",
+      "replacement": "a very perverse generation",
+      "category": "archaic-adjective",
+      "reason": "Froward means morally perverse or contrary.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A20&version=KJV"
+    },
+    {
+      "reference": "DEU.3.11",
+      "expected": "length thereof",
+      "replacement": "its length",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the bed's length.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A11&version=KJV"
+    },
+    {
+      "reference": "DEU.3.12",
+      "expected": "the cities thereof",
+      "replacement": "its cities",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the cities of that land.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A12&version=KJV"
+    },
+    {
+      "reference": "DEU.7.25",
+      "expected": "snared therein",
+      "replacement": "trapped by it",
+      "category": "archaic-relative",
+      "reason": "The pronoun refers to the silver or gold taken from an idol.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A25&version=KJV"
+    },
+    {
+      "reference": "DEU.9.21",
+      "expected": "the dust thereof",
+      "replacement": "its dust",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the calf's dust.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.12.2",
+      "expected": "all the places, wherein",
+      "replacement": "all the places where",
+      "category": "archaic-relative",
+      "reason": "Wherein means where in this location clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A2&version=KJV"
+    },
+    {
+      "reference": "DEU.12.15",
+      "expected": "may eat thereof",
+      "replacement": "may eat it",
+      "category": "archaic-relative",
+      "reason": "The pronoun refers to the permitted meat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A15&version=KJV"
+    },
+    {
+      "reference": "DEU.13.15",
+      "expected": "the cattle thereof",
+      "replacement": "its cattle",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the city's cattle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A15&version=KJV"
+    },
+    {
+      "reference": "DEU.13.16",
+      "expected": "the street thereof",
+      "replacement": "its street",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the city's street.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A16&version=KJV"
+    },
+    {
+      "reference": "DEU.13.16",
+      "expected": "the spoil thereof",
+      "replacement": "its spoil",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the city's spoil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A16&version=KJV"
+    },
+    {
+      "reference": "DEU.15.23",
+      "expected": "the blood thereof",
+      "replacement": "its blood",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the animal's blood.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A23&version=KJV"
+    },
+    {
+      "reference": "DEU.16.8",
+      "expected": "do no work therein",
+      "replacement": "do no work on it",
+      "category": "archaic-relative",
+      "reason": "The pronoun refers to the seventh day.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A8&version=KJV"
+    },
+    {
+      "reference": "DEU.17.1",
+      "expected": "sheep, wherein is blemish",
+      "replacement": "sheep that has a blemish",
+      "category": "archaic-relative",
+      "reason": "The clause describes an animal that has a blemish.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A1&version=KJV"
+    },
+    {
+      "reference": "DEU.20.11",
+      "expected": "the people that is found therein",
+      "replacement": "the people found in it",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the people in the city.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A11&version=KJV"
+    },
+    {
+      "reference": "DEU.20.13",
+      "expected": "every male thereof",
+      "replacement": "every male in it",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to every male in the city.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A13&version=KJV"
+    },
+    {
+      "reference": "DEU.20.14",
+      "expected": "the spoil thereof",
+      "replacement": "its spoil",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the city's spoil.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.20.19",
+      "expected": "the trees thereof",
+      "replacement": "its trees",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the city's trees.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.28.30",
+      "expected": "the grapes thereof",
+      "replacement": "its grapes",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the vineyard's grapes.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A30&version=KJV"
+    },
+    {
+      "reference": "DEU.28.31",
+      "expected": "eat thereof",
+      "replacement": "eat of it",
+      "category": "archaic-relative",
+      "reason": "The pronoun refers to the slaughtered ox.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A31&version=KJV"
+    },
+    {
+      "reference": "DEU.29.11",
+      "expected": "thy stranger",
+      "replacement": "the foreigner",
+      "category": "archaic-residency-term",
+      "reason": "The phrase refers to the foreigner residing in the camp.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A11&version=KJV"
+    },
+    {
+      "reference": "DEU.29.23",
+      "expected": "the whole land thereof",
+      "replacement": "that whole land",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the land under judgment.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A23&version=KJV"
+    },
+    {
+      "reference": "DEU.31.12",
+      "expected": "thy stranger",
+      "replacement": "the foreigner",
+      "category": "archaic-residency-term",
+      "reason": "The phrase refers to the foreigner residing within the gates.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A12&version=KJV"
+    },
+    {
+      "reference": "DEU.33.16",
+      "expected": "fulness thereof",
+      "replacement": "its fullness",
+      "category": "archaic-relative",
+      "reason": "The phrase refers to the earth's fullness.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A16&version=KJV"
+    },
+    {
+      "reference": "DEU.2.19",
+      "expected": "nigh",
+      "replacement": "near",
+      "category": "archaic-location",
+      "reason": "Nigh means near.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.4.7",
+      "expected": "nigh",
+      "replacement": "near",
+      "category": "archaic-location",
+      "reason": "Nigh means near.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A7&version=KJV"
+    },
+    {
+      "reference": "DEU.13.7",
+      "expected": "nigh",
+      "replacement": "near",
+      "category": "archaic-location",
+      "reason": "Nigh means near.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A7&version=KJV"
+    },
+    {
+      "reference": "DEU.20.2",
+      "expected": "nigh",
+      "replacement": "near",
+      "category": "archaic-location",
+      "reason": "Nigh means near.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A2&version=KJV"
+    },
+    {
+      "reference": "DEU.20.10",
+      "expected": "nigh",
+      "replacement": "near",
+      "category": "archaic-location",
+      "reason": "Nigh means near.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A10&version=KJV"
+    },
+    {
+      "reference": "DEU.22.2",
+      "expected": "nigh",
+      "replacement": "near",
+      "category": "archaic-location",
+      "reason": "Nigh means near.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A2&version=KJV"
+    },
+    {
+      "reference": "DEU.1.34",
+      "expected": "wroth",
+      "replacement": "angry",
+      "category": "archaic-emotion",
+      "reason": "Wroth means angry.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A34&version=KJV"
+    },
+    {
+      "reference": "DEU.3.26",
+      "expected": "wroth",
+      "replacement": "angry",
+      "category": "archaic-emotion",
+      "reason": "Wroth means angry.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A26&version=KJV"
+    },
+    {
+      "reference": "DEU.1.46",
+      "expected": "abode",
+      "replacement": "remained",
+      "category": "archaic-verb",
+      "reason": "Abode means remained.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A46&version=KJV"
+    },
+    {
+      "reference": "DEU.3.29",
+      "expected": "abode",
+      "replacement": "remained",
+      "category": "archaic-verb",
+      "reason": "Abode means remained.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A29&version=KJV"
+    },
+    {
+      "reference": "DEU.9.9",
+      "expected": "abode",
+      "replacement": "remained",
+      "category": "archaic-verb",
+      "reason": "Abode means remained.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A9&version=KJV"
+    },
+    {
+      "reference": "DEU.3.21",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.4.5",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A5&version=KJV"
+    },
+    {
+      "reference": "DEU.4.14",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.4.27",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A27&version=KJV"
+    },
+    {
+      "reference": "DEU.6.1",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A1&version=KJV"
+    },
+    {
+      "reference": "DEU.7.1",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A1&version=KJV"
+    },
+    {
+      "reference": "DEU.11.8",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A8&version=KJV"
+    },
+    {
+      "reference": "DEU.11.10",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A10&version=KJV"
+    },
+    {
+      "reference": "DEU.11.11",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A11&version=KJV"
+    },
+    {
+      "reference": "DEU.11.29",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A29&version=KJV"
+    },
+    {
+      "reference": "DEU.12.29",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A29&version=KJV"
+    },
+    {
+      "reference": "DEU.21.14",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+21%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.23.12",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A12&version=KJV"
+    },
+    {
+      "reference": "DEU.23.20",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A20&version=KJV"
+    },
+    {
+      "reference": "DEU.28.21",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.28.37",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A37&version=KJV"
+    },
+    {
+      "reference": "DEU.28.63",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A63&version=KJV"
+    },
+    {
+      "reference": "DEU.30.1",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A1&version=KJV"
+    },
+    {
+      "reference": "DEU.30.3",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A3&version=KJV"
+    },
+    {
+      "reference": "DEU.30.16",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A16&version=KJV"
+    },
+    {
+      "reference": "DEU.30.18",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A18&version=KJV"
+    },
+    {
+      "reference": "DEU.31.13",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A13&version=KJV"
+    },
+    {
+      "reference": "DEU.31.16",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A16&version=KJV"
+    },
+    {
+      "reference": "DEU.32.47",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A47&version=KJV"
+    },
+    {
+      "reference": "DEU.32.50",
+      "expected": "whither",
+      "replacement": "where",
+      "category": "archaic-location",
+      "reason": "Whither means where in a destination clause.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A50&version=KJV"
+    },
+    {
+      "reference": "DEU.1.37",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A37&version=KJV"
+    },
+    {
+      "reference": "DEU.1.38",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A38&version=KJV"
+    },
+    {
+      "reference": "DEU.1.39",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A39&version=KJV"
+    },
+    {
+      "reference": "DEU.4.42",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A42&version=KJV"
+    },
+    {
+      "reference": "DEU.12.5",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A5&version=KJV"
+    },
+    {
+      "reference": "DEU.12.6",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A6&version=KJV"
+    },
+    {
+      "reference": "DEU.12.11",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A11&version=KJV"
+    },
+    {
+      "reference": "DEU.19.3",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A3&version=KJV"
+    },
+    {
+      "reference": "DEU.19.4",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A4&version=KJV"
+    },
+    {
+      "reference": "DEU.32.52",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A52&version=KJV"
+    },
+    {
+      "reference": "DEU.34.4",
+      "expected": "thither",
+      "replacement": "there",
+      "category": "archaic-location",
+      "reason": "Thither means to that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+34%3A4&version=KJV"
+    },
+    {
+      "reference": "DEU.4.26",
+      "expected": "whereunto",
+      "replacement": "to which",
+      "category": "archaic-relative",
+      "reason": "Whereunto means to which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A26&version=KJV"
+    },
+    {
+      "reference": "DEU.7.19",
+      "expected": "whereby",
+      "replacement": "by which",
+      "category": "archaic-relative",
+      "reason": "Whereby means by which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.28.20",
+      "expected": "whereby",
+      "replacement": "by which",
+      "category": "archaic-relative",
+      "reason": "Whereby means by which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A20&version=KJV"
+    },
+    {
+      "reference": "DEU.15.14",
+      "expected": "wherewith",
+      "replacement": "with which",
+      "category": "archaic-relative",
+      "reason": "Wherewith means with which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.22.12",
+      "expected": "wherewith",
+      "replacement": "with which",
+      "category": "archaic-relative",
+      "reason": "Wherewith means with which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A12&version=KJV"
+    },
+    {
+      "reference": "DEU.28.53",
+      "expected": "wherewith",
+      "replacement": "with which",
+      "category": "archaic-relative",
+      "reason": "Wherewith means with which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A53&version=KJV"
+    },
+    {
+      "reference": "DEU.28.55",
+      "expected": "wherewith",
+      "replacement": "with which",
+      "category": "archaic-relative",
+      "reason": "Wherewith means with which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A55&version=KJV"
+    },
+    {
+      "reference": "DEU.28.57",
+      "expected": "wherewith",
+      "replacement": "with which",
+      "category": "archaic-relative",
+      "reason": "Wherewith means with which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A57&version=KJV"
+    },
+    {
+      "reference": "DEU.28.67",
+      "expected": "wherewith",
+      "replacement": "with which",
+      "category": "archaic-relative",
+      "reason": "Wherewith means with which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A67&version=KJV"
+    },
+    {
+      "reference": "DEU.33.1",
+      "expected": "wherewith",
+      "replacement": "with which",
+      "category": "archaic-relative",
+      "reason": "Wherewith means with which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A1&version=KJV"
+    },
+    {
+      "reference": "DEU.2.10",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A10&version=KJV"
+    },
+    {
+      "reference": "DEU.2.20",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A20&version=KJV"
+    },
+    {
+      "reference": "DEU.8.12",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A12&version=KJV"
+    },
+    {
+      "reference": "DEU.10.14",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.11.31",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A31&version=KJV"
+    },
+    {
+      "reference": "DEU.13.15",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A15&version=KJV"
+    },
+    {
+      "reference": "DEU.15.21",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.17.14",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.17.19",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.26.1",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A1&version=KJV"
+    },
+    {
+      "reference": "DEU.28.30",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A30&version=KJV"
+    },
+    {
+      "reference": "DEU.29.23",
+      "expected": "therein",
+      "replacement": "in it",
+      "category": "archaic-relative",
+      "reason": "Therein means in it or in that place.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A23&version=KJV"
+    },
+    {
+      "reference": "DEU.26.14",
+      "expected": "thereof",
+      "replacement": "of it",
+      "category": "archaic-relative",
+      "reason": "Thereof means of it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.8.9",
+      "expected": "wherein",
+      "replacement": "in which",
+      "category": "archaic-relative",
+      "reason": "Wherein means in which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A9&version=KJV"
+    },
+    {
+      "reference": "DEU.8.15",
+      "expected": "wherein",
+      "replacement": "in which",
+      "category": "archaic-relative",
+      "reason": "Wherein means in which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A15&version=KJV"
+    },
+    {
+      "reference": "DEU.12.7",
+      "expected": "wherein",
+      "replacement": "in which",
+      "category": "archaic-relative",
+      "reason": "Wherein means in which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A7&version=KJV"
+    },
+    {
+      "reference": "DEU.28.52",
+      "expected": "wherein",
+      "replacement": "in which",
+      "category": "archaic-relative",
+      "reason": "Wherein means in which.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A52&version=KJV"
+    },
+    {
+      "reference": "DEU.16.3",
+      "expected": "therewith",
+      "replacement": "with it",
+      "category": "archaic-relative",
+      "reason": "Therewith means with it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A3&version=KJV"
+    },
+    {
+      "reference": "DEU.23.13",
+      "expected": "therewith",
+      "replacement": "with it",
+      "category": "archaic-relative",
+      "reason": "Therewith means with it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A13&version=KJV"
+    },
+    {
+      "reference": "DEU.27.6",
+      "expected": "thereon",
+      "replacement": "on it",
+      "category": "archaic-relative",
+      "reason": "Thereon means on it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+27%3A6&version=KJV"
+    },
+    {
+      "reference": "DEU.12.32",
+      "expected": "thereto",
+      "replacement": "to it",
+      "category": "archaic-relative",
+      "reason": "Thereto means to it.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A32&version=KJV"
+    },
+    {
+      "reference": "DEU.10.18",
+      "expected": "raiment",
+      "replacement": "clothing",
+      "category": "archaic-noun",
+      "reason": "Raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A18&version=KJV"
+    },
+    {
+      "reference": "DEU.21.13",
+      "expected": "raiment",
+      "replacement": "clothing",
+      "category": "archaic-noun",
+      "reason": "Raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+21%3A13&version=KJV"
+    },
+    {
+      "reference": "DEU.22.3",
+      "expected": "raiment",
+      "replacement": "clothing",
+      "category": "archaic-noun",
+      "reason": "Raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A3&version=KJV"
+    },
+    {
+      "reference": "DEU.24.13",
+      "expected": "raiment",
+      "replacement": "clothing",
+      "category": "archaic-noun",
+      "reason": "Raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A13&version=KJV"
+    },
+    {
+      "reference": "DEU.24.17",
+      "expected": "raiment",
+      "replacement": "clothing",
+      "category": "archaic-noun",
+      "reason": "Raiment means clothing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A17&version=KJV"
+    },
+    {
+      "reference": "DEU.3.5",
+      "expected": "fenced",
+      "replacement": "fortified",
+      "category": "false-friend",
+      "reason": "Fenced means fortified by defensive walls.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A5&version=KJV"
+    },
+    {
+      "reference": "DEU.9.1",
+      "expected": "fenced",
+      "replacement": "fortified",
+      "category": "false-friend",
+      "reason": "Fenced means fortified by defensive walls.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A1&version=KJV"
+    },
+    {
+      "reference": "DEU.5.14",
+      "expected": "manservant",
+      "replacement": "male servant",
+      "category": "archaic-household-term",
+      "reason": "Manservant means male servant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.5.21",
+      "expected": "manservant",
+      "replacement": "male servant",
+      "category": "archaic-household-term",
+      "reason": "Manservant means male servant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.12.18",
+      "expected": "manservant",
+      "replacement": "male servant",
+      "category": "archaic-household-term",
+      "reason": "Manservant means male servant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A18&version=KJV"
+    },
+    {
+      "reference": "DEU.16.11",
+      "expected": "manservant",
+      "replacement": "male servant",
+      "category": "archaic-household-term",
+      "reason": "Manservant means male servant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A11&version=KJV"
+    },
+    {
+      "reference": "DEU.16.14",
+      "expected": "manservant",
+      "replacement": "male servant",
+      "category": "archaic-household-term",
+      "reason": "Manservant means male servant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.5.14",
+      "expected": "maidservant",
+      "replacement": "female servant",
+      "category": "archaic-household-term",
+      "reason": "Maidservant means female servant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.5.21",
+      "expected": "maidservant",
+      "replacement": "female servant",
+      "category": "archaic-household-term",
+      "reason": "Maidservant means female servant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.12.18",
+      "expected": "maidservant",
+      "replacement": "female servant",
+      "category": "archaic-household-term",
+      "reason": "Maidservant means female servant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A18&version=KJV"
+    },
+    {
+      "reference": "DEU.15.17",
+      "expected": "maidservant",
+      "replacement": "female servant",
+      "category": "archaic-household-term",
+      "reason": "Maidservant means female servant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A17&version=KJV"
+    },
+    {
+      "reference": "DEU.16.11",
+      "expected": "maidservant",
+      "replacement": "female servant",
+      "category": "archaic-household-term",
+      "reason": "Maidservant means female servant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A11&version=KJV"
+    },
+    {
+      "reference": "DEU.16.14",
+      "expected": "maidservant",
+      "replacement": "female servant",
+      "category": "archaic-household-term",
+      "reason": "Maidservant means female servant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.22.15",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A15&version=KJV"
+    },
+    {
+      "reference": "DEU.22.16",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A16&version=KJV"
+    },
+    {
+      "reference": "DEU.22.19",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.22.20",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A20&version=KJV"
+    },
+    {
+      "reference": "DEU.22.21",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.22.23",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A23&version=KJV"
+    },
+    {
+      "reference": "DEU.22.24",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A24&version=KJV"
+    },
+    {
+      "reference": "DEU.22.25",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A25&version=KJV"
+    },
+    {
+      "reference": "DEU.22.26",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A26&version=KJV"
+    },
+    {
+      "reference": "DEU.22.27",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A27&version=KJV"
+    },
+    {
+      "reference": "DEU.22.28",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A28&version=KJV"
+    },
+    {
+      "reference": "DEU.22.29",
+      "expected": "damsel",
+      "replacement": "young woman",
+      "category": "archaic-person-term",
+      "reason": "Damsel means young woman.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A29&version=KJV"
+    },
+    {
+      "reference": "DEU.15.15",
+      "expected": "bondman",
+      "replacement": "slave",
+      "category": "archaic-status-term",
+      "reason": "Bondman denotes a male slave in the Egypt reminder.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A15&version=KJV"
+    },
+    {
+      "reference": "DEU.16.12",
+      "expected": "bondman",
+      "replacement": "slave",
+      "category": "archaic-status-term",
+      "reason": "Bondman denotes a male slave in the Egypt reminder.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A12&version=KJV"
+    },
+    {
+      "reference": "DEU.24.18",
+      "expected": "bondman",
+      "replacement": "slave",
+      "category": "archaic-status-term",
+      "reason": "Bondman denotes a male slave in the Egypt reminder.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A18&version=KJV"
+    },
+    {
+      "reference": "DEU.24.22",
+      "expected": "bondman",
+      "replacement": "slave",
+      "category": "archaic-status-term",
+      "reason": "Bondman denotes a male slave in the Egypt reminder.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A22&version=KJV"
+    },
+    {
+      "reference": "DEU.1.16",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A16&version=KJV"
+    },
+    {
+      "reference": "DEU.5.14",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.10.18",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A18&version=KJV"
+    },
+    {
+      "reference": "DEU.10.19",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.14.21",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+14%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.14.29",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+14%3A29&version=KJV"
+    },
+    {
+      "reference": "DEU.16.11",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A11&version=KJV"
+    },
+    {
+      "reference": "DEU.16.14",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A14&version=KJV"
+    },
+    {
+      "reference": "DEU.17.15",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A15&version=KJV"
+    },
+    {
+      "reference": "DEU.23.7",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A7&version=KJV"
+    },
+    {
+      "reference": "DEU.23.20",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A20&version=KJV"
+    },
+    {
+      "reference": "DEU.24.17",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A17&version=KJV"
+    },
+    {
+      "reference": "DEU.24.19",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.24.20",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A20&version=KJV"
+    },
+    {
+      "reference": "DEU.24.21",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.25.5",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+25%3A5&version=KJV"
+    },
+    {
+      "reference": "DEU.26.11",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A11&version=KJV"
+    },
+    {
+      "reference": "DEU.26.12",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A12&version=KJV"
+    },
+    {
+      "reference": "DEU.26.13",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A13&version=KJV"
+    },
+    {
+      "reference": "DEU.27.19",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+27%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.28.43",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A43&version=KJV"
+    },
+    {
+      "reference": "DEU.29.22",
+      "expected": "stranger",
+      "replacement": "foreigner",
+      "category": "archaic-residency-term",
+      "reason": "Stranger denotes a foreigner living among or outside Israel.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A22&version=KJV"
+    },
+    {
+      "reference": "DEU.16.4",
+      "expected": "at even",
+      "replacement": "in the evening",
+      "category": "archaic-time",
+      "reason": "Even means evening.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A4&version=KJV"
+    },
+    {
+      "reference": "DEU.16.6",
+      "expected": "at even",
+      "replacement": "in the evening",
+      "category": "archaic-time",
+      "reason": "Even means evening.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A6&version=KJV"
+    },
+    {
+      "reference": "DEU.28.67",
+      "expected": "at even",
+      "replacement": "in the evening",
+      "category": "archaic-time",
+      "reason": "Even means evening.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A67&version=KJV"
+    },
+    {
+      "reference": "DEU.23.19",
+      "expected": "usury",
+      "replacement": "interest",
+      "category": "false-friend-finance",
+      "reason": "Usury here means interest on a loan, not only an excessive rate.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A19&version=KJV"
+    },
+    {
+      "reference": "DEU.23.20",
+      "expected": "usury",
+      "replacement": "interest",
+      "category": "false-friend-finance",
+      "reason": "Usury here means interest on a loan, not only an excessive rate.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A20&version=KJV"
+    },
+    {
+      "reference": "DEU.28.53",
+      "expected": "straitness",
+      "replacement": "distress",
+      "category": "archaic-siege-term",
+      "reason": "Straitness means severe distress during a siege.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A53&version=KJV"
+    },
+    {
+      "reference": "DEU.28.55",
+      "expected": "straitness",
+      "replacement": "distress",
+      "category": "archaic-siege-term",
+      "reason": "Straitness means severe distress during a siege.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A55&version=KJV"
+    },
+    {
+      "reference": "DEU.28.57",
+      "expected": "straitness",
+      "replacement": "distress",
+      "category": "archaic-siege-term",
+      "reason": "Straitness means severe distress during a siege.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A57&version=KJV"
+    },
+    {
+      "reference": "DEU.5.21",
+      "expected": "ass",
+      "replacement": "donkey",
+      "category": "archaic-animal-name",
+      "reason": "Ass is the historical name for a donkey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.22.3",
+      "expected": "ass",
+      "replacement": "donkey",
+      "category": "archaic-animal-name",
+      "reason": "Ass is the historical name for a donkey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A3&version=KJV"
+    },
+    {
+      "reference": "DEU.22.4",
+      "expected": "ass",
+      "replacement": "donkey",
+      "category": "archaic-animal-name",
+      "reason": "Ass is the historical name for a donkey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A4&version=KJV"
+    },
+    {
+      "reference": "DEU.22.10",
+      "expected": "ass",
+      "replacement": "donkey",
+      "category": "archaic-animal-name",
+      "reason": "Ass is the historical name for a donkey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A10&version=KJV"
+    },
+    {
+      "reference": "DEU.7.5",
+      "expected": "groves",
+      "replacement": "Asherah poles",
+      "category": "false-friend-idolatry",
+      "reason": "Groves translates cultic Asherah objects, not ordinary groups of trees.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A5&version=KJV"
+    },
+    {
+      "reference": "DEU.12.3",
+      "expected": "groves",
+      "replacement": "Asherah poles",
+      "category": "false-friend-idolatry",
+      "reason": "Groves translates cultic Asherah objects, not ordinary groups of trees.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A3&version=KJV"
+    },
+    {
+      "reference": "DEU.3.11",
+      "expected": "bedstead",
+      "replacement": "bed",
+      "category": "archaic-object",
+      "reason": "Bedstead means bed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A11&version=KJV"
+    },
+    {
+      "reference": "DEU.13.16",
+      "expected": "every whit",
+      "replacement": "completely",
+      "category": "archaic-adverb",
+      "reason": "Every whit means completely.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A16&version=KJV"
+    },
+    {
+      "reference": "DEU.12.15",
+      "expected": "lusteth after",
+      "replacement": "desires",
+      "category": "archaic-verb",
+      "reason": "Lusteth after means desires in this food permission.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A15&version=KJV"
+    },
+    {
+      "reference": "DEU.12.20",
+      "expected": "lusteth after",
+      "replacement": "desires",
+      "category": "archaic-verb",
+      "reason": "Lusteth after means desires in this food permission.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A20&version=KJV"
+    },
+    {
+      "reference": "DEU.12.21",
+      "expected": "lusteth after",
+      "replacement": "desires",
+      "category": "archaic-verb",
+      "reason": "Lusteth after means desires in this food permission.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A21&version=KJV"
+    },
+    {
+      "reference": "DEU.14.26",
+      "expected": "lusteth after",
+      "replacement": "desires",
+      "category": "archaic-verb",
+      "reason": "Lusteth after means desires in this food permission.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Deuteronomy+14%3A26&version=KJV"
     }
   ],
   "pending": [
@@ -102560,6 +104488,102 @@
         {
           "label": "Complete-passage KJV contextual review",
           "url": "https://www.biblegateway.com/passage/?search=Exodus+6%3A12%2C30&version=KJV"
+        }
+      ]
+    },
+    {
+      "id": "deuteronomy-kjv-v7-1",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "roebuck / hart",
+      "proposedOptions": [
+        "Retain with a note",
+        "Modernize after textual review"
+      ],
+      "reason": "Ancient animal names may require gazelle/deer, but exact species identification should be settled consistently.",
+      "references": [
+        {
+          "book": "DEU",
+          "chapter": 12,
+          "verse": 15
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV and NIV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A15&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "deuteronomy-kjv-v7-2",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "price of a dog",
+      "proposedOptions": [
+        "Retain with a note",
+        "Modernize after textual review"
+      ],
+      "reason": "The cultic expression is disputed and should not be expanded into a specific sexual identification without textual review.",
+      "references": [
+        {
+          "book": "DEU",
+          "chapter": 23,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV and NIV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A18&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "deuteronomy-kjv-v7-3",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "high places of the earth",
+      "proposedOptions": [
+        "Retain with a note",
+        "Modernize after textual review"
+      ],
+      "reason": "The poetic image may mean heights or elevated land; retain it until its parallelism is reviewed.",
+      "references": [
+        {
+          "book": "DEU",
+          "chapter": 32,
+          "verse": 13
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV and NIV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A13&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "deuteronomy-kjv-v7-4",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "tread upon their high places",
+      "proposedOptions": [
+        "Retain with a note",
+        "Modernize after textual review"
+      ],
+      "reason": "The poetic military image should be retained or clarified consistently with its Hebrew parallel.",
+      "references": [
+        {
+          "book": "DEU",
+          "chapter": 33,
+          "verse": 29
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Complete-verse KJV and NIV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A29&version=KJV%3BNIV"
         }
       ]
     }

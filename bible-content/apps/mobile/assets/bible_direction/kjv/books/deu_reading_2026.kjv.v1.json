@@ -4,7 +4,7 @@
   "sourceVersionId": "KJV",
   "book": "DEU",
   "sourceContentSha256": "eace002120d54fa8681a40b5b8b2bc8f40940b042c96bacbef36fdee347a1331",
-  "editorialStatus": "approved-minimal-comprehension-v3",
+  "editorialStatus": "approved-deuteronomy-complete-context-v7",
   "normalizationId": "shine-kjv-visible-text-v1",
   "verses": [
     {
@@ -54,6 +54,27 @@
     },
     {
       "chapter": 1,
+      "verse": 7,
+      "sourceTextSha256": "bf8bdbad505a753913dee779ee2c86d57a6a55f64396851e67a9143d8fe74611",
+      "edits": [
+        {
+          "startOffset": 94,
+          "endOffset": 108,
+          "expected": "nigh thereunto",
+          "replacement": "near it",
+          "category": "archaic-location",
+          "reason": "The phrase means near that mountain region.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
       "verse": 8,
       "sourceTextSha256": "867746db1467a28d8afafe64dd6ea28cb43fa0c4c4e0e492609b5384007e6b3e",
       "edits": [
@@ -84,6 +105,69 @@
     },
     {
       "chapter": 1,
+      "verse": 16,
+      "sourceTextSha256": "0e815ced4a910a302541eca3c16f65cea745053b8d037b662952401a44fd220e",
+      "edits": [
+        {
+          "startOffset": 152,
+          "endOffset": 160,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A16&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "sourceTextSha256": "fcc372a8af459599415cfaf88a39fac4f0b414dd7fd3b6084db13b8575b304ac",
+      "edits": [
+        {
+          "startOffset": 60,
+          "endOffset": 89,
+          "expected": "great and terrible wilderness",
+          "replacement": "great and terrifying wilderness",
+          "category": "false-friend",
+          "reason": "Terrible describes a frightening wilderness.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 28,
+      "sourceTextSha256": "067b125b7d2a280bacc050dbb870aba618c623c391f858d0504d0cc0d29d19de",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 23,
+          "expected": "Whither shall we go up?",
+          "replacement": "Where shall we go up?",
+          "category": "archaic-question",
+          "reason": "Whither asks where they can go.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A28&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
       "verse": 33,
       "sourceTextSha256": "e23a993e03aa499e3fb55ffce859fe2681ffab17daaf3b40dffcf5de736c7623",
       "edits": [
@@ -102,6 +186,20 @@
       "verse": 34,
       "sourceTextSha256": "f84474139ba2d7f76a45c76e10685e33b450bbb15f61d44a82ed7bc737d639bf",
       "edits": [
+        {
+          "startOffset": 52,
+          "endOffset": 57,
+          "expected": "wroth",
+          "replacement": "angry",
+          "category": "archaic-emotion",
+          "reason": "Wroth means angry.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A34&version=KJV%3BNIV"
+            }
+          ]
+        },
         {
           "startOffset": 63,
           "endOffset": 68,
@@ -129,6 +227,69 @@
     },
     {
       "chapter": 1,
+      "verse": 37,
+      "sourceTextSha256": "49b50d69791917ec11ceee9eb4cabe3223c7bbb31358d274951f069b334b5815",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 89,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A37&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 38,
+      "sourceTextSha256": "3797812df4b0333316ff0883e757c5f4b56ef4b5eb2252ba4b5d51c2d28e62a5",
+      "edits": [
+        {
+          "startOffset": 70,
+          "endOffset": 77,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A38&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 39,
+      "sourceTextSha256": "3a29054ea89ad98a5174acd8b56db5cb39b0029be063d3d49e752bddd63502e7",
+      "edits": [
+        {
+          "startOffset": 153,
+          "endOffset": 160,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A39&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
       "verse": 43,
       "sourceTextSha256": "e462b06e8a80d65e87607716e0b36580c355f2faf8b0b923ae149f9b9bfd5578",
       "edits": [
@@ -139,6 +300,41 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 46,
+      "sourceTextSha256": "7fd036d751683b884715b16a04b96d55f33d0ea0eac5d9e70dc2ef61c8b85ebb",
+      "edits": [
+        {
+          "startOffset": 6,
+          "endOffset": 11,
+          "expected": "abode",
+          "replacement": "remained",
+          "category": "archaic-verb",
+          "reason": "Abode means remained.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A46&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 65,
+          "endOffset": 70,
+          "expected": "abode",
+          "replacement": "remained",
+          "category": "archaic-verb",
+          "reason": "Abode means remained.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A46&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -174,6 +370,48 @@
     },
     {
       "chapter": 2,
+      "verse": 4,
+      "sourceTextSha256": "86bc9b5fa9c87902fbe7f44e5b1876eff505f4364ddf0e163becefd604afebf7",
+      "edits": [
+        {
+          "startOffset": 60,
+          "endOffset": 86,
+          "expected": "the coast of your brethren",
+          "replacement": "the territory of your brethren",
+          "category": "false-friend-geography",
+          "reason": "Coast means territory, not shoreline.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "sourceTextSha256": "76b28c4f241c2afcc29cf570a1280b4df2691d5a1720e77fd32b5fc31a3638ea",
+      "edits": [
+        {
+          "startOffset": 16,
+          "endOffset": 23,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A10&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
       "verse": 14,
       "sourceTextSha256": "889293ad90e25ffc3c396ef2af466584b01f52cd5b02b1904a3bf23b97a4d1b5",
       "edits": [
@@ -203,6 +441,265 @@
       ]
     },
     {
+      "chapter": 2,
+      "verse": 18,
+      "sourceTextSha256": "8cd2a0c3c7692411e8bafee61c42aa1bfa80c499755e5402dce1a095d36949fa",
+      "edits": [
+        {
+          "startOffset": 34,
+          "endOffset": 51,
+          "expected": "the coast of Moab",
+          "replacement": "the border of Moab",
+          "category": "false-friend-geography",
+          "reason": "Coast means the border region.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A18&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "sourceTextSha256": "99297b4b1727118805ca429d4f0cae183045758f6db43a73a73b6f7e40b05792",
+      "edits": [
+        {
+          "startOffset": 21,
+          "endOffset": 25,
+          "expected": "nigh",
+          "replacement": "near",
+          "category": "archaic-location",
+          "reason": "Nigh means near.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "sourceTextSha256": "3990bafd88934f3d4b826d0fd6d40c0004df7293a0a3343e5b4f01e8fd1af199",
+      "edits": [
+        {
+          "startOffset": 56,
+          "endOffset": 63,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A20&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 33,
+      "sourceTextSha256": "96444fa7c708148cc61a60f94032716629eee2a2e229c02bb459cf25230e93b5",
+      "edits": [
+        {
+          "startOffset": 50,
+          "endOffset": 96,
+          "expected": "we smote him, and his sons, and all his people",
+          "replacement": "we defeated him, his sons, and all his people",
+          "category": "archaic-battle-verb",
+          "reason": "Smote describes defeating the king and his people in battle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A33&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "sourceTextSha256": "63bb5e91e73587780ed27a198daaf918b65afa38ad55bcc9dcf3c2735b3d77a5",
+      "edits": [
+        {
+          "startOffset": 98,
+          "endOffset": 147,
+          "expected": "we smote him until none was left to him remaining",
+          "replacement": "we defeated him until none of his people remained",
+          "category": "archaic-battle-verb",
+          "reason": "The complete clause describes total military defeat.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "sourceTextSha256": "3a7bf906eb3b53de430124577c1337ebf5cd4a535424b86fbd611c8ce5f8282d",
+      "edits": [
+        {
+          "startOffset": 91,
+          "endOffset": 108,
+          "expected": "threescore cities",
+          "replacement": "sixty cities",
+          "category": "archaic-number",
+          "reason": "Threescore equals sixty.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "sourceTextSha256": "7443b0d20b1591c58687034dac8a86dc9efcc24520b4123f1389c04448645e86",
+      "edits": [
+        {
+          "startOffset": 22,
+          "endOffset": 28,
+          "expected": "fenced",
+          "replacement": "fortified",
+          "category": "false-friend",
+          "reason": "Fenced means fortified by defensive walls.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "sourceTextSha256": "44106889f1942ebe4d5173ff05420af74e0ac2875eaec4114ace08fc12c86e7b",
+      "edits": [
+        {
+          "startOffset": 74,
+          "endOffset": 82,
+          "expected": "bedstead",
+          "replacement": "bed",
+          "category": "archaic-object",
+          "reason": "Bedstead means bed.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A11&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 89,
+          "endOffset": 97,
+          "expected": "bedstead",
+          "replacement": "bed",
+          "category": "archaic-object",
+          "reason": "Bedstead means bed.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A11&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 174,
+          "endOffset": 188,
+          "expected": "length thereof",
+          "replacement": "its length",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the bed's length.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "sourceTextSha256": "65eae7e1d81c53f01ee847c750136dfbff3d6b72749257a25ad29486f302dde3",
+      "edits": [
+        {
+          "startOffset": 116,
+          "endOffset": 134,
+          "expected": "the cities thereof",
+          "replacement": "its cities",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the cities of that land.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "sourceTextSha256": "774a0091dec8042a12a7068d3aca98f2d99f874cbd6cbc83d749427a4d0336a9",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 49,
+          "expected": "Jordan, and the coast thereof",
+          "replacement": "Jordan and its border",
+          "category": "false-friend-geography",
+          "reason": "Coast denotes the territorial boundary along the Jordan.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A17&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "sourceTextSha256": "44c3484bbdd9b0f4cb1ec50c7eb1732e148a10cffcfc48f9c19d253439a3d3fb",
+      "edits": [
+        {
+          "startOffset": 170,
+          "endOffset": 177,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 3,
       "verse": 24,
       "sourceTextSha256": "fc4a268710c7267f91fa4c1cc04c122e9dec770a2e51fe3e60e17c55d0774ee9",
@@ -218,6 +715,132 @@
       ]
     },
     {
+      "chapter": 3,
+      "verse": 25,
+      "sourceTextSha256": "99438f97b031d9fedfd070f55d49aadd8b061c5783f97f50602bacbcbb892562",
+      "edits": [
+        {
+          "startOffset": 74,
+          "endOffset": 94,
+          "expected": "that goodly mountain",
+          "replacement": "that beautiful mountain",
+          "category": "archaic-adjective",
+          "reason": "Goodly means beautiful or desirable here.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A25&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 26,
+      "sourceTextSha256": "8b8a095651a6db3a1f598df7ab5880815c0719b60669da1f292cfb39f7507ce3",
+      "edits": [
+        {
+          "startOffset": 17,
+          "endOffset": 22,
+          "expected": "wroth",
+          "replacement": "angry",
+          "category": "archaic-emotion",
+          "reason": "Wroth means angry.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A26&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 29,
+      "sourceTextSha256": "04e446e94d9b3e1fcba1f82ebd657a189b01460f7c1fb9eeec1c744f9b22d5a8",
+      "edits": [
+        {
+          "startOffset": 6,
+          "endOffset": 11,
+          "expected": "abode",
+          "replacement": "remained",
+          "category": "archaic-verb",
+          "reason": "Abode means remained.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A29&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "sourceTextSha256": "e3cf17955d53723b9d2fdc4a15a14ded58540f3c05041d9c68ce27be5e6cd396",
+      "edits": [
+        {
+          "startOffset": 52,
+          "endOffset": 91,
+          "expected": "neither shall ye diminish ought from it",
+          "replacement": "neither shall ye diminish anything from it",
+          "category": "archaic-pronoun",
+          "reason": "Ought means anything in this prohibition.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "sourceTextSha256": "41afc32fdb97d40346acaefd5ca93cfe768be17b3fc0d35fb0054c2703fa8922",
+      "edits": [
+        {
+          "startOffset": 121,
+          "endOffset": 128,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "sourceTextSha256": "3c4435641c5a66eb2c3b23939d8a511061708e9486ab014a1aae08cb0d495d7e",
+      "edits": [
+        {
+          "startOffset": 51,
+          "endOffset": 55,
+          "expected": "nigh",
+          "replacement": "near",
+          "category": "archaic-location",
+          "reason": "Nigh means near.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 4,
       "verse": 12,
       "sourceTextSha256": "1e6e6bf87e89dc8943d90a79a5fd99f09af17abe61ce3b52b800a3eaa2cd8201",
@@ -229,6 +852,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "sourceTextSha256": "9f84d91d2039b5f7c5d9d50ac94fcbd8968ad1651304e19525b59c71feda4f53",
+      "edits": [
+        {
+          "startOffset": 112,
+          "endOffset": 119,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A14&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -259,6 +903,69 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 26,
+      "sourceTextSha256": "a9e8ad7f48dacdbaf1da5be94c98cfe40a51925c19bfbf17e7ec1cd51d3685e0",
+      "edits": [
+        {
+          "startOffset": 109,
+          "endOffset": 118,
+          "expected": "whereunto",
+          "replacement": "to which",
+          "category": "archaic-relative",
+          "reason": "Whereunto means to which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A26&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 27,
+      "sourceTextSha256": "b1ac5785168dddf615d1958adf08ddd2a5891b4d0933b20050a61571d4129b55",
+      "edits": [
+        {
+          "startOffset": 104,
+          "endOffset": 111,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A27&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 29,
+      "sourceTextSha256": "2b0774b1861bfb21907c0c4e51dbe5b5289d001b180ab2b1717d64026afa9c15",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 18,
+          "expected": "from thence",
+          "replacement": "from there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A29&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -309,6 +1016,41 @@
     },
     {
       "chapter": 4,
+      "verse": 42,
+      "sourceTextSha256": "69eafe044d7ed695c4270b91333bd7a12e6160f71669fcd1f0018d58e6c704bc",
+      "edits": [
+        {
+          "startOffset": 27,
+          "endOffset": 34,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A42&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 49,
+          "endOffset": 76,
+          "expected": "kill his neighbour unawares",
+          "replacement": "kill his neighbour unintentionally",
+          "category": "archaic-legal-adverb",
+          "reason": "Unawares means unintentionally in the refuge-city law.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A42&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
       "verse": 45,
       "sourceTextSha256": "bf077bcd381b72bc14da3c0e0e364ae640cbbb2df4a6a49a1dcc0a3da9c2f128",
       "edits": [
@@ -334,6 +1076,167 @@
           "replacement": "show",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "sourceTextSha256": "be14d99031c3eb2e70794a7b41a5c013dbf0f766d0622c199a8200b285ea0ac4",
+      "edits": [
+        {
+          "startOffset": 135,
+          "endOffset": 145,
+          "expected": "manservant",
+          "replacement": "male servant",
+          "category": "archaic-household-term",
+          "reason": "Manservant means male servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A14&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 155,
+          "endOffset": 166,
+          "expected": "maidservant",
+          "replacement": "female servant",
+          "category": "archaic-household-term",
+          "reason": "Maidservant means female servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A14&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 186,
+          "endOffset": 195,
+          "expected": "thine ass",
+          "replacement": "thy donkey",
+          "category": "archaic-animal-and-grammar",
+          "reason": "The noun is modernized while retaining correct singular KJV possessive grammar.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A14&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 228,
+          "endOffset": 236,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A14&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 272,
+          "endOffset": 282,
+          "expected": "manservant",
+          "replacement": "male servant",
+          "category": "archaic-household-term",
+          "reason": "Manservant means male servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A14&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 291,
+          "endOffset": 302,
+          "expected": "maidservant",
+          "replacement": "female servant",
+          "category": "archaic-household-term",
+          "reason": "Maidservant means female servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "sourceTextSha256": "d1f69eeb63091b3bdb8ea6542628dcbd6505ea09a0e87faaae7341fd71d954d8",
+      "edits": [
+        {
+          "startOffset": 86,
+          "endOffset": 109,
+          "expected": "brought thee out thence",
+          "replacement": "brought thee out from there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A15&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "sourceTextSha256": "d56ff6332f2a33e7d74d978b66c61bcf5594df78010ead5548838baf1e71f059",
+      "edits": [
+        {
+          "startOffset": 114,
+          "endOffset": 124,
+          "expected": "manservant",
+          "replacement": "male servant",
+          "category": "archaic-household-term",
+          "reason": "Manservant means male servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A21&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 133,
+          "endOffset": 144,
+          "expected": "maidservant",
+          "replacement": "female servant",
+          "category": "archaic-household-term",
+          "reason": "Maidservant means female servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A21&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 161,
+          "endOffset": 164,
+          "expected": "ass",
+          "replacement": "donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A21&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -384,6 +1287,27 @@
     },
     {
       "chapter": 6,
+      "verse": 1,
+      "sourceTextSha256": "34f4a7906857a1f5a672ea2aef501e83ba7e386225c01cc7f21a07d4b42b6f0f",
+      "edits": [
+        {
+          "startOffset": 147,
+          "endOffset": 154,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A1&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
       "verse": 10,
       "sourceTextSha256": "af30adc4d662a195a35129b20ebd8c91bf34f65eec3b513a1af44cff2ec2beb2",
       "edits": [
@@ -394,6 +1318,20 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 159,
+          "endOffset": 182,
+          "expected": "great and goodly cities",
+          "replacement": "great and beautiful cities",
+          "category": "archaic-adjective",
+          "reason": "Goodly means beautiful or desirable here.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A10&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -433,12 +1371,47 @@
       "sourceTextSha256": "f9cbcac2bfc3507d1020f5deda012988ec11b51c4757a992db3d3f6f7d294aac",
       "edits": [
         {
+          "startOffset": 7,
+          "endOffset": 33,
+          "expected": "brought us out from thence",
+          "replacement": "brought us out from there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A23&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
           "startOffset": 91,
           "endOffset": 96,
           "expected": "sware",
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "sourceTextSha256": "771caf7e878ed927cd1f4dd274eac3611e6abc3f61b9adea2e5fe414ad31ac2d",
+      "edits": [
+        {
+          "startOffset": 53,
+          "endOffset": 60,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A1&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -459,9 +1432,44 @@
     },
     {
       "chapter": 7,
+      "verse": 5,
+      "sourceTextSha256": "a61b7ff3e7600e6b19a4fd27910f99a09f7ce509696c831f4a29f0a7007b2926",
+      "edits": [
+        {
+          "startOffset": 113,
+          "endOffset": 119,
+          "expected": "groves",
+          "replacement": "Asherah poles",
+          "category": "false-friend-idolatry",
+          "reason": "Groves translates cultic Asherah objects, not ordinary groups of trees.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
       "verse": 12,
       "sourceTextSha256": "cd3b76bb3d417d19b439d918ffcc0b0657989e176fc7bc53eacc2ee34d0f52d2",
       "edits": [
+        {
+          "startOffset": 2,
+          "endOffset": 33,
+          "expected": "Wherefore it shall come to pass",
+          "replacement": "Therefore it shall come to pass",
+          "category": "archaic-connector",
+          "reason": "Wherefore has the result sense therefore here.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A12&version=KJV%3BNIV"
+            }
+          ]
+        },
         {
           "startOffset": 171,
           "endOffset": 176,
@@ -488,6 +1496,83 @@
       ]
     },
     {
+      "chapter": 7,
+      "verse": 19,
+      "sourceTextSha256": "458e192afb14b90030b7755ff190cff55e885ef9bf33cd5782b2939659a0ba46",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 21,
+          "expected": "The great temptations",
+          "replacement": "The great trials",
+          "category": "false-friend",
+          "reason": "Temptations means trials or tests witnessed in Egypt.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A19&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 124,
+          "endOffset": 131,
+          "expected": "whereby",
+          "replacement": "by which",
+          "category": "archaic-relative",
+          "reason": "Whereby means by which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "sourceTextSha256": "34f2e309254f56c114f77885afff4d461cfbcb9807e39acd640dffab3b64955c",
+      "edits": [
+        {
+          "startOffset": 73,
+          "endOffset": 98,
+          "expected": "a mighty God and terrible",
+          "replacement": "a mighty and awe-inspiring God",
+          "category": "false-friend-divine-description",
+          "reason": "Terrible means inspiring reverent fear, not morally bad.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 25,
+      "sourceTextSha256": "a5a097bd472ee1b291ce371411356c3fb09753ed1e1aa05583478fbf61b26cbd",
+      "edits": [
+        {
+          "startOffset": 151,
+          "endOffset": 165,
+          "expected": "snared therein",
+          "replacement": "trapped by it",
+          "category": "archaic-relative",
+          "reason": "The pronoun refers to the silver or gold taken from an idol.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A25&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 8,
       "verse": 1,
       "sourceTextSha256": "7e12f7666190ed61cde8f572b2369fc4d382f2625c7b5deddb7fdd0cec2d4d9d",
@@ -499,6 +1584,132 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "sourceTextSha256": "1a97c581856c17198d1198342494437125aa3e34dc509b1ca6186ca5e0e7bf7b",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 35,
+          "expected": "Thy raiment waxed not old upon thee",
+          "replacement": "Thy clothing did not wear out upon thee",
+          "category": "archaic-verb-phrase",
+          "reason": "Waxed not old means did not wear out.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "sourceTextSha256": "300b6a22a70d39f4b6b72baaedae940ba1a27b436f139a030b90902691494f9d",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 14,
+          "expected": "wherein",
+          "replacement": "in which",
+          "category": "archaic-relative",
+          "reason": "Wherein means in which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A9&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 26,
+          "endOffset": 54,
+          "expected": "eat bread without scarceness",
+          "replacement": "eat bread without shortage",
+          "category": "archaic-noun",
+          "reason": "Scarceness means shortage.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A9&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "sourceTextSha256": "4adc44f70d7db0f6bff66f06b976534c10e8b39d478282e4798c789a1fe9275c",
+      "edits": [
+        {
+          "startOffset": 55,
+          "endOffset": 68,
+          "expected": "goodly houses",
+          "replacement": "fine houses",
+          "category": "archaic-adjective",
+          "reason": "Goodly describes fine houses.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A12&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 80,
+          "endOffset": 87,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "sourceTextSha256": "d48b62cd471380a58fc3168e513d37335eddeb61e0e18b6a7c3a814d0d4efafa",
+      "edits": [
+        {
+          "startOffset": 26,
+          "endOffset": 55,
+          "expected": "great and terrible wilderness",
+          "replacement": "great and terrifying wilderness",
+          "category": "false-friend",
+          "reason": "Terrible describes a frightening wilderness.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A15&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 57,
+          "endOffset": 64,
+          "expected": "wherein",
+          "replacement": "in which",
+          "category": "archaic-relative",
+          "reason": "Wherein means in which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A15&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -519,6 +1730,27 @@
     },
     {
       "chapter": 9,
+      "verse": 1,
+      "sourceTextSha256": "933c13efa5876a8939ec74944a2d77452ce25e49d1a03bdbedc5613ab76b793a",
+      "edits": [
+        {
+          "startOffset": 135,
+          "endOffset": 141,
+          "expected": "fenced",
+          "replacement": "fortified",
+          "category": "false-friend",
+          "reason": "Fenced means fortified by defensive walls.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A1&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
       "verse": 5,
       "sourceTextSha256": "551e123c2968ac55d3e675a2754bf2796779f12a6f5b2d2f246c1c84478cfb7c",
       "edits": [
@@ -529,6 +1761,27 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "sourceTextSha256": "bf36ff0fd91b269ff6772f0b6ab28a134243157fa8c21521402f51f7bfdbc446",
+      "edits": [
+        {
+          "startOffset": 135,
+          "endOffset": 140,
+          "expected": "abode",
+          "replacement": "remained",
+          "category": "archaic-verb",
+          "reason": "Abode means remained.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A9&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -549,6 +1802,27 @@
     },
     {
       "chapter": 9,
+      "verse": 12,
+      "sourceTextSha256": "7b2f794bebc72f025dd394e8f69e8ae2bbd4a12a4f4272114f1f110802d1278b",
+      "edits": [
+        {
+          "startOffset": 56,
+          "endOffset": 66,
+          "expected": "from hence",
+          "replacement": "from here",
+          "category": "archaic-location",
+          "reason": "Hence means here in this departure command.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
       "verse": 13,
       "sourceTextSha256": "192c5c9439e7ab6debb2f4c20f8e2087925c9b524889b70dc2f0dce385d7441a",
       "edits": [
@@ -559,6 +1833,69 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 19,
+      "sourceTextSha256": "f417571f973e4b4786d5a3837a986239fcea8c3adebb400d0a3c94a041aaf85c",
+      "edits": [
+        {
+          "startOffset": 34,
+          "endOffset": 79,
+          "expected": "hot displeasure, wherewith the LORD was wroth",
+          "replacement": "great anger, with which the LORD was angry",
+          "category": "archaic-emotion-phrase",
+          "reason": "Hot displeasure and wroth describe great anger.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 21,
+      "sourceTextSha256": "4fff4ab165e9ae146013dfd014a03796456988d9f72313c3dc7108032fcbea8e",
+      "edits": [
+        {
+          "startOffset": 162,
+          "endOffset": 178,
+          "expected": "the dust thereof",
+          "replacement": "its dust",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the calf's dust.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 28,
+      "sourceTextSha256": "bad5c69c94c9979365fbe812a2d5636e2119714e7a52761dbe957b2619190c4b",
+      "edits": [
+        {
+          "startOffset": 5,
+          "endOffset": 43,
+          "expected": "the land whence thou broughtest us out",
+          "replacement": "the land from which thou broughtest us out",
+          "category": "archaic-relative",
+          "reason": "Whence means from which place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A28&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -579,6 +1916,27 @@
     },
     {
       "chapter": 10,
+      "verse": 7,
+      "sourceTextSha256": "9dcb5428fd5715681af7832d7759449303899be77326c136218e6ec5ce8aa038",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 11,
+          "expected": "From thence",
+          "replacement": "From there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
       "verse": 11,
       "sourceTextSha256": "526597cd90728c0adf3ece5761b75b09c55ff8ab0fa9ac98efb57e6fa5942f89",
       "edits": [
@@ -589,6 +1947,160 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "sourceTextSha256": "597b1853e9b401b873c07d84bffd5fefed894bba68b5dedafda70d26ce86c8fc",
+      "edits": [
+        {
+          "startOffset": 98,
+          "endOffset": 105,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 17,
+      "sourceTextSha256": "b209f34bc022d11178bccee9c1f14ee398e06852233e72e82008d5cf116dc0e1",
+      "edits": [
+        {
+          "startOffset": 70,
+          "endOffset": 94,
+          "expected": "a mighty, and a terrible",
+          "replacement": "mighty and awe-inspiring",
+          "category": "false-friend-divine-description",
+          "reason": "Terrible means awe-inspiring in this description of God.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A17&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 129,
+          "endOffset": 142,
+          "expected": "taketh reward",
+          "replacement": "accepts bribes",
+          "category": "false-friend-legal-term",
+          "reason": "Reward means a bribe in the impartial-judgment clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A17&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 18,
+      "sourceTextSha256": "b45efad78de48a0c32001d63339d88f3136e490d201442b0be41e2d358c1b70b",
+      "edits": [
+        {
+          "startOffset": 73,
+          "endOffset": 81,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A18&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 106,
+          "endOffset": 113,
+          "expected": "raiment",
+          "replacement": "clothing",
+          "category": "archaic-noun",
+          "reason": "Raiment means clothing.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A18&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "sourceTextSha256": "cf83a62ec041c9b7c423e53474c74c49011129eefe1e4f9b3a144b2726dc57e2",
+      "edits": [
+        {
+          "startOffset": 22,
+          "endOffset": 30,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 21,
+      "sourceTextSha256": "66daf73ffc5ed0c478f2901f4b5f80a38402d7ec13e787a8072e176265858b12",
+      "edits": [
+        {
+          "startOffset": 67,
+          "endOffset": 92,
+          "expected": "great and terrible things",
+          "replacement": "great and awesome things",
+          "category": "false-friend",
+          "reason": "Terrible describes awe-inspiring acts witnessed by Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse": 22,
+      "sourceTextSha256": "924d69dc82f024d9f23c97acab164cb6de784f35cf2e99597a3b94f075a76c9a",
+      "edits": [
+        {
+          "startOffset": 38,
+          "endOffset": 64,
+          "expected": "threescore and ten persons",
+          "replacement": "seventy persons",
+          "category": "archaic-number",
+          "reason": "Threescore and ten equals seventy.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A22&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -609,6 +2121,27 @@
     },
     {
       "chapter": 11,
+      "verse": 8,
+      "sourceTextSha256": "c60bac86ad1afdf10800e5c68255f9afecd5f6043955ebde117f239718dbcbb5",
+      "edits": [
+        {
+          "startOffset": 130,
+          "endOffset": 137,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
       "verse": 9,
       "sourceTextSha256": "336e652a4a80c0fbe46e2ffbf916046b977673ebdd54395cae1143641b7b9a20",
       "edits": [
@@ -624,6 +2157,62 @@
     },
     {
       "chapter": 11,
+      "verse": 10,
+      "sourceTextSha256": "ae37975e3931c00588c2e9e27dcebac72ffbbd5a6378c8eccd1e285ea022ae69",
+      "edits": [
+        {
+          "startOffset": 16,
+          "endOffset": 23,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A10&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 82,
+          "endOffset": 93,
+          "expected": "from whence",
+          "replacement": "from where",
+          "category": "archaic-relative",
+          "reason": "Whence means from where.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A10&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "sourceTextSha256": "558a8cba93d738bef3c2963fb48ec8101126712c4a7c636103dd59edd3a7797d",
+      "edits": [
+        {
+          "startOffset": 14,
+          "endOffset": 21,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
       "verse": 21,
       "sourceTextSha256": "5439427669725fd5b32277769b287bc33fcbf6c21211cfc5131aa119d6a68b36",
       "edits": [
@@ -634,6 +2223,48 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 24,
+      "sourceTextSha256": "537a8d2677c7874c6a4aa305164b4c220a74fa23a8a71a27a40931a8319fc044",
+      "edits": [
+        {
+          "startOffset": 169,
+          "endOffset": 188,
+          "expected": "shall your coast be",
+          "replacement": "shall your border be",
+          "category": "false-friend-geography",
+          "reason": "Coast means territorial border.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A24&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 29,
+      "sourceTextSha256": "16b4e440f74f4fd783d19f883a9b91ad1a57ce1ae4d52c84247c35d0623b91ee",
+      "edits": [
+        {
+          "startOffset": 84,
+          "endOffset": 91,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A29&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -659,6 +2290,307 @@
       ]
     },
     {
+      "chapter": 11,
+      "verse": 31,
+      "sourceTextSha256": "ffc0e7bc7563ae7296096922817707af876022d84fbdaf7b1f95328cea3b0f5f",
+      "edits": [
+        {
+          "startOffset": 130,
+          "endOffset": 137,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A31&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "sourceTextSha256": "00e06d817736e998a79302190ee8703000006525ac6842e4aec437d15ac1c0a4",
+      "edits": [
+        {
+          "startOffset": 25,
+          "endOffset": 48,
+          "expected": "all the places, wherein",
+          "replacement": "all the places where",
+          "category": "archaic-relative",
+          "reason": "Wherein means where in this location clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "sourceTextSha256": "1cfc0ea69cbf9f23609d5175655761b7a48db34efbdda8381e0196d21ec86ae4",
+      "edits": [
+        {
+          "startOffset": 77,
+          "endOffset": 83,
+          "expected": "groves",
+          "replacement": "Asherah poles",
+          "category": "false-friend-idolatry",
+          "reason": "Groves translates cultic Asherah objects, not ordinary groups of trees.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "sourceTextSha256": "c316c8f0ffd0cde1d4178eb5095c551fbb866dc9e727c0893b10c8479eb3661f",
+      "edits": [
+        {
+          "startOffset": 146,
+          "endOffset": 153,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "sourceTextSha256": "f0006e7542c9f95dbcd5b2592e8cbadb415194bb33c36305265793a7bb621370",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 11,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A6&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "sourceTextSha256": "5fb6a43e322e7dc7f0e83e04b4b34c66cb03543774547b87a2b101cf87bb693f",
+      "edits": [
+        {
+          "startOffset": 129,
+          "endOffset": 136,
+          "expected": "wherein",
+          "replacement": "in which",
+          "category": "archaic-relative",
+          "reason": "Wherein means in which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 11,
+      "sourceTextSha256": "c4134a192e510c493871e03631a61eb1534bda89ececa8da63494fa0ac1ad7e8",
+      "edits": [
+        {
+          "startOffset": 99,
+          "endOffset": 106,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 15,
+      "sourceTextSha256": "94d0230a0b90e8974ca6856a161ed5cee3b308dbaad6ca30de6465bb2a878cd8",
+      "edits": [
+        {
+          "startOffset": 85,
+          "endOffset": 98,
+          "expected": "lusteth after",
+          "replacement": "desires",
+          "category": "archaic-verb",
+          "reason": "Lusteth after means desires in this food permission.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A15&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 198,
+          "endOffset": 213,
+          "expected": "may eat thereof",
+          "replacement": "may eat it",
+          "category": "archaic-relative",
+          "reason": "The pronoun refers to the permitted meat.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A15&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 18,
+      "sourceTextSha256": "605bb0f43ad897df01ecf331fba3e8499153642c9e459b401c45376702aa5045",
+      "edits": [
+        {
+          "startOffset": 142,
+          "endOffset": 152,
+          "expected": "manservant",
+          "replacement": "male servant",
+          "category": "archaic-household-term",
+          "reason": "Manservant means male servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A18&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 162,
+          "endOffset": 173,
+          "expected": "maidservant",
+          "replacement": "female servant",
+          "category": "archaic-household-term",
+          "reason": "Maidservant means female servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A18&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 20,
+      "sourceTextSha256": "491feebb8f22682b86e1e5ed8c173035decaa13c54d5dd906759b3f2438a6e19",
+      "edits": [
+        {
+          "startOffset": 196,
+          "endOffset": 209,
+          "expected": "lusteth after",
+          "replacement": "desires",
+          "category": "archaic-verb",
+          "reason": "Lusteth after means desires in this food permission.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A20&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 21,
+      "sourceTextSha256": "c3330f56b28152a124a80fcc257ecefb15a05bb2e1de1c5a2679506cce5eca95",
+      "edits": [
+        {
+          "startOffset": 253,
+          "endOffset": 266,
+          "expected": "lusteth after",
+          "replacement": "desires",
+          "category": "archaic-verb",
+          "reason": "Lusteth after means desires in this food permission.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 29,
+      "sourceTextSha256": "e9ea209dfb275a5e30310019f3110fa84127450101bc2e470f3231e62b97c2fb",
+      "edits": [
+        {
+          "startOffset": 68,
+          "endOffset": 75,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A29&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse": 32,
+      "sourceTextSha256": "df4f733324f5f512051b043eeab790cabd6b101193e6ffc16ba001f8f3b81186",
+      "edits": [
+        {
+          "startOffset": 70,
+          "endOffset": 77,
+          "expected": "thereto",
+          "replacement": "to it",
+          "category": "archaic-relative",
+          "reason": "Thereto means to it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A32&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 13,
       "verse": 2,
       "sourceTextSha256": "e9a56c3fe3e5668f2f8926e6689d8375d340588d8aa55a324f1ed6615dfa6317",
@@ -675,6 +2607,111 @@
     },
     {
       "chapter": 13,
+      "verse": 7,
+      "sourceTextSha256": "951d604811d5d01d833518bcc7da2b43173cc26c783b4bb66d920243afd4aeba",
+      "edits": [
+        {
+          "startOffset": 61,
+          "endOffset": 65,
+          "expected": "nigh",
+          "replacement": "near",
+          "category": "archaic-location",
+          "reason": "Nigh means near.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 15,
+      "sourceTextSha256": "18dfe379efa89dc3e16a01dd8540bc17ef72169f8403233983b950bda64258c0",
+      "edits": [
+        {
+          "startOffset": 120,
+          "endOffset": 127,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A15&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 133,
+          "endOffset": 151,
+          "expected": "the cattle thereof",
+          "replacement": "its cattle",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the city's cattle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A15&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 16,
+      "sourceTextSha256": "f8e33a65b90de53914110a545b596304d8a4c3788a20d085de3c1d10c6fb54a7",
+      "edits": [
+        {
+          "startOffset": 60,
+          "endOffset": 78,
+          "expected": "the street thereof",
+          "replacement": "its street",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the city's street.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A16&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 123,
+          "endOffset": 140,
+          "expected": "the spoil thereof",
+          "replacement": "its spoil",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the city's spoil.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A16&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 141,
+          "endOffset": 151,
+          "expected": "every whit",
+          "replacement": "completely",
+          "category": "archaic-adverb",
+          "reason": "Every whit means completely.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A16&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
       "verse": 17,
       "sourceTextSha256": "9af532451d48604f3e3252fb0fd987de5047f6560875e5f1a22a6b2fd59996a2",
       "edits": [
@@ -685,6 +2722,496 @@
           "replacement": "show",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "sourceTextSha256": "f176cf30b53b66384850c944f081376c006afe585235813294552fc1a786b2a1",
+      "edits": [
+        {
+          "startOffset": 87,
+          "endOffset": 117,
+          "expected": "a peculiar people unto himself",
+          "replacement": "a people who are his special possession",
+          "category": "false-friend-covenant-term",
+          "reason": "Peculiar means specially possessed, not strange.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+14%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 21,
+      "sourceTextSha256": "cd7420f4106fe1648dd611b6e1ae8bd19015687b8b07cfa37a73f51d3efe5b12",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 90,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+14%3A21&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 237,
+          "endOffset": 249,
+          "expected": "seethe a kid",
+          "replacement": "boil a young goat",
+          "category": "archaic-cooking-verb",
+          "reason": "Seethe means boil; kid here is a young goat.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+14%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 26,
+      "sourceTextSha256": "0dc82ef086b73b0bc3d3f26ec5ac9fcfca80b9deeea2cb5fdf58ae993421eb84",
+      "edits": [
+        {
+          "startOffset": 57,
+          "endOffset": 70,
+          "expected": "lusteth after",
+          "replacement": "desires",
+          "category": "archaic-verb",
+          "reason": "Lusteth after means desires in this food permission.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+14%3A26&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 29,
+      "sourceTextSha256": "f4f44be60e725885054f52b3a9ee9181616e2f5a0ae8e83091b06c555a660e83",
+      "edits": [
+        {
+          "startOffset": 77,
+          "endOffset": 85,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+14%3A29&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 2,
+      "sourceTextSha256": "c170dd81e2025739ed873507421e5b760385d950a681495b32e9249ea654a13e",
+      "edits": [
+        {
+          "startOffset": 59,
+          "endOffset": 72,
+          "expected": "lendeth ought",
+          "replacement": "lends anything",
+          "category": "archaic-pronoun",
+          "reason": "Ought means anything.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 14,
+      "sourceTextSha256": "b1f782daedb42619196d6a465e3f927816dd9f8971590098f4f1385ddd23a1b1",
+      "edits": [
+        {
+          "startOffset": 107,
+          "endOffset": 116,
+          "expected": "wherewith",
+          "replacement": "with which",
+          "category": "archaic-relative",
+          "reason": "Wherewith means with which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 15,
+      "sourceTextSha256": "463c2a1a573f12407ffbf11b4fa439712340e477c6c6420be185882b4ca19749",
+      "edits": [
+        {
+          "startOffset": 41,
+          "endOffset": 48,
+          "expected": "bondman",
+          "replacement": "slave",
+          "category": "archaic-status-term",
+          "reason": "Bondman denotes a male slave in the Egypt reminder.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A15&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 17,
+      "sourceTextSha256": "39fc015e7f48ca7f6fa2e2868f6f9fbd1620ffb3e1d9793d7a4f253b201857ec",
+      "edits": [
+        {
+          "startOffset": 16,
+          "endOffset": 27,
+          "expected": "take an aul",
+          "replacement": "take an awl",
+          "category": "archaic-spelling",
+          "reason": "Aul is the historical spelling of awl.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A17&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 130,
+          "endOffset": 141,
+          "expected": "maidservant",
+          "replacement": "female servant",
+          "category": "archaic-household-term",
+          "reason": "Maidservant means female servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A17&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 21,
+      "sourceTextSha256": "d9c135157b1c42e0355df036012848707b3c5048021327459e7a9025ff7a9208",
+      "edits": [
+        {
+          "startOffset": 28,
+          "endOffset": 35,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 23,
+      "sourceTextSha256": "ee8705536cf7df168960cfee2ccd3d079485da0c2634794f9f00c13ced341b1e",
+      "edits": [
+        {
+          "startOffset": 24,
+          "endOffset": 41,
+          "expected": "the blood thereof",
+          "replacement": "its blood",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the animal's blood.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A23&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 3,
+      "sourceTextSha256": "f61350ea367f2ef1f1a3af983ef408a6ed935e9a5bf74bb50ce9840dbc964087",
+      "edits": [
+        {
+          "startOffset": 85,
+          "endOffset": 94,
+          "expected": "therewith",
+          "replacement": "with it",
+          "category": "archaic-relative",
+          "reason": "Therewith means with it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 4,
+      "sourceTextSha256": "2ca9fa06ec8b7590b043cf523149c9317a9016118fd4bf931b1977df6779a1a2",
+      "edits": [
+        {
+          "startOffset": 52,
+          "endOffset": 68,
+          "expected": "in all thy coast",
+          "replacement": "throughout all thy territory",
+          "category": "false-friend-geography",
+          "reason": "Coast means the whole territory.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A4&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 163,
+          "endOffset": 170,
+          "expected": "at even",
+          "replacement": "in the evening",
+          "category": "archaic-time",
+          "reason": "Even means evening.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 6,
+      "sourceTextSha256": "06bc37f5412aac407c606511fb0aa148ae5dfd85150e633de7615ac1c2ca1792",
+      "edits": [
+        {
+          "startOffset": 115,
+          "endOffset": 122,
+          "expected": "at even",
+          "replacement": "in the evening",
+          "category": "archaic-time",
+          "reason": "Even means evening.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A6&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 8,
+      "sourceTextSha256": "c2893c87ac58e2a5f7a00c1bec7f66fe4936d9be2e5d0af144f386ced3879d98",
+      "edits": [
+        {
+          "startOffset": 124,
+          "endOffset": 142,
+          "expected": "do no work therein",
+          "replacement": "do no work on it",
+          "category": "archaic-relative",
+          "reason": "The pronoun refers to the seventh day.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 11,
+      "sourceTextSha256": "f1d3a1a478815c6e74742853d6369991e5be36a72724dc0520c7f5cfc19cacbb",
+      "edits": [
+        {
+          "startOffset": 93,
+          "endOffset": 103,
+          "expected": "manservant",
+          "replacement": "male servant",
+          "category": "archaic-household-term",
+          "reason": "Manservant means male servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A11&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 113,
+          "endOffset": 124,
+          "expected": "maidservant",
+          "replacement": "female servant",
+          "category": "archaic-household-term",
+          "reason": "Maidservant means female servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A11&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 175,
+          "endOffset": 183,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 12,
+      "sourceTextSha256": "25d8e11971149d41ceed2100949e5ba8578c89492dceea9eb86302ac66be80d4",
+      "edits": [
+        {
+          "startOffset": 41,
+          "endOffset": 48,
+          "expected": "bondman",
+          "replacement": "slave",
+          "category": "archaic-status-term",
+          "reason": "Bondman denotes a male slave in the Egypt reminder.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 14,
+      "sourceTextSha256": "79f310b7ae97ac3409069cefc3b77361883028d2f93a1de82e720ee2e58324b6",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 92,
+          "expected": "manservant",
+          "replacement": "male servant",
+          "category": "archaic-household-term",
+          "reason": "Manservant means male servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A14&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 102,
+          "endOffset": 113,
+          "expected": "maidservant",
+          "replacement": "female servant",
+          "category": "archaic-household-term",
+          "reason": "Maidservant means female servant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A14&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 135,
+          "endOffset": 143,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 1,
+      "sourceTextSha256": "31453c7a3f9a22b3238b08bed33700d2e30d9426dcaebd36c5423a2db43b7b2f",
+      "edits": [
+        {
+          "startOffset": 63,
+          "endOffset": 88,
+          "expected": "sheep, wherein is blemish",
+          "replacement": "sheep that has a blemish",
+          "category": "archaic-relative",
+          "reason": "The clause describes an animal that has a blemish.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A1&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 93,
+          "endOffset": 113,
+          "expected": "any evilfavouredness",
+          "replacement": "any serious defect",
+          "category": "obsolete-description",
+          "reason": "Evilfavouredness means an unacceptable physical defect.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A1&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -734,6 +3261,1280 @@
       ]
     },
     {
+      "chapter": 17,
+      "verse": 14,
+      "sourceTextSha256": "414ebd8a6c6daea439ba22f90fcfa24d596f7ef2580001e0e4f90076d6d9a3e6",
+      "edits": [
+        {
+          "startOffset": 109,
+          "endOffset": 116,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 15,
+      "sourceTextSha256": "5867516ac4d02cb25591c043a4af0940a44b50f50aef629eb2d331163a3d0eac",
+      "edits": [
+        {
+          "startOffset": 164,
+          "endOffset": 172,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A15&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 19,
+      "sourceTextSha256": "5355e0e0cd7f182caa065e9cab2ffb8cfdd318d820010125b2489dd5896e993b",
+      "edits": [
+        {
+          "startOffset": 44,
+          "endOffset": 51,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 3,
+      "sourceTextSha256": "aa17d1fe0d72bf05fac70d6e5af906ff7c475ffe0a4ea5407e6c57f5037a8978",
+      "edits": [
+        {
+          "startOffset": 35,
+          "endOffset": 64,
+          "expected": "divide the coasts of thy land",
+          "replacement": "divide the territory of thy land",
+          "category": "false-friend-geography",
+          "reason": "Coasts means the territorial area divided for refuge cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A3&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 158,
+          "endOffset": 165,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 4,
+      "sourceTextSha256": "849bd7aafa0069bf3d05286fc04becc49cd7cee2cdceb3456a84530dadaab1a7",
+      "edits": [
+        {
+          "startOffset": 55,
+          "endOffset": 62,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A4&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 88,
+          "endOffset": 120,
+          "expected": "killeth his neighbour ignorantly",
+          "replacement": "kills his neighbour unintentionally",
+          "category": "false-friend-legal-adverb",
+          "reason": "Ignorantly means without intent in this law.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 7,
+      "sourceTextSha256": "3c18f8b007827b1619a37ff15da05122b76bd3a2ef2b83537f0378c2cc40ee2f",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 24,
+          "expected": "Wherefore I command thee",
+          "replacement": "Therefore I command thee",
+          "category": "archaic-connector",
+          "reason": "Wherefore has the result sense therefore.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 8,
+      "sourceTextSha256": "1ad1e1a3aa36285938b93a46d6a2107d23bee999eaf717618e49daf60d54ced5",
+      "edits": [
+        {
+          "startOffset": 24,
+          "endOffset": 41,
+          "expected": "enlarge thy coast",
+          "replacement": "enlarge thy territory",
+          "category": "false-friend-geography",
+          "reason": "Coast means territory.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 12,
+      "sourceTextSha256": "888111cf9e56315119ba0c43c406243864da5f63028d7e9cd5165b1aa709f97e",
+      "edits": [
+        {
+          "startOffset": 43,
+          "endOffset": 59,
+          "expected": "fetch him thence",
+          "replacement": "fetch him from there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 2,
+      "sourceTextSha256": "08e5a7f9444a34107528b4a0194af47c5bd453cafe12b5b7779648d69243865d",
+      "edits": [
+        {
+          "startOffset": 34,
+          "endOffset": 38,
+          "expected": "nigh",
+          "replacement": "near",
+          "category": "archaic-location",
+          "reason": "Nigh means near.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 10,
+      "sourceTextSha256": "e9fe5b62dd04dff929084968a71fd086d35d302db476b2a0e043b43cf70be8f7",
+      "edits": [
+        {
+          "startOffset": 19,
+          "endOffset": 23,
+          "expected": "nigh",
+          "replacement": "near",
+          "category": "archaic-location",
+          "reason": "Nigh means near.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A10&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 11,
+      "sourceTextSha256": "07e5aff41f7729d9334b39f8479093ab86614e9687947e68382bd26c807b25d2",
+      "edits": [
+        {
+          "startOffset": 97,
+          "endOffset": 129,
+          "expected": "the people that is found therein",
+          "replacement": "the people found in it",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the people in the city.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 13,
+      "sourceTextSha256": "d21d5022b4e006dfe9e7844dad6cbb45b372a954ff4a194a12997b111dadf556",
+      "edits": [
+        {
+          "startOffset": 79,
+          "endOffset": 97,
+          "expected": "every male thereof",
+          "replacement": "every male in it",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to every male in the city.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 14,
+      "sourceTextSha256": "374034da3a000285d25da0c2df849faf14c1bcbfbaa6902e8d93d61720c58e39",
+      "edits": [
+        {
+          "startOffset": 90,
+          "endOffset": 107,
+          "expected": "the spoil thereof",
+          "replacement": "its spoil",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the city's spoil.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 19,
+      "sourceTextSha256": "ce77160b38bb37b88545b2be943986fd34bdad4f52b9a1bbce2b9917a2a3f1e0",
+      "edits": [
+        {
+          "startOffset": 106,
+          "endOffset": 123,
+          "expected": "the trees thereof",
+          "replacement": "its trees",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the city's trees.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 13,
+      "sourceTextSha256": "c01ce0e0364f4085e09fbc743fc385ed40de8e91472a3840ea716f817a45fe87",
+      "edits": [
+        {
+          "startOffset": 22,
+          "endOffset": 29,
+          "expected": "raiment",
+          "replacement": "clothing",
+          "category": "archaic-noun",
+          "reason": "Raiment means clothing.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+21%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 14,
+      "sourceTextSha256": "e9e40b909a69b86907a3fb8ec213cce80bf44572e7a06a1a0f835d3fee9b74a5",
+      "edits": [
+        {
+          "startOffset": 76,
+          "endOffset": 83,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+21%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 2,
+      "sourceTextSha256": "fc766ef463dd63fbe05c3f431d30ccd42b060a6028451e84fccbd9afdb49b895",
+      "edits": [
+        {
+          "startOffset": 26,
+          "endOffset": 30,
+          "expected": "nigh",
+          "replacement": "near",
+          "category": "archaic-location",
+          "reason": "Nigh means near.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A2&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 3,
+      "sourceTextSha256": "c228aa921e0c9594f77c262cc4f4356769f12d92fd2705839455fa8301183fa8",
+      "edits": [
+        {
+          "startOffset": 38,
+          "endOffset": 41,
+          "expected": "ass",
+          "replacement": "donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A3&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 73,
+          "endOffset": 80,
+          "expected": "raiment",
+          "replacement": "clothing",
+          "category": "archaic-noun",
+          "reason": "Raiment means clothing.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 4,
+      "sourceTextSha256": "94545c3a46543914ccd2c7441af6f43eccb78921fef285a4e922e61c7bb36c4e",
+      "edits": [
+        {
+          "startOffset": 35,
+          "endOffset": 38,
+          "expected": "ass",
+          "replacement": "donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 8,
+      "sourceTextSha256": "6234d7847a6c52d93bd31202433b9e7caa93d3d0d6aa8214d493951de0af34c5",
+      "edits": [
+        {
+          "startOffset": 50,
+          "endOffset": 80,
+          "expected": "make a battlement for thy roof",
+          "replacement": "make a parapet for thy roof",
+          "category": "obsolete-building-term",
+          "reason": "A battlement here is a protective parapet around a flat roof.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A8&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 137,
+          "endOffset": 153,
+          "expected": "fall from thence",
+          "replacement": "fall from there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A8&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 10,
+      "sourceTextSha256": "bdc4f42a6067dd5e0bc46c811efac407f829e73c2ab453345648104cf070d98a",
+      "edits": [
+        {
+          "startOffset": 40,
+          "endOffset": 43,
+          "expected": "ass",
+          "replacement": "donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A10&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 12,
+      "sourceTextSha256": "780e4b355cbd29d26b17359782291545fa8a28008b6a449087c932794666aa5e",
+      "edits": [
+        {
+          "startOffset": 70,
+          "endOffset": 79,
+          "expected": "wherewith",
+          "replacement": "with which",
+          "category": "archaic-relative",
+          "reason": "Wherewith means with which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 15,
+      "sourceTextSha256": "dcb582d0a3c753adf2d37d25d42d0f9594c948e44a28c0de678c6e8062a0b76b",
+      "edits": [
+        {
+          "startOffset": 29,
+          "endOffset": 35,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A15&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 92,
+          "endOffset": 98,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A15&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 16,
+      "sourceTextSha256": "16d77521f0ec22fd02711647609bd51cd1d22f597e9f049a640d00122f4264f1",
+      "edits": [
+        {
+          "startOffset": 8,
+          "endOffset": 14,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A16&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 19,
+      "sourceTextSha256": "7818440077a49eea92801a6904ec83c61305f77200fe960893e4126cff6891c3",
+      "edits": [
+        {
+          "startOffset": 15,
+          "endOffset": 47,
+          "expected": "amerce him in an hundred shekels",
+          "replacement": "fine him one hundred shekels",
+          "category": "obsolete-legal-verb",
+          "reason": "Amerce means impose a monetary fine.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A19&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 96,
+          "endOffset": 102,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 20,
+      "sourceTextSha256": "e90471db74931a07b60f92c538e40fedc12ff053322c8c4b9fb3ad3813f87bb2",
+      "edits": [
+        {
+          "startOffset": 76,
+          "endOffset": 82,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A20&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 21,
+      "sourceTextSha256": "f5d4700b01aae35eb5c659f60b4643a88be46706b46fd33ed70bcceb53c7e6fd",
+      "edits": [
+        {
+          "startOffset": 30,
+          "endOffset": 36,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A21&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 150,
+          "endOffset": 178,
+          "expected": "hath wrought folly in Israel",
+          "replacement": "has committed a disgraceful act in Israel",
+          "category": "archaic-legal-phrase",
+          "reason": "Wrought folly denotes a disgraceful act against the community.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 23,
+      "sourceTextSha256": "d84ec9a8c917e3771d4d73776aa0645cda5653cd8ba0fe3d7bd03f22fb9b33fa",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 13,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A23&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 24,
+      "sourceTextSha256": "a2ae4a5f83ce8a7e59e401b9be41455d4464f8cad075f5da75d1c45d4d7845c4",
+      "edits": [
+        {
+          "startOffset": 117,
+          "endOffset": 123,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A24&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 25,
+      "sourceTextSha256": "cc9046854a0d7f9c231ad432ca3f61e6a8e8f960078b7674cc8307fd395312e1",
+      "edits": [
+        {
+          "startOffset": 32,
+          "endOffset": 38,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A25&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 26,
+      "sourceTextSha256": "d07c9b71aff5ff11c755993cac2a080aae8467b27bcd2170a93d03543621397e",
+      "edits": [
+        {
+          "startOffset": 13,
+          "endOffset": 19,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A26&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 59,
+          "endOffset": 65,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A26&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 27,
+      "sourceTextSha256": "9817a1769bc5dbf7bc835967c40f8cf786638af1092aae3806b24c97fc1b2887",
+      "edits": [
+        {
+          "startOffset": 49,
+          "endOffset": 55,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A27&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 28,
+      "sourceTextSha256": "c2ae234d639a85e8ddba91264700feb9aa60ef88e5bbeaa24c0410885fc52f4e",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 24,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A28&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 29,
+      "sourceTextSha256": "962a18779ca6befb2cea5decfc7966b89a0b87f1747bf83011dc9dce57734b84",
+      "edits": [
+        {
+          "startOffset": 51,
+          "endOffset": 57,
+          "expected": "damsel",
+          "replacement": "young woman",
+          "category": "archaic-person-term",
+          "reason": "Damsel means young woman.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A29&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 7,
+      "sourceTextSha256": "d439aa5b2e33b2da7a2750ae45acd8665abd66e428e5393647c44c56c7bc17ce",
+      "edits": [
+        {
+          "startOffset": 112,
+          "endOffset": 120,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 12,
+      "sourceTextSha256": "3c9cebaede1770216dde9d38b61ed9805787784b5eb0d134cecab1b32b42cadd",
+      "edits": [
+        {
+          "startOffset": 49,
+          "endOffset": 56,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 13,
+      "sourceTextSha256": "5e8c13adbc484ec19c322b65e19b48ecae2d8aefa493b5801935c1ca91d19ed0",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 44,
+          "expected": "a paddle upon thy weapon",
+          "replacement": "a digging tool among thy equipment",
+          "category": "false-friend-camp-term",
+          "reason": "Weapon denotes equipment here; the object is a digging tool.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A13&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 63,
+          "endOffset": 97,
+          "expected": "when thou wilt ease thyself abroad",
+          "replacement": "when thou relievest thyself outside",
+          "category": "archaic-euphemism",
+          "reason": "The phrase describes using the designated place outside the camp.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A13&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 114,
+          "endOffset": 123,
+          "expected": "therewith",
+          "replacement": "with it",
+          "category": "archaic-relative",
+          "reason": "Therewith means with it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 19,
+      "sourceTextSha256": "ca75932f8f40490e25d78fcc33aa354cf776f2521c09771c54d6921021967f03",
+      "edits": [
+        {
+          "startOffset": 27,
+          "endOffset": 32,
+          "expected": "usury",
+          "replacement": "interest",
+          "category": "false-friend-finance",
+          "reason": "Usury here means interest on a loan, not only an excessive rate.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A19&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 49,
+          "endOffset": 54,
+          "expected": "usury",
+          "replacement": "interest",
+          "category": "false-friend-finance",
+          "reason": "Usury here means interest on a loan, not only an excessive rate.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A19&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 65,
+          "endOffset": 70,
+          "expected": "usury",
+          "replacement": "interest",
+          "category": "false-friend-finance",
+          "reason": "Usury here means interest on a loan, not only an excessive rate.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A19&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 84,
+          "endOffset": 89,
+          "expected": "usury",
+          "replacement": "interest",
+          "category": "false-friend-finance",
+          "reason": "Usury here means interest on a loan, not only an excessive rate.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A19&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 121,
+          "endOffset": 126,
+          "expected": "usury",
+          "replacement": "interest",
+          "category": "false-friend-finance",
+          "reason": "Usury here means interest on a loan, not only an excessive rate.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 20,
+      "sourceTextSha256": "f7c898834f228abcd6568773ed38f38704bebc2e28fa75e501580e0075cdb382",
+      "edits": [
+        {
+          "startOffset": 7,
+          "endOffset": 15,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A20&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 38,
+          "endOffset": 43,
+          "expected": "usury",
+          "replacement": "interest",
+          "category": "false-friend-finance",
+          "reason": "Usury here means interest on a loan, not only an excessive rate.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A20&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 91,
+          "endOffset": 96,
+          "expected": "usury",
+          "replacement": "interest",
+          "category": "false-friend-finance",
+          "reason": "Usury here means interest on a loan, not only an excessive rate.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A20&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 186,
+          "endOffset": 193,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A20&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 13,
+      "sourceTextSha256": "53d883fb096ff45ef048c8352914b933a574200e6654b3b4ba67251acf06c52d",
+      "edits": [
+        {
+          "startOffset": 106,
+          "endOffset": 113,
+          "expected": "raiment",
+          "replacement": "clothing",
+          "category": "archaic-noun",
+          "reason": "Raiment means clothing.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 17,
+      "sourceTextSha256": "69ddc4776d293645c3c915b864bed6f216f2accff20f311058a2eab66226bb16",
+      "edits": [
+        {
+          "startOffset": 45,
+          "endOffset": 53,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A17&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 97,
+          "endOffset": 104,
+          "expected": "raiment",
+          "replacement": "clothing",
+          "category": "archaic-noun",
+          "reason": "Raiment means clothing.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A17&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 18,
+      "sourceTextSha256": "a17591072e8cba4b203c45fddbec3c520808caa82fc47e0506ccc4482681d33b",
+      "edits": [
+        {
+          "startOffset": 41,
+          "endOffset": 48,
+          "expected": "bondman",
+          "replacement": "slave",
+          "category": "archaic-status-term",
+          "reason": "Bondman denotes a male slave in the Egypt reminder.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A18&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 80,
+          "endOffset": 100,
+          "expected": "redeemed thee thence",
+          "replacement": "redeemed thee from there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A18&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 19,
+      "sourceTextSha256": "641fb236793b7f639e66c130a3667cd120e5788a4c7b48e8abb3c8b9d5223099",
+      "edits": [
+        {
+          "startOffset": 148,
+          "endOffset": 156,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A19&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 20,
+      "sourceTextSha256": "df0558fda9d4178af0d876b0c1e21c7ae14f9b895c717f218d8eeeadea7fe09e",
+      "edits": [
+        {
+          "startOffset": 97,
+          "endOffset": 105,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A20&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 21,
+      "sourceTextSha256": "499fa0b2dca1de671541ce1cb13033bf7c5653d88cf832963ab9c4d5c5d2ecc0",
+      "edits": [
+        {
+          "startOffset": 103,
+          "endOffset": 111,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 22,
+      "sourceTextSha256": "fab5c1992dfa2bc2532e22a8b85a112846c263af24f686fcc7450ba590964122",
+      "edits": [
+        {
+          "startOffset": 41,
+          "endOffset": 48,
+          "expected": "bondman",
+          "replacement": "slave",
+          "category": "archaic-status-term",
+          "reason": "Bondman denotes a male slave in the Egypt reminder.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A22&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 5,
+      "sourceTextSha256": "ba64016ee5ef9f08408652d57562e268a7b40f41c1830c159cb467660927d9d6",
+      "edits": [
+        {
+          "startOffset": 122,
+          "endOffset": 130,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+25%3A5&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 1,
+      "sourceTextSha256": "4df6e1b692e9cb00cf58320261f29702463186f785643830ddaae33576785659",
+      "edits": [
+        {
+          "startOffset": 140,
+          "endOffset": 147,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A1&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 26,
       "verse": 3,
       "sourceTextSha256": "f58900681080eac3cbe95728db06e6df3032e9781818b71ec40b7d5f49364e81",
@@ -749,6 +4550,160 @@
       ]
     },
     {
+      "chapter": 26,
+      "verse": 11,
+      "sourceTextSha256": "509a7e93352667495369d4d4d767805d1e4e71d19b00349764eb886e613f29af",
+      "edits": [
+        {
+          "startOffset": 140,
+          "endOffset": 148,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 12,
+      "sourceTextSha256": "975603ede41a3f13e19e556011fee350047230bbd6fb4ce0765c15dbc4e1e698",
+      "edits": [
+        {
+          "startOffset": 158,
+          "endOffset": 166,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 13,
+      "sourceTextSha256": "44bad7ee4b526aceea40cd8a132a240b4b657ab34fe093a801377c048cdfc45a",
+      "edits": [
+        {
+          "startOffset": 159,
+          "endOffset": 167,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 14,
+      "sourceTextSha256": "f2f954f2736de365b9015b7dacd00dc7f1c91bb6545e6366356d4212a52ef572",
+      "edits": [
+        {
+          "startOffset": 17,
+          "endOffset": 24,
+          "expected": "thereof",
+          "replacement": "of it",
+          "category": "archaic-relative",
+          "reason": "Thereof means of it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A14&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 56,
+          "endOffset": 80,
+          "expected": "taken away ought thereof",
+          "replacement": "taken away anything from it",
+          "category": "archaic-pronoun",
+          "reason": "Ought means anything.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A14&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 106,
+          "endOffset": 125,
+          "expected": "given ought thereof",
+          "replacement": "given anything from it",
+          "category": "archaic-pronoun",
+          "reason": "Ought means anything.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 18,
+      "sourceTextSha256": "615219f5aa16af0dc5689cc3a42727e92983c9b774f33acb4b4596744f331aec",
+      "edits": [
+        {
+          "startOffset": 47,
+          "endOffset": 66,
+          "expected": "his peculiar people",
+          "replacement": "his special possession",
+          "category": "false-friend-covenant-term",
+          "reason": "Peculiar means specially possessed, not strange.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A18&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 6,
+      "sourceTextSha256": "bcf584dbe50a00fab54f15e3f6785d294699e6f35e2bd367f057178ac4955731",
+      "edits": [
+        {
+          "startOffset": 101,
+          "endOffset": 108,
+          "expected": "thereon",
+          "replacement": "on it",
+          "category": "archaic-relative",
+          "reason": "Thereon means on it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+27%3A6&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 27,
       "verse": 9,
       "sourceTextSha256": "a6e93052df0533a65b2e3959dfba2b3a2deee3e160dfbf361fdc2f091bf4855f",
@@ -760,6 +4715,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 19,
+      "sourceTextSha256": "701d5d3840db9ce8923758673a8ce8eb89007edb68f33cb7aa1336c4ae4c3952",
+      "edits": [
+        {
+          "startOffset": 49,
+          "endOffset": 57,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+27%3A19&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -780,6 +4756,118 @@
     },
     {
       "chapter": 28,
+      "verse": 20,
+      "sourceTextSha256": "5ad8e14ecfbacdd7ec0add5cefc6108a4d5a7bf99d873421bb8f96a4faaa7381",
+      "edits": [
+        {
+          "startOffset": 210,
+          "endOffset": 217,
+          "expected": "whereby",
+          "replacement": "by which",
+          "category": "archaic-relative",
+          "reason": "Whereby means by which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A20&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 21,
+      "sourceTextSha256": "92142e26a50a0d80e72a9665d4c5367581a9cb7bf8faa5a0361c13d8282a759a",
+      "edits": [
+        {
+          "startOffset": 100,
+          "endOffset": 107,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A21&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 30,
+      "sourceTextSha256": "14d5b6104f239618269688b708284ff1fcb22ab37421d3db15887abb2ac8881d",
+      "edits": [
+        {
+          "startOffset": 115,
+          "endOffset": 122,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A30&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 174,
+          "endOffset": 192,
+          "expected": "the grapes thereof",
+          "replacement": "its grapes",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the vineyard's grapes.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A30&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 31,
+      "sourceTextSha256": "b2dfbe07e1cd2f5bf50062a2ffeb53012b2ae38cd975b07dd013958490ce9c06",
+      "edits": [
+        {
+          "startOffset": 62,
+          "endOffset": 73,
+          "expected": "eat thereof",
+          "replacement": "eat of it",
+          "category": "archaic-relative",
+          "reason": "The pronoun refers to the slaughtered ox.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A31&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 75,
+          "endOffset": 84,
+          "expected": "thine ass",
+          "replacement": "thy donkey",
+          "category": "archaic-animal-and-grammar",
+          "reason": "The noun is modernized while retaining correct singular KJV possessive grammar.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A31&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
       "verse": 33,
       "sourceTextSha256": "8bc9ec0fbdc791e885b4c82a8888f28215a428d9ffe49b66bff103ed1cc285ba",
       "edits": [
@@ -790,6 +4878,48 @@
           "replacement": "always",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 37,
+      "sourceTextSha256": "b558ceca9d301425ede45c8c8d66907437e6776ba408ee6ce39f2f657807bb27",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 89,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A37&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 43,
+      "sourceTextSha256": "c23a33cd44c17c2593d04cbd6f870bef4108737ef320300f779f978b060513f1",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 12,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A43&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -810,6 +4940,202 @@
     },
     {
       "chapter": 28,
+      "verse": 52,
+      "sourceTextSha256": "bff443705153422960ef4e7a9f6dfc298f5afa8a3c4988102ede4c81b885d6f2",
+      "edits": [
+        {
+          "startOffset": 54,
+          "endOffset": 75,
+          "expected": "high and fenced walls",
+          "replacement": "high and fortified walls",
+          "category": "false-friend",
+          "reason": "Fenced means fortified by defensive walls.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A52&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 87,
+          "endOffset": 94,
+          "expected": "wherein",
+          "replacement": "in which",
+          "category": "archaic-relative",
+          "reason": "Wherein means in which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A52&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 53,
+      "sourceTextSha256": "4825b931cd8016f66cadef81d79afe5ededcb9954414a1dd0cc964aab460b263",
+      "edits": [
+        {
+          "startOffset": 157,
+          "endOffset": 167,
+          "expected": "straitness",
+          "replacement": "distress",
+          "category": "archaic-siege-term",
+          "reason": "Straitness means severe distress during a siege.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A53&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 169,
+          "endOffset": 178,
+          "expected": "wherewith",
+          "replacement": "with which",
+          "category": "archaic-relative",
+          "reason": "Wherewith means with which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A53&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 55,
+      "sourceTextSha256": "c18fd1b05c1852fac206b5f3c65c5d44e1053394e3e37bcd3adf9de211badde4",
+      "edits": [
+        {
+          "startOffset": 146,
+          "endOffset": 156,
+          "expected": "straitness",
+          "replacement": "distress",
+          "category": "archaic-siege-term",
+          "reason": "Straitness means severe distress during a siege.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A55&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 158,
+          "endOffset": 167,
+          "expected": "wherewith",
+          "replacement": "with which",
+          "category": "archaic-relative",
+          "reason": "Wherewith means with which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A55&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 57,
+      "sourceTextSha256": "6dc0b217773bc8aed7064733e81fb31a6ef3c1384edef50add29de6b63ce7d25",
+      "edits": [
+        {
+          "startOffset": 182,
+          "endOffset": 192,
+          "expected": "straitness",
+          "replacement": "distress",
+          "category": "archaic-siege-term",
+          "reason": "Straitness means severe distress during a siege.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A57&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 194,
+          "endOffset": 203,
+          "expected": "wherewith",
+          "replacement": "with which",
+          "category": "archaic-relative",
+          "reason": "Wherewith means with which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A57&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 63,
+      "sourceTextSha256": "d6f02dde88156037cc3e2b3e3f1c9ca9fd3b506d660e4557fa2a78d77988b972",
+      "edits": [
+        {
+          "startOffset": 219,
+          "endOffset": 226,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A63&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 67,
+      "sourceTextSha256": "2fb481d8e8f071f7873eb02c7ac9b3d3c00aaa28372d6424b16c5602200d0928",
+      "edits": [
+        {
+          "startOffset": 59,
+          "endOffset": 66,
+          "expected": "at even",
+          "replacement": "in the evening",
+          "category": "archaic-time",
+          "reason": "Even means evening.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A67&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 138,
+          "endOffset": 147,
+          "expected": "wherewith",
+          "replacement": "with which",
+          "category": "archaic-relative",
+          "reason": "Wherewith means with which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A67&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
       "verse": 68,
       "sourceTextSha256": "9bea86d52e08df371f6971f30387216d550530e289b7c04c31ffab0ea5cbd892",
       "edits": [
@@ -820,6 +5146,265 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 7,
+      "sourceTextSha256": "f0db7a05f13258558fc95e092db5e21647c354cc6f25c0eed0449d401e4ec45f",
+      "edits": [
+        {
+          "startOffset": 125,
+          "endOffset": 138,
+          "expected": "we smote them",
+          "replacement": "we defeated them",
+          "category": "archaic-battle-verb",
+          "reason": "Smote describes defeating the kings in battle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A7&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 11,
+      "sourceTextSha256": "ae023e272ea77f75f31fb2b3c191481c8f5ae680990047f92aeff0ddd2548905",
+      "edits": [
+        {
+          "startOffset": 34,
+          "endOffset": 46,
+          "expected": "thy stranger",
+          "replacement": "the foreigner",
+          "category": "archaic-residency-term",
+          "reason": "The phrase refers to the foreigner residing in the camp.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A11&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 22,
+      "sourceTextSha256": "43b447392cac4f88f953925f78fb7a1048e3808cfaa2fdbc17ffe3d9d5876f4a",
+      "edits": [
+        {
+          "startOffset": 86,
+          "endOffset": 94,
+          "expected": "stranger",
+          "replacement": "foreigner",
+          "category": "archaic-residency-term",
+          "reason": "Stranger denotes a foreigner living among or outside Israel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A22&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 23,
+      "sourceTextSha256": "94402cc84b0eb251347681f962f532ed122dfcb8ce85fc937d070e0a1657ebab",
+      "edits": [
+        {
+          "startOffset": 9,
+          "endOffset": 31,
+          "expected": "the whole land thereof",
+          "replacement": "that whole land",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the land under judgment.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A23&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 125,
+          "endOffset": 132,
+          "expected": "therein",
+          "replacement": "in it",
+          "category": "archaic-relative",
+          "reason": "Therein means in it or in that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A23&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 24,
+      "sourceTextSha256": "11a19a98f7d44f5614ee2f00678e71b90df26011417dd83ddfd5f0b0a735332b",
+      "edits": [
+        {
+          "startOffset": 28,
+          "endOffset": 61,
+          "expected": "Wherefore hath the LORD done thus",
+          "replacement": "Why has the LORD done this",
+          "category": "archaic-question",
+          "reason": "Wherefore asks why in this direct question.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A24&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verse": 1,
+      "sourceTextSha256": "42c63d59739fb796267455be035a523d3dd2ea94edb9ff2d10860ca36a84c64f",
+      "edits": [
+        {
+          "startOffset": 183,
+          "endOffset": 190,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A1&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verse": 3,
+      "sourceTextSha256": "cac64c2fd9cd3edaeab2b8ac5e4385f51b0e592999339c2bb6b69b4ac8658457",
+      "edits": [
+        {
+          "startOffset": 137,
+          "endOffset": 144,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A3&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verse": 4,
+      "sourceTextSha256": "249639322b0dc3f88e8c41e168bdfd310d5000943969b3ce21f4bde2378c79f3",
+      "edits": [
+        {
+          "startOffset": 64,
+          "endOffset": 75,
+          "expected": "from thence",
+          "replacement": "from there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A4&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 115,
+          "endOffset": 126,
+          "expected": "from thence",
+          "replacement": "from there",
+          "category": "archaic-location",
+          "reason": "Thence means from there.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A4&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verse": 14,
+      "sourceTextSha256": "0fdecfd7caeb5a05cb5cd7ec9a5693b979c779e7e3349a5276185d4aa7e4ef02",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 35,
+          "expected": "the word is very nigh unto thee",
+          "replacement": "the word is very near to thee",
+          "category": "archaic-location",
+          "reason": "Nigh means near.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A14&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verse": 16,
+      "sourceTextSha256": "6e61927b5eeaaccf0cac400c9c7bca10af5e838c86e2d81d616b9a6457f7b174",
+      "edits": [
+        {
+          "startOffset": 230,
+          "endOffset": 237,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A16&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verse": 18,
+      "sourceTextSha256": "fbd7b090923029be0a7d2a88e712bef0fa1428c0a11b8da87372203e1a977a4c",
+      "edits": [
+        {
+          "startOffset": 114,
+          "endOffset": 121,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A18&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -850,6 +5435,83 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 12,
+      "sourceTextSha256": "4b329f0b01feb5537a62686df6a405ea52a3da39b530daf2ce757b1fea0cd568",
+      "edits": [
+        {
+          "startOffset": 62,
+          "endOffset": 74,
+          "expected": "thy stranger",
+          "replacement": "the foreigner",
+          "category": "archaic-residency-term",
+          "reason": "The phrase refers to the foreigner residing within the gates.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A12&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 13,
+      "sourceTextSha256": "29b6ce87e77fc0a939bb1a3f705ab5e9b0550176504008a30c1e8e505fc88045",
+      "edits": [
+        {
+          "startOffset": 135,
+          "endOffset": 142,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A13&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 16,
+      "sourceTextSha256": "09418a3707b3fa42facf91779a15d89848b331e3251b949d0634eafaf17bfe69",
+      "edits": [
+        {
+          "startOffset": 109,
+          "endOffset": 165,
+          "expected": "go a whoring after the gods of the strangers of the land",
+          "replacement": "be unfaithful by pursuing the gods of the foreigners in the land",
+          "category": "archaic-covenant-metaphor",
+          "reason": "The phrase describes covenant unfaithfulness through idolatry.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A16&version=KJV%3BNIV"
+            }
+          ]
+        },
+        {
+          "startOffset": 167,
+          "endOffset": 174,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A16&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -930,6 +5592,69 @@
     },
     {
       "chapter": 32,
+      "verse": 15,
+      "sourceTextSha256": "86ba7f9db7bac84ab84adcb591ffe4744054769cea6fc3786cc32453bc37abca",
+      "edits": [
+        {
+          "startOffset": 6,
+          "endOffset": 24,
+          "expected": "Jeshurun waxed fat",
+          "replacement": "Jeshurun grew fat",
+          "category": "archaic-verb",
+          "reason": "Waxed means became or grew.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A15&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 18,
+      "sourceTextSha256": "4e4ab0b79748f10501a7fc73d1a907546bbbfa155fc148e035b914cf90a1d1e3",
+      "edits": [
+        {
+          "startOffset": 3,
+          "endOffset": 27,
+          "expected": "the Rock that begat thee",
+          "replacement": "the Rock that gave thee birth",
+          "category": "archaic-birth-verb",
+          "reason": "Begat describes giving birth within the parental metaphor for God.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A18&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 20,
+      "sourceTextSha256": "137dd99b8cf50aa3228a09309f37f72b6cc59d1178a9a23e987427aa4f321246",
+      "edits": [
+        {
+          "startOffset": 93,
+          "endOffset": 118,
+          "expected": "a very froward generation",
+          "replacement": "a very perverse generation",
+          "category": "archaic-adjective",
+          "reason": "Froward means morally perverse or contrary.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A20&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
       "verse": 44,
       "sourceTextSha256": "019249c0177755cb908c5b7e87efa6d470e2ea9cdc59dd0fa36b5ec322b73064",
       "edits": [
@@ -945,6 +5670,27 @@
     },
     {
       "chapter": 32,
+      "verse": 47,
+      "sourceTextSha256": "a84d09f8638a102d83a1fbcaa45e968005588f683ff43f9e83d4338500352173",
+      "edits": [
+        {
+          "startOffset": 124,
+          "endOffset": 131,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A47&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
       "verse": 48,
       "sourceTextSha256": "1661675d3b18301ac54f9599bef2a2678954bf9a91480ca262c35db8f88e4ba0",
       "edits": [
@@ -955,6 +5701,90 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 50,
+      "sourceTextSha256": "5c02f96b6c3f6b89dcfbdc96ba414ed546e4576f34911196592f1d493397d0c1",
+      "edits": [
+        {
+          "startOffset": 21,
+          "endOffset": 28,
+          "expected": "whither",
+          "replacement": "where",
+          "category": "archaic-location",
+          "reason": "Whither means where in a destination clause.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A50&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 52,
+      "sourceTextSha256": "57c7f985a048c468ebfb9c15508a33408da7624b9426c90f57d5d1a8ef139fe8",
+      "edits": [
+        {
+          "startOffset": 63,
+          "endOffset": 70,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A52&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "verse": 1,
+      "sourceTextSha256": "6afbc7d73aab0e6670eabfd56abd0b7c71b70769cbc97b176bf30154405260f2",
+      "edits": [
+        {
+          "startOffset": 26,
+          "endOffset": 35,
+          "expected": "wherewith",
+          "replacement": "with which",
+          "category": "archaic-relative",
+          "reason": "Wherewith means with which.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A1&version=KJV%3BNIV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "verse": 16,
+      "sourceTextSha256": "e34eca09bcd692aba425d75fa582c1fa5cc669778430236281c10d24ae1a16d8",
+      "edits": [
+        {
+          "startOffset": 45,
+          "endOffset": 60,
+          "expected": "fulness thereof",
+          "replacement": "its fullness",
+          "category": "archaic-relative",
+          "reason": "The phrase refers to the earth's fullness.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A16&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -985,6 +5815,20 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 212,
+          "endOffset": 219,
+          "expected": "thither",
+          "replacement": "there",
+          "category": "archaic-location",
+          "reason": "Thither means to that place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV and NIV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+34%3A4&version=KJV%3BNIV"
+            }
+          ]
         }
       ]
     },
@@ -1005,8 +5849,8 @@
     }
   ],
   "ownerReview": {
-    "contentVersion": 3,
-    "review": "KJV round 3 complete-verse review",
+    "contentVersion": 7,
+    "review": "KJV Deuteronomy complete-context review",
     "requiredFullTest": true
   }
 }
