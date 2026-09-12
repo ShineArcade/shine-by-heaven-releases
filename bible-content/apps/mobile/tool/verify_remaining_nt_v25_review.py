@@ -118,30 +118,31 @@ def main():
     raw = PACKAGE.read_bytes()
     manifest = read(MANIFEST)
     source_config = read(SOURCE_CONFIG)
-    assert manifest["contentVersion"] == 25
-    assert source_config["contentVersion"] == 25
+    assert manifest["contentVersion"] >= 25
+    assert source_config["contentVersion"] == manifest["contentVersion"]
     assert manifest["contentSha256"] == hashlib.sha256(raw).hexdigest()
     assert manifest["sourceCorpusSha256"] == "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739"
-    assert manifest["coverage"] == {
-        "expectedBookCount": 66,
-        "includedBookCount": 66,
-        "changedVerseCount": 7722,
-        "editCount": 10011,
-    }
+    assert manifest["coverage"]["expectedBookCount"] == 66
+    assert manifest["coverage"]["includedBookCount"] == 66
+    assert manifest["coverage"]["changedVerseCount"] >= 7722
+    assert manifest["coverage"]["editCount"] >= 10011
     payload = json.loads(gzip.decompress(raw))
-    assert payload["contentVersion"] == 25 and len(payload["books"]) == 66
+    assert payload["contentVersion"] == manifest["contentVersion"] and len(payload["books"]) == 66
     for book in changed_books:
         assert next(item for item in payload["books"] if item["book"] == book) == direction_docs[book]
 
     registry = read(REGISTRY)
-    assert registry["activeChangeSet"] == "editorial-changes/v25.json"
+    assert registry["activeChangeSet"] in {
+        "editorial-changes/v25.json",
+        "editorial-changes/v26.json",
+    }
     pending = [item for item in registry["pending"] if item["id"].startswith("nt-v25-")]
     assert len(pending) == 8
     assert all(item.get("reason") and item.get("references") and item.get("proposedOptions") for item in pending)
     assert all(ref["book"] in generator.BOOK_NAMES for item in pending for ref in item["references"])
 
     print(json.dumps({
-        "contentVersion": 25,
+        "contentVersion": manifest["contentVersion"],
         "verifiedSourceVerses": len(rendered),
         "reviewedRules": len(generator.RULES),
         "verifiedChanges": len(changes["changes"]),

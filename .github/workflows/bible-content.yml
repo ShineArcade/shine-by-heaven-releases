@@ -49,10 +49,18 @@ jobs:
       - name: Smoke-test source, signing, package, reason, and evidence
         run: node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs
 
+      - name: Build deterministic King James package
+        run: python bible-content/apps/mobile/tool/build_kjv_reading_2026_package.py
+
       - name: Verify reviewed King James changes
         run: |
           node bible-content/apps/mobile/tool/verify_kjv_reading_2026.mjs
           node bible-content/apps/mobile/tool/smoke_kjv_content_flow.mjs
+
+      - name: Guard the audited Old Testament projections
+        run: |
+          python bible-content/apps/mobile/tool/verify_ot_final_2026_guards.py
+          python bible-content/apps/mobile/tool/verify_kjv_ot_final_2026_guards.py
 
       - name: Build signed public channel
         env:

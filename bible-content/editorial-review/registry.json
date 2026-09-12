@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T00:15:00.000Z",
+  "updatedAt": "2026-09-13T03:00:00.000Z",
   "sourceVersionId": "RV1909",
-  "activeChangeSet": "editorial-changes/v25.json",
+  "activeChangeSet": "editorial-changes/v26.json",
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs",
   "pending": [
@@ -1477,596 +1477,6 @@
       ]
     },
     {
-      "id": "nt-iniquidad",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "iniquidad",
-      "proposedOptions": [
-        "maldad",
-        "injusticia",
-        "pecado"
-      ],
-      "reason": "Puede describir maldad, injusticia o oposición a la ley de Dios.",
-      "references": [
-        {
-          "book": "2PE",
-          "chapter": 2,
-          "verse": 16
-        },
-        {
-          "book": "2TH",
-          "chapter": 2,
-          "verse": 7
-        },
-        {
-          "book": "2TH",
-          "chapter": 2,
-          "verse": 10
-        },
-        {
-          "book": "2TH",
-          "chapter": 2,
-          "verse": 12
-        },
-        {
-          "book": "2TI",
-          "chapter": 2,
-          "verse": 19
-        },
-        {
-          "book": "ACT",
-          "chapter": 1,
-          "verse": 18
-        },
-        {
-          "book": "LUK",
-          "chapter": 13,
-          "verse": 27
-        },
-        {
-          "book": "MAT",
-          "chapter": 13,
-          "verse": 41
-        },
-        {
-          "book": "MAT",
-          "chapter": 23,
-          "verse": 28
-        },
-        {
-          "book": "ROM",
-          "chapter": 1,
-          "verse": 29
-        },
-        {
-          "book": "ROM",
-          "chapter": 3,
-          "verse": 5
-        },
-        {
-          "book": "ROM",
-          "chapter": 6,
-          "verse": 13
-        },
-        {
-          "book": "ROM",
-          "chapter": 6,
-          "verse": 19
-        },
-        {
-          "book": "TIT",
-          "chapter": 2,
-          "verse": 14
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=iniquidad&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-inicuo",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "inicuo",
-      "proposedOptions": [
-        "malvado",
-        "sin ley"
-      ],
-      "reason": "En algunos pasajes es un adjetivo general y en otros un título escatológico.",
-      "references": [
-        {
-          "book": "2TH",
-          "chapter": 2,
-          "verse": 8
-        },
-        {
-          "book": "2TH",
-          "chapter": 2,
-          "verse": 9
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=inicuo&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-inicuos",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "inicuos",
-      "proposedOptions": [
-        "malvados",
-        "transgresores"
-      ],
-      "reason": "La identidad del grupo depende del contexto narrativo o profético.",
-      "references": [
-        {
-          "book": "ACT",
-          "chapter": 2,
-          "verse": 23
-        },
-        {
-          "book": "MRK",
-          "chapter": 15,
-          "verse": 28
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=inicuos&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-propiciación",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "propiciación",
-      "proposedOptions": [
-        "sacrificio que obtiene perdón",
-        "sacrificio de reconciliación"
-      ],
-      "reason": "Es un término doctrinal; una palabra demasiado general perdería la relación entre sacrificio, perdón y reconciliación.",
-      "references": [
-        {
-          "book": "1JN",
-          "chapter": 2,
-          "verse": 2
-        },
-        {
-          "book": "1JN",
-          "chapter": 4,
-          "verse": 10
-        },
-        {
-          "book": "ROM",
-          "chapter": 3,
-          "verse": 25
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=propiciación&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-potestades",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "potestades",
-      "proposedOptions": [
-        "autoridades",
-        "poderes"
-      ],
-      "reason": "Puede señalar autoridades humanas, poderes espirituales o capacidad delegada.",
-      "references": [
-        {
-          "book": "1PE",
-          "chapter": 3,
-          "verse": 22
-        },
-        {
-          "book": "2PE",
-          "chapter": 2,
-          "verse": 10
-        },
-        {
-          "book": "COL",
-          "chapter": 1,
-          "verse": 16
-        },
-        {
-          "book": "COL",
-          "chapter": 2,
-          "verse": 15
-        },
-        {
-          "book": "EPH",
-          "chapter": 3,
-          "verse": 10
-        },
-        {
-          "book": "EPH",
-          "chapter": 6,
-          "verse": 12
-        },
-        {
-          "book": "JUD",
-          "chapter": 1,
-          "verse": 8
-        },
-        {
-          "book": "LUK",
-          "chapter": 12,
-          "verse": 11
-        },
-        {
-          "book": "ROM",
-          "chapter": 8,
-          "verse": 38
-        },
-        {
-          "book": "ROM",
-          "chapter": 13,
-          "verse": 1
-        },
-        {
-          "book": "TIT",
-          "chapter": 3,
-          "verse": 1
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=potestades&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-principados",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "principados",
-      "proposedOptions": [
-        "gobernantes",
-        "poderes espirituales"
-      ],
-      "reason": "El referente cambia entre jerarquías y poderes espirituales.",
-      "references": [
-        {
-          "book": "COL",
-          "chapter": 1,
-          "verse": 16
-        },
-        {
-          "book": "COL",
-          "chapter": 2,
-          "verse": 15
-        },
-        {
-          "book": "EPH",
-          "chapter": 3,
-          "verse": 10
-        },
-        {
-          "book": "EPH",
-          "chapter": 6,
-          "verse": 12
-        },
-        {
-          "book": "ROM",
-          "chapter": 8,
-          "verse": 38
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=principados&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-fornicación",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "fornicación",
-      "proposedOptions": [
-        "inmoralidad sexual"
-      ],
-      "reason": "La sustitución debe conservar cuándo el texto habla de una conducta concreta y cuándo usa una imagen profética.",
-      "references": [
-        {
-          "book": "1CO",
-          "chapter": 5,
-          "verse": 1
-        },
-        {
-          "book": "1CO",
-          "chapter": 6,
-          "verse": 13
-        },
-        {
-          "book": "1CO",
-          "chapter": 6,
-          "verse": 18
-        },
-        {
-          "book": "1TH",
-          "chapter": 4,
-          "verse": 3
-        },
-        {
-          "book": "2CO",
-          "chapter": 12,
-          "verse": 21
-        },
-        {
-          "book": "ACT",
-          "chapter": 15,
-          "verse": 20
-        },
-        {
-          "book": "ACT",
-          "chapter": 15,
-          "verse": 29
-        },
-        {
-          "book": "ACT",
-          "chapter": 21,
-          "verse": 25
-        },
-        {
-          "book": "COL",
-          "chapter": 3,
-          "verse": 5
-        },
-        {
-          "book": "EPH",
-          "chapter": 5,
-          "verse": 3
-        },
-        {
-          "book": "GAL",
-          "chapter": 5,
-          "verse": 19
-        },
-        {
-          "book": "JHN",
-          "chapter": 8,
-          "verse": 41
-        },
-        {
-          "book": "MAT",
-          "chapter": 5,
-          "verse": 32
-        },
-        {
-          "book": "MAT",
-          "chapter": 19,
-          "verse": 9
-        },
-        {
-          "book": "REV",
-          "chapter": 2,
-          "verse": 14
-        },
-        {
-          "book": "REV",
-          "chapter": 2,
-          "verse": 21
-        },
-        {
-          "book": "REV",
-          "chapter": 9,
-          "verse": 21
-        },
-        {
-          "book": "REV",
-          "chapter": 14,
-          "verse": 8
-        },
-        {
-          "book": "REV",
-          "chapter": 17,
-          "verse": 2
-        },
-        {
-          "book": "REV",
-          "chapter": 17,
-          "verse": 4
-        },
-        {
-          "book": "REV",
-          "chapter": 18,
-          "verse": 3
-        },
-        {
-          "book": "REV",
-          "chapter": 19,
-          "verse": 2
-        },
-        {
-          "book": "ROM",
-          "chapter": 1,
-          "verse": 29
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=fornicación&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-inmundicia",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "inmundicia",
-      "proposedOptions": [
-        "impureza"
-      ],
-      "reason": "Puede ser moral, corporal o metafórica; requiere verificación por referencia.",
-      "references": [
-        {
-          "book": "1TH",
-          "chapter": 2,
-          "verse": 3
-        },
-        {
-          "book": "1TH",
-          "chapter": 4,
-          "verse": 7
-        },
-        {
-          "book": "2CO",
-          "chapter": 7,
-          "verse": 1
-        },
-        {
-          "book": "2CO",
-          "chapter": 12,
-          "verse": 21
-        },
-        {
-          "book": "2PE",
-          "chapter": 2,
-          "verse": 10
-        },
-        {
-          "book": "COL",
-          "chapter": 3,
-          "verse": 5
-        },
-        {
-          "book": "EPH",
-          "chapter": 5,
-          "verse": 3
-        },
-        {
-          "book": "GAL",
-          "chapter": 5,
-          "verse": 19
-        },
-        {
-          "book": "JAS",
-          "chapter": 1,
-          "verse": 21
-        },
-        {
-          "book": "ROM",
-          "chapter": 1,
-          "verse": 24
-        },
-        {
-          "book": "ROM",
-          "chapter": 6,
-          "verse": 19
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=inmundicia&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-incircuncisión",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "incircuncisión",
-      "proposedOptions": [
-        "los no circuncidados",
-        "condición de no estar circuncidado"
-      ],
-      "reason": "Es un término técnico y a veces nombra a un grupo; no admite una sustitución global.",
-      "references": [
-        {
-          "book": "1CO",
-          "chapter": 7,
-          "verse": 19
-        },
-        {
-          "book": "COL",
-          "chapter": 2,
-          "verse": 13
-        },
-        {
-          "book": "COL",
-          "chapter": 3,
-          "verse": 11
-        },
-        {
-          "book": "EPH",
-          "chapter": 2,
-          "verse": 11
-        },
-        {
-          "book": "GAL",
-          "chapter": 2,
-          "verse": 7
-        },
-        {
-          "book": "GAL",
-          "chapter": 5,
-          "verse": 6
-        },
-        {
-          "book": "GAL",
-          "chapter": 6,
-          "verse": 15
-        },
-        {
-          "book": "ROM",
-          "chapter": 2,
-          "verse": 25
-        },
-        {
-          "book": "ROM",
-          "chapter": 2,
-          "verse": 26
-        },
-        {
-          "book": "ROM",
-          "chapter": 3,
-          "verse": 30
-        },
-        {
-          "book": "ROM",
-          "chapter": 4,
-          "verse": 9
-        },
-        {
-          "book": "ROM",
-          "chapter": 4,
-          "verse": 10
-        },
-        {
-          "book": "ROM",
-          "chapter": 4,
-          "verse": 11
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=incircuncisión&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
       "id": "genesis-v15-1",
       "status": "pending-review",
       "scope": "old-testament",
@@ -2639,21 +2049,30 @@
       "scope": "old-testament",
       "term": "redaño",
       "proposedOptions": [
-        "Mantener con nota explicativa",
-        "Actualizar tras revisión textual"
+        "Conservar \"redaño\" (sebo)",
+        "Leer \"el sebo\""
       ],
-      "reason": "La palabra puede designar grasa, membrana o lóbulo según la ubicación anatómica; no se sustituye de forma uniforme.",
+      "reason": "La palabra traduce dos términos hebreos: yoteret (el lóbulo del hígado) y peder (el sebo). El caso yoteret quedó resuelto en la auditoría del 12-09-2026 como \"el lóbulo del hígado\"; quedan pendientes las dos apariciones de peder, donde el texto se conserva sin tocar.",
       "references": [
         {
           "book": "LEV",
           "chapter": 1,
           "verse": 8
+        },
+        {
+          "book": "LEV",
+          "chapter": 1,
+          "verse": 12
         }
       ],
       "evidence": [
         {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/passage/?search=Leviticus+1%3A8&version=RVR1960%3BNVI"
+          "label": "Controles RVR1960, NVI, LBLA y RVC en Levítico 1:8",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+1:8&version=RVR1960;NVI;LBLA;RVC"
+        },
+        {
+          "label": "Controles RVR1960, NVI, LBLA y RVC en Levítico 1:12",
+          "url": "https://www.biblegateway.com/passage/?search=Leviticus+1:12&version=RVR1960;NVI;LBLA;RVC"
         }
       ]
     },
@@ -6204,6 +5623,1147 @@
       ]
     },
     {
+      "id": "ot-final-2026-rv-apercibido",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "apercibido",
+      "proposedOptions": [
+        "Conservar \"apercibido\"",
+        "Leer \"advertido\""
+      ],
+      "reason": "La capa lee \"dispuesto\" o \"firme\" donde apercibir significa preparar. En Ezequiel 3:18 y 33:8 significa avisar, que es otro sentido, y por eso no se convierte con la misma regla.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 19,
+          "verse": 11
+        },
+        {
+          "book": "EXO",
+          "chapter": 19,
+          "verse": 15
+        },
+        {
+          "book": "JOS",
+          "chapter": 8,
+          "verse": 4
+        },
+        {
+          "book": "2CH",
+          "chapter": 17,
+          "verse": 18
+        },
+        {
+          "book": "2CH",
+          "chapter": 19,
+          "verse": 3
+        },
+        {
+          "book": "2CH",
+          "chapter": 30,
+          "verse": 18
+        },
+        {
+          "book": "EST",
+          "chapter": 3,
+          "verse": 14
+        },
+        {
+          "book": "EST",
+          "chapter": 8,
+          "verse": 13
+        },
+        {
+          "book": "JOB",
+          "chapter": 15,
+          "verse": 24
+        },
+        {
+          "book": "PSA",
+          "chapter": 112,
+          "verse": 7
+        },
+        {
+          "book": "EZK",
+          "chapter": 3,
+          "verse": 18
+        },
+        {
+          "book": "EZK",
+          "chapter": 28,
+          "verse": 13
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Controles RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Ezequiel+3:18&version=RVR1960;NVI;LBLA;RVC"
+        }
+      ]
+    },
+    {
+      "id": "ot-final-2026-rv-asentaron",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "asentar",
+      "proposedOptions": [
+        "acampar",
+        "poner o colocar",
+        "sentarse",
+        "establecerse"
+      ],
+      "reason": "El verbo cubre al menos cuatro sentidos: acampar (machaneh), poner o colocar algo, sentarse y establecerse en un lugar. La capa lo convirtio en 76 apariciones donde el sentido es acampar; las 8 restantes exigen una decision por pasaje y se conservan.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 11,
+          "verse": 31
+        },
+        {
+          "book": "JOS",
+          "chapter": 4,
+          "verse": 8
+        },
+        {
+          "book": "2SA",
+          "chapter": 15,
+          "verse": 24
+        },
+        {
+          "book": "EZR",
+          "chapter": 3,
+          "verse": 3
+        },
+        {
+          "book": "JER",
+          "chapter": 32,
+          "verse": 34
+        },
+        {
+          "book": "JER",
+          "chapter": 39,
+          "verse": 3
+        },
+        {
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 6
+        },
+        {
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 2
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Controles RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11:31&version=RVR1960;NVI;LBLA;RVC"
+        }
+      ]
+    },
+    {
+      "id": "ot-final-2026-rv-ijares",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "ijares",
+      "proposedOptions": [
+        "Conservar \"ijares\"",
+        "Leer \"los costados\"",
+        "Leer \"la cintura\""
+      ],
+      "reason": "En Levitico designa una parte de la res del sacrificio y la capa la lee \"los lomos\". En Job 15:27 el referente es una persona, donde \"lomos\" no sirve.",
+      "references": [
+        {
+          "book": "LEV",
+          "chapter": 3,
+          "verse": 4
+        },
+        {
+          "book": "LEV",
+          "chapter": 3,
+          "verse": 10
+        },
+        {
+          "book": "LEV",
+          "chapter": 3,
+          "verse": 15
+        },
+        {
+          "book": "LEV",
+          "chapter": 4,
+          "verse": 9
+        },
+        {
+          "book": "LEV",
+          "chapter": 7,
+          "verse": 4
+        },
+        {
+          "book": "JOB",
+          "chapter": 15,
+          "verse": 27
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Controles RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Job+15:27&version=RVR1960;NVI;LBLA;RVC"
+        }
+      ]
+    },
+    {
+      "id": "ot-final-2026-rv-quicios",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "quicios",
+      "proposedOptions": [
+        "Conservar \"quicios\"",
+        "Leer \"goznes\""
+      ],
+      "reason": "En Exodo 26 los quicios son las espigas de las tablas del tabernaculo y la capa los lee \"espigas\". En Proverbios 26:14 son los goznes de una puerta, que es otro objeto.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 26,
+          "verse": 17
+        },
+        {
+          "book": "EXO",
+          "chapter": 26,
+          "verse": 19
+        },
+        {
+          "book": "EXO",
+          "chapter": 36,
+          "verse": 22
+        },
+        {
+          "book": "EXO",
+          "chapter": 36,
+          "verse": 24
+        },
+        {
+          "book": "PRO",
+          "chapter": 26,
+          "verse": 14
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Controles RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Proverbios+26:14&version=RVR1960;NVI;LBLA;RVC"
+        }
+      ]
+    },
+    {
+      "id": "ot-final-2026-rv-sittim",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "Sittim",
+      "proposedOptions": [
+        "madera de acacia",
+        "Conservar el toponimo Sittim"
+      ],
+      "reason": "Sittim es la madera de acacia en las instrucciones del tabernaculo y tambien el nombre del lugar desde donde Israel cruza el Jordan. Los cuatro pasajes que quedan son el toponimo y no se traducen.",
+      "references": [
+        {
+          "book": "JOS",
+          "chapter": 2,
+          "verse": 1
+        },
+        {
+          "book": "JOS",
+          "chapter": 3,
+          "verse": 1
+        },
+        {
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 18
+        },
+        {
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 5
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Controles RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Josue+2:1&version=RVR1960;NVI;LBLA;RVC"
+        }
+      ]
+    },
+    {
+      "id": "ot-final-2026-rv-encliticos",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "pronombres encliticos (dijole, tornose, pusole, ...)",
+      "proposedOptions": [
+        "Conservar la forma enclitica de RV1909",
+        "Anteponer el pronombre en todas las apariciones del Antiguo Testamento"
+      ],
+      "reason": "RV1909 pospone el pronombre al verbo. La capa ya antepuso el pronombre en varios cientos de casos, pero quedan alrededor de 690 versiculos del Antiguo Testamento con la forma enclitica. Es una decision de alcance total, no versiculo a versiculo, y el pronombre correcto depende del sujeto y del objeto de cada pasaje: no puede resolverse con una regla unica.",
+      "references": [
+        {
+          "book": "GEN",
+          "chapter": 1,
+          "verse": 28
+        },
+        {
+          "book": "GEN",
+          "chapter": 2,
+          "verse": 3
+        },
+        {
+          "book": "GEN",
+          "chapter": 3,
+          "verse": 2
+        },
+        {
+          "book": "GEN",
+          "chapter": 3,
+          "verse": 8
+        },
+        {
+          "book": "GEN",
+          "chapter": 3,
+          "verse": 22
+        },
+        {
+          "book": "GEN",
+          "chapter": 3,
+          "verse": 23
+        },
+        {
+          "book": "GEN",
+          "chapter": 4,
+          "verse": 5
+        },
+        {
+          "book": "GEN",
+          "chapter": 4,
+          "verse": 15
+        },
+        {
+          "book": "GEN",
+          "chapter": 6,
+          "verse": 2
+        },
+        {
+          "book": "GEN",
+          "chapter": 6,
+          "verse": 6
+        },
+        {
+          "book": "GEN",
+          "chapter": 6,
+          "verse": 11
+        },
+        {
+          "book": "GEN",
+          "chapter": 6,
+          "verse": 21
+        },
+        {
+          "book": "GEN",
+          "chapter": 8,
+          "verse": 1
+        },
+        {
+          "book": "GEN",
+          "chapter": 8,
+          "verse": 3
+        },
+        {
+          "book": "GEN",
+          "chapter": 8,
+          "verse": 9
+        },
+        {
+          "book": "GEN",
+          "chapter": 9,
+          "verse": 1
+        },
+        {
+          "book": "GEN",
+          "chapter": 11,
+          "verse": 4
+        },
+        {
+          "book": "GEN",
+          "chapter": 12,
+          "verse": 8
+        },
+        {
+          "book": "GEN",
+          "chapter": 12,
+          "verse": 19
+        },
+        {
+          "book": "GEN",
+          "chapter": 13,
+          "verse": 11
+        },
+        {
+          "book": "GEN",
+          "chapter": 14,
+          "verse": 13
+        },
+        {
+          "book": "GEN",
+          "chapter": 14,
+          "verse": 15
+        },
+        {
+          "book": "GEN",
+          "chapter": 14,
+          "verse": 20
+        },
+        {
+          "book": "GEN",
+          "chapter": 15,
+          "verse": 5
+        },
+        {
+          "book": "GEN",
+          "chapter": 15,
+          "verse": 17
+        },
+        {
+          "book": "GEN",
+          "chapter": 16,
+          "verse": 3
+        },
+        {
+          "book": "GEN",
+          "chapter": 16,
+          "verse": 6
+        },
+        {
+          "book": "GEN",
+          "chapter": 16,
+          "verse": 7
+        },
+        {
+          "book": "GEN",
+          "chapter": 17,
+          "verse": 1
+        },
+        {
+          "book": "GEN",
+          "chapter": 17,
+          "verse": 17
+        },
+        {
+          "book": "GEN",
+          "chapter": 18,
+          "verse": 1
+        },
+        {
+          "book": "GEN",
+          "chapter": 18,
+          "verse": 2
+        },
+        {
+          "book": "GEN",
+          "chapter": 18,
+          "verse": 7
+        },
+        {
+          "book": "GEN",
+          "chapter": 18,
+          "verse": 12
+        },
+        {
+          "book": "GEN",
+          "chapter": 18,
+          "verse": 22
+        },
+        {
+          "book": "GEN",
+          "chapter": 18,
+          "verse": 23
+        },
+        {
+          "book": "GEN",
+          "chapter": 19,
+          "verse": 1
+        },
+        {
+          "book": "GEN",
+          "chapter": 19,
+          "verse": 3
+        },
+        {
+          "book": "GEN",
+          "chapter": 19,
+          "verse": 19
+        },
+        {
+          "book": "GEN",
+          "chapter": 19,
+          "verse": 29
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Controles RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+24:18&version=RVR1960;NVI;LBLA;RVC"
+        }
+      ]
+    },
+    {
+      "id": "ot-final-2026-rv-glosario-divergente",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "terminos con lectura divergente por sentido",
+      "proposedOptions": [
+        "Mantener la divergencia por sentido",
+        "Unificar y anotar el sentido en cada pasaje"
+      ],
+      "reason": "Quedan 47 terminos que la capa resuelve de dos maneras distintas porque la palabra castellana cubre dos palabras o dos sentidos hebreos: campo (machaneh o chayil), mediodia (Neguev o sur), salud (ayuda o salvacion), termino (limite o territorio), trabajo (iniquidad o sufrimiento), mancebo (joven o criado), hirio (derroto o mato), derechos (decretos o juicios), villas (aldeas o ciudades), entre otros. La divergencia es correcta; lo que queda pendiente es documentarla pasaje a pasaje.",
+      "references": [
+        {
+          "book": "1SA",
+          "chapter": 14,
+          "verse": 15
+        },
+        {
+          "book": "NUM",
+          "chapter": 13,
+          "verse": 29
+        },
+        {
+          "book": "PSA",
+          "chapter": 3,
+          "verse": 8
+        },
+        {
+          "book": "NUM",
+          "chapter": 34,
+          "verse": 3
+        },
+        {
+          "book": "JOB",
+          "chapter": 4,
+          "verse": 8
+        },
+        {
+          "book": "GEN",
+          "chapter": 22,
+          "verse": 3
+        },
+        {
+          "book": "JOS",
+          "chapter": 10,
+          "verse": 10
+        },
+        {
+          "book": "DEU",
+          "chapter": 4,
+          "verse": 1
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Controles RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1+Samuel+14:15&version=RVR1960;NVI;LBLA;RVC"
+        }
+      ]
+    },
+    {
+      "id": "nt-iniquidad",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "iniquidad",
+      "proposedOptions": [
+        "maldad",
+        "injusticia",
+        "pecado"
+      ],
+      "reason": "Puede describir maldad, injusticia o oposición a la ley de Dios.",
+      "references": [
+        {
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 16
+        },
+        {
+          "book": "2TH",
+          "chapter": 2,
+          "verse": 7
+        },
+        {
+          "book": "2TH",
+          "chapter": 2,
+          "verse": 10
+        },
+        {
+          "book": "2TH",
+          "chapter": 2,
+          "verse": 12
+        },
+        {
+          "book": "2TI",
+          "chapter": 2,
+          "verse": 19
+        },
+        {
+          "book": "ACT",
+          "chapter": 1,
+          "verse": 18
+        },
+        {
+          "book": "LUK",
+          "chapter": 13,
+          "verse": 27
+        },
+        {
+          "book": "MAT",
+          "chapter": 13,
+          "verse": 41
+        },
+        {
+          "book": "MAT",
+          "chapter": 23,
+          "verse": 28
+        },
+        {
+          "book": "ROM",
+          "chapter": 1,
+          "verse": 29
+        },
+        {
+          "book": "ROM",
+          "chapter": 3,
+          "verse": 5
+        },
+        {
+          "book": "ROM",
+          "chapter": 6,
+          "verse": 13
+        },
+        {
+          "book": "ROM",
+          "chapter": 6,
+          "verse": 19
+        },
+        {
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 14
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=iniquidad&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "nt-inicuo",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "inicuo",
+      "proposedOptions": [
+        "malvado",
+        "sin ley"
+      ],
+      "reason": "En algunos pasajes es un adjetivo general y en otros un título escatológico.",
+      "references": [
+        {
+          "book": "2TH",
+          "chapter": 2,
+          "verse": 8
+        },
+        {
+          "book": "2TH",
+          "chapter": 2,
+          "verse": 9
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=inicuo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "nt-inicuos",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "inicuos",
+      "proposedOptions": [
+        "malvados",
+        "transgresores"
+      ],
+      "reason": "La identidad del grupo depende del contexto narrativo o profético.",
+      "references": [
+        {
+          "book": "ACT",
+          "chapter": 2,
+          "verse": 23
+        },
+        {
+          "book": "MRK",
+          "chapter": 15,
+          "verse": 28
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=inicuos&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "nt-propiciación",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "propiciación",
+      "proposedOptions": [
+        "sacrificio que obtiene perdón",
+        "sacrificio de reconciliación"
+      ],
+      "reason": "Es un término doctrinal; una palabra demasiado general perdería la relación entre sacrificio, perdón y reconciliación.",
+      "references": [
+        {
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 2
+        },
+        {
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 10
+        },
+        {
+          "book": "ROM",
+          "chapter": 3,
+          "verse": 25
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=propiciación&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "nt-potestades",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "potestades",
+      "proposedOptions": [
+        "autoridades",
+        "poderes"
+      ],
+      "reason": "Puede señalar autoridades humanas, poderes espirituales o capacidad delegada.",
+      "references": [
+        {
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 22
+        },
+        {
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 10
+        },
+        {
+          "book": "COL",
+          "chapter": 1,
+          "verse": 16
+        },
+        {
+          "book": "COL",
+          "chapter": 2,
+          "verse": 15
+        },
+        {
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 10
+        },
+        {
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 12
+        },
+        {
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 8
+        },
+        {
+          "book": "LUK",
+          "chapter": 12,
+          "verse": 11
+        },
+        {
+          "book": "ROM",
+          "chapter": 8,
+          "verse": 38
+        },
+        {
+          "book": "ROM",
+          "chapter": 13,
+          "verse": 1
+        },
+        {
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 1
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=potestades&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "nt-principados",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "principados",
+      "proposedOptions": [
+        "gobernantes",
+        "poderes espirituales"
+      ],
+      "reason": "El referente cambia entre jerarquías y poderes espirituales.",
+      "references": [
+        {
+          "book": "COL",
+          "chapter": 1,
+          "verse": 16
+        },
+        {
+          "book": "COL",
+          "chapter": 2,
+          "verse": 15
+        },
+        {
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 10
+        },
+        {
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 12
+        },
+        {
+          "book": "ROM",
+          "chapter": 8,
+          "verse": 38
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=principados&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "nt-fornicación",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "fornicación",
+      "proposedOptions": [
+        "inmoralidad sexual"
+      ],
+      "reason": "La sustitución debe conservar cuándo el texto habla de una conducta concreta y cuándo usa una imagen profética.",
+      "references": [
+        {
+          "book": "1CO",
+          "chapter": 5,
+          "verse": 1
+        },
+        {
+          "book": "1CO",
+          "chapter": 6,
+          "verse": 13
+        },
+        {
+          "book": "1CO",
+          "chapter": 6,
+          "verse": 18
+        },
+        {
+          "book": "1TH",
+          "chapter": 4,
+          "verse": 3
+        },
+        {
+          "book": "2CO",
+          "chapter": 12,
+          "verse": 21
+        },
+        {
+          "book": "ACT",
+          "chapter": 15,
+          "verse": 20
+        },
+        {
+          "book": "ACT",
+          "chapter": 15,
+          "verse": 29
+        },
+        {
+          "book": "ACT",
+          "chapter": 21,
+          "verse": 25
+        },
+        {
+          "book": "COL",
+          "chapter": 3,
+          "verse": 5
+        },
+        {
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 3
+        },
+        {
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 19
+        },
+        {
+          "book": "JHN",
+          "chapter": 8,
+          "verse": 41
+        },
+        {
+          "book": "MAT",
+          "chapter": 5,
+          "verse": 32
+        },
+        {
+          "book": "MAT",
+          "chapter": 19,
+          "verse": 9
+        },
+        {
+          "book": "REV",
+          "chapter": 2,
+          "verse": 14
+        },
+        {
+          "book": "REV",
+          "chapter": 2,
+          "verse": 21
+        },
+        {
+          "book": "REV",
+          "chapter": 9,
+          "verse": 21
+        },
+        {
+          "book": "REV",
+          "chapter": 14,
+          "verse": 8
+        },
+        {
+          "book": "REV",
+          "chapter": 17,
+          "verse": 2
+        },
+        {
+          "book": "REV",
+          "chapter": 17,
+          "verse": 4
+        },
+        {
+          "book": "REV",
+          "chapter": 18,
+          "verse": 3
+        },
+        {
+          "book": "REV",
+          "chapter": 19,
+          "verse": 2
+        },
+        {
+          "book": "ROM",
+          "chapter": 1,
+          "verse": 29
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=fornicación&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "nt-inmundicia",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "inmundicia",
+      "proposedOptions": [
+        "impureza"
+      ],
+      "reason": "Puede ser moral, corporal o metafórica; requiere verificación por referencia.",
+      "references": [
+        {
+          "book": "1TH",
+          "chapter": 2,
+          "verse": 3
+        },
+        {
+          "book": "1TH",
+          "chapter": 4,
+          "verse": 7
+        },
+        {
+          "book": "2CO",
+          "chapter": 7,
+          "verse": 1
+        },
+        {
+          "book": "2CO",
+          "chapter": 12,
+          "verse": 21
+        },
+        {
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 10
+        },
+        {
+          "book": "COL",
+          "chapter": 3,
+          "verse": 5
+        },
+        {
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 3
+        },
+        {
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 19
+        },
+        {
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 21
+        },
+        {
+          "book": "ROM",
+          "chapter": 1,
+          "verse": 24
+        },
+        {
+          "book": "ROM",
+          "chapter": 6,
+          "verse": 19
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=inmundicia&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "nt-incircuncisión",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "incircuncisión",
+      "proposedOptions": [
+        "los no circuncidados",
+        "condición de no estar circuncidado"
+      ],
+      "reason": "Es un término técnico y a veces nombra a un grupo; no admite una sustitución global.",
+      "references": [
+        {
+          "book": "1CO",
+          "chapter": 7,
+          "verse": 19
+        },
+        {
+          "book": "COL",
+          "chapter": 2,
+          "verse": 13
+        },
+        {
+          "book": "COL",
+          "chapter": 3,
+          "verse": 11
+        },
+        {
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 11
+        },
+        {
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 7
+        },
+        {
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 6
+        },
+        {
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 15
+        },
+        {
+          "book": "ROM",
+          "chapter": 2,
+          "verse": 25
+        },
+        {
+          "book": "ROM",
+          "chapter": 2,
+          "verse": 26
+        },
+        {
+          "book": "ROM",
+          "chapter": 3,
+          "verse": 30
+        },
+        {
+          "book": "ROM",
+          "chapter": 4,
+          "verse": 9
+        },
+        {
+          "book": "ROM",
+          "chapter": 4,
+          "verse": 10
+        },
+        {
+          "book": "ROM",
+          "chapter": 4,
+          "verse": 11
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=incircuncisión&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
       "id": "matthew-v22-1",
       "status": "pending-review",
       "scope": "new-testament",
@@ -8445,5 +9005,257 @@
         }
       ]
     }
-  ]
+  ],
+  "auditOtFinal2026": {
+    "auditId": "ot-final-20260912",
+    "baseCommit": "a57cf858f968d1735b4d31019b1daeed10ce68de",
+    "portedFrom": [
+      "ded0b66",
+      "ca51595"
+    ],
+    "note": "Deltas editoriales portados edicion por edicion sobre la version canonica v22. No se hizo cherry-pick de manifiestos, paquetes ni registry.",
+    "controls": [
+      "RVR1960",
+      "NVI",
+      "LBLA",
+      "RVC"
+    ],
+    "familyDecisions": [
+      {
+        "family": "ejidos / migrash",
+        "decision": "campos de pastoreo cuando es migrash de ciudades levitas y ganado",
+        "votes": "NVI \"campos de pastoreo\" (Num 35:2, Jos 21:2, 2Cr 11:14); LBLA \"tierras de pasto\"; RVR1960 y RVC conservan \"ejidos\". 2 de 4 modernizan y ambos con la idea de pasto.",
+        "exceptions": [
+          {
+            "book": "2KI",
+            "chapter": 23,
+            "verse": 11,
+            "chosen": "recinto",
+            "hebrew": "parvarim H6503/H6504 — recinto o dependencia del templo, no migrash",
+            "votes": "NVI \"el eunuco encargado del recinto\"; RVR1960, LBLA y RVC conservan \"ejidos\""
+          },
+          {
+            "book": "EZK",
+            "chapter": 45,
+            "verse": 2,
+            "chosen": "espacio abierto",
+            "hebrew": "migrash, aqui la franja abierta de cincuenta codos alrededor del santuario",
+            "votes": "NVI \"espacio libre\"; LBLA \"espacio abierto\"; RVR1960 y RVC conservan \"ejidos\""
+          }
+        ],
+        "checked": [
+          {
+            "book": "EZK",
+            "chapter": 48,
+            "verse": 15,
+            "kept": "campos de pastoreo",
+            "votes": "NVI y LBLA leen \"pastizales\": el sentido es de pasto, de modo que se conserva el termino de la familia"
+          },
+          {
+            "book": "EZK",
+            "chapter": 48,
+            "verse": 17,
+            "kept": "campos de pastoreo",
+            "votes": "NVI y LBLA leen \"pastizales\""
+          },
+          {
+            "book": "LEV",
+            "chapter": 25,
+            "verse": 34,
+            "kept": "tierra de pastoreo",
+            "votes": "NVI \"los campos alrededor de sus ciudades\"; singular para concordar con el articulo del versiculo"
+          }
+        ],
+        "evidence": [
+          {
+            "label": "NVI 2 Reyes 23:11",
+            "url": "https://www.biblegateway.com/passage/?search=2+Reyes+23%3A11&version=NVI"
+          },
+          {
+            "label": "NVI y LBLA Ezequiel 45:2",
+            "url": "https://www.biblegateway.com/passage/?search=Ezequiel+45%3A2&version=NVI%3BLBLA"
+          },
+          {
+            "label": "NVI y LBLA Ezequiel 48:15-17",
+            "url": "https://www.biblegateway.com/passage/?search=Ezequiel+48%3A15-17&version=NVI%3BLBLA"
+          },
+          {
+            "label": "NVI Levitico 25:34 y 2 Cronicas 11:14",
+            "url": "https://www.biblegateway.com/passage/?search=Levitico+25%3A34%3B2+Cronicas+11%3A14&version=NVI"
+          }
+        ]
+      },
+      {
+        "family": "Jueces 8:10 campo -> ejercito",
+        "decision": "conservar la edicion vigente",
+        "votes": "TRES de cuatro controles usan \"ejercito\" para los dos terminos: RVR1960 \"su ejercito... todo el ejercito\", LBLA \"sus ejercitos... todo el ejercito\", RVC \"un ejercito... numeroso ejercito\". NVI NO coincide: lee \"una fuerza de quince mil guerreros... los ejercitos del oriente\". CORRECCION: un informe anterior de esta auditoria afirmo consenso de cuatro versiones; es incorrecto, son tres de cuatro.",
+        "evidence": [
+          {
+            "label": "Cuatro controles Jueces 8:10",
+            "url": "https://www.biblegateway.com/passage/?search=Jueces+8%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+          }
+        ]
+      },
+      {
+        "family": "por yerro / bishgagah",
+        "decision": "involuntariamente",
+        "votes": "NVI \"involuntariamente\"; LBLA \"inadvertidamente\"; RVC \"no intencional / sin proponerselo\"; RVR1960 conserva \"por yerro\". Tres de cuatro modernizan y NVI aporta la forma adoptada.",
+        "evidence": [
+          {
+            "label": "Cuatro controles Levitico 4:2 y Numeros 15:27",
+            "url": "https://www.biblegateway.com/passage/?search=Levitico+4%3A2%3BNumeros+15%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+          }
+        ]
+      },
+      {
+        "family": "persona vosotros/ustedes",
+        "decision": "vosotros",
+        "votes": "EMPATE dos a dos: RVR1960 y LBLA usan vosotros; NVI y RVC usan ustedes. No hay consenso. Desempata la coherencia con el texto base RV1909, que es un texto de vosotros y lo conserva en el resto de cada versiculo afectado.",
+        "evidence": [
+          {
+            "label": "Cuatro controles Levitico 23:32 y 26:17",
+            "url": "https://www.biblegateway.com/passage/?search=Levitico+23%3A32%3BLevitico+26%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+          }
+        ]
+      },
+      {
+        "family": "vasos Num 7:1 / moza Deu 22:26",
+        "decision": "utensilios / joven",
+        "votes": "Num 7:1: RVR1960, NVI y RVC leen \"utensilios\"; LBLA \"muebles\" (3 de 4). Deu 22:26: RVR1960, LBLA y RVC leen \"joven\"; NVI parafrasea (3 de 4).",
+        "evidence": [
+          {
+            "label": "Cuatro controles Numeros 7:1 y Deuteronomio 22:26",
+            "url": "https://www.biblegateway.com/passage/?search=Numeros+7%3A1%3BDeuteronomio+22%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+          }
+        ]
+      },
+      {
+        "family": "redaño / yoteret frente a peder",
+        "decision": "\"el lóbulo del hígado\" donde redaño traduce yoteret; se conserva \"redaño\" donde traduce peder",
+        "votes": "yoteret: NVI \"el lóbulo del hígado\" y LBLA \"el lóbulo del hígado\" en Ex 29:13 y Lv 3:4; RVR1960 \"la grosura que está sobre el hígado\" y RVC lo funden con la grosura. 2 de 4 distinguen el lóbulo; ninguna de las cuatro lo iguala al sebo (chelev) del mismo versículo, que es el argumento decisivo: yoteret y chelev aparecen juntos y son dos elementos distintos del sacrificio. NO hay consenso de cuatro versiones.",
+        "hebrew": "yoteret (יֹתֶרֶת) es el apéndice o lóbulo del hígado; peder (פֶּדֶר) es el sebo. RV1909 usa \"redaño\" para las dos palabras, de modo que la familia no puede tratarse como una sola clase.",
+        "exceptions": [
+          {
+            "book": "LEV",
+            "chapter": 1,
+            "verse": 8,
+            "chosen": "sin tocar",
+            "hebrew": "peder (sebo), no yoteret",
+            "votes": "las cuatro versiones leen sebo o grosura; no procede el lóbulo"
+          },
+          {
+            "book": "LEV",
+            "chapter": 1,
+            "verse": 12,
+            "chosen": "sin tocar",
+            "hebrew": "peder (sebo), no yoteret",
+            "votes": "las cuatro versiones leen sebo o grosura; no procede el lóbulo"
+          }
+        ],
+        "applied": [
+          {
+            "book": "EXO",
+            "chapter": 29,
+            "verse": 13
+          },
+          {
+            "book": "EXO",
+            "chapter": 29,
+            "verse": 22
+          },
+          {
+            "book": "LEV",
+            "chapter": 3,
+            "verse": 4
+          },
+          {
+            "book": "LEV",
+            "chapter": 3,
+            "verse": 10
+          },
+          {
+            "book": "LEV",
+            "chapter": 3,
+            "verse": 15
+          },
+          {
+            "book": "LEV",
+            "chapter": 4,
+            "verse": 9
+          },
+          {
+            "book": "LEV",
+            "chapter": 7,
+            "verse": 4
+          },
+          {
+            "book": "LEV",
+            "chapter": 8,
+            "verse": 16
+          },
+          {
+            "book": "LEV",
+            "chapter": 8,
+            "verse": 25
+          },
+          {
+            "book": "LEV",
+            "chapter": 9,
+            "verse": 10
+          },
+          {
+            "book": "LEV",
+            "chapter": 9,
+            "verse": 19
+          }
+        ],
+        "evidence": [
+          {
+            "label": "Controles RVR1960, NVI, LBLA y RVC en Éxodo 29:13",
+            "url": "https://www.biblegateway.com/passage/?search=Exodus+29:13&version=RVR1960;NVI;LBLA;RVC"
+          },
+          {
+            "label": "Controles RVR1960, NVI, LBLA y RVC en Levítico 3:4",
+            "url": "https://www.biblegateway.com/passage/?search=Leviticus+3:4&version=RVR1960;NVI;LBLA;RVC"
+          },
+          {
+            "label": "Controles RVR1960, NVI, LBLA y RVC en Levítico 1:8",
+            "url": "https://www.biblegateway.com/passage/?search=Leviticus+1:8&version=RVR1960;NVI;LBLA;RVC"
+          }
+        ]
+      }
+    ],
+    "integratedIntoRvContentVersion": 26,
+    "integratedOverPublishedVersion": 25,
+    "changedBooks": [
+      "GEN",
+      "EXO",
+      "LEV",
+      "NUM",
+      "DEU",
+      "JOS",
+      "JDG",
+      "RUT",
+      "1SA",
+      "2SA",
+      "1KI",
+      "2KI",
+      "1CH",
+      "2CH",
+      "EZR",
+      "NEH",
+      "EST",
+      "JOB",
+      "PSA",
+      "PRO",
+      "ECC",
+      "ISA",
+      "JER",
+      "LAM",
+      "EZK",
+      "DAN",
+      "JOL",
+      "JON"
+    ]
+  }
 }

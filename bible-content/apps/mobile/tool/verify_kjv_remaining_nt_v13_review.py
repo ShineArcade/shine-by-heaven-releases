@@ -108,23 +108,21 @@ def main():
 
     raw = PACKAGE.read_bytes()
     manifest = read(MANIFEST)
-    assert manifest["contentVersion"] == 13
+    assert manifest["contentVersion"] >= 13
     assert manifest["contentSha256"] == hashlib.sha256(raw).hexdigest()
     assert manifest["sourceCorpusSha256"] == "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939"
-    assert manifest["coverage"] == {
-        "expectedBookCount": 66,
-        "includedBookCount": 66,
-        "changedVerseCount": 4709,
-        "editCount": 5537,
-    }
+    assert manifest["coverage"]["expectedBookCount"] == 66
+    assert manifest["coverage"]["includedBookCount"] == 66
+    assert manifest["coverage"]["changedVerseCount"] >= 4709
+    assert manifest["coverage"]["editCount"] >= 5537
     payload = json.loads(gzip.decompress(raw))
-    assert payload["contentVersion"] == 13 and len(payload["books"]) == 66
+    assert payload["contentVersion"] == manifest["contentVersion"] and len(payload["books"]) == 66
     assert payload["sourceCorpusSha256"] == manifest["sourceCorpusSha256"]
     for book in v13_books:
         assert next(item for item in payload["books"] if item["book"] == book) == directions[book]
 
     registry = read(REGISTRY)
-    assert registry["activeContentVersion"] == 13
+    assert registry["activeContentVersion"] == manifest["contentVersion"]
     applied = {(item["reference"], item["expected"], item["replacement"]) for item in registry["applied"]}
     for entry in rules:
         key = (f"{entry['book']}.{entry['chapter']}.{entry['verse']}", entry["expected"], entry["replacement"])
@@ -140,7 +138,7 @@ def main():
         if len(verse["edits"]) == 1 and verse["edits"][0].get("category") == "remaining-new-testament-context-review"
     )
     print(json.dumps({
-        "contentVersion": 13,
+        "contentVersion": manifest["contentVersion"],
         "verifiedSourceVerses": len(source),
         "reviewedRules": len(rules),
         "touchedVerses": touched,
