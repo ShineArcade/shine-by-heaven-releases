@@ -2,25 +2,25 @@
   "format": "shine-reading-filter-manifest",
   "filterId": "KJV-READING-2026",
   "schemaVersion": 1,
-  "contentVersion": 12,
+  "contentVersion": 13,
   "sourceVersionId": "KJV",
   "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
   "normalizationId": "shine-kjv-visible-text-v1",
-  "contentSha256": "8dbc8c1574141451180d7ffb8a07e333c388e650dc8dbe16dccc21ffa13c37ec",
-  "sizeBytes": 325973,
-  "expandedSizeBytes": 2012522,
+  "contentSha256": "c80f0e9f463c29f713f7b42164f3ba5970a957063d7b201a00681969537fabfe",
+  "sizeBytes": 400925,
+  "expandedSizeBytes": 2467941,
   "mimeType": "application/vnd.shine.reading-filter+gzip",
-  "generatedAt": "2026-09-12",
+  "generatedAt": "2026-09-13",
   "editorialPolicy": {
     "id": "kjv-minimal-comprehension-policy",
-    "version": 12,
-    "description": "Only exact, occurrence-reviewed wording that materially improves comprehension is projected. The packaged KJV remains immutable."
+    "version": 13,
+    "description": "Only exact, occurrence-reviewed wording that materially improves comprehension is projected. The packaged KJV remains immutable, and ambiguous or doctrinal families remain pending."
   },
   "coverage": {
     "expectedBookCount": 66,
     "includedBookCount": 66,
-    "changedVerseCount": 4153,
-    "editCount": 4981
+    "changedVerseCount": 4709,
+    "editCount": 5537
   },
   "books": [
     {
@@ -397,189 +397,189 @@
       "order": 42,
       "sourceFile": "luk_reading_2026.kjv.v1.json",
       "sourceContentSha256": "c791a191c28467cee31efeadecf0501b1ddb4a9aae21fe3c9791837fedfb4293",
-      "payloadSha256": "33d39d38b81846157bb8ff36b49ef8d43de9d6f0dd06ad60c780c45fcc9568ac",
-      "changedVerseCount": 58,
-      "editCount": 58
+      "payloadSha256": "06835165cc036314af0a2ad5097bfefb8632f86d748291e2d7227e185f3e5eb2",
+      "changedVerseCount": 199,
+      "editCount": 199
     },
     {
       "id": "JHN",
       "order": 43,
       "sourceFile": "jhn_reading_2026.kjv.v1.json",
       "sourceContentSha256": "6afe7a1a3da1df0dfd05a37e91c4ff3280a0e7c5dd6b55927100cd9d43529458",
-      "payloadSha256": "3eb8f4a02c2b069300044a49567f1637094b60a6c98117de78ec7e3399ca144f",
-      "changedVerseCount": 46,
-      "editCount": 48
+      "payloadSha256": "80cd1b7b89b9c0f008e7d45e4ce0f8432158caccf61ca650c04783a9ec3eccfa",
+      "changedVerseCount": 113,
+      "editCount": 115
     },
     {
       "id": "ACT",
       "order": 44,
       "sourceFile": "act_reading_2026.kjv.v1.json",
       "sourceContentSha256": "f5ede404a8f1f0f4de77506fe250df998035048773ad4e26730c700d1c8ae9f5",
-      "payloadSha256": "b3977f29f58ab01b595bc9f15722d5d746923c5fce06683ca208389a80e444a0",
-      "changedVerseCount": 63,
-      "editCount": 64
+      "payloadSha256": "eb2a1dec9c03757d174555561298e82d24af6fef90f5a1732121aba4c229f97e",
+      "changedVerseCount": 167,
+      "editCount": 168
     },
     {
       "id": "ROM",
       "order": 45,
       "sourceFile": "rom_reading_2026.kjv.v1.json",
       "sourceContentSha256": "c13867f1c82513fba3a787a9a60a687d93871a1b39a09096acd81bec47e88001",
-      "payloadSha256": "e557d97b7d17bdf4fc0352dee6dc0abf2549bd84de4b6d4abd0355dadc9cdded",
-      "changedVerseCount": 6,
-      "editCount": 6
+      "payloadSha256": "06de178baed83deac5140e90907437f91fe14f9eb56397785a19cd084f23a5aa",
+      "changedVerseCount": 43,
+      "editCount": 43
     },
     {
       "id": "1CO",
       "order": 46,
       "sourceFile": "1co_reading_2026.kjv.v1.json",
       "sourceContentSha256": "ebc7146ea44339683ef3ba221c2b0966d83c1d5d51bacc6e4f3d60a6ebe436e8",
-      "payloadSha256": "4135eba43ceea11f8b3f638689126e5e302f2def06314f31c82de7dd169450da",
-      "changedVerseCount": 6,
-      "editCount": 6
+      "payloadSha256": "fa33fd947f7d4b626dd0fc0fa8280f4a6708453ac2d8965c118912cc54c82ad1",
+      "changedVerseCount": 42,
+      "editCount": 42
     },
     {
       "id": "2CO",
       "order": 47,
       "sourceFile": "2co_reading_2026.kjv.v1.json",
       "sourceContentSha256": "f1dcf8ab52f54d0e55c39da1c570b97aefd0fa54bcb1226decffc4478125f7a4",
-      "payloadSha256": "af62a53f0761a8f766fac032bfaad2257fa6de4faa172c96c2cdfedd2ba56e91",
-      "changedVerseCount": 9,
-      "editCount": 10
+      "payloadSha256": "d6675308153b160d29db9f4a699ccaa64950c924432f31bb295b024a13454ec9",
+      "changedVerseCount": 23,
+      "editCount": 24
     },
     {
       "id": "GAL",
       "order": 48,
       "sourceFile": "gal_reading_2026.kjv.v1.json",
       "sourceContentSha256": "9edde64ba7ea760326d76c7452ac614bcc4491b5b60a6fb56c6be80cbb6aef29",
-      "payloadSha256": "d51a6c94d3d3373a69a0ac6c8990666fc14f43b8a51051cf2797d85e781f529b",
-      "changedVerseCount": 4,
-      "editCount": 4
+      "payloadSha256": "9b24c445a6924ffd1964970faafea02ad5582d0a19b10910c2e1af7ab9c1c3a7",
+      "changedVerseCount": 8,
+      "editCount": 8
     },
     {
       "id": "EPH",
       "order": 49,
       "sourceFile": "eph_reading_2026.kjv.v1.json",
       "sourceContentSha256": "7ab6cec383b0254bbd4147ef6e581519d7f43b04277a1d45b74723fa0bcba0e7",
-      "payloadSha256": "8cf42d45286b05c7bf09d81ec2b70ff109774d5958f2e36619990ef756e16df8",
-      "changedVerseCount": 3,
-      "editCount": 3
+      "payloadSha256": "37cdb2804b83eeef2338cdbb0dbca32af02c8bfa45d08bcb671481bc12f483a8",
+      "changedVerseCount": 11,
+      "editCount": 11
     },
     {
       "id": "PHP",
       "order": 50,
       "sourceFile": "php_reading_2026.kjv.v1.json",
       "sourceContentSha256": "903f5a921f759c849e5c60db399f7afb2047386f2ba062ae28d718a3439fef9c",
-      "payloadSha256": "d0b199c317857a81b42a44399273a00e6a76a25954cc5ed62bcada83c185beb0",
-      "changedVerseCount": 5,
-      "editCount": 5
+      "payloadSha256": "1aef8cc1d507b43a6cfa9c82b0b938b8b3a2a8665f6c357163b5744e7cb946f2",
+      "changedVerseCount": 16,
+      "editCount": 16
     },
     {
       "id": "COL",
       "order": 51,
       "sourceFile": "col_reading_2026.kjv.v1.json",
       "sourceContentSha256": "5dd01462e9c83a8d5c5f80805d91804b702e0cebf30a2f38654fcbf5bae17c4b",
-      "payloadSha256": "d8fa8950b44084883742f3c9e9c263127710ef59d76448db4d341d199cd4bbe1",
-      "changedVerseCount": 3,
-      "editCount": 3
+      "payloadSha256": "da5ce9981379492d60ae0d206540a167ba837a743e85c33513a8fc732fb98ef8",
+      "changedVerseCount": 12,
+      "editCount": 12
     },
     {
       "id": "1TH",
       "order": 52,
       "sourceFile": "1th_reading_2026.kjv.v1.json",
       "sourceContentSha256": "d11af3732d62ebe4004e901c6132823382f0e8386072dfa46bf76b0148f9a0a8",
-      "payloadSha256": "c42790d05fdc6fec9fa929f66bcff9515b62dbc6db1e4cebeb46220c9316012e",
-      "changedVerseCount": 3,
-      "editCount": 3
+      "payloadSha256": "cea1623d2626f957fa25a044b4650b4123a4e2cc77b093d41c2ecfc6c061a50f",
+      "changedVerseCount": 11,
+      "editCount": 11
     },
     {
       "id": "2TH",
       "order": 53,
       "sourceFile": "2th_reading_2026.kjv.v1.json",
       "sourceContentSha256": "35925a242ed3a3e6370ac9f3c4c9949fe7793e765cb0da66b6e400c3a97147a4",
-      "payloadSha256": "7b7880fc9b901b3f8b7252c96772ec34cbe14ab4f1368e9750de164a4a8bf9d7",
-      "changedVerseCount": 2,
-      "editCount": 2
+      "payloadSha256": "953a8f3d25636b804723d389dde9e6a341df8193cf8dda315e1c544be3aca93a",
+      "changedVerseCount": 6,
+      "editCount": 6
     },
     {
       "id": "1TI",
       "order": 54,
       "sourceFile": "1ti_reading_2026.kjv.v1.json",
       "sourceContentSha256": "917e64cfa037ac94952199c097b4fa661532bbb3f0c651dc8cc7a27dc679d2c5",
-      "payloadSha256": "9f418d788a27ac1193c0f257c3832b226f3bb732358015f214f6346f959bbe32",
-      "changedVerseCount": 4,
-      "editCount": 4
+      "payloadSha256": "0b32ce13a6015315e24f9fbc30abb517dd0303af78e3fbd452c1b2da9e67f5eb",
+      "changedVerseCount": 11,
+      "editCount": 11
     },
     {
       "id": "2TI",
       "order": 55,
       "sourceFile": "2ti_reading_2026.kjv.v1.json",
       "sourceContentSha256": "5eacfdcb51615b18dd00b831ff8e9042524cf0f9b9a9b5801b20334d890bc165",
-      "payloadSha256": "c85cc976114fad9f30d9930c823061897e331f8ee321023b06a75e696a3ac22c",
-      "changedVerseCount": 3,
-      "editCount": 3
+      "payloadSha256": "98c53461afbd7a03e3438b69c6a9fb538d21c6711ea2e059f9a48aee55339c7f",
+      "changedVerseCount": 12,
+      "editCount": 12
     },
     {
       "id": "TIT",
       "order": 56,
       "sourceFile": "tit_reading_2026.kjv.v1.json",
       "sourceContentSha256": "3ba63dac8bc017b03446e8dc288f534f486a81733ebe7a496d3eb037f47bcd29",
-      "payloadSha256": "78ac17e510cc7816782c0849635ca6529b1595bd0f45f63845117fee77d185b5",
-      "changedVerseCount": 1,
-      "editCount": 1
+      "payloadSha256": "ee9054283d5d86f8d420e33a6c6fc0c3ca57a0b468a3ece84731e4d7b5e8e127",
+      "changedVerseCount": 11,
+      "editCount": 11
     },
     {
       "id": "PHM",
       "order": 57,
       "sourceFile": "phm_reading_2026.kjv.v1.json",
       "sourceContentSha256": "538fae7f825b97816be16cc555aaeeb0a769dfcfde8adf10f352ce4bd7ad22e2",
-      "payloadSha256": "c87e397aa031263cc47fc3343e1d7778e3de2414f957b21c604edf7c47653b32",
-      "changedVerseCount": 0,
-      "editCount": 0
+      "payloadSha256": "f5d7ad7c2e804cdf645d54ba06925720bed3ada58629e9313f3a9675c6d2eb87",
+      "changedVerseCount": 5,
+      "editCount": 5
     },
     {
       "id": "HEB",
       "order": 58,
       "sourceFile": "heb_reading_2026.kjv.v1.json",
       "sourceContentSha256": "16c0c0b3be0a123a9280dd602d3cf80254aa5a7b5b956260e8ee6976a2829b5d",
-      "payloadSha256": "548f8cd5be48f58eb0f74007c40c3321e135b21969cf0849267a976280856024",
-      "changedVerseCount": 16,
-      "editCount": 16
+      "payloadSha256": "bc54fee1a052ba3e4ce427c780fd47dddea9c3a1685625ed28eb000e4d11a2ba",
+      "changedVerseCount": 44,
+      "editCount": 44
     },
     {
       "id": "JAS",
       "order": 59,
       "sourceFile": "jas_reading_2026.kjv.v1.json",
       "sourceContentSha256": "8144337559d6e19cce2deacf96ad2b675853156762554964ec93cea2c97bfdc8",
-      "payloadSha256": "d51996b21baa429ed860427557565f1e0481353667e41dc33b8ebf6e06290d7e",
-      "changedVerseCount": 3,
-      "editCount": 5
+      "payloadSha256": "9fd49b1ad09c59abf050cbc29d832f4d276fe092accc556b96fb11215ae764fd",
+      "changedVerseCount": 15,
+      "editCount": 17
     },
     {
       "id": "1PE",
       "order": 60,
       "sourceFile": "1pe_reading_2026.kjv.v1.json",
       "sourceContentSha256": "a337c67486d6aaf15f2b241569f1b044be841b27e27db4bb888fcb8bd267f651",
-      "payloadSha256": "3f5230c3f5f9271fbadaf0764b836d6f0d1dd94d65dbd5193ea95090ea3ee53f",
-      "changedVerseCount": 9,
-      "editCount": 9
+      "payloadSha256": "3603118a73ead7b77e013314959bffa5f06ba38ebce663d3d1be70ee133f8757",
+      "changedVerseCount": 20,
+      "editCount": 20
     },
     {
       "id": "2PE",
       "order": 61,
       "sourceFile": "2pe_reading_2026.kjv.v1.json",
       "sourceContentSha256": "734ded257af6fe9080a8eb0624c693bccbe7d2d3392d4e5bbfa6df19cd08b2dd",
-      "payloadSha256": "9d3f5c200f7f3189b9199a6b4905edef9fa963d5477b0b94c767c57106da4dee",
-      "changedVerseCount": 6,
-      "editCount": 6
+      "payloadSha256": "b1ada24444be646b43e7ff4731a000e86757d973b044d8bb53b5eea97fc3fd12",
+      "changedVerseCount": 10,
+      "editCount": 10
     },
     {
       "id": "1JN",
       "order": 62,
       "sourceFile": "1jn_reading_2026.kjv.v1.json",
       "sourceContentSha256": "e6274c37cf34b55c6d7e8e41667a5b1faaa91ce38bf8a111c1743775ced7f6f4",
-      "payloadSha256": "273bbeb2b3d4ff368564ea7112fcecb2698e550b9d226d0dda309f0b74e84223",
-      "changedVerseCount": 1,
-      "editCount": 1
+      "payloadSha256": "21a642cbe135fe14d0306e4bcc669c0a485ef9199a3e43a3b78c52f4d51e925f",
+      "changedVerseCount": 4,
+      "editCount": 4
     },
     {
       "id": "2JN",
@@ -595,27 +595,27 @@
       "order": 64,
       "sourceFile": "3jn_reading_2026.kjv.v1.json",
       "sourceContentSha256": "28d61e516f9af8d47414f9dafedda1b0bbc8ac5c71a77679857296e6011d0ab0",
-      "payloadSha256": "aa3591b94bce80924d7a7470b2745764824d1b08ff6a41fa0b4b857ec3aa14e0",
-      "changedVerseCount": 0,
-      "editCount": 0
+      "payloadSha256": "1b7b2514fd40b5d3f466116b8a76921bafb97d8e6e49a8ea96516e8bdc16b59e",
+      "changedVerseCount": 2,
+      "editCount": 2
     },
     {
       "id": "JUD",
       "order": 65,
       "sourceFile": "jud_reading_2026.kjv.v1.json",
       "sourceContentSha256": "98112710c571939e3c1a4f52e0a478e7fe10314fbe8be0d99ab1c908650de17a",
-      "payloadSha256": "53fb0ded7bd50af129ee0a17b1cfd9c3f2f8e5c4b24ca81e4a44fce7b712e639",
-      "changedVerseCount": 0,
-      "editCount": 0
+      "payloadSha256": "6ca310b208cc1f4221180bbc84d2f07ff0013308f102cb94c773065602b84f87",
+      "changedVerseCount": 3,
+      "editCount": 3
     },
     {
       "id": "REV",
       "order": 66,
       "sourceFile": "rev_reading_2026.kjv.v1.json",
       "sourceContentSha256": "41e61c018aa73b4fa29c0b01378d4cf877c6caf8b04e7d966d5e83b071e1cb36",
-      "payloadSha256": "d6581f180405c7c7301ecae0e5e8dddef5f82f1cf786ec06c301ae3f135fa069",
-      "changedVerseCount": 12,
-      "editCount": 12
+      "payloadSha256": "e47c4772b388c90fcc40e4aa75b3279919e7e59a339aa2e74eac5d9a55bfbee4",
+      "changedVerseCount": 31,
+      "editCount": 31
     }
   ]
 }

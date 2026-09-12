@@ -80,16 +80,18 @@ def main():
 
     raw = PACKAGE.read_bytes()
     manifest = read(MANIFEST)
-    assert manifest["contentVersion"] == 24
+    assert manifest["contentVersion"] >= 24
     assert manifest["contentSha256"] == hashlib.sha256(raw).hexdigest()
     payload = json.loads(gzip.decompress(raw))
-    assert payload["contentVersion"] == 24 and len(payload["books"]) == 66
+    assert payload["contentVersion"] == manifest["contentVersion"] and len(payload["books"]) == 66
     assert next(book for book in payload["books"] if book["book"] == "MAT") == direction
 
     registry = read(REGISTRY)
-    assert registry["activeChangeSet"] == "editorial-changes/v24.json"
+    active_change_version = int(Path(registry["activeChangeSet"]).stem.removeprefix("v"))
+    assert active_change_version == manifest["contentVersion"] and active_change_version >= 24
     print(json.dumps({
-        "contentVersion": 24,
+        "matthewFollowupVersion": 24,
+        "packageContentVersion": manifest["contentVersion"],
         "verifiedMatthewVerses": len(rendered),
         "followupCorrections": len(change_set["changes"]),
         "matthewChangedVerses": len(direction["verses"]),

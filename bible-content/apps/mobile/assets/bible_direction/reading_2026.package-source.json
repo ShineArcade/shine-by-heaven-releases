@@ -1,14 +1,14 @@
 {
   "filterId": "RV1909-LECTURA-2026",
   "schemaVersion": 1,
-  "contentVersion": 24,
+  "contentVersion": 25,
   "sourceVersionId": "RV1909",
   "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-  "generatedAt": "2026-09-12T22:20:00.000Z",
+  "generatedAt": "2026-09-13T00:15:00.000Z",
   "expectedBookCount": 66,
   "editorialPolicy": {
     "id": "unified-minimal-comprehension-policy",
-    "version": 24,
-    "description": "Only exact, reviewed, comprehension-essential projections are applied. The packaged RV1909 corpus remains immutable."
+    "version": 25,
+    "description": "Only exact, full-context comprehension improvements are applied. Understandable wording and doctrinal or textual ambiguities remain unchanged."
   }
 }

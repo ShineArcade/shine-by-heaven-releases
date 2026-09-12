@@ -1,0 +1,5080 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 25,
+  "generatedAt": "2026-09-13T00:15:00.000Z",
+  "issuedAt": "2026-09-13T00:15:00.000Z",
+  "expiresAt": "2028-09-13T00:15:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "1PE",
+      "chapter": 1,
+      "verse": 17,
+      "expected": "sin acepción de personas juzga",
+      "replacement": "juzga sin favoritismo",
+      "category": "false-friend-partiality",
+      "reason": "La frase afirma que el Padre juzga sin favoritismo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+1%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 10,
+      "verse": 34,
+      "expected": "Dios no hace acepción de personas",
+      "replacement": "Dios no muestra favoritismo",
+      "category": "false-friend-partiality",
+      "reason": "Pedro reconoce que Dios no favorece a una persona sobre otra.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+10%3A34&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "COL",
+      "chapter": 3,
+      "verse": 25,
+      "expected": "no hay acepción de personas",
+      "replacement": "no hay favoritismo",
+      "category": "false-friend-partiality",
+      "reason": "El juicio no favorece a una persona por su posición.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Colosenses+3%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "EPH",
+      "chapter": 6,
+      "verse": 9,
+      "expected": "no hay acepción de personas",
+      "replacement": "no hay favoritismo",
+      "category": "false-friend-partiality",
+      "reason": "El Señor no favorece a amos sobre siervos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Efesios+6%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JAS",
+      "chapter": 2,
+      "verse": 1,
+      "expected": "en acepción de personas",
+      "replacement": "con favoritismo",
+      "category": "false-friend-partiality",
+      "reason": "La fe en Jesucristo no debe practicarse mostrando favoritismo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Santiago+2%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JAS",
+      "chapter": 2,
+      "verse": 9,
+      "expected": "hacéis acepción de personas",
+      "replacement": "mostráis favoritismo",
+      "category": "false-friend-partiality",
+      "reason": "La acción condenada es tratar a unas personas con preferencia sobre otras.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Santiago+2%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 2,
+      "verse": 11,
+      "expected": "no hay acepción de personas para con Dios",
+      "replacement": "Dios no muestra favoritismo",
+      "category": "false-friend-partiality",
+      "reason": "El juicio de Dios no favorece a una persona sobre otra.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+2%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2PE",
+      "chapter": 3,
+      "verse": 4,
+      "expected": "su advenimiento",
+      "replacement": "su venida",
+      "category": "archaic-coming-term",
+      "reason": "Advenimiento significa la venida prometida; el referente se conserva.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Pedro+3%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2TH",
+      "chapter": 2,
+      "verse": 9,
+      "expected": "cuyo advenimiento",
+      "replacement": "cuya venida",
+      "category": "archaic-coming-term",
+      "reason": "Advenimiento significa la venida del inicuo; el referente y la concordancia se conservan.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Tesalonicenses+2%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 11,
+      "verse": 4,
+      "expected": "afrenta",
+      "replacement": "deshonra",
+      "category": "archaic-dishonor-term",
+      "reason": "Afrenta significa deshonra en este contexto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+11%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 11,
+      "verse": 5,
+      "expected": "afrenta",
+      "replacement": "deshonra",
+      "category": "archaic-dishonor-term",
+      "reason": "Afrenta significa deshonra en este contexto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+11%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1TI",
+      "chapter": 3,
+      "verse": 7,
+      "expected": "afrenta",
+      "replacement": "deshonra",
+      "category": "archaic-dishonor-term",
+      "reason": "Afrenta significa deshonra en este contexto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timoteo+3%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 5,
+      "verse": 41,
+      "expected": "afrenta",
+      "replacement": "deshonra",
+      "category": "archaic-dishonor-term",
+      "reason": "Afrenta significa deshonra en este contexto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+5%3A41&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 11,
+      "verse": 21,
+      "expected": "cuanto á la afrenta",
+      "replacement": "para vergüenza mía",
+      "category": "archaic-shame-phrase",
+      "reason": "Pablo habla irónicamente de la vergüenza de parecer débil.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+11%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 10,
+      "verse": 29,
+      "expected": "hiciere afrenta al Espíritu",
+      "replacement": "insultare al Espíritu",
+      "category": "archaic-insult-phrase",
+      "reason": "Hacer afrenta al Espíritu significa insultarlo gravemente.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+10%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 11,
+      "verse": 26,
+      "expected": "el vituperio de Cristo",
+      "replacement": "la deshonra por Cristo",
+      "category": "archaic-dishonor-term",
+      "reason": "Vituperio significa la deshonra sufrida por causa de Cristo.",
+      "previousReplacement": "la afrenta por Cristo",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+11%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 13,
+      "verse": 13,
+      "expected": "llevando su vituperio",
+      "replacement": "llevando su deshonra",
+      "category": "archaic-dishonor-term",
+      "reason": "Vituperio significa compartir la deshonra sufrida por Jesús.",
+      "previousReplacement": "llevando su afrenta",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+13%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 1,
+      "verse": 25,
+      "expected": "quitar mi afrenta",
+      "replacement": "quitar mi vergüenza",
+      "category": "archaic-shame-phrase",
+      "reason": "Elisabet habla de la vergüenza social que había soportado.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+1%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2PE",
+      "chapter": 1,
+      "verse": 13,
+      "expected": "incitaros con amonestación",
+      "replacement": "despertaros con este recordatorio",
+      "category": "contextual-reminder-phrase",
+      "reason": "Pedro declara que seguirá recordándoles estas verdades.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Pedro+1%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "EPH",
+      "chapter": 6,
+      "verse": 4,
+      "expected": "disciplina y amonestación del Señor",
+      "replacement": "disciplina e instrucción del Señor",
+      "category": "contextual-instruction-phrase",
+      "reason": "El contexto trata de criar e instruir a los hijos en el Señor.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Efesios+6%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "expected": "después de una y otra amonestación",
+      "replacement": "después de una primera y segunda advertencia",
+      "category": "contextual-warning-phrase",
+      "reason": "La instrucción exige dos advertencias antes de apartarse del que causa divisiones.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Tito+3%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "COL",
+      "chapter": 3,
+      "verse": 12,
+      "expected": "benignidad",
+      "replacement": "amabilidad",
+      "category": "archaic-kindness-term",
+      "reason": "Amabilidad conserva la cualidad bondadosa y evita confundirla con la bondad que aparece a su lado.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Colosenses+3%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "GAL",
+      "chapter": 5,
+      "verse": 22,
+      "expected": "benignidad",
+      "replacement": "amabilidad",
+      "category": "archaic-kindness-term",
+      "reason": "Amabilidad conserva la cualidad bondadosa y evita confundirla con la bondad que aparece a su lado.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Gálatas+5%3A22&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 2,
+      "verse": 4,
+      "expected": "benignidad",
+      "replacement": "bondad",
+      "category": "archaic-kindness-term",
+      "reason": "En las dos menciones del versículo, benignidad describe la bondad de Dios que guía al arrepentimiento.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+2%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 2,
+      "verse": 4,
+      "expected": "benignidad",
+      "replacement": "bondad",
+      "category": "archaic-kindness-term",
+      "reason": "En las dos menciones del versículo, benignidad describe la bondad de Dios que guía al arrepentimiento.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+2%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 4,
+      "verse": 15,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+4%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 5,
+      "verse": 21,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+5%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 5,
+      "verse": 27,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+5%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 5,
+      "verse": 34,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+5%3A34&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 5,
+      "verse": 41,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+5%3A41&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 6,
+      "verse": 12,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+6%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 6,
+      "verse": 15,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+6%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 22,
+      "verse": 30,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+22%3A30&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 23,
+      "verse": 1,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+23%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 23,
+      "verse": 6,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+23%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 23,
+      "verse": 15,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+23%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 23,
+      "verse": 20,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+23%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 23,
+      "verse": 28,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+23%3A28&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 24,
+      "verse": 20,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+24%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 22,
+      "verse": 66,
+      "expected": "concilio",
+      "replacement": "Consejo",
+      "category": "historical-council-term",
+      "reason": "Concilio designa al Consejo judío reunido para deliberar o juzgar; no se convierte en una institución cristiana posterior.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+22%3A66&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1JN",
+      "chapter": 2,
+      "verse": 16,
+      "expected": "la concupiscencia de la carne",
+      "replacement": "los deseos de la carne",
+      "category": "contextual-sinful-desire",
+      "reason": "El pasaje enumera deseos mundanos procedentes de la carne.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Juan+2%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1JN",
+      "chapter": 2,
+      "verse": 16,
+      "expected": "la concupiscencia de los ojos",
+      "replacement": "los deseos de los ojos",
+      "category": "contextual-sinful-desire",
+      "reason": "El pasaje enumera deseos despertados por lo que se ve.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Juan+2%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1JN",
+      "chapter": 2,
+      "verse": 17,
+      "expected": "su concupiscencia",
+      "replacement": "sus deseos",
+      "category": "contextual-worldly-desire",
+      "reason": "La frase resume los deseos del mundo que pasan.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Juan+2%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1TH",
+      "chapter": 4,
+      "verse": 5,
+      "expected": "afecto de concupiscencia",
+      "replacement": "pasiones desordenadas",
+      "category": "contextual-sexual-desire",
+      "reason": "El contexto contrasta la santidad sexual con pasiones desordenadas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Tesalonicenses+4%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2PE",
+      "chapter": 1,
+      "verse": 4,
+      "expected": "corrupción que está en el mundo por concupiscencia",
+      "replacement": "corrupción que está en el mundo por los malos deseos",
+      "category": "contextual-sinful-desire",
+      "reason": "La corrupción del mundo se atribuye a los malos deseos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Pedro+1%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2PE",
+      "chapter": 2,
+      "verse": 10,
+      "expected": "concupiscencia é inmundicia",
+      "replacement": "deseos impuros",
+      "category": "contextual-impure-desire",
+      "reason": "La frase une el deseo de la carne con su impureza sin duplicar dos términos modernos equivalentes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Pedro+2%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "COL",
+      "chapter": 3,
+      "verse": 5,
+      "expected": "mala concupiscencia",
+      "replacement": "malos deseos",
+      "category": "contextual-sinful-desire",
+      "reason": "La lista ordena hacer morir los malos deseos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Colosenses+3%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "COL",
+      "chapter": 3,
+      "verse": 5,
+      "expected": "molicie",
+      "replacement": "pasiones desordenadas",
+      "category": "archaic-passion-term",
+      "reason": "Molicie designa aquí pasiones desordenadas dentro de una lista moral, no comodidad física.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Colosenses+3%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "GAL",
+      "chapter": 5,
+      "verse": 16,
+      "expected": "la concupiscencia de la carne",
+      "replacement": "los deseos de la carne",
+      "category": "contextual-sinful-desire",
+      "reason": "La frase contrapone andar en el Espíritu con satisfacer los deseos de la carne.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Gálatas+5%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JAS",
+      "chapter": 1,
+      "verse": 14,
+      "expected": "su propia concupiscencia",
+      "replacement": "su propio mal deseo",
+      "category": "contextual-tempting-desire",
+      "reason": "El deseo propio atrae y seduce a la persona en la tentación.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Santiago+1%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JAS",
+      "chapter": 1,
+      "verse": 15,
+      "expected": "la concupiscencia",
+      "replacement": "el mal deseo",
+      "category": "contextual-tempting-desire",
+      "reason": "La metáfora presenta al mal deseo concibiendo y dando a luz el pecado.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Santiago+1%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 7,
+      "verse": 7,
+      "expected": "la concupiscencia",
+      "replacement": "la codicia",
+      "category": "contextual-coveting-term",
+      "reason": "El mandamiento citado es No codiciarás; aquí el sustantivo es codicia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+7%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 7,
+      "verse": 8,
+      "expected": "toda concupiscencia",
+      "replacement": "toda clase de codicia",
+      "category": "contextual-coveting-term",
+      "reason": "El pecado produce toda clase de codicia aprovechando el mandamiento.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+7%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 4,
+      "verse": 2,
+      "expected": "las concupiscencias de los hombres",
+      "replacement": "los deseos humanos",
+      "category": "contextual-human-desires",
+      "reason": "El contraste es vivir según los deseos humanos o según la voluntad de Dios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+4%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 4,
+      "verse": 3,
+      "expected": "en concupiscencias",
+      "replacement": "en malos deseos",
+      "category": "contextual-sinful-desire",
+      "reason": "La lista describe conductas pasadas gobernadas por malos deseos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+4%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2PE",
+      "chapter": 2,
+      "verse": 18,
+      "expected": "ceban con las concupiscencias de la carne",
+      "replacement": "seducen con los deseos de la carne",
+      "category": "contextual-sinful-desire",
+      "reason": "La seducción opera mediante los deseos de la carne y el verbo deja claro que se trata de atraer al error.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Pedro+2%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2PE",
+      "chapter": 3,
+      "verse": 3,
+      "expected": "sus propias concupiscencias",
+      "replacement": "sus propios deseos",
+      "category": "contextual-self-directed-desires",
+      "reason": "Los burladores viven según sus propios deseos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Pedro+3%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2TI",
+      "chapter": 3,
+      "verse": 6,
+      "expected": "diversas concupiscencias",
+      "replacement": "diversos malos deseos",
+      "category": "contextual-sinful-desire",
+      "reason": "Las mujeres descritas son arrastradas por diversos malos deseos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Timoteo+3%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2TI",
+      "chapter": 4,
+      "verse": 3,
+      "expected": "sus concupiscencias",
+      "replacement": "sus propios deseos",
+      "category": "contextual-self-directed-desires",
+      "reason": "La gente reúne maestros según sus propios deseos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Timoteo+4%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "GAL",
+      "chapter": 5,
+      "verse": 24,
+      "expected": "los afectos y concupiscencias",
+      "replacement": "las pasiones y malos deseos",
+      "category": "contextual-sinful-desire",
+      "reason": "La pareja expresa pasiones y malos deseos asociados con la carne y conserva la concordancia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Gálatas+5%3A24&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JAS",
+      "chapter": 4,
+      "verse": 1,
+      "expected": "vuestras concupiscencias, las cuales",
+      "replacement": "vuestros malos deseos, los cuales",
+      "category": "contextual-conflicting-desires",
+      "reason": "Los malos deseos combaten dentro de los miembros y producen conflictos; sustantivo y relativo mantienen la concordancia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Santiago+4%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 1,
+      "verse": 24,
+      "expected": "las concupiscencias de sus corazones",
+      "replacement": "los malos deseos de sus corazones",
+      "category": "contextual-sinful-desire",
+      "reason": "El pasaje atribuye la impureza a los malos deseos del corazón.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+1%3A24&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 1,
+      "verse": 27,
+      "expected": "se encendieron en sus concupiscencias los unos con los otros",
+      "replacement": "se encendieron en pasiones los unos por los otros",
+      "category": "contextual-sexual-desire",
+      "reason": "La frase describe pasiones mutuas y conserva sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+1%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 6,
+      "verse": 12,
+      "expected": "sus concupiscencias",
+      "replacement": "sus malos deseos",
+      "category": "contextual-sinful-desire",
+      "reason": "El mandato prohíbe obedecer los malos deseos del cuerpo mortal.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+6%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "expected": "concupiscencias y deleites diversos",
+      "replacement": "diversos malos deseos y placeres",
+      "category": "contextual-sinful-desire",
+      "reason": "La lista recuerda la esclavitud pasada a diversos malos deseos y placeres.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Tito+3%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 9,
+      "verse": 17,
+      "expected": "la dispensación me ha sido encargada",
+      "replacement": "se me ha encargado esta responsabilidad",
+      "category": "contextual-entrusted-responsibility",
+      "reason": "Pablo afirma que recibió la responsabilidad de anunciar el evangelio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+9%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "COL",
+      "chapter": 1,
+      "verse": 25,
+      "expected": "según la dispensación de Dios que me fué dada",
+      "replacement": "según el encargo que Dios me dio",
+      "category": "contextual-divine-commission",
+      "reason": "Pablo describe el encargo recibido de Dios para servir a la iglesia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Colosenses+1%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "EPH",
+      "chapter": 1,
+      "verse": 10,
+      "expected": "en la dispensación del cumplimiento de los tiempos",
+      "replacement": "en su plan para el cumplimiento de los tiempos",
+      "category": "contextual-divine-plan",
+      "reason": "La frase describe el plan de Dios para reunir todas las cosas en Cristo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Efesios+1%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "EPH",
+      "chapter": 3,
+      "verse": 2,
+      "expected": "la dispensación de la gracia de Dios que me ha sido dada",
+      "replacement": "la administración de la gracia de Dios que me fue dada",
+      "category": "contextual-stewardship",
+      "reason": "Pablo habla de la responsabilidad de administrar la gracia recibida para los gentiles.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Efesios+3%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "EPH",
+      "chapter": 3,
+      "verse": 9,
+      "expected": "cuál sea la dispensación del misterio",
+      "replacement": "cómo se realiza el plan del misterio",
+      "category": "contextual-divine-plan",
+      "reason": "La frase explica cómo Dios realiza el plan del misterio antes escondido.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Efesios+3%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 14,
+      "verse": 33,
+      "expected": "Dios no es Dios de disensión",
+      "replacement": "Dios no es Dios de confusión",
+      "category": "contextual-disorder-term",
+      "reason": "El contraste con paz y el orden de la reunión señalan confusión o desorden.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+14%3A33&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 15,
+      "verse": 2,
+      "expected": "suscitada una disensión y contienda no pequeña á Pablo y á Bernabé contra ellos",
+      "replacement": "al surgir una fuerte discusión y controversia entre ellos y Pablo y Bernabé",
+      "category": "contextual-dispute-phrase",
+      "reason": "Pablo y Bernabé sostuvieron una fuerte controversia con ellos; la frase completa conserva los participantes y la subordinación.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+15%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 23,
+      "verse": 7,
+      "expected": "disensión entre",
+      "replacement": "división entre",
+      "category": "contextual-division-term",
+      "reason": "La declaración de Pablo divide a fariseos y saduceos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+23%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 23,
+      "verse": 10,
+      "expected": "grande disensión",
+      "replacement": "gran disputa",
+      "category": "contextual-dispute-term",
+      "reason": "La disputa se vuelve tan violenta que el tribuno teme por Pablo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+23%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JHN",
+      "chapter": 7,
+      "verse": 43,
+      "expected": "disensión entre la gente",
+      "replacement": "división entre la gente",
+      "category": "contextual-division-term",
+      "reason": "La multitud queda dividida acerca de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Juan+7%3A43&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JHN",
+      "chapter": 9,
+      "verse": 16,
+      "expected": "disensión entre ellos",
+      "replacement": "división entre ellos",
+      "category": "contextual-division-term",
+      "reason": "Las opiniones de los fariseos quedan divididas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Juan+9%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JHN",
+      "chapter": 10,
+      "verse": 19,
+      "expected": "disensión entre los Judíos",
+      "replacement": "división entre los Judíos",
+      "category": "contextual-division-term",
+      "reason": "Las palabras de Jesús vuelven a dividir a sus oyentes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Juan+10%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 12,
+      "verse": 51,
+      "expected": "mas disensión",
+      "replacement": "sino división",
+      "category": "contextual-division-term",
+      "reason": "Jesús anuncia división aun dentro de las familias.",
+      "previousReplacement": "sino disensión",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+12%3A51&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 1,
+      "verse": 10,
+      "expected": "disensiones",
+      "replacement": "divisiones",
+      "category": "contextual-division-term",
+      "reason": "Disensiones describe divisiones dentro de la comunidad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+1%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 3,
+      "verse": 3,
+      "expected": "disensiones",
+      "replacement": "divisiones",
+      "category": "contextual-division-term",
+      "reason": "Disensiones describe divisiones dentro de la comunidad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+3%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 11,
+      "verse": 18,
+      "expected": "disensiones",
+      "replacement": "divisiones",
+      "category": "contextual-division-term",
+      "reason": "Disensiones describe divisiones dentro de la comunidad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+11%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 12,
+      "verse": 20,
+      "expected": "disensiones",
+      "replacement": "divisiones",
+      "category": "contextual-division-term",
+      "reason": "Disensiones describe divisiones dentro de la comunidad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+12%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "GAL",
+      "chapter": 5,
+      "verse": 20,
+      "expected": "disensiones",
+      "replacement": "divisiones",
+      "category": "contextual-division-term",
+      "reason": "Disensiones describe divisiones dentro de la comunidad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Gálatas+5%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 16,
+      "verse": 17,
+      "expected": "disensiones",
+      "replacement": "divisiones",
+      "category": "contextual-division-term",
+      "reason": "Disensiones describe divisiones dentro de la comunidad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+16%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 15,
+      "verse": 32,
+      "expected": "hacer fiesta y holgar nos, porque este tu hermano muerto era, y ha revivido; habíase perdido, y es hallado",
+      "replacement": "celebrar y alegrarnos, porque este hermano tuyo estaba muerto y ha vuelto a vivir; estaba perdido y ha sido hallado",
+      "category": "archaic-celebration-phrase",
+      "reason": "La familia debía celebrar y alegrarse por el regreso del hermano; la frase completa conserva los dos contrastes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+15%3A32&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 1,
+      "verse": 18,
+      "expected": "en esto me huelgo, y aun me holgaré",
+      "replacement": "en esto me alegro, y seguiré alegrándome",
+      "category": "archaic-rejoicing-phrase",
+      "reason": "Pablo se alegra de que Cristo sea anunciado y afirma que seguirá haciéndolo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+1%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 2,
+      "verse": 17,
+      "expected": "derramado en libación",
+      "replacement": "derramado como ofrenda",
+      "category": "historical-offering-image",
+      "reason": "Pablo conserva la imagen de ser derramado, aclarando que la libación es una ofrenda.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+2%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 6,
+      "verse": 6,
+      "expected": "longanimidad",
+      "replacement": "tolerancia",
+      "category": "archaic-forbearance-term",
+      "reason": "Tolerancia conserva la paciencia prolongada y no duplica la palabra paciencia presente en Romanos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+6%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 2,
+      "verse": 4,
+      "expected": "longanimidad",
+      "replacement": "tolerancia",
+      "category": "archaic-forbearance-term",
+      "reason": "Tolerancia conserva la paciencia prolongada y no duplica la palabra paciencia presente en Romanos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+2%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "COL",
+      "chapter": 3,
+      "verse": 8,
+      "expected": "maledicencia",
+      "replacement": "calumnias",
+      "category": "contextual-slander-term",
+      "reason": "La lista prohíbe palabras que dañan la reputación de otros.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Colosenses+3%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "EPH",
+      "chapter": 4,
+      "verse": 31,
+      "expected": "maledicencia",
+      "replacement": "insultos",
+      "category": "contextual-insult-term",
+      "reason": "La lista ordena quitar los gritos y los insultos junto con la malicia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Efesios+4%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 3,
+      "verse": 14,
+      "expected": "maledicencia",
+      "replacement": "maldiciones",
+      "category": "contextual-cursing-term",
+      "reason": "La boca descrita está llena de maldiciones y amargura.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+3%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1TI",
+      "chapter": 3,
+      "verse": 6,
+      "expected": "No un neófito",
+      "replacement": "No debe ser un recién convertido",
+      "category": "archaic-new-convert-term",
+      "reason": "Neófito designa a una persona recién convertida que todavía no debe ocupar ese cargo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timoteo+3%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 16,
+      "verse": 20,
+      "expected": "ósculo santo",
+      "replacement": "beso santo",
+      "category": "archaic-greeting-term",
+      "reason": "Ósculo significa beso en este saludo entre creyentes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+16%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1TH",
+      "chapter": 5,
+      "verse": 26,
+      "expected": "ósculo santo",
+      "replacement": "beso santo",
+      "category": "archaic-greeting-term",
+      "reason": "Ósculo significa beso en este saludo entre creyentes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Tesalonicenses+5%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 13,
+      "verse": 12,
+      "expected": "ósculo santo",
+      "replacement": "beso santo",
+      "category": "archaic-greeting-term",
+      "reason": "Ósculo significa beso en este saludo entre creyentes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+13%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 16,
+      "verse": 16,
+      "expected": "ósculo santo",
+      "replacement": "beso santo",
+      "category": "archaic-greeting-term",
+      "reason": "Ósculo significa beso en este saludo entre creyentes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+16%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 16,
+      "verse": 21,
+      "expected": "La salutación",
+      "replacement": "El saludo",
+      "category": "archaic-greeting-term",
+      "reason": "Pablo identifica el saludo escrito de su propia mano.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+16%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "COL",
+      "chapter": 4,
+      "verse": 18,
+      "expected": "La salutación",
+      "replacement": "El saludo",
+      "category": "archaic-greeting-term",
+      "reason": "Pablo identifica el saludo escrito de su propia mano.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Colosenses+4%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 1,
+      "verse": 29,
+      "expected": "qué salutación fuese ésta",
+      "replacement": "qué clase de saludo era éste",
+      "category": "archaic-greeting-phrase",
+      "reason": "María se pregunta qué clase de saludo había recibido.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+1%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 1,
+      "verse": 41,
+      "expected": "la salutación de María",
+      "replacement": "el saludo de María",
+      "category": "archaic-greeting-term",
+      "reason": "Elisabet oye el saludo de María.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+1%3A41&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 1,
+      "verse": 44,
+      "expected": "la voz de tu salutación",
+      "replacement": "la voz de tu saludo",
+      "category": "archaic-greeting-term",
+      "reason": "Elisabet oye la voz del saludo de María.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+1%3A44&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 11,
+      "verse": 43,
+      "expected": "las salutaciones",
+      "replacement": "los saludos",
+      "category": "archaic-greeting-term",
+      "reason": "Los fariseos aman recibir saludos públicos en las plazas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+11%3A43&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 20,
+      "verse": 46,
+      "expected": "las salutaciones",
+      "replacement": "los saludos",
+      "category": "archaic-greeting-term",
+      "reason": "Los escribas aman recibir saludos públicos en las plazas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+20%3A46&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 19,
+      "verse": 40,
+      "expected": "argüidos de sedición",
+      "replacement": "acusados de causar disturbios",
+      "category": "historical-riot-term",
+      "reason": "Las autoridades podían acusar a la ciudad de causar los disturbios de ese día.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+19%3A40&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 21,
+      "verse": 38,
+      "expected": "levantaste una sedición",
+      "replacement": "provocaste una revuelta",
+      "category": "historical-uprising-term",
+      "reason": "El tribuno pregunta por la revuelta armada atribuida al egipcio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+21%3A38&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 23,
+      "verse": 19,
+      "expected": "una sedición hecha en la ciudad, y una muerte",
+      "replacement": "una revuelta ocurrida en la ciudad y un homicidio",
+      "category": "historical-uprising-term",
+      "reason": "Barrabás estaba preso por una revuelta y un homicidio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+23%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 23,
+      "verse": 25,
+      "expected": "por sedición y una muerte",
+      "replacement": "por una revuelta y un homicidio",
+      "category": "historical-uprising-term",
+      "reason": "La frase identifica los delitos por los que Barrabás estaba preso.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+23%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1TI",
+      "chapter": 3,
+      "verse": 2,
+      "expected": "solícito, templado, compuesto",
+      "replacement": "prudente, templado, respetable",
+      "category": "contextual-leadership-qualities",
+      "reason": "La lista describe prudencia, dominio propio y conducta respetable del obispo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timoteo+3%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 8,
+      "verse": 17,
+      "expected": "estando también muy solícito",
+      "replacement": "estando también muy dispuesto",
+      "category": "contextual-eagerness-term",
+      "reason": "Tito parte voluntariamente porque estaba muy dispuesto a servir.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+8%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "COL",
+      "chapter": 4,
+      "verse": 12,
+      "expected": "siempre solícito por vosotros en oraciones",
+      "replacement": "siempre orando con empeño por vosotros",
+      "category": "contextual-prayer-concern",
+      "reason": "Epafras se esfuerza constantemente en oración por ellos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Colosenses+4%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "GAL",
+      "chapter": 2,
+      "verse": 10,
+      "expected": "fuí también solícito en hacer",
+      "replacement": "también me esforcé por hacer",
+      "category": "contextual-diligence-phrase",
+      "reason": "Pablo afirma que se esforzó por recordar a los pobres.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Gálatas+2%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "EPH",
+      "chapter": 4,
+      "verse": 3,
+      "expected": "Solícitos á guardar",
+      "replacement": "Esforzaos por mantener",
+      "category": "contextual-diligence-phrase",
+      "reason": "El mandato exige esforzarse por mantener la unidad del Espíritu.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Efesios+4%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 12,
+      "verse": 11,
+      "expected": "no estéis solícitos",
+      "replacement": "no os preocupéis",
+      "category": "contextual-anxiety-term",
+      "reason": "Jesús ordena no preocuparse de antemano por la defensa.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+12%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 4,
+      "verse": 10,
+      "expected": "estabais solícitos",
+      "replacement": "estabais preocupados",
+      "category": "contextual-pastoral-concern",
+      "reason": "Los filipenses mantenían su preocupación por Pablo aunque les faltaba oportunidad de ayudar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+4%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 18,
+      "verse": 32,
+      "expected": "será escarnecido",
+      "replacement": "será objeto de burlas",
+      "category": "archaic-mockery-term",
+      "reason": "Jesús anuncia que se burlarán de él antes de maltratarlo y escupirlo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+18%3A32&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 18,
+      "verse": 32,
+      "expected": "á las gentes",
+      "replacement": "a los gentiles",
+      "category": "grammar-nationality-article",
+      "reason": "El artículo masculino plural concuerda con gentiles y se elimina la tilde arcaica de la preposición.",
+      "supersedeOverlaps": true,
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+18%3A32&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 1,
+      "verse": 17,
+      "expected": "usé quizá de liviandad",
+      "replacement": "actué con ligereza",
+      "category": "archaic-fickleness-term",
+      "reason": "Pablo pregunta si hizo sus planes con ligereza o falta de seriedad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+1%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2PE",
+      "chapter": 2,
+      "verse": 20,
+      "expected": "sus postrimerías les son hechas peores que los principios",
+      "replacement": "su condición final es peor que la del principio",
+      "category": "archaic-final-condition-phrase",
+      "reason": "La frase compara la condición final con la inicial después de volver a la corrupción.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Pedro+2%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2TI",
+      "chapter": 3,
+      "verse": 8,
+      "expected": "réprobos acerca de la fe",
+      "replacement": "descalificados en cuanto a la fe",
+      "category": "false-friend-disqualified-term",
+      "reason": "El juicio afirma que estos hombres no superan la prueba en cuanto a la fe.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Timoteo+3%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JHN",
+      "chapter": 8,
+      "verse": 9,
+      "expected": "redargüidos de la conciencia",
+      "replacement": "acusados por su conciencia",
+      "category": "archaic-conscience-phrase",
+      "reason": "La conciencia los acusa y hace que se retiren uno por uno.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Juan+8%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JHN",
+      "chapter": 11,
+      "verse": 47,
+      "expected": "juntaron concilio",
+      "replacement": "reunieron el Consejo",
+      "category": "historical-council-term",
+      "reason": "Los principales sacerdotes y fariseos reunieron al Consejo para deliberar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Juan+11%3A47&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 11,
+      "verse": 16,
+      "expected": "les había aparejado ciudad",
+      "replacement": "les había preparado una ciudad",
+      "category": "archaic-prepared-term",
+      "reason": "Aparejado significa preparado; la forma actual incluye el artículo requerido.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+11%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 2,
+      "verse": 31,
+      "expected": "aparejado",
+      "replacement": "preparado",
+      "category": "archaic-prepared-term",
+      "reason": "Aparejado significa preparado en esta referencia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+2%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "REV",
+      "chapter": 12,
+      "verse": 6,
+      "expected": "lugar aparejado de Dios",
+      "replacement": "lugar preparado por Dios",
+      "category": "archaic-prepared-term",
+      "reason": "Aparejado significa preparado y la preposición identifica a Dios como quien lo preparó.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Apocalipsis+12%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 6,
+      "verse": 5,
+      "expected": "prosélito de Antioquía",
+      "replacement": "convertido al judaísmo de Antioquía",
+      "category": "historical-convert-term",
+      "reason": "Prosélito identifica a una persona convertida al judaísmo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+6%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 13,
+      "verse": 43,
+      "expected": "religiosos prosélitos",
+      "replacement": "convertidos devotos al judaísmo",
+      "category": "historical-convert-term",
+      "reason": "La frase identifica a gentiles devotos convertidos al judaísmo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+13%3A43&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 3,
+      "verse": 12,
+      "expected": "publicanos",
+      "replacement": "recaudadores de impuestos",
+      "category": "historical-tax-role",
+      "reason": "Publicanos eran recaudadores de impuestos en el sistema romano.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+3%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 5,
+      "verse": 30,
+      "expected": "publicanos",
+      "replacement": "recaudadores de impuestos",
+      "category": "historical-tax-role",
+      "reason": "Publicanos eran recaudadores de impuestos en el sistema romano.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+5%3A30&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 7,
+      "verse": 29,
+      "expected": "publicanos",
+      "replacement": "recaudadores de impuestos",
+      "category": "historical-tax-role",
+      "reason": "Publicanos eran recaudadores de impuestos en el sistema romano.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+7%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 7,
+      "verse": 34,
+      "expected": "publicanos",
+      "replacement": "recaudadores de impuestos",
+      "category": "historical-tax-role",
+      "reason": "Publicanos eran recaudadores de impuestos en el sistema romano.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+7%3A34&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 15,
+      "verse": 1,
+      "expected": "publicanos",
+      "replacement": "recaudadores de impuestos",
+      "category": "historical-tax-role",
+      "reason": "Publicanos eran recaudadores de impuestos en el sistema romano.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+15%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 5,
+      "verse": 29,
+      "expected": "mucha compañía de publicanos",
+      "replacement": "muchos recaudadores de impuestos",
+      "category": "historical-tax-role",
+      "reason": "La casa de Leví tenía muchos recaudadores de impuestos sentados a la mesa.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+5%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 19,
+      "verse": 2,
+      "expected": "principal de los publicanos",
+      "replacement": "jefe de los recaudadores de impuestos",
+      "category": "historical-tax-role",
+      "reason": "Zaqueo dirigía a otros recaudadores de impuestos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+19%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 6,
+      "verse": 13,
+      "expected": "Las viandas para el vientre, y el vientre para las viandas",
+      "replacement": "Los alimentos para el estómago, y el estómago para los alimentos",
+      "category": "archaic-food-phrase",
+      "reason": "Viandas significa alimentos y la frase conserva el paralelismo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+6%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 6,
+      "verse": 13,
+      "expected": "empero y á él y á ellas deshará Dios",
+      "replacement": "pero Dios destruirá tanto al uno como a los otros",
+      "category": "archaic-destruction-clause",
+      "reason": "Dios pondrá fin tanto al estómago como a los alimentos; se conservan los dos referentes.",
+      "supersedeOverlaps": true,
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+6%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 4,
+      "expected": "las viandas que son sacrificadas á los ídolos",
+      "replacement": "los alimentos sacrificados a los ídolos",
+      "category": "archaic-food-phrase",
+      "reason": "La discusión trata de alimentos ofrecidos a los ídolos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1TI",
+      "chapter": 4,
+      "verse": 3,
+      "expected": "abstenerse de las viandas que Dios crió para que con hacimiento de gracias participasen de ellas los fieles, y los que han conocido la verdad",
+      "replacement": "abstenerse de los alimentos que Dios creó para que los fieles y los que han conocido la verdad los reciban con acción de gracias",
+      "category": "archaic-food-term",
+      "reason": "La prohibición descrita afecta alimentos creados por Dios; la frase completa mantiene la concordancia de los pronombres.",
+      "supersedeOverlaps": true,
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timoteo+4%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 9,
+      "verse": 12,
+      "expected": "hallen viandas",
+      "replacement": "encuentren comida",
+      "category": "archaic-food-term",
+      "reason": "Los discípulos buscan que la multitud encuentre comida y alojamiento.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+9%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 9,
+      "verse": 13,
+      "expected": "comprar viandas",
+      "replacement": "comprar comida",
+      "category": "archaic-food-term",
+      "reason": "La frase habla de comprar comida para la multitud.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+9%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 3,
+      "verse": 2,
+      "expected": "y no vianda",
+      "replacement": "y no alimento sólido",
+      "category": "contextual-solid-food-term",
+      "reason": "El contraste es entre leche y alimento sólido.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+3%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 8,
+      "expected": "la vianda",
+      "replacement": "el alimento",
+      "category": "archaic-food-term",
+      "reason": "La frase afirma que el alimento no acerca a nadie a Dios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 10,
+      "verse": 3,
+      "expected": "la misma vianda espiritual",
+      "replacement": "el mismo alimento espiritual",
+      "category": "contextual-spiritual-food",
+      "reason": "La imagen describe el mismo alimento espiritual compartido.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+10%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 5,
+      "verse": 14,
+      "expected": "la vianda firme",
+      "replacement": "el alimento sólido",
+      "category": "contextual-solid-food-term",
+      "reason": "El contraste es entre leche y alimento sólido para los maduros.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+5%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "EPH",
+      "chapter": 1,
+      "verse": 14,
+      "expected": "Que es las arras de nuestra herencia",
+      "replacement": "Que es la garantía de nuestra herencia",
+      "category": "historical-pledge-term",
+      "reason": "El Espíritu es presentado como garantía de la herencia futura; se corrige además la concordancia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Efesios+1%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 4,
+      "verse": 21,
+      "expected": "con caridad",
+      "replacement": "con amor",
+      "category": "false-friend-love-term",
+      "reason": "Caridad significa aquí amor, no únicamente ayuda material.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+4%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 13,
+      "verse": 1,
+      "expected": "y no tengo caridad",
+      "replacement": "y no tuviese amor",
+      "category": "false-friend-love-term",
+      "reason": "Caridad significa amor y el verbo conserva la forma condicional iniciada por si hablase.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+13%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 13,
+      "verse": 2,
+      "expected": "y no tengo caridad",
+      "replacement": "y no tuviese amor",
+      "category": "false-friend-love-term",
+      "reason": "Caridad significa amor y el verbo conserva la forma condicional iniciada por si tuviese.",
+      "supersedeOverlaps": true,
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+13%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 14,
+      "verse": 1,
+      "expected": "SEGUID la caridad",
+      "replacement": "SEGUID el amor",
+      "category": "false-friend-love-term",
+      "reason": "Caridad significa aquí amor, no únicamente ayuda material.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+14%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 16,
+      "verse": 14,
+      "expected": "con caridad",
+      "replacement": "con amor",
+      "category": "false-friend-love-term",
+      "reason": "Caridad significa aquí amor, no únicamente ayuda material.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+16%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1TI",
+      "chapter": 6,
+      "verse": 11,
+      "expected": "la caridad",
+      "replacement": "el amor",
+      "category": "false-friend-love-term",
+      "reason": "Caridad significa aquí amor, no únicamente ayuda material.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timoteo+6%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 13,
+      "verse": 11,
+      "expected": "de caridad",
+      "replacement": "de amor",
+      "category": "false-friend-love-term",
+      "reason": "Caridad significa aquí amor, no únicamente ayuda material.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+13%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "GAL",
+      "chapter": 5,
+      "verse": 6,
+      "expected": "por la caridad",
+      "replacement": "por el amor",
+      "category": "false-friend-love-term",
+      "reason": "Caridad significa aquí amor, no únicamente ayuda material.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Gálatas+5%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 1,
+      "verse": 5,
+      "expected": "toda ciencia",
+      "replacement": "todo conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento y el determinante conserva el género.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+1%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 1,
+      "expected": "tenemos ciencia",
+      "replacement": "tenemos conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento en este contexto bíblico.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 1,
+      "expected": "La ciencia",
+      "replacement": "El conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento y el artículo conserva el género.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 7,
+      "expected": "esta ciencia",
+      "replacement": "este conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento y el demostrativo conserva el género.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 10,
+      "expected": "tienes ciencia",
+      "replacement": "tienes conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento en este contexto bíblico.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 11,
+      "expected": "tu ciencia",
+      "replacement": "tu conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento en este contexto bíblico.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 12,
+      "verse": 8,
+      "expected": "palabra de ciencia",
+      "replacement": "palabra de conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento en este don del Espíritu.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+12%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 13,
+      "verse": 2,
+      "expected": "toda ciencia",
+      "replacement": "todo conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento y el determinante conserva el género.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+13%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 13,
+      "verse": 8,
+      "expected": "la ciencia ha de ser quitada",
+      "replacement": "el conocimiento será quitado",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento y toda la frase conserva género y voz verbal.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+13%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 14,
+      "verse": 6,
+      "expected": "con ciencia",
+      "replacement": "con conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento en este contexto bíblico.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+14%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 3,
+      "verse": 7,
+      "expected": "según ciencia",
+      "replacement": "con conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "El esposo debe convivir con su esposa con conocimiento y consideración.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+3%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1TI",
+      "chapter": 6,
+      "verse": 20,
+      "expected": "de la falsamente llamada ciencia",
+      "replacement": "de lo que falsamente se llama conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "La frase denuncia un conocimiento falsamente llamado así y conserva la concordancia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timoteo+6%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 6,
+      "verse": 6,
+      "expected": "en ciencia",
+      "replacement": "en conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento en este contexto bíblico.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+6%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 8,
+      "verse": 7,
+      "expected": "en ciencia",
+      "replacement": "en conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento en este contexto bíblico.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+8%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 10,
+      "verse": 5,
+      "expected": "la ciencia de Dios",
+      "replacement": "el conocimiento de Dios",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento y el artículo conserva el género.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+10%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 11,
+      "verse": 6,
+      "expected": "aunque soy basto en la palabra, empero no en la ciencia",
+      "replacement": "aunque no sea elocuente al hablar, no me falta conocimiento",
+      "category": "false-friend-speech-and-knowledge-phrase",
+      "reason": "Basto describe falta de elocuencia y ciencia significa conocimiento; la frase conserva el contraste.",
+      "supersedeOverlaps": true,
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+11%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2PE",
+      "chapter": 1,
+      "verse": 5,
+      "expected": "mostrad en vuestra fe virtud, y en la virtud ciencia",
+      "replacement": "añadid a vuestra fe virtud, y a la virtud conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento y la frase conserva la secuencia de cualidades.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Pedro+1%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 11,
+      "verse": 52,
+      "expected": "la llave de la ciencia",
+      "replacement": "la llave del conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento y la contracción conserva la gramática.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+11%3A52&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 1,
+      "verse": 9,
+      "expected": "en ciencia y en todo conocimiento",
+      "replacement": "en conocimiento y en todo discernimiento",
+      "category": "contextual-knowledge-discernment",
+      "reason": "La oración distingue conocimiento y discernimiento para orientar el amor.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+1%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 2,
+      "verse": 20,
+      "expected": "la forma de la ciencia",
+      "replacement": "la forma del conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento y la contracción conserva la gramática.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+2%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 10,
+      "verse": 2,
+      "expected": "conforme á ciencia",
+      "replacement": "conforme al conocimiento",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento y la contracción conserva la gramática.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+10%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 11,
+      "verse": 33,
+      "expected": "de la ciencia de Dios",
+      "replacement": "del conocimiento de Dios",
+      "category": "false-friend-knowledge-term",
+      "reason": "Ciencia significa conocimiento y la contracción conserva la gramática.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+11%3A33&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 1,
+      "verse": 15,
+      "expected": "toda conversación",
+      "replacement": "toda vuestra conducta",
+      "category": "false-friend-conduct-term",
+      "reason": "Conversación significa la manera completa de vivir.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+1%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 1,
+      "verse": 17,
+      "expected": "conversad en temor",
+      "replacement": "vivid con temor",
+      "category": "false-friend-conduct-term",
+      "reason": "Conversar significa aquí conducir la vida, no hablar; la exhortación es vivir con temor reverente.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+1%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 1,
+      "verse": 18,
+      "expected": "vuestra vana conversación",
+      "replacement": "vuestra vana manera de vivir",
+      "category": "false-friend-conduct-term",
+      "reason": "La frase se refiere al modo de vida heredado.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+1%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 2,
+      "verse": 12,
+      "expected": "vuestra conversación honesta",
+      "replacement": "vuestra conducta honorable",
+      "category": "false-friend-conduct-term",
+      "reason": "La conducta honorable queda visible entre los gentiles.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+2%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 3,
+      "verse": 1,
+      "expected": "la conversación de sus mujeres",
+      "replacement": "la conducta de sus mujeres",
+      "category": "false-friend-conduct-term",
+      "reason": "El testimonio es la conducta de las esposas, no una charla.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+3%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 3,
+      "verse": 2,
+      "expected": "vuestra casta conversación",
+      "replacement": "vuestra conducta pura",
+      "category": "false-friend-conduct-term",
+      "reason": "El pasaje describe una conducta pura y respetuosa.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+3%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 3,
+      "verse": 16,
+      "expected": "vuestra buena conversación",
+      "replacement": "vuestra buena conducta",
+      "category": "false-friend-conduct-term",
+      "reason": "Los acusadores observan la buena conducta en Cristo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+3%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JAS",
+      "chapter": 3,
+      "verse": 13,
+      "expected": "por buena conversación sus obras",
+      "replacement": "sus obras mediante una buena conducta",
+      "category": "false-friend-conduct-phrase",
+      "reason": "La sabiduría debe mostrarse mediante obras y buena conducta.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Santiago+3%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 15,
+      "verse": 33,
+      "expected": "las malas conversaciones",
+      "replacement": "las malas compañías",
+      "category": "false-friend-company-term",
+      "reason": "La máxima advierte que las malas compañías corrompen las buenas costumbres.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+15%3A33&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2PE",
+      "chapter": 3,
+      "verse": 11,
+      "expected": "santas y pías conversaciones",
+      "replacement": "conductas santas y piadosas",
+      "category": "false-friend-conduct-term",
+      "reason": "Pedro pregunta qué clase de conducta santa y piadosa deben llevar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Pedro+3%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 8,
+      "verse": 4,
+      "expected": "la comunicación del servicio",
+      "replacement": "la participación en el servicio",
+      "category": "false-friend-sharing-term",
+      "reason": "Las iglesias piden participar en el servicio a los santos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+8%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 13,
+      "verse": 16,
+      "expected": "Y de hacer bien y de la comunicación no os olvidéis",
+      "replacement": "Y no olvidéis hacer el bien y compartir",
+      "category": "false-friend-sharing-phrase",
+      "reason": "La exhortación manda hacer el bien y compartir con otros; la coordinación completa se conserva.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+13%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHM",
+      "chapter": 1,
+      "verse": 6,
+      "expected": "la comunicación de tu fe",
+      "replacement": "la participación de tu fe",
+      "category": "contextual-faith-sharing",
+      "reason": "La frase describe la participación activa que nace de la fe de Filemón.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filemón+1%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 5,
+      "verse": 7,
+      "expected": "toda vuestra solicitud",
+      "replacement": "toda vuestra ansiedad",
+      "category": "contextual-anxiety-term",
+      "reason": "La exhortación invita a echar toda ansiedad sobre Dios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+5%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 7,
+      "verse": 11,
+      "expected": "cuánta solicitud ha obrado en vosotros",
+      "replacement": "cuánto empeño ha producido en vosotros",
+      "category": "contextual-eagerness-term",
+      "reason": "La tristeza según Dios produjo gran empeño por corregir el asunto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+7%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 7,
+      "verse": 12,
+      "expected": "manifiesta nuestra solicitud que tenemos por vosotros",
+      "replacement": "manifiesto nuestro interés por vosotros",
+      "category": "contextual-pastoral-concern",
+      "reason": "La carta hizo visible el interés pastoral por ellos y conserva la concordancia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+7%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 8,
+      "verse": 7,
+      "expected": "toda solicitud",
+      "replacement": "todo empeño",
+      "category": "contextual-eagerness-term",
+      "reason": "Pablo elogia su empeño junto con fe, palabra y conocimiento.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+8%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 8,
+      "verse": 16,
+      "expected": "la misma solicitud por vosotros",
+      "replacement": "el mismo interés por vosotros",
+      "category": "contextual-pastoral-concern",
+      "reason": "Dios puso en Tito el mismo interés por los corintios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+8%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 11,
+      "verse": 28,
+      "expected": "la solicitud de todas las iglesias",
+      "replacement": "la preocupación por todas las iglesias",
+      "category": "contextual-pastoral-concern",
+      "reason": "Pablo describe su preocupación diaria por todas las iglesias.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+11%3A28&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 17,
+      "verse": 11,
+      "expected": "con toda solicitud",
+      "replacement": "con toda disposición",
+      "category": "contextual-readiness-term",
+      "reason": "Los bereanos recibieron la palabra con disposición y la comprobaron.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+17%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "COL",
+      "chapter": 2,
+      "verse": 1,
+      "expected": "cuán gran solicitud tengo",
+      "replacement": "cuánto me esfuerzo",
+      "category": "contextual-striving-term",
+      "reason": "Pablo describe su gran esfuerzo por creyentes que no lo habían visto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Colosenses+2%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 6,
+      "verse": 11,
+      "expected": "muestre la misma solicitud",
+      "replacement": "muestre el mismo empeño",
+      "category": "contextual-diligence-term",
+      "reason": "La exhortación pide mantener el mismo empeño hasta el fin.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+6%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JUD",
+      "chapter": 1,
+      "verse": 3,
+      "expected": "por la gran solicitud que tenía",
+      "replacement": "por el gran empeño que tenía",
+      "category": "contextual-eagerness-term",
+      "reason": "Judas tenía gran empeño en escribir sobre la salvación común.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Judas+1%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JUD",
+      "chapter": 1,
+      "verse": 3,
+      "expected": "la común salud",
+      "replacement": "la salvación que compartimos",
+      "category": "false-friend-salvation-term",
+      "reason": "Salud significa salvación en esta frase y el texto afirma que los creyentes la comparten.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Judas+1%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 12,
+      "verse": 8,
+      "expected": "el que preside, con solicitud",
+      "replacement": "el que dirige, con dedicación",
+      "category": "contextual-leadership-diligence",
+      "reason": "Quien dirige debe hacerlo con dedicación.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+12%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1JN",
+      "chapter": 3,
+      "verse": 17,
+      "expected": "Mas el que tuviere bienes de este mundo, y viere á su hermano tener necesidad, y le cerrare sus entrañas",
+      "replacement": "Pero el que tiene bienes de este mundo, ve a su hermano pasar necesidad y le cierra su corazón",
+      "category": "historical-compassion-image",
+      "reason": "Cerrar las entrañas significa cerrar el corazón y negar compasión al necesitado; la condición completa mantiene una sola persona verbal.",
+      "supersedeOverlaps": true,
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Juan+3%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 6,
+      "verse": 12,
+      "expected": "No estáis estrechos en nosotros, mas estáis estrechos en",
+      "replacement": "No os limitamos nosotros, sino que estáis limitados por",
+      "category": "historical-affection-image",
+      "reason": "La limitación no procede de Pablo sino del afecto restringido de los corintios.",
+      "supersedeOverlaps": true,
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+6%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 6,
+      "verse": 12,
+      "expected": "vuestras propias entrañas",
+      "replacement": "vuestro propio afecto",
+      "category": "historical-affection-image",
+      "reason": "Entrañas significa aquí el afecto interior de los corintios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+6%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 7,
+      "verse": 15,
+      "expected": "sus entrañas son más abundantes",
+      "replacement": "su afecto es aún mayor",
+      "category": "historical-affection-image",
+      "reason": "Tito siente un afecto aún mayor al recordar su obediencia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+7%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "COL",
+      "chapter": 3,
+      "verse": 12,
+      "expected": "entrañas de misericordia",
+      "replacement": "profunda compasión",
+      "category": "historical-compassion-image",
+      "reason": "La frase ordena vestirse de profunda compasión.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Colosenses+3%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 1,
+      "verse": 78,
+      "expected": "Por las entrañas de misericordia de nuestro Dios, con que nos visitó de lo alto el Oriente",
+      "replacement": "Por la profunda misericordia de nuestro Dios, el Sol naciente nos visitó desde lo alto",
+      "category": "historical-compassion-image",
+      "reason": "La frase expresa la profunda misericordia de Dios y conserva la imagen mesiánica de la luz que nace desde lo alto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+1%3A78&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHM",
+      "chapter": 1,
+      "verse": 7,
+      "expected": "recreadas las entrañas de los santos",
+      "replacement": "reanimados los corazones de los santos",
+      "category": "historical-encouragement-image",
+      "reason": "El amor de Filemón había reanimado interiormente a los santos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filemón+1%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHM",
+      "chapter": 1,
+      "verse": 12,
+      "expected": "recíbele como á mis entrañas",
+      "replacement": "recíbelo como a mi propio corazón",
+      "category": "historical-affection-image",
+      "reason": "Pablo envía a Onésimo como alguien que representa su propio corazón.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filemón+1%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHM",
+      "chapter": 1,
+      "verse": 20,
+      "expected": "recrea mis entrañas",
+      "replacement": "reanima mi corazón",
+      "category": "historical-encouragement-image",
+      "reason": "Pablo pide que Filemón reanime su corazón en el Señor.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filemón+1%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 1,
+      "verse": 8,
+      "expected": "en las entrañas de Jesucristo",
+      "replacement": "con el profundo afecto de Jesucristo",
+      "category": "historical-affection-image",
+      "reason": "Pablo expresa un afecto profundo que procede de Cristo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+1%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 2,
+      "verse": 1,
+      "expected": "si algunas entrañas y misericordias",
+      "replacement": "si algún afecto y compasión",
+      "category": "historical-affection-image",
+      "reason": "La pareja describe afecto y compasión entre los creyentes y conserva la concordancia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+2%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 1,
+      "verse": 22,
+      "expected": "amaos unos á otros entrañablemente",
+      "replacement": "amaos unos a otros profundamente",
+      "category": "archaic-depth-adverb",
+      "reason": "El mandato pide un amor profundo y sincero entre creyentes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+1%3A22&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 1,
+      "verse": 22,
+      "expected": "vuestra almas",
+      "replacement": "vuestras almas",
+      "category": "grammar-number-agreement",
+      "reason": "El posesivo debe concordar en plural con almas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+1%3A22&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 18,
+      "verse": 5,
+      "expected": "estaba constreñido por la palabra",
+      "replacement": "se dedicaba por completo a la palabra",
+      "category": "archaic-impelled-term",
+      "reason": "Pablo se dedicaba por completo a anunciar la palabra y testificar acerca de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+18%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "COL",
+      "chapter": 1,
+      "verse": 25,
+      "expected": "en orden á vosotros",
+      "replacement": "para vuestro beneficio",
+      "category": "archaic-benefit-phrase",
+      "reason": "El encargo de Pablo fue recibido para beneficio de la iglesia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Colosenses+1%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "EPH",
+      "chapter": 3,
+      "verse": 9,
+      "expected": "crió todas las cosas",
+      "replacement": "creó todas las cosas",
+      "category": "false-friend-create-verb",
+      "reason": "Criar significa aquí crear; la forma actual evita confundirlo con educar o alimentar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Efesios+3%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 11,
+      "verse": 6,
+      "expected": "mas en todo somos ya del todo manifiestos á vosotros",
+      "replacement": "pero en todo os lo hemos demostrado claramente",
+      "category": "archaic-demonstration-phrase",
+      "reason": "Pablo afirma que su conocimiento y conducta han quedado claros ante los corintios.",
+      "supersedeOverlaps": true,
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+11%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 11,
+      "verse": 21,
+      "expected": "como si nosotros hubiésemos sido flacos",
+      "replacement": "como si nosotros hubiésemos sido débiles",
+      "category": "archaic-weakness-term",
+      "reason": "Flacos significa débiles en la comparación irónica de Pablo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+11%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 11,
+      "verse": 28,
+      "expected": "Sin otras cosas además, lo que sobre mí se agolpa cada día",
+      "replacement": "Además de otras cosas, me agobia cada día",
+      "category": "archaic-daily-pressure-phrase",
+      "reason": "Pablo describe la presión diaria que acompaña su preocupación por las iglesias.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+11%3A28&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2TI",
+      "chapter": 3,
+      "verse": 6,
+      "expected": "se entran por las casas, y llevan cautivas las mujercillas",
+      "replacement": "se introducen en las casas y cautivan a mujeres vulnerables",
+      "category": "archaic-exploitation-phrase",
+      "reason": "La frase describe a falsos maestros que se introducen en hogares y explotan a mujeres vulnerables.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Timoteo+3%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 2,
+      "verse": 17,
+      "expected": "me gozo y congratulo por todos vosotros",
+      "replacement": "me alegro y comparto mi alegría con todos vosotros",
+      "category": "archaic-shared-rejoicing",
+      "reason": "Pablo se alegra y comparte esa alegría con todos ellos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+2%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 2,
+      "verse": 20,
+      "expected": "Porque á ninguno tengo tan unánime, y que con sincera afición esté solícito por vosotros",
+      "replacement": "Porque no tengo a nadie que comparta mi sentir y se preocupe sinceramente por vosotros",
+      "category": "archaic-like-minded-concern",
+      "reason": "Pablo no tiene a nadie tan afín como Timoteo para interesarse sinceramente por ellos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+2%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 13,
+      "verse": 45,
+      "expected": "visto el gentío",
+      "replacement": "al ver la multitud",
+      "category": "archaic-crowd-term",
+      "reason": "Gentío significa la multitud reunida; la frase completa evita conservar un participio con género antiguo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+13%3A45&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 14,
+      "verse": 14,
+      "expected": "se lanzaron al gentío",
+      "replacement": "se lanzaron hacia la multitud",
+      "category": "archaic-crowd-term",
+      "reason": "Los apóstoles corrieron hacia la multitud para detener el sacrificio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+14%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "expected": "Rehusa hombre hereje",
+      "replacement": "Rechaza al que causa divisiones",
+      "category": "false-friend-divisive-person",
+      "reason": "La instrucción se refiere a una persona que persiste en causar divisiones después de ser advertida.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Tito+3%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 11,
+      "verse": 26,
+      "expected": "conversaron todo un año allí con la iglesia",
+      "replacement": "se reunieron allí con la iglesia durante todo un año",
+      "category": "false-friend-conduct-verb",
+      "reason": "Conversar significa aquí reunirse y convivir con la iglesia, no únicamente hablar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+11%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 23,
+      "verse": 1,
+      "expected": "he conversado delante de Dios",
+      "replacement": "he vivido delante de Dios",
+      "category": "false-friend-conduct-verb",
+      "reason": "Conversar significa aquí vivir o conducirse ante Dios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+23%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 1,
+      "verse": 12,
+      "expected": "hemos conversado en el mundo",
+      "replacement": "nos hemos conducido en el mundo",
+      "category": "false-friend-conduct-verb",
+      "reason": "Conversar significa aquí conducirse en la vida.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+1%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 1,
+      "verse": 27,
+      "expected": "Solamente que converséis como es digno",
+      "replacement": "Solamente comportaos de una manera digna",
+      "category": "false-friend-conduct-verb",
+      "reason": "La exhortación se refiere a la manera de vivir digna del evangelio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+1%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1TI",
+      "chapter": 3,
+      "verse": 15,
+      "expected": "cómo te conviene conversar en la casa de Dios",
+      "replacement": "cómo debes comportarte en la casa de Dios",
+      "category": "false-friend-conduct-verb",
+      "reason": "Conversar significa aquí comportarse dentro de la comunidad de Dios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timoteo+3%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 13,
+      "verse": 18,
+      "expected": "deseando conversar bien en todo",
+      "replacement": "deseando conducirnos bien en todo",
+      "category": "false-friend-conduct-verb",
+      "reason": "Conversar significa aquí conducirse correctamente.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+13%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 4,
+      "verse": 3,
+      "expected": "cuando conversábamos",
+      "replacement": "cuando vivíamos",
+      "category": "false-friend-conduct-verb",
+      "reason": "Conversar significa aquí vivir según la conducta descrita.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+4%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2PE",
+      "chapter": 2,
+      "verse": 18,
+      "expected": "los que conversan en error",
+      "replacement": "los que viven en el error",
+      "category": "false-friend-conduct-verb",
+      "reason": "Conversar significa aquí vivir en el error, no hablar con alguien.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Pedro+2%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 2,
+      "verse": 10,
+      "expected": "os doy nuevas de gran gozo",
+      "replacement": "os anuncio buenas noticias de gran gozo",
+      "category": "archaic-news-phrase",
+      "reason": "El ángel anuncia buenas noticias que producen gran gozo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+2%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 7,
+      "verse": 18,
+      "expected": "sus discípulos dieron á Juan las nuevas de todas estas cosas",
+      "replacement": "sus discípulos informaron a Juan de todas estas cosas",
+      "category": "archaic-report-phrase",
+      "reason": "Los discípulos informaron a Juan de lo ocurrido.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+7%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 24,
+      "verse": 9,
+      "expected": "dieron nuevas de todas estas cosas",
+      "replacement": "contaron todas estas cosas",
+      "category": "archaic-report-phrase",
+      "reason": "Las mujeres contaron a los once lo ocurrido en el sepulcro.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+24%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 6,
+      "verse": 5,
+      "expected": "Y plugo el parecer á toda la multitud",
+      "replacement": "La propuesta agradó a toda la multitud",
+      "category": "archaic-pleasing-phrase",
+      "reason": "La propuesta presentada por los apóstoles agradó a toda la comunidad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+6%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "GAL",
+      "chapter": 1,
+      "verse": 15,
+      "expected": "cuando plugo á Dios",
+      "replacement": "cuando Dios quiso",
+      "category": "archaic-pleasing-phrase",
+      "reason": "La frase expresa la decisión soberana de Dios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Gálatas+1%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "REV",
+      "chapter": 17,
+      "verse": 17,
+      "expected": "ejecutar lo que le plugo",
+      "replacement": "ejecutar su propósito",
+      "category": "archaic-purpose-phrase",
+      "reason": "Dios puso en sus corazones ejecutar su propósito.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Apocalipsis+17%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 23,
+      "verse": 10,
+      "expected": "acusándole con gran porfía",
+      "replacement": "acusándolo con gran insistencia",
+      "category": "archaic-insistence-term",
+      "reason": "Los líderes acusaban a Jesús con gran insistencia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+23%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 1,
+      "verse": 15,
+      "expected": "por envidia y porfía",
+      "replacement": "por envidia y rivalidad",
+      "category": "archaic-rivalry-term",
+      "reason": "Algunos predicaban a Cristo movidos por rivalidad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+1%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 19,
+      "verse": 32,
+      "expected": "la concurrencia estaba confusa",
+      "replacement": "la asamblea estaba confusa",
+      "category": "archaic-assembly-term",
+      "reason": "Concurrencia designa a la asamblea reunida en el teatro.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+19%3A32&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 19,
+      "verse": 40,
+      "expected": "este concurso",
+      "replacement": "esta reunión",
+      "category": "archaic-gathering-term",
+      "reason": "Concurso designa la reunión pública de aquel día.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+19%3A40&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 19,
+      "verse": 40,
+      "expected": "despidió la concurrencia",
+      "replacement": "despidió la asamblea",
+      "category": "archaic-assembly-term",
+      "reason": "Concurrencia designa a la asamblea reunida.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+19%3A40&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 24,
+      "verse": 12,
+      "expected": "haciendo concurso de multitud",
+      "replacement": "reuniendo multitudes",
+      "category": "archaic-gathering-phrase",
+      "reason": "La acusación niega que Pablo estuviera reuniendo multitudes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+24%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 19,
+      "verse": 31,
+      "expected": "el Señor lo ha menester",
+      "replacement": "el Señor lo necesita",
+      "category": "archaic-need-phrase",
+      "reason": "Haber menester significa necesitar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+19%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 24,
+      "verse": 7,
+      "expected": "Es menester",
+      "replacement": "Es necesario",
+      "category": "archaic-necessity-term",
+      "reason": "Ser menester significa ser necesario.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+24%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 9,
+      "verse": 16,
+      "expected": "cuánto le sea menester que padezca",
+      "replacement": "cuánto tendrá que padecer",
+      "category": "archaic-necessity-phrase",
+      "reason": "La frase anuncia cuánto tendrá que sufrir Pablo por el nombre de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+9%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 19,
+      "verse": 21,
+      "expected": "me será menester ver también á Roma",
+      "replacement": "también debo ver Roma",
+      "category": "archaic-necessity-phrase",
+      "reason": "Pablo expresa que también debe visitar Roma.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+19%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 5,
+      "verse": 10,
+      "expected": "os sería menester salir del mundo",
+      "replacement": "tendríais que salir del mundo",
+      "category": "archaic-necessity-phrase",
+      "reason": "Haber menester significa tener que hacer algo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+5%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 2,
+      "verse": 1,
+      "expected": "es menester",
+      "replacement": "es necesario",
+      "category": "archaic-necessity-term",
+      "reason": "Ser menester significa ser necesario.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+2%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 11,
+      "verse": 6,
+      "expected": "es menester",
+      "replacement": "es necesario",
+      "category": "archaic-necessity-term",
+      "reason": "Ser menester significa ser necesario.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+11%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 8,
+      "verse": 13,
+      "expected": "que á tiempo creen",
+      "replacement": "que creen por algún tiempo",
+      "category": "false-friend-temporary-phrase",
+      "reason": "La semilla sobre la piedra representa a quienes creen durante un tiempo y luego se apartan.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+8%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 5,
+      "verse": 34,
+      "expected": "doctor de la ley",
+      "replacement": "maestro de la ley",
+      "category": "false-friend-law-teacher",
+      "reason": "Doctor significa maestro experto en la ley en este contexto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+5%3A34&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 21,
+      "verse": 38,
+      "expected": "hombres salteadores",
+      "replacement": "sicarios",
+      "category": "historical-assassin-term",
+      "reason": "El grupo armado identificado por el tribuno era conocido como los sicarios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+21%3A38&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 23,
+      "verse": 6,
+      "expected": "la una parte era de Saduceos, y la otra de Fariseos",
+      "replacement": "una parte era de saduceos y la otra de fariseos",
+      "category": "archaic-group-phrase",
+      "reason": "La frase distingue los dos grupos presentes en el Consejo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+23%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 10,
+      "verse": 29,
+      "expected": "el que hollare al Hijo de Dios",
+      "replacement": "el que pisotee al Hijo de Dios",
+      "category": "archaic-trample-verb",
+      "reason": "Hollar significa pisotear; se conserva la imagen de desprecio grave.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+10%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JAS",
+      "chapter": 1,
+      "verse": 14,
+      "expected": "es atraído, y cebado",
+      "replacement": "es atraído y seducido",
+      "category": "archaic-entice-phrase",
+      "reason": "Cebar significa seducir o atraer mediante el deseo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Santiago+1%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JAS",
+      "chapter": 2,
+      "verse": 9,
+      "expected": "sois reconvenidos de la ley",
+      "replacement": "la ley os declara culpables",
+      "category": "archaic-conviction-phrase",
+      "reason": "La ley declara culpables de transgresión a quienes muestran favoritismo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Santiago+2%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 4,
+      "verse": 10,
+      "expected": "ha reflorecido vuestro cuidado de mí",
+      "replacement": "habéis renovado vuestro interés por mí",
+      "category": "archaic-renewed-concern",
+      "reason": "Los filipenses renovaron la expresión de su interés por Pablo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+4%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 1,
+      "verse": 25,
+      "expected": "lo flaco de Dios",
+      "replacement": "la debilidad de Dios",
+      "category": "false-friend-weakness",
+      "reason": "Flaco means weakness in the rhetorical contrast between God and human beings.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+1%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 1,
+      "verse": 27,
+      "expected": "lo flaco del mundo",
+      "replacement": "lo débil del mundo",
+      "category": "false-friend-weakness",
+      "reason": "Flaco means weak, not thin, in the contrast with what is strong.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+1%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 10,
+      "expected": "aquel que es flaco",
+      "replacement": "aquel que es débil",
+      "category": "false-friend-weakness",
+      "reason": "The passage describes someone whose conscience is weak.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 11,
+      "expected": "hermano flaco",
+      "replacement": "hermano débil",
+      "category": "false-friend-weakness",
+      "reason": "Flaco describes the brother's weakness in this matter of conscience.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 9,
+      "verse": 22,
+      "expected": "á los flacos flaco",
+      "replacement": "a los débiles, débil",
+      "category": "false-friend-weakness",
+      "reason": "Paul says that he became weak with the weak; the punctuation clarifies the relationship.",
+      "supersedeOverlaps": true,
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+9%3A22&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 12,
+      "verse": 10,
+      "expected": "cuando soy flaco",
+      "replacement": "cuando soy débil",
+      "category": "false-friend-weakness",
+      "reason": "The explicit contrast is between weakness and power.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+12%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 13,
+      "verse": 3,
+      "expected": "no es flaco",
+      "replacement": "no es débil",
+      "category": "false-friend-weakness",
+      "reason": "Flaco means weak in contrast with powerful.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+13%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 14,
+      "verse": 1,
+      "expected": "al flaco en la fe",
+      "replacement": "al débil en la fe",
+      "category": "false-friend-weakness",
+      "reason": "The exhortation receives the believer who is weak in faith.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+14%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 7,
+      "expected": "siendo flaca",
+      "replacement": "siendo débil",
+      "category": "false-friend-weakness",
+      "reason": "The conscience is weak, not physically thin.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 12,
+      "expected": "su flaca conciencia",
+      "replacement": "su débil conciencia",
+      "category": "false-friend-weakness",
+      "reason": "The phrase describes a weak conscience.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 10,
+      "verse": 10,
+      "expected": "presencia corporal flaca",
+      "replacement": "presencia física débil",
+      "category": "false-friend-weakness",
+      "reason": "The accusation contrasts a weak physical presence with strong letters.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+10%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 4,
+      "verse": 10,
+      "expected": "nosotros flacos",
+      "replacement": "nosotros débiles",
+      "category": "false-friend-weakness",
+      "reason": "Flacos means weak in contrast with strong.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+4%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 8,
+      "verse": 9,
+      "expected": "los que son flacos",
+      "replacement": "los que son débiles",
+      "category": "false-friend-weakness",
+      "reason": "The referent is believers who are weak in conscience.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+8%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 12,
+      "verse": 22,
+      "expected": "parecen más flacos",
+      "replacement": "parecen más débiles",
+      "category": "false-friend-weakness",
+      "reason": "The body parts appear weaker, not thinner.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+12%3A22&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 13,
+      "verse": 4,
+      "expected": "somos flacos con él",
+      "replacement": "somos débiles con él",
+      "category": "false-friend-weakness",
+      "reason": "The verse contrasts weakness and power.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+13%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 13,
+      "verse": 9,
+      "expected": "seamos nosotros flacos",
+      "replacement": "nosotros seamos débiles",
+      "category": "false-friend-weakness",
+      "reason": "Flacos means weak in contrast with their being strong.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+13%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 5,
+      "verse": 11,
+      "expected": "sois flacos para oir",
+      "replacement": "sois lentos para oír",
+      "category": "contextual-slow-to-understand",
+      "reason": "The difficulty in explaining is attributed to slowness in hearing and understanding.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+5%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 7,
+      "verse": 28,
+      "expected": "hombres flacos",
+      "replacement": "hombres débiles",
+      "category": "false-friend-weakness",
+      "reason": "The law appoints human priests subject to weakness.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+7%3A28&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 5,
+      "verse": 6,
+      "expected": "éramos flacos",
+      "replacement": "éramos débiles",
+      "category": "false-friend-weakness",
+      "reason": "The phrase describes human helplessness when Christ died for the ungodly.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+5%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 2,
+      "verse": 3,
+      "expected": "con flaqueza",
+      "replacement": "con debilidad",
+      "category": "archaic-weakness-term",
+      "reason": "Flaqueza means weakness in Paul's condition when he arrived.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+2%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 15,
+      "verse": 43,
+      "expected": "en flaqueza",
+      "replacement": "en debilidad",
+      "category": "archaic-weakness-term",
+      "reason": "The resurrection passage contrasts weakness and power.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+15%3A43&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 11,
+      "verse": 30,
+      "expected": "de mi flaqueza",
+      "replacement": "de mi debilidad",
+      "category": "archaic-weakness-term",
+      "reason": "Paul boasts in what displays his weakness.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+11%3A30&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 12,
+      "verse": 9,
+      "expected": "mi potencia en la flaqueza se perfecciona",
+      "replacement": "mi poder se perfecciona en la debilidad",
+      "category": "contextual-power-in-weakness",
+      "reason": "The phrase preserves the contrast between Christ's power and human weakness.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+12%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 13,
+      "verse": 4,
+      "expected": "por flaqueza",
+      "replacement": "en debilidad",
+      "category": "archaic-weakness-term",
+      "reason": "The crucifixion is presented under the condition of human weakness.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+13%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "GAL",
+      "chapter": 4,
+      "verse": 13,
+      "expected": "por flaqueza de carne",
+      "replacement": "por una debilidad física",
+      "category": "contextual-physical-weakness",
+      "reason": "The expression refers to the physical condition related to Paul's first preaching.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Gálatas+4%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 6,
+      "verse": 19,
+      "expected": "por la flaqueza de vuestra carne",
+      "replacement": "por la debilidad de vuestra naturaleza humana",
+      "category": "contextual-human-weakness",
+      "reason": "Paul adapts the explanation to the weakness of the human condition.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+6%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 8,
+      "verse": 26,
+      "expected": "nuestra flaqueza",
+      "replacement": "nuestra debilidad",
+      "category": "archaic-weakness-term",
+      "reason": "The Spirit helps in our weakness when we pray.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+8%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 12,
+      "verse": 5,
+      "expected": "mis flaquezas",
+      "replacement": "mis debilidades",
+      "category": "archaic-weakness-term",
+      "reason": "Flaquezas means personal weaknesses.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+12%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 12,
+      "verse": 9,
+      "expected": "mis flaquezas",
+      "replacement": "mis debilidades",
+      "category": "archaic-weakness-term",
+      "reason": "Paul boasts in his weaknesses so that Christ's power may rest on him.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+12%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 12,
+      "verse": 10,
+      "expected": "las flaquezas",
+      "replacement": "las debilidades",
+      "category": "archaic-weakness-term",
+      "reason": "The list begins with weaknesses suffered for Christ.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+12%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 15,
+      "verse": 1,
+      "expected": "las flaquezas de los flacos",
+      "replacement": "las debilidades de los débiles",
+      "category": "archaic-weakness-term",
+      "reason": "The strong must bear the weaknesses of those who are weak.",
+      "supersedeOverlaps": true,
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+15%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1PE",
+      "chapter": 5,
+      "verse": 9,
+      "expected": "en la compañía de vuestros hermanos",
+      "replacement": "entre vuestros hermanos",
+      "category": "contextual-community-term",
+      "reason": "The same afflictions occur among the brothers and sisters in the world.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Pedro+5%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 6,
+      "verse": 14,
+      "expected": "qué compañía tiene la justicia con la injusticia",
+      "replacement": "qué relación tiene la justicia con la injusticia",
+      "category": "contextual-partnership-term",
+      "reason": "The question contrasts the relationship between righteousness and unrighteousness.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+6%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 1,
+      "verse": 15,
+      "expected": "era la compañía junta como de ciento y veinte en número",
+      "replacement": "estaba reunido un grupo de unas ciento veinte personas",
+      "category": "contextual-gathered-group",
+      "reason": "The phrase reports how many people were gathered.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+1%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 10,
+      "verse": 1,
+      "expected": "centurión de la compañía que se llamaba la Italiana",
+      "replacement": "centurión de la unidad militar llamada la Italiana",
+      "category": "historical-military-unit",
+      "reason": "Compania denotes the military unit to which Cornelius belonged.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+10%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 11,
+      "verse": 24,
+      "expected": "mucha compañía fué agregada al Señor",
+      "replacement": "muchas personas fueron agregadas al Señor",
+      "category": "contextual-crowd-term",
+      "reason": "The phrase describes many people who believed.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+11%3A24&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 17,
+      "verse": 5,
+      "expected": "juntando compañía",
+      "replacement": "formando una turba",
+      "category": "contextual-mob-term",
+      "reason": "The gathered men formed a mob that stirred up the city.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+17%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 21,
+      "verse": 31,
+      "expected": "al tribuno de la compañía",
+      "replacement": "al comandante de la unidad militar",
+      "category": "historical-military-unit",
+      "reason": "The report reaches the commander of the Roman unit.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+21%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 27,
+      "verse": 1,
+      "expected": "de la compañía Augusta",
+      "replacement": "de la unidad militar Augusta",
+      "category": "historical-military-unit",
+      "reason": "Compania denotes Julius's military unit.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+27%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "GAL",
+      "chapter": 2,
+      "verse": 9,
+      "expected": "nos dieron las diestras de compañía",
+      "replacement": "nos dieron la mano derecha en señal de compañerismo",
+      "category": "contextual-fellowship-gesture",
+      "reason": "The gesture expresses fellowship and agreement in the mission.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Gálatas+2%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 12,
+      "verse": 22,
+      "expected": "á la compañía de muchos millares de ángeles",
+      "replacement": "a incontables ángeles reunidos",
+      "category": "contextual-angelic-gathering",
+      "reason": "The phrase describes an innumerable gathering of angels.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+12%3A22&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JHN",
+      "chapter": 11,
+      "verse": 42,
+      "expected": "por causa de la compañía que está alrededor",
+      "replacement": "por causa de la multitud que está alrededor",
+      "category": "contextual-crowd-term",
+      "reason": "Jesus speaks for the sake of the surrounding crowd.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Juan+11%3A42&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JHN",
+      "chapter": 18,
+      "verse": 3,
+      "expected": "tomando una compañía",
+      "replacement": "tomando una tropa",
+      "category": "historical-arresting-party",
+      "reason": "Judas arrives accompanied by a troop and guards.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Juan+18%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JHN",
+      "chapter": 18,
+      "verse": 12,
+      "expected": "la compañía y el tribuno",
+      "replacement": "la tropa y su comandante",
+      "category": "historical-arresting-party",
+      "reason": "The troop and its commander participate in the arrest.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Juan+18%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 2,
+      "verse": 44,
+      "expected": "estaba en la compañía",
+      "replacement": "estaba en el grupo",
+      "category": "contextual-traveling-group",
+      "reason": "Joseph and Mary thought Jesus was traveling within the group.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+2%3A44&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 6,
+      "verse": 17,
+      "expected": "la compañía de sus discípulos",
+      "replacement": "un grupo numeroso de sus discípulos",
+      "category": "contextual-disciple-group",
+      "reason": "The text distinguishes the group of disciples from the crowd that came to Jesus.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+6%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 7,
+      "verse": 11,
+      "expected": "y gran compañía",
+      "replacement": "y una gran multitud",
+      "category": "contextual-crowd-term",
+      "reason": "A large crowd accompanied Jesus and his disciples.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+7%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 7,
+      "verse": 12,
+      "expected": "grande compañía de la ciudad",
+      "replacement": "una gran multitud de la ciudad",
+      "category": "contextual-crowd-term",
+      "reason": "A large crowd from the city accompanied the widow.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+7%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 8,
+      "verse": 4,
+      "expected": "una grande compañía",
+      "replacement": "una gran multitud",
+      "category": "contextual-crowd-term",
+      "reason": "The parable is addressed to a large gathered crowd.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+8%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 8,
+      "verse": 42,
+      "expected": "le apretaba la compañía",
+      "replacement": "la multitud lo apretaba",
+      "category": "contextual-crowd-term",
+      "reason": "The crowd pressed Jesus while he was on the way.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+8%3A42&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 8,
+      "verse": 45,
+      "expected": "la compañía te aprieta",
+      "replacement": "la multitud te aprieta",
+      "category": "contextual-crowd-term",
+      "reason": "Peter refers to the crowd surrounding and pressing Jesus.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+8%3A45&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 9,
+      "verse": 13,
+      "expected": "toda esta compañía",
+      "replacement": "toda esta multitud",
+      "category": "contextual-crowd-term",
+      "reason": "The loaves and fish had to feed the gathered crowd.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+9%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 9,
+      "verse": 37,
+      "expected": "gran compañía les salió al encuentro",
+      "replacement": "una gran multitud les salió al encuentro",
+      "category": "contextual-crowd-term",
+      "reason": "A large crowd came to meet Jesus and the disciples.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+9%3A37&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 9,
+      "verse": 38,
+      "expected": "un hombre de la compañía",
+      "replacement": "un hombre de la multitud",
+      "category": "contextual-crowd-term",
+      "reason": "The man who cries out is part of the crowd.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+9%3A38&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 11,
+      "verse": 27,
+      "expected": "una mujer de la compañía",
+      "replacement": "una mujer de la multitud",
+      "category": "contextual-crowd-term",
+      "reason": "The woman raises her voice from the crowd.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+11%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 12,
+      "verse": 13,
+      "expected": "uno de la compañía",
+      "replacement": "uno de la multitud",
+      "category": "contextual-crowd-term",
+      "reason": "The man who speaks with Jesus comes from the crowd.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+12%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 13,
+      "verse": 14,
+      "expected": "dijo á la compañía",
+      "replacement": "dijo a la multitud",
+      "category": "contextual-crowd-term",
+      "reason": "The ruler of the synagogue addresses the crowd.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+13%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 19,
+      "verse": 39,
+      "expected": "Fariseos de la compañía",
+      "replacement": "fariseos de la multitud",
+      "category": "contextual-crowd-term",
+      "reason": "The Pharisees who speak were among the crowd.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+19%3A39&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "REV",
+      "chapter": 7,
+      "verse": 9,
+      "expected": "una gran compañía, la cual ninguno podía contar",
+      "replacement": "una gran multitud que nadie podía contar",
+      "category": "contextual-countless-multitude",
+      "reason": "The vision shows an innumerable multitude from every nation.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Apocalipsis+7%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "REV",
+      "chapter": 19,
+      "verse": 1,
+      "expected": "gran voz de gran compañía en el cielo",
+      "replacement": "fuerte voz de una gran multitud en el cielo",
+      "category": "contextual-heavenly-multitude",
+      "reason": "John hears a powerful voice in heaven like that of a great multitude.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Apocalipsis+19%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "REV",
+      "chapter": 19,
+      "verse": 6,
+      "expected": "voz de una grande compañía",
+      "replacement": "voz de una gran multitud",
+      "category": "contextual-heavenly-multitude",
+      "reason": "The voice heard is compared with that of a great multitude.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Apocalipsis+19%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1TI",
+      "chapter": 1,
+      "verse": 6,
+      "expected": "vanas pláticas",
+      "replacement": "discursos inútiles",
+      "category": "archaic-empty-talk",
+      "reason": "The warning describes empty speech that turns people away from the teaching.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timoteo+1%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1TI",
+      "chapter": 6,
+      "verse": 20,
+      "expected": "profanas pláticas de vanas cosas",
+      "replacement": "discursos profanos y vacíos",
+      "category": "archaic-empty-talk",
+      "reason": "Timothy must avoid profane and empty speech opposed to his charge.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timoteo+6%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 24,
+      "verse": 17,
+      "expected": "Qué pláticas son estas que tratáis entre vosotros andando",
+      "replacement": "De qué conversáis entre vosotros mientras camináis",
+      "category": "archaic-conversation-phrase",
+      "reason": "Jesus asks what they were discussing as they walked.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+24%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "1CO",
+      "chapter": 5,
+      "verse": 4,
+      "expected": "con la facultad de nuestro Señor Jesucristo",
+      "replacement": "con el poder de nuestro Señor Jesucristo",
+      "category": "contextual-divine-power",
+      "reason": "Facultad means the Lord's power or authority here.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corintios+5%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ACT",
+      "chapter": 9,
+      "verse": 14,
+      "expected": "tiene facultad de los príncipes de los sacerdotes",
+      "replacement": "tiene autoridad de los principales sacerdotes",
+      "category": "contextual-delegated-authority",
+      "reason": "Saul had received authority from the chief priests to arrest.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hechos+9%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "HEB",
+      "chapter": 13,
+      "verse": 10,
+      "expected": "no tienen facultad de comer",
+      "replacement": "no tienen derecho a comer",
+      "category": "contextual-right-term",
+      "reason": "Facultad means the right to eat from the altar here.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Hebreos+13%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JAS",
+      "chapter": 5,
+      "verse": 5,
+      "expected": "habéis cebado vuestros corazones como en el día de sacrificios",
+      "replacement": "habéis engordado vuestros corazones como para el día de la matanza",
+      "category": "archaic-fattened-metaphor",
+      "reason": "The image compares a life of pleasure with animals fattened for the day of slaughter.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Santiago+5%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "JAS",
+      "chapter": 1,
+      "verse": 17,
+      "expected": "Toda buena dádiva",
+      "replacement": "Todo buen regalo",
+      "category": "archaic-gift-term",
+      "reason": "Dadiva means a gift here; the paired perfect gift remains intact.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Santiago+1%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 6,
+      "verse": 23,
+      "expected": "la dádiva de Dios",
+      "replacement": "el regalo de Dios",
+      "category": "archaic-gift-term",
+      "reason": "The free gift from God is contrasted with the wages of sin.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+6%3A23&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 11,
+      "verse": 13,
+      "expected": "buenas dádivas",
+      "replacement": "buenos regalos",
+      "category": "archaic-gift-term",
+      "reason": "The comparison concerns parents giving good gifts to their children.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+11%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "PHP",
+      "chapter": 4,
+      "verse": 17,
+      "expected": "No porque busque dádivas",
+      "replacement": "No es que busque donativos",
+      "category": "contextual-financial-gift",
+      "reason": "Paul is not seeking financial contributions from the Philippians.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Filipenses+4%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "LUK",
+      "chapter": 13,
+      "verse": 30,
+      "expected": "son postreros los que eran los primeros; y son primeros los que eran los postreros",
+      "replacement": "son últimos los que eran primeros, y son primeros los que eran últimos",
+      "category": "archaic-last-term",
+      "reason": "Postreros means those who are last in the reversal announced by Jesus.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Lucas+13%3A30&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2PE",
+      "chapter": 2,
+      "verse": 2,
+      "expected": "seguirán sus disoluciones",
+      "replacement": "seguirán su conducta desenfrenada",
+      "category": "contextual-debauchery-term",
+      "reason": "The warning concerns shameless and morally unrestrained conduct.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Pedro+2%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 13,
+      "verse": 13,
+      "expected": "no en lechos y disoluciones",
+      "replacement": "no en inmoralidad sexual ni desenfreno",
+      "category": "contextual-debauchery-term",
+      "reason": "The list rejects sexual immorality and unrestrained conduct.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+13%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "ROM",
+      "chapter": 5,
+      "verse": 20,
+      "expected": "cuando el pecado creció, sobrepujó la gracia",
+      "replacement": "cuando el pecado aumentó, la gracia abundó mucho más",
+      "category": "archaic-abounding-phrase",
+      "reason": "The clause states that grace abounded beyond the increase of sin.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Romanos+5%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "2CO",
+      "chapter": 6,
+      "verse": 3,
+      "expected": "el ministerio nuestro no sea vituperado",
+      "replacement": "nuestro ministerio no sea desacreditado",
+      "category": "archaic-discredited-term",
+      "reason": "Paul avoids giving offense so that the ministry is not discredited.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=2 Corintios+6%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    }
+  ]
+}

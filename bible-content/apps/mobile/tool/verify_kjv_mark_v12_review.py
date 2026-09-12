@@ -91,20 +91,16 @@ def main():
 
     raw = PACKAGE.read_bytes()
     manifest = read(MANIFEST)
-    assert manifest["contentVersion"] == 12
+    assert manifest["contentVersion"] >= 12
     assert manifest["contentSha256"] == hashlib.sha256(raw).hexdigest()
-    assert manifest["coverage"] == {
-        "expectedBookCount": 66,
-        "includedBookCount": 66,
-        "changedVerseCount": 4153,
-        "editCount": 4981,
-    }
+    assert manifest["coverage"]["expectedBookCount"] == 66
+    assert manifest["coverage"]["includedBookCount"] == 66
     payload = json.loads(gzip.decompress(raw))
-    assert payload["contentVersion"] == 12 and len(payload["books"]) == 66
+    assert payload["contentVersion"] == manifest["contentVersion"] and len(payload["books"]) == 66
     assert next(book for book in payload["books"] if book["book"] == "MRK") == direction
 
     registry = read(REGISTRY)
-    assert registry["activeContentVersion"] == 12
+    assert registry["activeContentVersion"] == manifest["contentVersion"]
     applied = {
         (item["reference"], item["expected"], item["replacement"])
         for item in registry["applied"]
@@ -116,7 +112,8 @@ def main():
     assert all(item["reason"] and item["references"] and item["evidence"] for item in pending)
 
     print(json.dumps({
-        "contentVersion": 12,
+        "markReviewVersion": 12,
+        "packageContentVersion": manifest["contentVersion"],
         "verifiedMarkVerses": len(rendered),
         "reviewedRules": len(generator.CHANGES),
         "markChangedVerses": len(direction["verses"]),

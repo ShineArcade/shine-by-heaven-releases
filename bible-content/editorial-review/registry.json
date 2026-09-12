@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T22:20:00.000Z",
+  "updatedAt": "2026-09-13T00:15:00.000Z",
   "sourceVersionId": "RV1909",
-  "activeChangeSet": "editorial-changes/v24.json",
+  "activeChangeSet": "editorial-changes/v25.json",
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs",
   "pending": [
@@ -1477,159 +1477,6 @@
       ]
     },
     {
-      "id": "nt-concupiscencia",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "concupiscencia",
-      "proposedOptions": [
-        "mal deseo",
-        "deseo desordenado"
-      ],
-      "reason": "Alterna entre deseo pecaminoso, deseo de la carne y deseo en sentido colectivo.",
-      "references": [
-        {
-          "book": "1JN",
-          "chapter": 2,
-          "verse": 16
-        },
-        {
-          "book": "1JN",
-          "chapter": 2,
-          "verse": 17
-        },
-        {
-          "book": "1TH",
-          "chapter": 4,
-          "verse": 5
-        },
-        {
-          "book": "2PE",
-          "chapter": 1,
-          "verse": 4
-        },
-        {
-          "book": "2PE",
-          "chapter": 2,
-          "verse": 10
-        },
-        {
-          "book": "COL",
-          "chapter": 3,
-          "verse": 5
-        },
-        {
-          "book": "GAL",
-          "chapter": 5,
-          "verse": 16
-        },
-        {
-          "book": "JAS",
-          "chapter": 1,
-          "verse": 14
-        },
-        {
-          "book": "JAS",
-          "chapter": 1,
-          "verse": 15
-        },
-        {
-          "book": "ROM",
-          "chapter": 7,
-          "verse": 7
-        },
-        {
-          "book": "ROM",
-          "chapter": 7,
-          "verse": 8
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=concupiscencia&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-concupiscencias",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "concupiscencias",
-      "proposedOptions": [
-        "malos deseos",
-        "deseos desordenados"
-      ],
-      "reason": "La forma plural necesita conservar el objeto y la fuerza moral de cada pasaje.",
-      "references": [
-        {
-          "book": "1PE",
-          "chapter": 4,
-          "verse": 2
-        },
-        {
-          "book": "1PE",
-          "chapter": 4,
-          "verse": 3
-        },
-        {
-          "book": "2PE",
-          "chapter": 2,
-          "verse": 18
-        },
-        {
-          "book": "2PE",
-          "chapter": 3,
-          "verse": 3
-        },
-        {
-          "book": "2TI",
-          "chapter": 3,
-          "verse": 6
-        },
-        {
-          "book": "2TI",
-          "chapter": 4,
-          "verse": 3
-        },
-        {
-          "book": "GAL",
-          "chapter": 5,
-          "verse": 24
-        },
-        {
-          "book": "JAS",
-          "chapter": 4,
-          "verse": 1
-        },
-        {
-          "book": "ROM",
-          "chapter": 1,
-          "verse": 24
-        },
-        {
-          "book": "ROM",
-          "chapter": 1,
-          "verse": 27
-        },
-        {
-          "book": "ROM",
-          "chapter": 6,
-          "verse": 12
-        },
-        {
-          "book": "TIT",
-          "chapter": 3,
-          "verse": 3
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=concupiscencias&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
       "id": "nt-iniquidad",
       "status": "pending-review",
       "scope": "new-testament",
@@ -1930,149 +1777,6 @@
       ]
     },
     {
-      "id": "nt-disensión",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "disensión",
-      "proposedOptions": [
-        "división",
-        "desacuerdo",
-        "confusión"
-      ],
-      "reason": "El sentido cambia entre conflicto personal, división colectiva y desorden.",
-      "references": [
-        {
-          "book": "1CO",
-          "chapter": 14,
-          "verse": 33
-        },
-        {
-          "book": "ACT",
-          "chapter": 15,
-          "verse": 2
-        },
-        {
-          "book": "ACT",
-          "chapter": 23,
-          "verse": 7
-        },
-        {
-          "book": "ACT",
-          "chapter": 23,
-          "verse": 10
-        },
-        {
-          "book": "JHN",
-          "chapter": 7,
-          "verse": 43
-        },
-        {
-          "book": "JHN",
-          "chapter": 9,
-          "verse": 16
-        },
-        {
-          "book": "JHN",
-          "chapter": 10,
-          "verse": 19
-        },
-        {
-          "book": "LUK",
-          "chapter": 12,
-          "verse": 51
-        },
-        {
-          "book": "MAT",
-          "chapter": 10,
-          "verse": 35
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=disensión&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-disensiones",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "disensiones",
-      "proposedOptions": [
-        "divisiones",
-        "desacuerdos"
-      ],
-      "reason": "Cada lista o episodio determina si se enfatiza división o conflicto.",
-      "references": [
-        {
-          "book": "1CO",
-          "chapter": 1,
-          "verse": 10
-        },
-        {
-          "book": "1CO",
-          "chapter": 3,
-          "verse": 3
-        },
-        {
-          "book": "1CO",
-          "chapter": 11,
-          "verse": 18
-        },
-        {
-          "book": "2CO",
-          "chapter": 12,
-          "verse": 20
-        },
-        {
-          "book": "GAL",
-          "chapter": 5,
-          "verse": 20
-        },
-        {
-          "book": "ROM",
-          "chapter": 16,
-          "verse": 17
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=disensiones&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-longanimidad",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "longanimidad",
-      "proposedOptions": [
-        "paciencia prolongada",
-        "tolerancia"
-      ],
-      "reason": "No siempre equivale a la palabra paciencia que aparece junto a ella.",
-      "references": [
-        {
-          "book": "2CO",
-          "chapter": 6,
-          "verse": 6
-        },
-        {
-          "book": "ROM",
-          "chapter": 2,
-          "verse": 4
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=longanimidad&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
       "id": "nt-fornicación",
       "status": "pending-review",
       "scope": "new-testament",
@@ -2279,50 +1983,6 @@
       ]
     },
     {
-      "id": "nt-dispensación",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "dispensación",
-      "proposedOptions": [
-        "administración",
-        "plan"
-      ],
-      "reason": "Puede describir una responsabilidad encargada o el desarrollo del plan de Dios.",
-      "references": [
-        {
-          "book": "1CO",
-          "chapter": 9,
-          "verse": 17
-        },
-        {
-          "book": "COL",
-          "chapter": 1,
-          "verse": 25
-        },
-        {
-          "book": "EPH",
-          "chapter": 1,
-          "verse": 10
-        },
-        {
-          "book": "EPH",
-          "chapter": 3,
-          "verse": 2
-        },
-        {
-          "book": "EPH",
-          "chapter": 3,
-          "verse": 9
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=dispensación&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
       "id": "nt-incircuncisión",
       "status": "pending-review",
       "scope": "new-testament",
@@ -2403,85 +2063,6 @@
         {
           "label": "Control contextual RVR1960 y NVI",
           "url": "https://www.biblegateway.com/quicksearch/?quicksearch=incircuncisión&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-solícito",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "solícito",
-      "proposedOptions": [
-        "diligente",
-        "preocupado",
-        "prudente"
-      ],
-      "reason": "Sus sentidos cambian entre diligencia, cuidado por otros y sobriedad.",
-      "references": [
-        {
-          "book": "1TI",
-          "chapter": 3,
-          "verse": 2
-        },
-        {
-          "book": "2CO",
-          "chapter": 8,
-          "verse": 17
-        },
-        {
-          "book": "COL",
-          "chapter": 4,
-          "verse": 12
-        },
-        {
-          "book": "GAL",
-          "chapter": 2,
-          "verse": 10
-        },
-        {
-          "book": "PHP",
-          "chapter": 2,
-          "verse": 20
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=solícito&version=RVR1960%3BNVI"
-        }
-      ]
-    },
-    {
-      "id": "nt-solícitos",
-      "status": "pending-review",
-      "scope": "new-testament",
-      "term": "solícitos",
-      "proposedOptions": [
-        "diligentes",
-        "preocupados"
-      ],
-      "reason": "El plural también cambia entre procurar algo y preocuparse por algo.",
-      "references": [
-        {
-          "book": "EPH",
-          "chapter": 4,
-          "verse": 3
-        },
-        {
-          "book": "LUK",
-          "chapter": 12,
-          "verse": 11
-        },
-        {
-          "book": "PHP",
-          "chapter": 4,
-          "verse": 10
-        }
-      ],
-      "evidence": [
-        {
-          "label": "Control contextual RVR1960 y NVI",
-          "url": "https://www.biblegateway.com/quicksearch/?quicksearch=solícitos&version=RVR1960%3BNVI"
         }
       ]
     },
@@ -7428,6 +7009,1439 @@
         {
           "label": "Control contextual de Marcos",
           "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "nt-v25-iniquity-family",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "iniquidad / inicuo",
+      "proposedOptions": [
+        "maldad",
+        "injusticia",
+        "sin ley"
+      ],
+      "reason": "La familia alterna entre maldad, injusticia y oposición a la ley; incluye un título escatológico en 2 Tesalonicenses.",
+      "references": [
+        {
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 16
+        },
+        {
+          "book": "2TH",
+          "chapter": 2,
+          "verse": 7
+        },
+        {
+          "book": "2TH",
+          "chapter": 2,
+          "verse": 10
+        },
+        {
+          "book": "2TH",
+          "chapter": 2,
+          "verse": 12
+        },
+        {
+          "book": "2TI",
+          "chapter": 2,
+          "verse": 19
+        },
+        {
+          "book": "ACT",
+          "chapter": 1,
+          "verse": 18
+        },
+        {
+          "book": "HEB",
+          "chapter": 8,
+          "verse": 12
+        },
+        {
+          "book": "HEB",
+          "chapter": 10,
+          "verse": 17
+        },
+        {
+          "book": "LUK",
+          "chapter": 13,
+          "verse": 27
+        },
+        {
+          "book": "ROM",
+          "chapter": 1,
+          "verse": 29
+        },
+        {
+          "book": "ROM",
+          "chapter": 3,
+          "verse": 5
+        },
+        {
+          "book": "ROM",
+          "chapter": 4,
+          "verse": 7
+        },
+        {
+          "book": "ROM",
+          "chapter": 6,
+          "verse": 13
+        },
+        {
+          "book": "ROM",
+          "chapter": 6,
+          "verse": 19
+        },
+        {
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 14
+        },
+        {
+          "book": "2TH",
+          "chapter": 2,
+          "verse": 8
+        },
+        {
+          "book": "2TH",
+          "chapter": 2,
+          "verse": 9
+        },
+        {
+          "book": "ACT",
+          "chapter": 2,
+          "verse": 23
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/"
+        }
+      ]
+    },
+    {
+      "id": "nt-v25-propitiation",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "propiciación",
+      "proposedOptions": [
+        "conservar con nota",
+        "aclarar como sacrificio de reconciliación"
+      ],
+      "reason": "Es un término doctrinal que reúne sacrificio, perdón y reconciliación; una palabra general perdería parte del sentido.",
+      "references": [
+        {
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 2
+        },
+        {
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 10
+        },
+        {
+          "book": "ROM",
+          "chapter": 3,
+          "verse": 25
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/"
+        }
+      ]
+    },
+    {
+      "id": "nt-v25-authority-powers",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "potencia / potestad / potestades / principados",
+      "proposedOptions": [
+        "poder",
+        "autoridad humana",
+        "poder delegado",
+        "poder espiritual"
+      ],
+      "reason": "El referente cambia entre poder divino, autoridad humana, derecho, poder milagroso y seres espirituales.",
+      "references": [
+        {
+          "book": "1CO",
+          "chapter": 1,
+          "verse": 18
+        },
+        {
+          "book": "1CO",
+          "chapter": 1,
+          "verse": 24
+        },
+        {
+          "book": "1CO",
+          "chapter": 15,
+          "verse": 24
+        },
+        {
+          "book": "1CO",
+          "chapter": 15,
+          "verse": 43
+        },
+        {
+          "book": "1CO",
+          "chapter": 15,
+          "verse": 56
+        },
+        {
+          "book": "1TH",
+          "chapter": 1,
+          "verse": 5
+        },
+        {
+          "book": "2CO",
+          "chapter": 6,
+          "verse": 7
+        },
+        {
+          "book": "2CO",
+          "chapter": 12,
+          "verse": 9
+        },
+        {
+          "book": "2CO",
+          "chapter": 13,
+          "verse": 4
+        },
+        {
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 3
+        },
+        {
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 16
+        },
+        {
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 11
+        },
+        {
+          "book": "2TH",
+          "chapter": 1,
+          "verse": 7
+        },
+        {
+          "book": "2TH",
+          "chapter": 1,
+          "verse": 9
+        },
+        {
+          "book": "2TH",
+          "chapter": 1,
+          "verse": 11
+        },
+        {
+          "book": "2TH",
+          "chapter": 2,
+          "verse": 9
+        },
+        {
+          "book": "ACT",
+          "chapter": 6,
+          "verse": 8
+        },
+        {
+          "book": "ACT",
+          "chapter": 10,
+          "verse": 38
+        },
+        {
+          "book": "COL",
+          "chapter": 1,
+          "verse": 11
+        },
+        {
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 19
+        },
+        {
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 21
+        },
+        {
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 7
+        },
+        {
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 16
+        },
+        {
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 20
+        },
+        {
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 10
+        },
+        {
+          "book": "HEB",
+          "chapter": 1,
+          "verse": 3
+        },
+        {
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 25
+        },
+        {
+          "book": "LUK",
+          "chapter": 4,
+          "verse": 36
+        },
+        {
+          "book": "LUK",
+          "chapter": 22,
+          "verse": 69
+        },
+        {
+          "book": "LUK",
+          "chapter": 24,
+          "verse": 49
+        },
+        {
+          "book": "REV",
+          "chapter": 3,
+          "verse": 8
+        },
+        {
+          "book": "REV",
+          "chapter": 7,
+          "verse": 12
+        },
+        {
+          "book": "REV",
+          "chapter": 11,
+          "verse": 17
+        },
+        {
+          "book": "REV",
+          "chapter": 13,
+          "verse": 5
+        },
+        {
+          "book": "REV",
+          "chapter": 13,
+          "verse": 7
+        },
+        {
+          "book": "REV",
+          "chapter": 15,
+          "verse": 8
+        },
+        {
+          "book": "REV",
+          "chapter": 17,
+          "verse": 12
+        },
+        {
+          "book": "REV",
+          "chapter": 17,
+          "verse": 13
+        },
+        {
+          "book": "REV",
+          "chapter": 18,
+          "verse": 1
+        },
+        {
+          "book": "REV",
+          "chapter": 18,
+          "verse": 3
+        },
+        {
+          "book": "REV",
+          "chapter": 19,
+          "verse": 1
+        },
+        {
+          "book": "REV",
+          "chapter": 22,
+          "verse": 14
+        },
+        {
+          "book": "ROM",
+          "chapter": 1,
+          "verse": 4
+        },
+        {
+          "book": "ROM",
+          "chapter": 1,
+          "verse": 16
+        },
+        {
+          "book": "ROM",
+          "chapter": 1,
+          "verse": 20
+        },
+        {
+          "book": "ROM",
+          "chapter": 9,
+          "verse": 17
+        },
+        {
+          "book": "ROM",
+          "chapter": 9,
+          "verse": 22
+        },
+        {
+          "book": "ROM",
+          "chapter": 15,
+          "verse": 19
+        },
+        {
+          "book": "1CO",
+          "chapter": 6,
+          "verse": 12
+        },
+        {
+          "book": "1CO",
+          "chapter": 7,
+          "verse": 4
+        },
+        {
+          "book": "1CO",
+          "chapter": 9,
+          "verse": 4
+        },
+        {
+          "book": "1CO",
+          "chapter": 9,
+          "verse": 5
+        },
+        {
+          "book": "1CO",
+          "chapter": 9,
+          "verse": 6
+        },
+        {
+          "book": "1CO",
+          "chapter": 9,
+          "verse": 12
+        },
+        {
+          "book": "1CO",
+          "chapter": 9,
+          "verse": 18
+        },
+        {
+          "book": "1CO",
+          "chapter": 11,
+          "verse": 10
+        },
+        {
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 22
+        },
+        {
+          "book": "2CO",
+          "chapter": 10,
+          "verse": 8
+        },
+        {
+          "book": "2CO",
+          "chapter": 13,
+          "verse": 10
+        },
+        {
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 10
+        },
+        {
+          "book": "2TH",
+          "chapter": 3,
+          "verse": 9
+        },
+        {
+          "book": "ACT",
+          "chapter": 1,
+          "verse": 7
+        },
+        {
+          "book": "ACT",
+          "chapter": 4,
+          "verse": 7
+        },
+        {
+          "book": "ACT",
+          "chapter": 5,
+          "verse": 4
+        },
+        {
+          "book": "ACT",
+          "chapter": 8,
+          "verse": 19
+        },
+        {
+          "book": "ACT",
+          "chapter": 26,
+          "verse": 10
+        },
+        {
+          "book": "ACT",
+          "chapter": 26,
+          "verse": 12
+        },
+        {
+          "book": "ACT",
+          "chapter": 26,
+          "verse": 18
+        },
+        {
+          "book": "COL",
+          "chapter": 1,
+          "verse": 13
+        },
+        {
+          "book": "COL",
+          "chapter": 1,
+          "verse": 16
+        },
+        {
+          "book": "COL",
+          "chapter": 2,
+          "verse": 10
+        },
+        {
+          "book": "COL",
+          "chapter": 2,
+          "verse": 15
+        },
+        {
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 2
+        },
+        {
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 10
+        },
+        {
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 12
+        },
+        {
+          "book": "JHN",
+          "chapter": 1,
+          "verse": 12
+        },
+        {
+          "book": "JHN",
+          "chapter": 17,
+          "verse": 2
+        },
+        {
+          "book": "JHN",
+          "chapter": 19,
+          "verse": 10
+        },
+        {
+          "book": "JHN",
+          "chapter": 19,
+          "verse": 11
+        },
+        {
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 8
+        },
+        {
+          "book": "LUK",
+          "chapter": 4,
+          "verse": 6
+        },
+        {
+          "book": "LUK",
+          "chapter": 4,
+          "verse": 32
+        },
+        {
+          "book": "LUK",
+          "chapter": 5,
+          "verse": 24
+        },
+        {
+          "book": "LUK",
+          "chapter": 7,
+          "verse": 8
+        },
+        {
+          "book": "LUK",
+          "chapter": 9,
+          "verse": 1
+        },
+        {
+          "book": "LUK",
+          "chapter": 10,
+          "verse": 19
+        },
+        {
+          "book": "LUK",
+          "chapter": 12,
+          "verse": 11
+        },
+        {
+          "book": "LUK",
+          "chapter": 19,
+          "verse": 17
+        },
+        {
+          "book": "LUK",
+          "chapter": 20,
+          "verse": 2
+        },
+        {
+          "book": "LUK",
+          "chapter": 20,
+          "verse": 8
+        },
+        {
+          "book": "LUK",
+          "chapter": 20,
+          "verse": 20
+        },
+        {
+          "book": "LUK",
+          "chapter": 21,
+          "verse": 27
+        },
+        {
+          "book": "LUK",
+          "chapter": 22,
+          "verse": 25
+        },
+        {
+          "book": "LUK",
+          "chapter": 22,
+          "verse": 53
+        },
+        {
+          "book": "REV",
+          "chapter": 2,
+          "verse": 26
+        },
+        {
+          "book": "REV",
+          "chapter": 6,
+          "verse": 8
+        },
+        {
+          "book": "REV",
+          "chapter": 9,
+          "verse": 3
+        },
+        {
+          "book": "REV",
+          "chapter": 11,
+          "verse": 6
+        },
+        {
+          "book": "REV",
+          "chapter": 13,
+          "verse": 2
+        },
+        {
+          "book": "REV",
+          "chapter": 13,
+          "verse": 4
+        },
+        {
+          "book": "REV",
+          "chapter": 16,
+          "verse": 9
+        },
+        {
+          "book": "REV",
+          "chapter": 20,
+          "verse": 6
+        },
+        {
+          "book": "ROM",
+          "chapter": 8,
+          "verse": 38
+        },
+        {
+          "book": "ROM",
+          "chapter": 9,
+          "verse": 21
+        },
+        {
+          "book": "ROM",
+          "chapter": 13,
+          "verse": 1
+        },
+        {
+          "book": "ROM",
+          "chapter": 13,
+          "verse": 2
+        },
+        {
+          "book": "ROM",
+          "chapter": 13,
+          "verse": 3
+        },
+        {
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 1
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/"
+        }
+      ]
+    },
+    {
+      "id": "nt-v25-sexual-immorality",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "fornicación / inmundicia",
+      "proposedOptions": [
+        "inmoralidad sexual",
+        "impureza",
+        "conservar en imágenes proféticas"
+      ],
+      "reason": "Los términos cambian entre conducta sexual concreta, impureza moral y metáfora profética.",
+      "references": [
+        {
+          "book": "1CO",
+          "chapter": 5,
+          "verse": 1
+        },
+        {
+          "book": "1CO",
+          "chapter": 6,
+          "verse": 13
+        },
+        {
+          "book": "1CO",
+          "chapter": 6,
+          "verse": 18
+        },
+        {
+          "book": "1TH",
+          "chapter": 4,
+          "verse": 3
+        },
+        {
+          "book": "2CO",
+          "chapter": 12,
+          "verse": 21
+        },
+        {
+          "book": "ACT",
+          "chapter": 15,
+          "verse": 20
+        },
+        {
+          "book": "ACT",
+          "chapter": 15,
+          "verse": 29
+        },
+        {
+          "book": "ACT",
+          "chapter": 21,
+          "verse": 25
+        },
+        {
+          "book": "COL",
+          "chapter": 3,
+          "verse": 5
+        },
+        {
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 3
+        },
+        {
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 19
+        },
+        {
+          "book": "JHN",
+          "chapter": 8,
+          "verse": 41
+        },
+        {
+          "book": "REV",
+          "chapter": 2,
+          "verse": 14
+        },
+        {
+          "book": "REV",
+          "chapter": 2,
+          "verse": 21
+        },
+        {
+          "book": "REV",
+          "chapter": 9,
+          "verse": 21
+        },
+        {
+          "book": "REV",
+          "chapter": 14,
+          "verse": 8
+        },
+        {
+          "book": "REV",
+          "chapter": 17,
+          "verse": 2
+        },
+        {
+          "book": "REV",
+          "chapter": 17,
+          "verse": 4
+        },
+        {
+          "book": "REV",
+          "chapter": 18,
+          "verse": 3
+        },
+        {
+          "book": "REV",
+          "chapter": 19,
+          "verse": 2
+        },
+        {
+          "book": "ROM",
+          "chapter": 1,
+          "verse": 29
+        },
+        {
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 21
+        },
+        {
+          "book": "1TH",
+          "chapter": 2,
+          "verse": 3
+        },
+        {
+          "book": "1TH",
+          "chapter": 4,
+          "verse": 7
+        },
+        {
+          "book": "2CO",
+          "chapter": 7,
+          "verse": 1
+        },
+        {
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 10
+        },
+        {
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 21
+        },
+        {
+          "book": "ROM",
+          "chapter": 1,
+          "verse": 24
+        },
+        {
+          "book": "ROM",
+          "chapter": 6,
+          "verse": 19
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/"
+        }
+      ]
+    },
+    {
+      "id": "nt-v25-covenant-testament",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "pacto / testamento",
+      "proposedOptions": [
+        "pacto",
+        "testamento",
+        "conservar con nota"
+      ],
+      "reason": "La elección debe mantenerse coherente en los dichos de la Cena, Hebreos y la relación entre pacto y testamento.",
+      "references": [
+        {
+          "book": "1CO",
+          "chapter": 11,
+          "verse": 25
+        },
+        {
+          "book": "2CO",
+          "chapter": 3,
+          "verse": 6
+        },
+        {
+          "book": "ACT",
+          "chapter": 3,
+          "verse": 25
+        },
+        {
+          "book": "ACT",
+          "chapter": 7,
+          "verse": 8
+        },
+        {
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 12
+        },
+        {
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 15
+        },
+        {
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 24
+        },
+        {
+          "book": "HEB",
+          "chapter": 8,
+          "verse": 6
+        },
+        {
+          "book": "HEB",
+          "chapter": 8,
+          "verse": 8
+        },
+        {
+          "book": "HEB",
+          "chapter": 8,
+          "verse": 9
+        },
+        {
+          "book": "HEB",
+          "chapter": 8,
+          "verse": 10
+        },
+        {
+          "book": "HEB",
+          "chapter": 8,
+          "verse": 13
+        },
+        {
+          "book": "HEB",
+          "chapter": 9,
+          "verse": 1
+        },
+        {
+          "book": "HEB",
+          "chapter": 9,
+          "verse": 4
+        },
+        {
+          "book": "HEB",
+          "chapter": 10,
+          "verse": 16
+        },
+        {
+          "book": "LUK",
+          "chapter": 1,
+          "verse": 72
+        },
+        {
+          "book": "LUK",
+          "chapter": 22,
+          "verse": 20
+        },
+        {
+          "book": "ROM",
+          "chapter": 9,
+          "verse": 4
+        },
+        {
+          "book": "ROM",
+          "chapter": 11,
+          "verse": 27
+        },
+        {
+          "book": "2CO",
+          "chapter": 3,
+          "verse": 14
+        },
+        {
+          "book": "HEB",
+          "chapter": 7,
+          "verse": 22
+        },
+        {
+          "book": "HEB",
+          "chapter": 9,
+          "verse": 15
+        },
+        {
+          "book": "HEB",
+          "chapter": 9,
+          "verse": 16
+        },
+        {
+          "book": "HEB",
+          "chapter": 9,
+          "verse": 17
+        },
+        {
+          "book": "HEB",
+          "chapter": 9,
+          "verse": 20
+        },
+        {
+          "book": "HEB",
+          "chapter": 10,
+          "verse": 29
+        },
+        {
+          "book": "HEB",
+          "chapter": 12,
+          "verse": 24
+        },
+        {
+          "book": "HEB",
+          "chapter": 13,
+          "verse": 20
+        },
+        {
+          "book": "REV",
+          "chapter": 11,
+          "verse": 19
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/"
+        }
+      ]
+    },
+    {
+      "id": "nt-v25-remission-atonement",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "remisión / expiación",
+      "proposedOptions": [
+        "perdón",
+        "liberación",
+        "expiación"
+      ],
+      "reason": "Son términos doctrinales con matices distintos; no deben colapsarse mediante una sustitución general.",
+      "references": [
+        {
+          "book": "ACT",
+          "chapter": 5,
+          "verse": 31
+        },
+        {
+          "book": "ACT",
+          "chapter": 13,
+          "verse": 38
+        },
+        {
+          "book": "ACT",
+          "chapter": 26,
+          "verse": 18
+        },
+        {
+          "book": "COL",
+          "chapter": 1,
+          "verse": 14
+        },
+        {
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 7
+        },
+        {
+          "book": "HEB",
+          "chapter": 9,
+          "verse": 15
+        },
+        {
+          "book": "HEB",
+          "chapter": 9,
+          "verse": 22
+        },
+        {
+          "book": "HEB",
+          "chapter": 10,
+          "verse": 18
+        },
+        {
+          "book": "LUK",
+          "chapter": 1,
+          "verse": 77
+        },
+        {
+          "book": "LUK",
+          "chapter": 3,
+          "verse": 3
+        },
+        {
+          "book": "LUK",
+          "chapter": 10,
+          "verse": 12
+        },
+        {
+          "book": "LUK",
+          "chapter": 10,
+          "verse": 14
+        },
+        {
+          "book": "LUK",
+          "chapter": 24,
+          "verse": 47
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/"
+        }
+      ]
+    },
+    {
+      "id": "nt-v25-circumcision",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "circuncisión / incircuncisión",
+      "proposedOptions": [
+        "conservar término histórico",
+        "explicar grupo o condición por contexto"
+      ],
+      "reason": "A veces nombra el rito, otras una condición o un grupo de personas; el término sigue siendo comprensible.",
+      "references": [
+        {
+          "book": "1CO",
+          "chapter": 7,
+          "verse": 19
+        },
+        {
+          "book": "ACT",
+          "chapter": 7,
+          "verse": 8
+        },
+        {
+          "book": "ACT",
+          "chapter": 10,
+          "verse": 45
+        },
+        {
+          "book": "ACT",
+          "chapter": 11,
+          "verse": 2
+        },
+        {
+          "book": "COL",
+          "chapter": 2,
+          "verse": 11
+        },
+        {
+          "book": "COL",
+          "chapter": 2,
+          "verse": 13
+        },
+        {
+          "book": "COL",
+          "chapter": 3,
+          "verse": 11
+        },
+        {
+          "book": "COL",
+          "chapter": 4,
+          "verse": 11
+        },
+        {
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 11
+        },
+        {
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 7
+        },
+        {
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 8
+        },
+        {
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 9
+        },
+        {
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 12
+        },
+        {
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 6
+        },
+        {
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 11
+        },
+        {
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 15
+        },
+        {
+          "book": "JHN",
+          "chapter": 7,
+          "verse": 22
+        },
+        {
+          "book": "JHN",
+          "chapter": 7,
+          "verse": 23
+        },
+        {
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 3
+        },
+        {
+          "book": "ROM",
+          "chapter": 2,
+          "verse": 25
+        },
+        {
+          "book": "ROM",
+          "chapter": 2,
+          "verse": 26
+        },
+        {
+          "book": "ROM",
+          "chapter": 2,
+          "verse": 27
+        },
+        {
+          "book": "ROM",
+          "chapter": 2,
+          "verse": 28
+        },
+        {
+          "book": "ROM",
+          "chapter": 2,
+          "verse": 29
+        },
+        {
+          "book": "ROM",
+          "chapter": 3,
+          "verse": 1
+        },
+        {
+          "book": "ROM",
+          "chapter": 3,
+          "verse": 30
+        },
+        {
+          "book": "ROM",
+          "chapter": 4,
+          "verse": 9
+        },
+        {
+          "book": "ROM",
+          "chapter": 4,
+          "verse": 10
+        },
+        {
+          "book": "ROM",
+          "chapter": 4,
+          "verse": 11
+        },
+        {
+          "book": "ROM",
+          "chapter": 4,
+          "verse": 12
+        },
+        {
+          "book": "ROM",
+          "chapter": 15,
+          "verse": 8
+        },
+        {
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 10
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/"
+        }
+      ]
+    },
+    {
+      "id": "nt-v25-spiritual-terms",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "redención / primicias / mediador",
+      "proposedOptions": [
+        "conservar",
+        "añadir explicación contextual"
+      ],
+      "reason": "Son términos bíblicos comprensibles y cargados de significado; se conservan hasta decidir una política de notas.",
+      "references": [
+        {
+          "book": "1CO",
+          "chapter": 1,
+          "verse": 30
+        },
+        {
+          "book": "COL",
+          "chapter": 1,
+          "verse": 14
+        },
+        {
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 7
+        },
+        {
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 14
+        },
+        {
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 30
+        },
+        {
+          "book": "HEB",
+          "chapter": 9,
+          "verse": 12
+        },
+        {
+          "book": "LUK",
+          "chapter": 1,
+          "verse": 68
+        },
+        {
+          "book": "LUK",
+          "chapter": 2,
+          "verse": 38
+        },
+        {
+          "book": "LUK",
+          "chapter": 21,
+          "verse": 28
+        },
+        {
+          "book": "ROM",
+          "chapter": 3,
+          "verse": 24
+        },
+        {
+          "book": "ROM",
+          "chapter": 8,
+          "verse": 23
+        },
+        {
+          "book": "1CO",
+          "chapter": 15,
+          "verse": 20
+        },
+        {
+          "book": "1CO",
+          "chapter": 15,
+          "verse": 23
+        },
+        {
+          "book": "1CO",
+          "chapter": 16,
+          "verse": 15
+        },
+        {
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 18
+        },
+        {
+          "book": "REV",
+          "chapter": 14,
+          "verse": 4
+        },
+        {
+          "book": "ROM",
+          "chapter": 16,
+          "verse": 5
+        },
+        {
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 5
+        },
+        {
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 19
+        },
+        {
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 20
+        },
+        {
+          "book": "HEB",
+          "chapter": 8,
+          "verse": 6
+        },
+        {
+          "book": "HEB",
+          "chapter": 9,
+          "verse": 15
+        },
+        {
+          "book": "HEB",
+          "chapter": 12,
+          "verse": 24
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/"
         }
       ]
     }
