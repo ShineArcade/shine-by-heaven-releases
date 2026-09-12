@@ -3,9 +3,9 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-bible-stable",
-    "contentVersion": 21,
-    "issuedAt": "2026-09-12T07:00:00.000Z",
-    "expiresAt": "2028-09-12T07:00:00.000Z",
+    "contentVersion": 22,
+    "issuedAt": "2026-09-12T11:00:00.000Z",
+    "expiresAt": "2028-09-12T11:00:00.000Z",
     "distributionScope": "public",
     "updatePolicy": {
       "versionAuthority": "contentVersion",
@@ -39,18 +39,18 @@
         "kind": "reading-filter",
         "id": "RV1909-LECTURA-2026",
         "schemaVersion": 1,
-        "contentVersion": 21,
+        "contentVersion": 22,
         "sourceVersionId": "RV1909",
         "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-        "contentSha256": "da6e301ee6a2e08aea304f48fdf9b3658080d5d23fd4c1d44ab6c361ea999da6",
-        "sizeBytes": 677306,
+        "contentSha256": "7914e0056a6242a20ee5d0407bc591a2cb5871e3038c63da3eda1c5ff1c9eda9",
+        "sizeBytes": 713131,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.rv1909.v21.package.json.gz",
+        "artifactPath": "reading_2026.rv1909.v22.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
-          "changedVerseCount": 7122,
-          "editCount": 9066
+          "changedVerseCount": 7329,
+          "editCount": 9393
         },
         "editorialPolicy": {
           "id": "unified-minimal-comprehension-policy",
@@ -60,11 +60,11 @@
       }
     ]
   },
-  "contentSha256": "869a3f05cbc59853349959ba8dd9ecdf58269c9bdad8fed234bf60d79958f343",
+  "contentSha256": "bbee62448beb8b579655cf77ea328128a0a4ee84bc89598e1653d64b57be3625",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "mbOGUiz9LowzJ2WSfX7w4JfCN6wVR-_ZiZ4Nqm8DTWXakx4J7VTnnufs7SBjVhFutAXTiSZ3NlHZMGIYjEK1AA"
+    "value": "hfoPqV9AKeBIVUQobMbkoYShORGoJi3YYVrL_MXbvuMBTQtk4vwQvXkKZPtwo8SfuIbaL7drNjGp-rV2iodvBw"
   }
 }
