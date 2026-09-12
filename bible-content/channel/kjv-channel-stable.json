@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-kjv-reading-stable",
-    "contentVersion": 5,
+    "contentVersion": 6,
     "issuedAt": "2026-09-10T00:00:00.000Z",
     "expiresAt": "2028-09-10T00:00:00.000Z",
     "distributionScope": "public",
@@ -19,34 +19,34 @@
         "kind": "reading-filter",
         "id": "KJV-READING-2026",
         "schemaVersion": 1,
-        "contentVersion": 5,
+        "contentVersion": 6,
         "sourceVersionId": "KJV",
         "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
-        "contentSha256": "e7a2d644cd35253780f0eb638b69e214dd838f2e54813ff321666da065017246",
-        "sizeBytes": 107388,
+        "contentSha256": "d128cde6e435592ce6f72c804ca4f76773be225680e4fa7242462ce4f943a3ff",
+        "sizeBytes": 126880,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.kjv.v5.package.json.gz",
+        "artifactPath": "reading_2026.kjv.v6.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
           "expectedBookCount": 66,
           "includedBookCount": 66,
-          "changedVerseCount": 1551,
-          "editCount": 1652
+          "changedVerseCount": 1760,
+          "editCount": 1901
         },
         "editorialPolicy": {
           "id": "kjv-minimal-comprehension-policy",
-          "version": 5,
+          "version": 6,
           "description": "Only exact, occurrence-reviewed wording that materially improves comprehension is projected. The packaged KJV remains immutable."
         }
       }
     ]
   },
-  "contentSha256": "e934de3a849138cba3490135c8ba8b69178e828395b47294906beedb8c48dff9",
+  "contentSha256": "23a30e49b6775e745cdacd3329ed31fbfa01ba1827e8f719e2c525896003b22d",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "5kbzRmQX1KvmS2ih9Q7c9O1xPQpprxfC4UEMCu7ogE8bnYpXFqtxqbwHblpv0Nmx-aNrVIRLqAudATJyglZeCA"
+    "value": "50rWSw7HNxfZ9uq8uLrU4eUTQD2pKTB9TywoBok2lhYU7qIEAI7RMUUWNf8TgYvdz6kH-hM3CYT0d0c2XU_lAg"
   }
 }
