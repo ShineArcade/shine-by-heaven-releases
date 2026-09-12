@@ -1,0 +1,5381 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 20,
+  "generatedAt": "2026-09-12T05:00:00.000Z",
+  "issuedAt": "2026-09-12T05:00:00.000Z",
+  "expiresAt": "2028-09-12T05:00:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "JOS",
+      "chapter": 1,
+      "verse": 2,
+      "expected": "Mi siervo Moisés es muerto",
+      "replacement": "Mi siervo Moisés ha muerto",
+      "category": "archaic-verb-phrase",
+      "reason": "La forma actual expresa la misma muerte ya ocurrida sin el giro arcaico es muerto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 1,
+      "verse": 4,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 1,
+      "verse": 6,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 1,
+      "verse": 7,
+      "expected": "ni á diestra ni á siniestra",
+      "replacement": "ni a derecha ni a izquierda",
+      "category": "archaic-direction-phrase",
+      "reason": "Diestra y siniestra designan aquí derecha e izquierda.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+1%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 2,
+      "verse": 1,
+      "expected": "entráronse",
+      "replacement": "entraron",
+      "category": "archaic-enclitic-order",
+      "reason": "El pronombre enclítico no aporta un participante distinto en esta acción.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 2,
+      "verse": 1,
+      "expected": "ramera",
+      "replacement": "prostituta",
+      "category": "archaic-person-term",
+      "reason": "Ramera es el término antiguo empleado para describir la ocupación de Rahab.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 2,
+      "verse": 9,
+      "expected": "moradores",
+      "replacement": "habitantes",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 2,
+      "verse": 18,
+      "expected": "cordón de grana",
+      "replacement": "cordón rojo",
+      "category": "archaic-color-term",
+      "reason": "Grana designa el color rojo del cordón que sirve como señal.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A18&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A18&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 2,
+      "verse": 24,
+      "expected": "moradores",
+      "replacement": "habitantes",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A24&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+2%3A24&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 3,
+      "verse": 9,
+      "expected": "Llegaos acá",
+      "replacement": "Acercaos",
+      "category": "archaic-imperative",
+      "reason": "Llegarse significa acercarse en esta invitación a escuchar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+3%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+3%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 4,
+      "verse": 6,
+      "expected": "¿Qué os significan estas piedras?",
+      "replacement": "¿Qué significan estas piedras?",
+      "category": "archaic-question-phrase",
+      "reason": "Se elimina el dativo arcaico que oscurece una pregunta sobre el significado de las piedras.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+4%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+4%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 4,
+      "verse": 7,
+      "expected": "serán por memoria",
+      "replacement": "servirán como recuerdo",
+      "category": "archaic-memorial-phrase",
+      "reason": "Por memoria significa que las piedras servirán como recuerdo permanente.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+4%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+4%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 5,
+      "verse": 9,
+      "expected": "oprobio",
+      "replacement": "deshonra",
+      "category": "archaic-lexicon",
+      "reason": "Oprobio significa deshonra en la declaración sobre Egipto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 5,
+      "verse": 10,
+      "expected": "asentaron el campo",
+      "replacement": "acamparon",
+      "category": "archaic-camp-phrase",
+      "reason": "Asentar el campo significa instalar el campamento.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+5%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 6,
+      "verse": 1,
+      "expected": "EMPERO",
+      "replacement": "PERO",
+      "category": "archaic-connector",
+      "reason": "Empero es un conector arcaico equivalente a pero.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 6,
+      "verse": 17,
+      "expected": "ramera",
+      "replacement": "prostituta",
+      "category": "archaic-person-term",
+      "reason": "Ramera es el término antiguo empleado para describir la ocupación de Rahab.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A17&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A17&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 6,
+      "verse": 22,
+      "expected": "ramera",
+      "replacement": "prostituta",
+      "category": "archaic-person-term",
+      "reason": "Ramera es el término antiguo empleado para describir la ocupación de Rahab.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A22&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A22&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 6,
+      "verse": 25,
+      "expected": "ramera",
+      "replacement": "prostituta",
+      "category": "archaic-person-term",
+      "reason": "Ramera es el término antiguo empleado para describir la ocupación de Rahab.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A25&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A25&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 7,
+      "verse": 9,
+      "expected": "moradores",
+      "replacement": "habitantes",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 7,
+      "verse": 14,
+      "expected": "Os allegaréis",
+      "replacement": "Os presentaréis",
+      "category": "archaic-assembly-verb",
+      "reason": "Allegarse por tribus significa presentarse para la identificación ordenada.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 7,
+      "verse": 14,
+      "expected": "la tribu que Jehová tomare, se allegará por sus familias",
+      "replacement": "la tribu que Jehová tomare, se presentará por sus familias",
+      "category": "archaic-assembly-verb",
+      "reason": "Allegarse por familias significa presentarse ante la asamblea.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 7,
+      "verse": 14,
+      "expected": "la familia que Jehová tomare, se allegará por sus casas",
+      "replacement": "la familia que Jehová tomare, se presentará por sus casas",
+      "category": "archaic-assembly-verb",
+      "reason": "Allegarse por casas significa presentarse ante la asamblea.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 7,
+      "verse": 14,
+      "expected": "allegaráse",
+      "replacement": "se presentará",
+      "category": "archaic-enclitic-order",
+      "reason": "Se modernizan el verbo de comparecencia y el orden del pronombre.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 7,
+      "verse": 16,
+      "expected": "hizo allegar á Israel",
+      "replacement": "hizo presentarse a Israel",
+      "category": "archaic-assembly-verb",
+      "reason": "La acción consiste en presentar a Israel por tribus para identificar al responsable.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 8,
+      "verse": 13,
+      "expected": "vínose Josué aquella noche al medio del valle",
+      "replacement": "Josué fue aquella noche al medio del valle",
+      "category": "archaic-enclitic-order",
+      "reason": "Se moderniza el orden verbal sin alterar el desplazamiento de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 8,
+      "verse": 14,
+      "expected": "levantóse prestamente de mañana",
+      "replacement": "se levantó temprano",
+      "category": "archaic-time-phrase",
+      "reason": "La frase indica que el rey se levantó temprano para combatir.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 8,
+      "verse": 19,
+      "expected": "prestamente",
+      "replacement": "rápidamente",
+      "category": "archaic-adverb",
+      "reason": "Prestamente significa rápidamente en la salida de la emboscada.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A19&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A19&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 8,
+      "verse": 24,
+      "expected": "moradores",
+      "replacement": "habitantes",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A24&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A24&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 8,
+      "verse": 26,
+      "expected": "moradores",
+      "replacement": "habitantes",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A26&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+8%3A26&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 9,
+      "verse": 3,
+      "expected": "moradores",
+      "replacement": "habitantes",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 9,
+      "verse": 11,
+      "expected": "moradores",
+      "replacement": "habitantes",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 9,
+      "verse": 13,
+      "expected": "los henchimos nuevos",
+      "replacement": "los llenamos cuando eran nuevos",
+      "category": "archaic-container-phrase",
+      "reason": "Henchir significa llenar; se conserva que los recipientes eran nuevos al llenarlos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 9,
+      "verse": 15,
+      "expected": "concertó con ellos",
+      "replacement": "pactó con ellos",
+      "category": "archaic-covenant-verb",
+      "reason": "Concertar aquí significa celebrar un pacto de paz.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A15&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A15&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 9,
+      "verse": 24,
+      "expected": "moradores",
+      "replacement": "habitantes",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A24&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+9%3A24&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 10,
+      "verse": 1,
+      "expected": "moradores",
+      "replacement": "habitantes",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 10,
+      "verse": 6,
+      "expected": "moradores",
+      "replacement": "habitantes",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 10,
+      "verse": 39,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A39&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A39&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 11,
+      "verse": 4,
+      "expected": "con gran muchedumbre de caballos y carros",
+      "replacement": "con muchísimos caballos y carros",
+      "category": "archaic-quantity-phrase",
+      "reason": "Muchedumbre expresa la gran cantidad de caballos y carros.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+11%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 12,
+      "verse": 2,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 12,
+      "verse": 4,
+      "expected": "términos",
+      "replacement": "límites",
+      "category": "archaic-geographic-term",
+      "reason": "Términos designa límites territoriales en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 12,
+      "verse": 5,
+      "expected": "Galaad, término",
+      "replacement": "Galaad, límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+12%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 2,
+      "expected": "términos",
+      "replacement": "límites",
+      "category": "archaic-geographic-term",
+      "reason": "Términos designa límites territoriales en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 3,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 4,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 6,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 7,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 8,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 11,
+      "expected": "términos",
+      "replacement": "límites",
+      "category": "archaic-geographic-term",
+      "reason": "Términos designa límites territoriales en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 14,
+      "expected": "dió heredad",
+      "replacement": "dió herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 14,
+      "expected": "su heredad",
+      "replacement": "su herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 16,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 17,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A17&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A17&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 23,
+      "expected": "términos",
+      "replacement": "límites",
+      "category": "archaic-geographic-term",
+      "reason": "Términos designa límites territoriales en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 23,
+      "expected": "su término",
+      "replacement": "su límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 25,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A25&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A25&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 26,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A26&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A26&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 27,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A27&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A27&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 30,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A30&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A30&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 32,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A32&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A32&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 33,
+      "expected": "Moisés heredad",
+      "replacement": "Moisés herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A33&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A33&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 13,
+      "verse": 33,
+      "expected": "la heredad",
+      "replacement": "la herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A33&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+13%3A33&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 14,
+      "verse": 1,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 14,
+      "verse": 2,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 14,
+      "verse": 3,
+      "expected": "dado heredad",
+      "replacement": "dado herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 14,
+      "verse": 3,
+      "expected": "dió heredad",
+      "replacement": "dió herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 14,
+      "verse": 4,
+      "expected": "ejidos",
+      "replacement": "campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 14,
+      "verse": 9,
+      "expected": "la tierra que holló tu pie",
+      "replacement": "la tierra que pisó tu pie",
+      "category": "archaic-land-verb",
+      "reason": "Hollar significa pisar en la promesa territorial.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 14,
+      "verse": 13,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 14,
+      "verse": 14,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+14%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 1,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 2,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 4,
+      "expected": "este término",
+      "replacement": "este límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 4,
+      "expected": "el término",
+      "replacement": "el límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 5,
+      "expected": "El término",
+      "replacement": "El límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 5,
+      "expected": "el término",
+      "replacement": "el límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 6,
+      "expected": "este término por",
+      "replacement": "este límite por",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 6,
+      "expected": "este término á",
+      "replacement": "este límite á",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 7,
+      "expected": "subir este término á",
+      "replacement": "subir este límite á",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 7,
+      "expected": "pasa este término á",
+      "replacement": "pasa este límite á",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 8,
+      "expected": "sube este término por el",
+      "replacement": "sube este límite por el",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 8,
+      "expected": "sube este término por la",
+      "replacement": "sube este límite por la",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 9,
+      "expected": "este término",
+      "replacement": "este límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 9,
+      "expected": "sale á la ciudades",
+      "replacement": "sale a las ciudades",
+      "category": "source-grammar-correction",
+      "reason": "Se corrigen la preposición y la concordancia plural de la frase.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 9,
+      "expected": "mismo término",
+      "replacement": "mismo límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 10,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 11,
+      "expected": "este término al",
+      "replacement": "este límite al",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 11,
+      "expected": "mismo término",
+      "replacement": "mismo límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 11,
+      "expected": "este término á",
+      "replacement": "este límite á",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 12,
+      "expected": "El término",
+      "replacement": "El límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 12,
+      "expected": "el término",
+      "replacement": "el límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 21,
+      "expected": "del término",
+      "replacement": "del límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 21,
+      "expected": "hacia el término de",
+      "replacement": "hacia el límite de",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 45,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A45&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A45&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 47,
+      "expected": "Asdod con sus villas y sus",
+      "replacement": "Asdod con sus ciudades y sus",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A47&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A47&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 47,
+      "expected": "Gaza con sus villas y sus",
+      "replacement": "Gaza con sus ciudades y sus",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A47&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A47&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 47,
+      "expected": "términos",
+      "replacement": "límites",
+      "category": "archaic-geographic-term",
+      "reason": "Términos designa límites territoriales en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A47&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A47&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 16,
+      "verse": 2,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 16,
+      "verse": 3,
+      "expected": "al término",
+      "replacement": "al límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 16,
+      "verse": 3,
+      "expected": "el término",
+      "replacement": "el límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 16,
+      "verse": 4,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 16,
+      "verse": 5,
+      "expected": "fué el término de los",
+      "replacement": "fué el límite de los",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 16,
+      "verse": 5,
+      "expected": "fué el término de su",
+      "replacement": "fué el límite de su",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 16,
+      "verse": 6,
+      "expected": "este término á",
+      "replacement": "este límite á",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 16,
+      "verse": 6,
+      "expected": "este término hacia",
+      "replacement": "este límite hacia",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 16,
+      "verse": 8,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 16,
+      "verse": 8,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+16%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 7,
+      "expected": "el término",
+      "replacement": "el límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 7,
+      "expected": "este término",
+      "replacement": "este límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 8,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 9,
+      "expected": "este término",
+      "replacement": "este límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 9,
+      "expected": "el término",
+      "replacement": "el límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 10,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 11,
+      "expected": "y los moradores de Dor",
+      "replacement": "y los habitantes de Dor",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 11,
+      "expected": "y los moradores de Endor",
+      "replacement": "y los habitantes de Endor",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 11,
+      "expected": "y los moradores de Taanach",
+      "replacement": "y los habitantes de Taanach",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 11,
+      "expected": "y los moradores de Megiddo",
+      "replacement": "y los habitantes de Megiddo",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 13,
+      "expected": "hicieron tributario al Cananeo",
+      "replacement": "sometieron al cananeo a trabajos forzados",
+      "category": "archaic-labor-phrase",
+      "reason": "Tributario describe aquí el sometimiento del pueblo cananeo a trabajos forzados.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 17,
+      "verse": 14,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+17%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 1,
+      "expected": "asentaron allí el tabernáculo",
+      "replacement": "instalaron allí el tabernáculo",
+      "category": "archaic-installation-verb",
+      "reason": "Asentar el tabernáculo significa instalarlo en Silo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 4,
+      "expected": "heredades",
+      "replacement": "herencias",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredades designa las herencias territoriales de las tribus.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 5,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 7,
+      "expected": "la heredad",
+      "replacement": "la herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 7,
+      "expected": "su heredad",
+      "replacement": "su herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 9,
+      "expected": "tornaron á Josué",
+      "replacement": "volvieron a Josué",
+      "category": "archaic-return-verb",
+      "reason": "Tornar significa volver en este itinerario.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 11,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 12,
+      "expected": "el término de",
+      "replacement": "el límite de",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 12,
+      "expected": "aquel término",
+      "replacement": "aquel límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 13,
+      "expected": "aquel término",
+      "replacement": "aquel límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 13,
+      "expected": "este término",
+      "replacement": "este límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 14,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 15,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A15&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A15&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 16,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 19,
+      "expected": "este término",
+      "replacement": "este límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A19&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A19&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 19,
+      "expected": "el término á",
+      "replacement": "el límite á",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A19&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A19&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 19,
+      "expected": "el término de",
+      "replacement": "el límite de",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A19&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A19&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 20,
+      "expected": "término al lado",
+      "replacement": "límite al lado",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa el límite territorial oriental de Benjamín.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 20,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 18,
+      "verse": 28,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A28&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+18%3A28&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 1,
+      "expected": "su heredad",
+      "replacement": "su herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 1,
+      "expected": "la heredad",
+      "replacement": "la herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 2,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 8,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 9,
+      "expected": "la heredad",
+      "replacement": "la herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 9,
+      "expected": "su heredad",
+      "replacement": "su herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 10,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 10,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 11,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 12,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 14,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 16,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 18,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A18&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A18&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 22,
+      "expected": "este término",
+      "replacement": "este límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A22&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A22&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 22,
+      "expected": "su término",
+      "replacement": "su límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A22&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A22&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 23,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 25,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A25&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A25&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 29,
+      "expected": "allí este término á",
+      "replacement": "allí este límite á",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A29&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A29&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 29,
+      "expected": "torna este término á",
+      "replacement": "torna este límite á",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A29&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A29&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 31,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A31&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A31&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 33,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A33&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A33&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 34,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A34&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A34&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 39,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A39&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A39&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 41,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A41&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A41&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 41,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A41&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A41&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 46,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A46&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A46&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 48,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A48&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A48&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 49,
+      "expected": "en heredad",
+      "replacement": "en herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A49&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A49&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 49,
+      "expected": "términos",
+      "replacement": "límites",
+      "category": "archaic-geographic-term",
+      "reason": "Términos designa límites territoriales en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A49&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A49&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 49,
+      "expected": "Israel heredad",
+      "replacement": "Israel herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A49&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A49&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 19,
+      "verse": 51,
+      "expected": "heredades",
+      "replacement": "herencias",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredades designa las herencias territoriales de las tribus.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A51&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+19%3A51&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 2,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 2,
+      "expected": "ejidos",
+      "replacement": "campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 3,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 3,
+      "expected": "ejidos",
+      "replacement": "campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 4,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 5,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 6,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A6&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A6&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 7,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 8,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 8,
+      "expected": "ejidos",
+      "replacement": "campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 9,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 11,
+      "expected": "ejidos",
+      "replacement": "campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 13,
+      "expected": "sus ejidos;",
+      "replacement": "sus campos de pastoreo;",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 13,
+      "expected": "sus ejidos,",
+      "replacement": "sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 14,
+      "expected": "con sus ejidos, y",
+      "replacement": "con sus campos de pastoreo, y",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 14,
+      "expected": "Estemoa con sus ejidos,",
+      "replacement": "Estemoa con sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 15,
+      "expected": "con sus ejidos, y",
+      "replacement": "con sus campos de pastoreo, y",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A15&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A15&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 15,
+      "expected": "Debir con sus ejidos,",
+      "replacement": "Debir con sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A15&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A15&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 16,
+      "expected": "con sus ejidos, á",
+      "replacement": "con sus campos de pastoreo, á",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 16,
+      "expected": "con sus ejidos, y",
+      "replacement": "con sus campos de pastoreo, y",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 16,
+      "expected": "sus ejidos;",
+      "replacement": "sus campos de pastoreo;",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 16,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 17,
+      "expected": "con sus ejidos, á",
+      "replacement": "con sus campos de pastoreo, á",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A17&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A17&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 17,
+      "expected": "Geba con sus ejidos,",
+      "replacement": "Geba con sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A17&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A17&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 18,
+      "expected": "sus ejidos,",
+      "replacement": "sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A18&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A18&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 18,
+      "expected": "sus ejidos:",
+      "replacement": "sus campos de pastoreo:",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A18&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A18&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 18,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A18&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A18&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 19,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A19&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A19&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 19,
+      "expected": "ejidos",
+      "replacement": "campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A19&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A19&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 20,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 21,
+      "expected": "villa",
+      "replacement": "ciudad",
+      "category": "archaic-settlement-term",
+      "reason": "Villa designa una ciudad o población en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 21,
+      "expected": "con sus ejidos, en",
+      "replacement": "con sus campos de pastoreo, en",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 21,
+      "expected": "Geser con sus ejidos,",
+      "replacement": "Geser con sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 22,
+      "expected": "sus ejidos,",
+      "replacement": "sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A22&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A22&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 22,
+      "expected": "sus ejidos:",
+      "replacement": "sus campos de pastoreo:",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A22&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A22&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 22,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A22&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A22&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 23,
+      "expected": "con sus ejidos, á",
+      "replacement": "con sus campos de pastoreo, á",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 23,
+      "expected": "Gibethón con sus ejidos,",
+      "replacement": "Gibethón con sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 24,
+      "expected": "sus ejidos,",
+      "replacement": "sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A24&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A24&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 24,
+      "expected": "sus ejidos:",
+      "replacement": "sus campos de pastoreo:",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A24&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A24&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 24,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A24&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A24&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 25,
+      "expected": "sus ejidos,",
+      "replacement": "sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A25&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A25&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 25,
+      "expected": "sus ejidos:",
+      "replacement": "sus campos de pastoreo:",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A25&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A25&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 25,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A25&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A25&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 26,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A26&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A26&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 26,
+      "expected": "ejidos",
+      "replacement": "campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A26&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A26&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 27,
+      "expected": "la villa",
+      "replacement": "la ciudad",
+      "category": "archaic-settlement-term",
+      "reason": "Villa designa una ciudad o población en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A27&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A27&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 27,
+      "expected": "sus ejidos,",
+      "replacement": "sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A27&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A27&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 27,
+      "expected": "sus ejidos:",
+      "replacement": "sus campos de pastoreo:",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A27&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A27&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 27,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A27&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A27&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 28,
+      "expected": "con sus ejidos, á",
+      "replacement": "con sus campos de pastoreo, á",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A28&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A28&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 28,
+      "expected": "Dabereth con sus ejidos,",
+      "replacement": "Dabereth con sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A28&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A28&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 29,
+      "expected": "sus ejidos,",
+      "replacement": "sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A29&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A29&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 29,
+      "expected": "sus ejidos:",
+      "replacement": "sus campos de pastoreo:",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A29&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A29&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 29,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A29&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A29&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 30,
+      "expected": "con sus ejidos, á",
+      "replacement": "con sus campos de pastoreo, á",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A30&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A30&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 30,
+      "expected": "Abdón con sus ejidos,",
+      "replacement": "Abdón con sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A30&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A30&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 31,
+      "expected": "sus ejidos,",
+      "replacement": "sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A31&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A31&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 31,
+      "expected": "sus ejidos:",
+      "replacement": "sus campos de pastoreo:",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A31&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A31&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 31,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A31&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A31&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 32,
+      "expected": "la villa",
+      "replacement": "la ciudad",
+      "category": "archaic-settlement-term",
+      "reason": "Villa designa una ciudad o población en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 32,
+      "expected": "con sus ejidos, á",
+      "replacement": "con sus campos de pastoreo, á",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 32,
+      "expected": "con sus ejidos, y",
+      "replacement": "con sus campos de pastoreo, y",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 32,
+      "expected": "sus ejidos:",
+      "replacement": "sus campos de pastoreo:",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 32,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A32&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 33,
+      "expected": "las villas",
+      "replacement": "las ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A33&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A33&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 33,
+      "expected": "trece villas",
+      "replacement": "trece ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A33&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A33&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 33,
+      "expected": "ejidos",
+      "replacement": "campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A33&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A33&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 34,
+      "expected": "Jocneam con sus ejidos",
+      "replacement": "Jocneam con sus campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A34&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A34&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 34,
+      "expected": "Cartha con sus ejidos",
+      "replacement": "Cartha con sus campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A34&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A34&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 35,
+      "expected": "sus ejidos,",
+      "replacement": "sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A35&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A35&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 35,
+      "expected": "sus ejidos:",
+      "replacement": "sus campos de pastoreo:",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A35&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A35&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 35,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A35&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A35&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 36,
+      "expected": "con sus ejidos, á",
+      "replacement": "con sus campos de pastoreo, á",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A36&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A36&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 36,
+      "expected": "Jasa con sus ejidos,",
+      "replacement": "Jasa con sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A36&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A36&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 37,
+      "expected": "sus ejidos,",
+      "replacement": "sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A37&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A37&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 37,
+      "expected": "sus ejidos:",
+      "replacement": "sus campos de pastoreo:",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A37&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A37&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 37,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A37&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A37&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 38,
+      "expected": "villa",
+      "replacement": "ciudad",
+      "category": "archaic-settlement-term",
+      "reason": "Villa designa una ciudad o población en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A38&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A38&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 38,
+      "expected": "con sus ejidos, y",
+      "replacement": "con sus campos de pastoreo, y",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A38&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A38&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 38,
+      "expected": "Mahanaim con sus ejidos,",
+      "replacement": "Mahanaim con sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A38&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A38&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 39,
+      "expected": "sus ejidos,",
+      "replacement": "sus campos de pastoreo,",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A39&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A39&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 39,
+      "expected": "sus ejidos:",
+      "replacement": "sus campos de pastoreo:",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A39&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A39&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 39,
+      "expected": "villas",
+      "replacement": "ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A39&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A39&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 40,
+      "expected": "las villas",
+      "replacement": "las ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A40&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A40&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 40,
+      "expected": "doce villas",
+      "replacement": "doce ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A40&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A40&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 41,
+      "expected": "todas la villas",
+      "replacement": "todas las ciudades",
+      "category": "source-grammar-and-archaic-term",
+      "reason": "Se corrige la concordancia todas las y se moderniza villas como ciudades.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A41&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A41&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 41,
+      "expected": "ocho villas",
+      "replacement": "ocho ciudades",
+      "category": "archaic-settlement-term",
+      "reason": "Villas designa ciudades o poblaciones en las listas territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A41&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A41&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 41,
+      "expected": "ejidos",
+      "replacement": "campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A41&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A41&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 21,
+      "verse": 42,
+      "expected": "ejidos",
+      "replacement": "campos de pastoreo",
+      "category": "archaic-pasture-term",
+      "reason": "Ejidos designa los campos de pastoreo que rodeaban las ciudades levíticas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A42&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+21%3A42&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 22,
+      "verse": 7,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 22,
+      "verse": 10,
+      "expected": "términos",
+      "replacement": "límites",
+      "category": "archaic-geographic-term",
+      "reason": "Términos designa límites territoriales en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 22,
+      "verse": 16,
+      "expected": "prevaricáis contra el Dios de Israel",
+      "replacement": "cometéis infidelidad contra el Dios de Israel",
+      "category": "archaic-covenant-term",
+      "reason": "Prevaricar describe una infidelidad al pacto, no una falta administrativa moderna.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 22,
+      "verse": 20,
+      "expected": "prevaricación en el anatema",
+      "replacement": "infidelidad respecto a lo consagrado",
+      "category": "archaic-covenant-term",
+      "reason": "La frase distingue la infidelidad de Acán respecto a lo que estaba consagrado a Jehová.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 22,
+      "verse": 22,
+      "expected": "por prevaricación contra Jehová",
+      "replacement": "por infidelidad contra Jehová",
+      "category": "archaic-covenant-term",
+      "reason": "Prevaricación significa aquí infidelidad al pacto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A22&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A22&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 22,
+      "verse": 23,
+      "expected": "tornarnos de en pos de Jehová",
+      "replacement": "apartarnos de Jehová",
+      "category": "archaic-covenant-phrase",
+      "reason": "La construcción significa abandonar el seguimiento de Jehová.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 22,
+      "verse": 25,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A25&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A25&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 22,
+      "verse": 33,
+      "expected": "el negocio plugo á los hijos de Israel",
+      "replacement": "el asunto agradó a los hijos de Israel",
+      "category": "archaic-approval-phrase",
+      "reason": "Negocio significa asunto y plugo significa agradó.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A33&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+22%3A33&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 23,
+      "verse": 8,
+      "expected": "á Jehová vuestro Dios os allegaréis",
+      "replacement": "permaneceréis unidos a Jehová vuestro Dios",
+      "category": "archaic-covenant-verb",
+      "reason": "Allegarse expresa permanecer unido y fiel a Jehová.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 23,
+      "verse": 12,
+      "expected": "concertareis con ellas matrimonios",
+      "replacement": "contrajereis matrimonio con ellas",
+      "category": "archaic-marriage-phrase",
+      "reason": "Concertar matrimonios significa contraer matrimonio con las naciones restantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 23,
+      "verse": 14,
+      "expected": "reconoced",
+      "replacement": "sabed",
+      "category": "false-friend",
+      "reason": "Reconocer significa aquí saber con certeza, no identificar visualmente.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 23,
+      "verse": 16,
+      "expected": "traspasareis el pacto",
+      "replacement": "quebrantareis el pacto",
+      "category": "archaic-covenant-verb",
+      "reason": "Traspasar el pacto significa quebrantarlo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A16&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+23%3A16&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 24,
+      "verse": 2,
+      "expected": "es á saber",
+      "replacement": "es decir",
+      "category": "archaic-explanatory-phrase",
+      "reason": "Es a saber introduce una explicación y hoy se expresa como es decir.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 24,
+      "verse": 3,
+      "expected": "trájelo",
+      "replacement": "lo traje",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 24,
+      "verse": 3,
+      "expected": "díle á Isaac",
+      "replacement": "le di a Isaac",
+      "category": "archaic-enclitic-order",
+      "reason": "Se moderniza el orden del pronombre sin cambiar el don de Isaac.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 24,
+      "verse": 5,
+      "expected": "al modo que lo hice",
+      "replacement": "conforme a lo que hice",
+      "category": "archaic-comparison-phrase",
+      "reason": "Al modo que significa conforme a en este resumen de las obras en Egipto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 24,
+      "verse": 9,
+      "expected": "levantóse",
+      "replacement": "se levantó",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 24,
+      "verse": 11,
+      "expected": "moradores",
+      "replacement": "habitantes",
+      "category": "archaic-inhabitant-term",
+      "reason": "Moradores significa habitantes en la narración y los registros territoriales de Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 24,
+      "verse": 15,
+      "expected": "escogeos hoy",
+      "replacement": "escoged hoy",
+      "category": "archaic-imperative",
+      "reason": "Se moderniza el imperativo dirigido al pueblo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A15&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A15&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 24,
+      "verse": 21,
+      "expected": "No, antes á Jehová serviremos",
+      "replacement": "No; serviremos a Jehová",
+      "category": "archaic-contrast-phrase",
+      "reason": "Antes funciona como contraste, no como referencia temporal.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 24,
+      "verse": 28,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia territorial asignada a una tribu o familia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A28&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A28&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "JOS",
+      "chapter": 24,
+      "verse": 30,
+      "expected": "término",
+      "replacement": "límite",
+      "category": "archaic-geographic-term",
+      "reason": "Término designa un límite territorial en todas sus apariciones restantes en Josué.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A30&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A30&version=NVI"
+        }
+      ]
+    }
+  ],
+  "pendingReview": [
+    {
+      "book": "JOS",
+      "chapter": 6,
+      "verse": 17,
+      "term": "anatema",
+      "reason": "La expresión combina consagración a Jehová y destrucción; una sola palabra moderna puede perder una de esas dos ideas."
+    },
+    {
+      "book": "JOS",
+      "chapter": 7,
+      "verse": 1,
+      "term": "anatema",
+      "reason": "El relato de Acán usa el término en varios sentidos gramaticales; debe aclararse como unidad y no mediante reemplazo automático."
+    },
+    {
+      "book": "JOS",
+      "chapter": 10,
+      "verse": 12,
+      "term": "Sol, detente en Gabaón",
+      "reason": "El lenguaje poético y cosmológico debe conservarse; cualquier nota explicativa requiere revisión separada."
+    },
+    {
+      "book": "JOS",
+      "chapter": 15,
+      "verse": 2,
+      "term": "lengua del mar",
+      "reason": "La imagen geográfica sigue siendo comprensible en contexto y no se cambia sin una cartografía de apoyo."
+    }
+  ]
+}

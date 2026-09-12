@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T00:00:00.000Z",
+  "updatedAt": "2026-09-12T05:00:00.000Z",
   "sourceVersionId": "RV1909",
-  "activeChangeSet": "editorial-changes/v19.json",
+  "activeChangeSet": "editorial-changes/v20.json",
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs",
   "pending": [
@@ -5421,6 +5421,102 @@
         {
           "label": "Control contextual RVR1960 y NVI",
           "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A17&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "joshua-v20-1",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "anatema",
+      "proposedOptions": [
+        "Mantener con explicación",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La expresión combina consagración a Jehová y destrucción; una sola palabra moderna puede perder una de esas dos ideas.",
+      "references": [
+        {
+          "book": "JOS",
+          "chapter": 6,
+          "verse": 17
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+6%3A17&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "joshua-v20-2",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "anatema",
+      "proposedOptions": [
+        "Mantener con explicación",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "El relato de Acán usa el término en varios sentidos gramaticales; debe aclararse como unidad y no mediante reemplazo automático.",
+      "references": [
+        {
+          "book": "JOS",
+          "chapter": 7,
+          "verse": 1
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+7%3A1&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "joshua-v20-3",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "Sol, detente en Gabaón",
+      "proposedOptions": [
+        "Mantener con explicación",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "El lenguaje poético y cosmológico debe conservarse; cualquier nota explicativa requiere revisión separada.",
+      "references": [
+        {
+          "book": "JOS",
+          "chapter": 10,
+          "verse": 12
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A12&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "joshua-v20-4",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "lengua del mar",
+      "proposedOptions": [
+        "Mantener con explicación",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La imagen geográfica sigue siendo comprensible en contexto y no se cambia sin una cartografía de apoyo.",
+      "references": [
+        {
+          "book": "JOS",
+          "chapter": 15,
+          "verse": 2
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+15%3A2&version=RVR1960%3BNVI"
         }
       ]
     }
