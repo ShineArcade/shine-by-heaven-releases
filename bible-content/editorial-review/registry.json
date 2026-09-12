@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T00:00:00.000Z",
+  "updatedAt": "2026-09-12T00:00:00.000Z",
   "sourceVersionId": "RV1909",
-  "activeChangeSet": "editorial-changes/v18.json",
+  "activeChangeSet": "editorial-changes/v19.json",
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs",
   "pending": [
@@ -5325,6 +5325,102 @@
         {
           "label": "Revisión contextual RVR1960 y NVI",
           "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A12&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "deuteronomy-v19-1",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "precio de perro",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La expresión cultual es discutida y no debe convertirse en una identificación sexual concreta sin una revisión textual especializada.",
+      "references": [
+        {
+          "book": "DEU",
+          "chapter": 23,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A18&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "deuteronomy-v19-2",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "añadir la embriaguez á la sed",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "El modismo hebreo tiene interpretaciones divergentes; se conserva hasta documentar una explicación fiel.",
+      "references": [
+        {
+          "book": "DEU",
+          "chapter": 29,
+          "verse": 19
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A19&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "deuteronomy-v19-3",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "fornicará tras los dioses ajenos",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La metáfora de infidelidad al pacto es deliberada; debe decidirse si se conserva con nota o se aclara sin borrar la imagen.",
+      "references": [
+        {
+          "book": "DEU",
+          "chapter": 31,
+          "verse": 16
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A16&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "deuteronomy-v19-4",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "cuernos de unicornio",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "La identificación zoológica sigue debatida; el cambio vigente a búfalo debe revisarse frente a la opción más amplia bóvido salvaje.",
+      "references": [
+        {
+          "book": "DEU",
+          "chapter": 33,
+          "verse": 17
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A17&version=RVR1960%3BNVI"
         }
       ]
     }

@@ -2,14 +2,14 @@
   "format": "shine-reading-filter-manifest",
   "filterId": "RV1909-LECTURA-2026",
   "schemaVersion": 1,
-  "contentVersion": 18,
+  "contentVersion": 19,
   "sourceVersionId": "RV1909",
   "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-  "contentSha256": "bd82d84471ab75417835f254fbad471c6e41de03f8ef8a1725d8fdbceced6f77",
-  "sizeBytes": 614030,
-  "expandedSizeBytes": 3449655,
+  "contentSha256": "8e85887e3afd0f24e855c7f6f4b97a50898a4994540ca6983763a23a308cf017",
+  "sizeBytes": 620633,
+  "expandedSizeBytes": 3489042,
   "mimeType": "application/vnd.shine.reading-filter+gzip",
-  "generatedAt": "2026-09-11T00:00:00.000Z",
+  "generatedAt": "2026-09-12T00:00:00.000Z",
   "editorialPolicy": {
     "id": "unified-minimal-comprehension-policy",
     "version": 3,
@@ -18,8 +18,8 @@
   "coverage": {
     "expectedBookCount": 66,
     "includedBookCount": 66,
-    "changedVerseCount": 6463,
-    "editCount": 8155
+    "changedVerseCount": 6507,
+    "editCount": 8221
   },
   "books": [
     {
@@ -63,9 +63,9 @@
       "order": 5,
       "sourceFile": "deuteronomy_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "1731b52c3508e8857057cb969c1d88bf18c19b060dffc68a87c1c09a095a74fd",
-      "payloadSha256": "d52d236104dc92f3a3cc17c9c2daeefebe0e15ff2938f1a852f12af8e57f0869",
-      "changedVerseCount": 178,
-      "editCount": 208
+      "payloadSha256": "d38155e49fc7af45a19ddd2665759099af0a160beb99de5fbe110536b1c23992",
+      "changedVerseCount": 222,
+      "editCount": 274
     },
     {
       "id": "JOS",

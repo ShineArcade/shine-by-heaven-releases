@@ -1,0 +1,1296 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 19,
+  "generatedAt": "2026-09-12T00:00:00.000Z",
+  "issuedAt": "2026-09-12T00:00:00.000Z",
+  "expiresAt": "2028-09-12T00:00:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "DEU",
+      "chapter": 2,
+      "verse": 3,
+      "expected": "Harto habéis rodeado este monte; volveos al aquilón",
+      "replacement": "Bastante habéis rodeado este monte; volveos al norte",
+      "category": "archaic-direction",
+      "reason": "Aquilón significa norte; harto significa bastante en esta frase de itinerario.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 2,
+      "verse": 5,
+      "expected": "ni aun la holladura de la planta de un pie",
+      "replacement": "ni siquiera la huella de la planta de un pie",
+      "category": "archaic-land-phrase",
+      "reason": "Holladura designa aquí la mínima superficie que puede pisar un pie.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 2,
+      "verse": 31,
+      "expected": "díjome",
+      "replacement": "me dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A31&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A31&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 3,
+      "verse": 2,
+      "expected": "díjome",
+      "replacement": "me dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 3,
+      "verse": 26,
+      "expected": "díjome",
+      "replacement": "me dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A26&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3%3A26&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 4,
+      "verse": 4,
+      "expected": "os allegasteis á Jehová",
+      "replacement": "permanecisteis unidos a Jehová",
+      "category": "archaic-covenant-verb",
+      "reason": "Allegarse expresa permanecer unido y fiel a Jehová, no solo acercarse físicamente.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 4,
+      "verse": 13,
+      "expected": "escribiólas",
+      "replacement": "las escribió",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 4,
+      "verse": 21,
+      "expected": "sobre vuestros negocios",
+      "replacement": "por causa de vosotros",
+      "category": "false-friend",
+      "reason": "Negocios se refiere aquí a lo sucedido por causa del pueblo, no a actividades comerciales.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 4,
+      "verse": 37,
+      "expected": "sacóte",
+      "replacement": "te sacó",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A37&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A37&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 5,
+      "verse": 1,
+      "expected": "díjoles",
+      "replacement": "les dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 5,
+      "verse": 22,
+      "expected": "escribiólas",
+      "replacement": "las escribió",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A22&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A22&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 5,
+      "verse": 28,
+      "expected": "díjome",
+      "replacement": "me dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A28&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A28&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 8,
+      "verse": 2,
+      "expected": "Y acordarte has de",
+      "replacement": "Y te acordarás de",
+      "category": "archaic-verb-order",
+      "reason": "Se moderniza el orden del verbo y el pronombre sin cambiar el mandato de recordar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 9,
+      "verse": 10,
+      "expected": "dióme",
+      "replacement": "me dio",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 9,
+      "verse": 12,
+      "expected": "díjome",
+      "replacement": "me dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 9,
+      "verse": 12,
+      "expected": "hanse hecho",
+      "replacement": "se han hecho",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 9,
+      "verse": 13,
+      "expected": "hablóme",
+      "replacement": "me habló",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+9%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 10,
+      "verse": 11,
+      "expected": "díjome",
+      "replacement": "me dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A11&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A11&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 11,
+      "verse": 25,
+      "expected": "sobre la haz de toda la tierra que hollareis",
+      "replacement": "sobre toda la tierra que pisareis",
+      "category": "archaic-land-phrase",
+      "reason": "Haz significa superficie y hollar significa pisar en este recorrido territorial.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A25&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A25&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 12,
+      "verse": 30,
+      "expected": "no tropieces en pos de ellas",
+      "replacement": "no caigas en la trampa de seguirlas",
+      "category": "opaque-warning",
+      "reason": "La advertencia prohíbe caer en la trampa de imitar a las naciones destruidas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A30&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A30&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 13,
+      "verse": 2,
+      "expected": "Y acaeciere la señal ó prodigio",
+      "replacement": "Y ocurriere la señal o prodigio",
+      "category": "archaic-verb",
+      "reason": "Acaecer significa ocurrir; se conserva el modo condicional del pasaje.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 13,
+      "verse": 2,
+      "expected": "Vamos en pos de dioses ajenos, que no conociste, y sirvámosles",
+      "replacement": "Vamos tras otros dioses que no conociste y sirvámoslos",
+      "category": "archaic-idolatry-phrase",
+      "reason": "En pos significa tras; la frase completa mantiene la invitación a servir a otros dioses.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 13,
+      "verse": 4,
+      "expected": "En pos de Jehová vuestro Dios andaréis",
+      "replacement": "Seguiréis a Jehová vuestro Dios",
+      "category": "archaic-covenant-phrase",
+      "reason": "Andar en pos de Jehová significa seguirlo con fidelidad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 13,
+      "verse": 13,
+      "expected": "Hombres, hijos de impiedad",
+      "replacement": "Hombres impíos",
+      "category": "archaic-idiom",
+      "reason": "Hijos de impiedad es una construcción antigua para describir hombres impíos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A13&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+13%3A13&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 17,
+      "verse": 8,
+      "expected": "entre sangre y sangre, entre causa y causa, y entre llaga y llaga",
+      "replacement": "entre una clase de homicidio y otra, una causa legal y otra, o una clase de herida y otra",
+      "category": "opaque-legal-list",
+      "reason": "La enumeración distingue tipos difíciles de homicidio, causas legales y lesiones.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+17%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 18,
+      "verse": 22,
+      "expected": "no fuere la tal cosa, ni viniere",
+      "replacement": "no se cumpliere ni aconteciere",
+      "category": "archaic-prophecy-phrase",
+      "reason": "La prueba es que lo anunciado no se cumpla ni suceda.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+18%3A22&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+18%3A22&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 18,
+      "verse": 22,
+      "expected": "con soberbia la habló",
+      "replacement": "la habló con presunción",
+      "category": "false-friend",
+      "reason": "Soberbia describe aquí la presunción de atribuir a Jehová una palabra no recibida.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+18%3A22&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+18%3A22&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 19,
+      "verse": 3,
+      "expected": "Arreglarte has el camino",
+      "replacement": "Prepararás los caminos",
+      "category": "archaic-verb-order",
+      "reason": "La instrucción manda preparar rutas de acceso a las ciudades de refugio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 19,
+      "verse": 3,
+      "expected": "el término de tu tierra",
+      "replacement": "el territorio de tu tierra",
+      "category": "archaic-boundary-term",
+      "reason": "Término designa el territorio delimitado, no una palabra o plazo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 19,
+      "verse": 3,
+      "expected": "para que todo homicida se huya allí",
+      "replacement": "para que todo homicida huya allí",
+      "category": "archaic-grammar",
+      "reason": "Se elimina el pronombre antiguo innecesario sin alterar quién busca refugio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 19,
+      "verse": 5,
+      "expected": "saltó el hierro del cabo",
+      "replacement": "se desprendió el hierro del mango",
+      "category": "archaic-tool-phrase",
+      "reason": "El hierro es la cabeza del hacha que se desprende del mango.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 19,
+      "verse": 5,
+      "expected": "y encontró á su prójimo",
+      "replacement": "y golpeó a su prójimo",
+      "category": "false-friend",
+      "reason": "Encontrar significa alcanzar o golpear en este accidente, no descubrir a la persona.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A5&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A5&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 19,
+      "verse": 15,
+      "expected": "En el dicho de dos testigos, ó en el dicho de tres testigos consistirá el negocio",
+      "replacement": "Por el testimonio de dos o tres testigos se establecerá el asunto",
+      "category": "archaic-legal-phrase",
+      "reason": "Dicho significa testimonio y negocio significa asunto judicial.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A15&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A15&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 20,
+      "verse": 8,
+      "expected": "Y tornarán los oficiales á hablar",
+      "replacement": "Y volverán los oficiales a hablar",
+      "category": "archaic-verb",
+      "reason": "Tornar significa volver a hablar en esta secuencia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A8&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A8&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 21,
+      "verse": 12,
+      "expected": "ella raerá su cabeza",
+      "replacement": "ella rapará su cabeza",
+      "category": "archaic-verb",
+      "reason": "Raer la cabeza significa raparla.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+21%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+21%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 22,
+      "verse": 3,
+      "expected": "no podrás retraerte de ello",
+      "replacement": "no podrás negarle tu ayuda",
+      "category": "opaque-duty-phrase",
+      "reason": "La frase prohíbe desentenderse del objeto perdido del hermano.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 22,
+      "verse": 12,
+      "expected": "Hacerte has flecos en los cuatro cabos",
+      "replacement": "Te harás flecos en las cuatro puntas",
+      "category": "archaic-clothing-phrase",
+      "reason": "Se modernizan el orden verbal y cabo como punta del manto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+22%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 23,
+      "verse": 14,
+      "expected": "se vuelva de en pos de ti",
+      "replacement": "se aparte de ti",
+      "category": "archaic-direction-phrase",
+      "reason": "La frase significa que Jehová se aparte del campamento.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A14&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A14&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 24,
+      "verse": 3,
+      "expected": "el postrer hombre",
+      "replacement": "el último hombre",
+      "category": "archaic-ordinal",
+      "reason": "Postrer significa último en la secuencia de esposos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A3&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A3&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 24,
+      "verse": 4,
+      "expected": "después que fué amancillada",
+      "replacement": "después que quedó contaminada",
+      "category": "archaic-ritual-term",
+      "reason": "Amancillada expresa contaminación dentro de esta ley matrimonial.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A4&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 26,
+      "verse": 17,
+      "expected": "A Jehová has ensalzado hoy para que te sea por Dios",
+      "replacement": "Hoy has declarado solemnemente que Jehová es tu Dios",
+      "category": "false-friend-covenant-phrase",
+      "reason": "Ensalzar expresa aquí una declaración solemne del pacto, no elevar en rango.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A17&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A17&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 26,
+      "verse": 18,
+      "expected": "Y Jehová te ha ensalzado hoy para que le seas su peculiar pueblo",
+      "replacement": "Y Jehová ha declarado hoy que eres su pueblo especial",
+      "category": "false-friend-covenant-phrase",
+      "reason": "La respuesta del pacto declara que Israel es el pueblo especial de Jehová.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A18&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+26%3A18&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 28,
+      "verse": 1,
+      "expected": "si oyeres diligente la voz",
+      "replacement": "si escuchares atentamente la voz",
+      "category": "archaic-listening-phrase",
+      "reason": "Oír diligente significa escuchar con atención y obediencia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 28,
+      "verse": 9,
+      "expected": "Confirmarte ha Jehová",
+      "replacement": "Te confirmará Jehová",
+      "category": "archaic-verb-order",
+      "reason": "Se moderniza el orden del verbo y el pronombre.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 29,
+      "verse": 2,
+      "expected": "díjoles",
+      "replacement": "les dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 29,
+      "verse": 26,
+      "expected": "inclináronse á ellos",
+      "replacement": "se inclinaron ante ellos",
+      "category": "archaic-verb-order",
+      "reason": "Se moderniza el orden pronominal y la preposición de adoración.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A26&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+29%3A26&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 30,
+      "verse": 12,
+      "expected": "nos lo representará",
+      "replacement": "nos lo hará oír",
+      "category": "false-friend",
+      "reason": "Representar no transmite el sentido del pasaje: la palabra debe hacerse oír para obedecerla.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A12&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A12&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 30,
+      "verse": 20,
+      "expected": "te allegues á él",
+      "replacement": "permanezcas unido a él",
+      "category": "archaic-covenant-verb",
+      "reason": "Allegarse expresa adhesión perseverante a Jehová.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 31,
+      "verse": 2,
+      "expected": "díjoles",
+      "replacement": "les dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A2&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A2&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 31,
+      "verse": 7,
+      "expected": "díjole",
+      "replacement": "le dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A7&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A7&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 31,
+      "verse": 9,
+      "expected": "dióla",
+      "replacement": "la dio",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A9&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A9&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 31,
+      "verse": 10,
+      "expected": "Y mandóles Moisés",
+      "replacement": "Y Moisés les mandó",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo según el español actual.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 31,
+      "verse": 10,
+      "expected": "Al cabo del séptimo año",
+      "replacement": "Al final de cada siete años",
+      "category": "archaic-time-phrase",
+      "reason": "La frase señala el cierre de cada ciclo de siete años.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A10&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A10&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 31,
+      "verse": 15,
+      "expected": "aparecióse",
+      "replacement": "se apareció",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A15&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A15&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 31,
+      "verse": 20,
+      "expected": "volveránse á dioses ajenos",
+      "replacement": "se volverán a otros dioses",
+      "category": "archaic-verb-order",
+      "reason": "Se moderniza el orden pronominal y ajenos significa otros en este contraste de lealtad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A20&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A20&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 31,
+      "verse": 29,
+      "expected": "os aparteréis",
+      "replacement": "os apartaréis",
+      "category": "source-spelling-correction",
+      "reason": "Se corrige la forma verbal defectuosa aparteréis.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A29&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A29&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 31,
+      "verse": 29,
+      "expected": "en los postreros días",
+      "replacement": "en los últimos días",
+      "category": "archaic-time-term",
+      "reason": "Postreros significa últimos en esta referencia temporal.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A29&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A29&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 32,
+      "verse": 23,
+      "expected": "Yo allegaré males sobre ellos",
+      "replacement": "Yo amontonaré males sobre ellos",
+      "category": "false-friend",
+      "reason": "Allegar significa acumular o amontonar calamidades en este canto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A23&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A23&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 32,
+      "verse": 41,
+      "expected": "mi mano arrebatare el juicio",
+      "replacement": "mi mano tomare el juicio",
+      "category": "opaque-judgment-phrase",
+      "reason": "La mano toma el juicio para ejecutarlo; no lo roba ni lo quita.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A41&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A41&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 32,
+      "verse": 41,
+      "expected": "yo volveré la venganza á mis enemigos",
+      "replacement": "yo tomaré venganza de mis enemigos",
+      "category": "archaic-judgment-phrase",
+      "reason": "Volver la venganza significa ejecutarla contra los enemigos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A41&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A41&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 32,
+      "verse": 46,
+      "expected": "díjoles",
+      "replacement": "les dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A46&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A46&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 32,
+      "verse": 46,
+      "expected": "Poned vuestro corazón á todas las palabras",
+      "replacement": "Guardad en vuestro corazón todas las palabras",
+      "category": "archaic-attention-idiom",
+      "reason": "Poner el corazón significa guardar con atención para obedecer y enseñar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A46&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A46&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 33,
+      "verse": 21,
+      "expected": "se ha provisto de la parte primera",
+      "replacement": "escogió para sí la mejor parte",
+      "category": "opaque-inheritance-phrase",
+      "reason": "La bendición describe la elección de la mejor porción territorial.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 33,
+      "verse": 21,
+      "expected": "la justicia de Jehová ejecutará, y sus juicios con Israel",
+      "replacement": "con Israel ejecutó la justicia y los juicios de Jehová",
+      "category": "archaic-grammar",
+      "reason": "Se restablece el orden de la cláusula: Gad ejecutó con Israel los justos juicios de Jehová.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A21&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+33%3A21&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 34,
+      "verse": 1,
+      "expected": "mostróle",
+      "replacement": "le mostró",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+34%3A1&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+34%3A1&version=NVI"
+        }
+      ]
+    },
+    {
+      "book": "DEU",
+      "chapter": 34,
+      "verse": 4,
+      "expected": "díjole",
+      "replacement": "le dijo",
+      "category": "archaic-enclitic-order",
+      "reason": "Se coloca el pronombre antes del verbo finito según el español actual, sin cambiar la acción ni sus participantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+34%3A4&version=RVR1960"
+        },
+        {
+          "label": "Control contextual NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+34%3A4&version=NVI"
+        }
+      ]
+    }
+  ],
+  "pendingReview": [
+    {
+      "book": "DEU",
+      "chapter": 23,
+      "verse": 18,
+      "term": "precio de perro",
+      "reason": "La expresión cultual es discutida y no debe convertirse en una identificación sexual concreta sin una revisión textual especializada."
+    },
+    {
+      "book": "DEU",
+      "chapter": 29,
+      "verse": 19,
+      "term": "añadir la embriaguez á la sed",
+      "reason": "El modismo hebreo tiene interpretaciones divergentes; se conserva hasta documentar una explicación fiel."
+    },
+    {
+      "book": "DEU",
+      "chapter": 31,
+      "verse": 16,
+      "term": "fornicará tras los dioses ajenos",
+      "reason": "La metáfora de infidelidad al pacto es deliberada; debe decidirse si se conserva con nota o se aclara sin borrar la imagen."
+    },
+    {
+      "book": "DEU",
+      "chapter": 33,
+      "verse": 17,
+      "term": "cuernos de unicornio",
+      "reason": "La identificación zoológica sigue debatida; el cambio vigente a búfalo debe revisarse frente a la opción más amplia bóvido salvaje."
+    }
+  ]
+}
