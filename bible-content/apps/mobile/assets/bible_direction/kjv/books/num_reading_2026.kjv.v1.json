@@ -4,7 +4,7 @@
   "sourceVersionId": "KJV",
   "book": "NUM",
   "sourceContentSha256": "ea6986ce9cbbec33fa81dc78aba0773c13693f6bb3e24802d31cd3a4d936a273",
-  "editorialStatus": "approved-minimal-comprehension-v3",
+  "editorialStatus": "approved-numbers-complete-context-v6",
   "normalizationId": "shine-kjv-visible-text-v1",
   "verses": [
     {
@@ -23,6 +23,125 @@
       ]
     },
     {
+      "chapter": 1,
+      "verse": 2,
+      "sourceTextSha256": "fef6b9b5c6c5099a1152ef9fac48660f4abe942b1df63d7050ad897d8d366cbf",
+      "edits": [
+        {
+          "startOffset": 163,
+          "endOffset": 177,
+          "expected": "by their polls",
+          "replacement": "individual by individual",
+          "category": "archaic-census-term",
+          "reason": "The census counts each male individually.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+1%3A2&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "sourceTextSha256": "0dd40324295b5349108c03b6c0a2fada61489dcaf2493d317004e504b63ae356",
+      "edits": [
+        {
+          "startOffset": 255,
+          "endOffset": 260,
+          "expected": "polls",
+          "replacement": "individuals",
+          "category": "archaic-census-term",
+          "reason": "Polls means individual persons counted in the census.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+1%3A18&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "sourceTextSha256": "be6e6f6daa2dd57b330b0890722d39e6a7b9c78b82406ccf0bfd5d51011d533b",
+      "edits": [
+        {
+          "startOffset": 171,
+          "endOffset": 176,
+          "expected": "polls",
+          "replacement": "individuals",
+          "category": "archaic-census-term",
+          "reason": "Polls means individual persons counted in the census.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+1%3A20&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "sourceTextSha256": "dcb5013e50b792904a8c2843071f61cb73fa6f6c65670a970e6e8853951177ac",
+      "edits": [
+        {
+          "startOffset": 185,
+          "endOffset": 190,
+          "expected": "polls",
+          "replacement": "individuals",
+          "category": "archaic-census-term",
+          "reason": "Polls means individual persons counted in the census.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+1%3A22&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verse": 51,
+      "sourceTextSha256": "c0976d3a26ea67fbbe094346562d39ed0d8781cb41317c8f3113806d0b171197",
+      "edits": [
+        {
+          "startOffset": 9,
+          "endOffset": 39,
+          "expected": "the tabernacle setteth forward",
+          "replacement": "the tabernacle sets out",
+          "category": "archaic-travel-phrase",
+          "reason": "Setteth forward means begins its journey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+1%3A51&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 148,
+          "endOffset": 177,
+          "expected": "the stranger that cometh nigh",
+          "replacement": "the unauthorized person who comes near",
+          "category": "archaic-legal-phrase",
+          "reason": "Stranger here is an unauthorized outsider approaching the sacred work.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+1%3A51&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 2,
       "verse": 1,
       "sourceTextSha256": "8b74674df0cc8a110b6a5bb21e75a8ce7c23e989a7f611e472fc5d34adbe3a4f",
@@ -34,6 +153,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "sourceTextSha256": "1c3f503caeb3710221747f5cd1f0272259a8c8cbf1cb2977069f7eace672c7d3",
+      "edits": [
+        {
+          "startOffset": 73,
+          "endOffset": 82,
+          "expected": "fourscore",
+          "replacement": "eighty",
+          "category": "archaic-number",
+          "reason": "Fourscore equals eighty.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+2%3A9&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -69,6 +209,27 @@
     },
     {
       "chapter": 3,
+      "verse": 10,
+      "sourceTextSha256": "80a7089408c91b205934fced3af89142ea1a3c94d3d6b528d81949b506d57f0a",
+      "edits": [
+        {
+          "startOffset": 93,
+          "endOffset": 122,
+          "expected": "the stranger that cometh nigh",
+          "replacement": "the unauthorized person who comes near",
+          "category": "archaic-legal-phrase",
+          "reason": "Stranger here is an unauthorized outsider approaching the priestly office.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+3%3A10&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
       "verse": 11,
       "sourceTextSha256": "29615d17124775fa5339ffa2cd24e057ac808e6d460d778ac4e7434756684a52",
       "edits": [
@@ -79,6 +240,62 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "sourceTextSha256": "e7a24a6fca3b64e350fdb120a231570bc404324f82a1a6b68b8a8a79452d3ecb",
+      "edits": [
+        {
+          "startOffset": 116,
+          "endOffset": 126,
+          "expected": "the matrix",
+          "replacement": "the womb",
+          "category": "obsolete-anatomy",
+          "reason": "Matrix is the historical anatomical term for womb.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+3%3A12&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "sourceTextSha256": "d2ba802274f0cfaf3e881cbef2361b4fd3445aea262bb53bc626eaa177cf10ec",
+      "edits": [
+        {
+          "startOffset": 43,
+          "endOffset": 63,
+          "expected": "the day that I smote",
+          "replacement": "the day that I struck",
+          "category": "archaic-verb",
+          "reason": "Smote is the historical past tense of strike.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+3%3A13&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 103,
+          "endOffset": 121,
+          "expected": "I hallowed unto me",
+          "replacement": "I consecrated to myself",
+          "category": "archaic-religious-verb",
+          "reason": "Hallowed here means set apart as holy for the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+3%3A13&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -99,6 +316,41 @@
     },
     {
       "chapter": 3,
+      "verse": 31,
+      "sourceTextSha256": "bdd8afeb537454fdab845880c5b98ca68dfb0dcec6f5e5d96f72ee70fd8b180b",
+      "edits": [
+        {
+          "startOffset": 58,
+          "endOffset": 69,
+          "expected": "candlestick",
+          "replacement": "lampstand",
+          "category": "false-friend-object",
+          "reason": "The sanctuary object is an oil lampstand, not a wax-candle holder.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+3%3A31&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 149,
+          "endOffset": 160,
+          "expected": "the hanging",
+          "replacement": "the curtain",
+          "category": "archaic-sanctuary-object",
+          "reason": "The hanging is the sanctuary curtain assigned to the Kohathites.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+3%3A31&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
       "verse": 44,
       "sourceTextSha256": "539a3a8d0d5f613d4e20f3d585d54028d300745155101dc6707fcddc01289e29",
       "edits": [
@@ -109,6 +361,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse": 47,
+      "sourceTextSha256": "fec78b0b513b2b1e757df25b18583d984dae0f01df26dd8508275bccd845e7a7",
+      "edits": [
+        {
+          "startOffset": 21,
+          "endOffset": 52,
+          "expected": "five shekels apiece by the poll",
+          "replacement": "five shekels for each person",
+          "category": "archaic-census-phrase",
+          "reason": "By the poll means for each counted person.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+3%3A47&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -124,6 +397,230 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "sourceTextSha256": "353f585b62c6df0067b008c65dbc277f7382de55be83bfd0f6445e32e406ada2",
+      "edits": [
+        {
+          "startOffset": 107,
+          "endOffset": 111,
+          "expected": "vail",
+          "replacement": "veil",
+          "category": "archaic-spelling",
+          "reason": "Vail is the historical spelling of veil.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A5&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "sourceTextSha256": "3aa31a057c1409c09ddd38156673d99a8f4a28ef38d25d05b212e6956a27c6cf",
+      "edits": [
+        {
+          "startOffset": 124,
+          "endOffset": 130,
+          "expected": "staves",
+          "replacement": "poles",
+          "category": "archaic-object",
+          "reason": "Staves are the carrying poles for sanctuary objects.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A6&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "sourceTextSha256": "280baaad230d189feb653cd9e7c523a39c5cfbed69eaa073ded39a845c8e2ed1",
+      "edits": [
+        {
+          "startOffset": 22,
+          "endOffset": 31,
+          "expected": "shewbread",
+          "replacement": "bread of the Presence",
+          "category": "archaic-liturgical-term",
+          "reason": "Shewbread is the bread displayed before the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A7&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 130,
+          "endOffset": 152,
+          "expected": "covers to cover withal",
+          "replacement": "covers for covering them",
+          "category": "archaic-adverb",
+          "reason": "Withal means with them in this equipment list.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A7&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "sourceTextSha256": "43f9ff4a8cf6d8443816f392f632a9aae4acddf029b43cfad2a5d6155cdd26e0",
+      "edits": [
+        {
+          "startOffset": 127,
+          "endOffset": 133,
+          "expected": "staves",
+          "replacement": "poles",
+          "category": "archaic-object",
+          "reason": "Staves are the carrying poles for sanctuary objects.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A8&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "sourceTextSha256": "20f48c27e7ada43492a509c3047531f72249332efc95bb29b1c7a058763ddd10",
+      "edits": [
+        {
+          "startOffset": 51,
+          "endOffset": 62,
+          "expected": "candlestick",
+          "replacement": "lampstand",
+          "category": "false-friend-object",
+          "reason": "The sanctuary object is an oil lampstand, not a wax-candle holder.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A9&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 115,
+          "endOffset": 126,
+          "expected": "snuffdishes",
+          "replacement": "wick trays",
+          "category": "obsolete-object",
+          "reason": "Snuffdishes held burned wick trimmings from the lamps.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A9&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "sourceTextSha256": "532dd461c495b36b1291abf3b80897522bd024368d1f20224f4805231fb40ac2",
+      "edits": [
+        {
+          "startOffset": 130,
+          "endOffset": 136,
+          "expected": "staves",
+          "replacement": "poles",
+          "category": "archaic-object",
+          "reason": "Staves are the carrying poles for sanctuary objects.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A11&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "sourceTextSha256": "1779cd08e941bbc6b1b46909afbe4c3de06d0d02ad73c67e801c259b95cef801",
+      "edits": [
+        {
+          "startOffset": 145,
+          "endOffset": 151,
+          "expected": "basons",
+          "replacement": "basins",
+          "category": "archaic-spelling",
+          "reason": "Basons is the historical spelling of basins.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A14&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 258,
+          "endOffset": 264,
+          "expected": "staves",
+          "replacement": "poles",
+          "category": "archaic-object",
+          "reason": "Staves are the carrying poles for sanctuary objects.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A14&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "sourceTextSha256": "fc24444a031bb36355aa87aba3a3ff2837be0559eccd19533244851c4a97d6f1",
+      "edits": [
+        {
+          "startOffset": 6,
+          "endOffset": 69,
+          "expected": "to the office of Eleazar the son of Aaron the priest pertaineth",
+          "replacement": "Eleazar son of Aaron the priest shall be responsible for",
+          "category": "archaic-grammar",
+          "reason": "The clause assigns responsibility to Eleazar.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A16&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 130,
+          "endOffset": 143,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A16&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -154,6 +651,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse": 48,
+      "sourceTextSha256": "63a0ee73d4ed9a2a8bd2249be2f9ea32b6947ca4fee08e8046435dfc9d77706c",
+      "edits": [
+        {
+          "startOffset": 44,
+          "endOffset": 89,
+          "expected": "eight thousand and five hundred and fourscore",
+          "replacement": "eight thousand five hundred eighty",
+          "category": "archaic-number",
+          "reason": "Fourscore equals eighty in the census total.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A48&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -234,6 +752,90 @@
     },
     {
       "chapter": 6,
+      "verse": 10,
+      "sourceTextSha256": "f25564d050d935a5f9cf784d0e20669d38dcf9b8fb6367da7c17a583f4c0b2c9",
+      "edits": [
+        {
+          "startOffset": 37,
+          "endOffset": 48,
+          "expected": "two turtles",
+          "replacement": "two turtledoves",
+          "category": "archaic-animal-name",
+          "reason": "Turtles here means turtledoves, not reptiles.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+6%3A10&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "sourceTextSha256": "6cb0d446ff04a7200de12d0a2ae12adb9701723037a13b73401693d8a41d08d6",
+      "edits": [
+        {
+          "startOffset": 132,
+          "endOffset": 145,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+6%3A15&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "sourceTextSha256": "8da45f89162c2afd3908a1c310b9d85e1665e50330a31d3b3f64cbea1072ca41",
+      "edits": [
+        {
+          "startOffset": 146,
+          "endOffset": 159,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+6%3A17&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "sourceTextSha256": "9fb098edc667cb0b0ae9dd75a3ed5a9da768ca3d04d095ebc2703e94dba42a57",
+      "edits": [
+        {
+          "startOffset": 26,
+          "endOffset": 45,
+          "expected": "the sodden shoulder",
+          "replacement": "the boiled shoulder",
+          "category": "obsolete-cooking-verb",
+          "reason": "Sodden means boiled.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+6%3A19&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
       "verse": 22,
       "sourceTextSha256": "539a3a8d0d5f613d4e20f3d585d54028d300745155101dc6707fcddc01289e29",
       "edits": [
@@ -259,6 +861,279 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "sourceTextSha256": "c4686fe5c5678a3605f26d687dff9a16e0b9bd1832281ce4007c697322139d3b",
+      "edits": [
+        {
+          "startOffset": 226,
+          "endOffset": 239,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A13&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 19,
+      "sourceTextSha256": "51865d49d4d3c420784ca28b1e33f08281ade04b937aa8970dd3a74eb146a729",
+      "edits": [
+        {
+          "startOffset": 228,
+          "endOffset": 241,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A19&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 25,
+      "sourceTextSha256": "e4c248a44de9ca5a1d3526f032684674f82e183baa63879c51a4b99b3d1816da",
+      "edits": [
+        {
+          "startOffset": 217,
+          "endOffset": 230,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A25&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 31,
+      "sourceTextSha256": "530a451e19d3c392f99f5cb3cd73125765321ca7b200e65c90e5da88a5cb3a97",
+      "edits": [
+        {
+          "startOffset": 210,
+          "endOffset": 223,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A31&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 37,
+      "sourceTextSha256": "e4c248a44de9ca5a1d3526f032684674f82e183baa63879c51a4b99b3d1816da",
+      "edits": [
+        {
+          "startOffset": 217,
+          "endOffset": 230,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A37&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 43,
+      "sourceTextSha256": "9a30e62e0a6c666e834bbb4864f701680a228ffa759d77997a6709ca3a24e66f",
+      "edits": [
+        {
+          "startOffset": 208,
+          "endOffset": 221,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A43&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 49,
+      "sourceTextSha256": "e4c248a44de9ca5a1d3526f032684674f82e183baa63879c51a4b99b3d1816da",
+      "edits": [
+        {
+          "startOffset": 217,
+          "endOffset": 230,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A49&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 55,
+      "sourceTextSha256": "530a451e19d3c392f99f5cb3cd73125765321ca7b200e65c90e5da88a5cb3a97",
+      "edits": [
+        {
+          "startOffset": 210,
+          "endOffset": 223,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A55&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 61,
+      "sourceTextSha256": "e4c248a44de9ca5a1d3526f032684674f82e183baa63879c51a4b99b3d1816da",
+      "edits": [
+        {
+          "startOffset": 217,
+          "endOffset": 230,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A61&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 67,
+      "sourceTextSha256": "e4c248a44de9ca5a1d3526f032684674f82e183baa63879c51a4b99b3d1816da",
+      "edits": [
+        {
+          "startOffset": 217,
+          "endOffset": 230,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A67&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 73,
+      "sourceTextSha256": "e4c248a44de9ca5a1d3526f032684674f82e183baa63879c51a4b99b3d1816da",
+      "edits": [
+        {
+          "startOffset": 217,
+          "endOffset": 230,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A73&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 79,
+      "sourceTextSha256": "e4c248a44de9ca5a1d3526f032684674f82e183baa63879c51a4b99b3d1816da",
+      "edits": [
+        {
+          "startOffset": 217,
+          "endOffset": 230,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A79&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse": 87,
+      "sourceTextSha256": "a6b710c7640f2861c677696b324c4fe27884e62eb444670e7f8589ea54b322fd",
+      "edits": [
+        {
+          "startOffset": 122,
+          "endOffset": 135,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A87&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -294,9 +1169,65 @@
     },
     {
       "chapter": 8,
+      "verse": 2,
+      "sourceTextSha256": "fdc74d6912027f5230f29b1c7fc1e5f81152159e9b87c89e3a940b49a72c5c65",
+      "edits": [
+        {
+          "startOffset": 116,
+          "endOffset": 127,
+          "expected": "candlestick",
+          "replacement": "lampstand",
+          "category": "false-friend-object",
+          "reason": "The sanctuary object is an oil lampstand, not a wax-candle holder.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+8%3A2&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "sourceTextSha256": "7fae761d3514d63ffc4037b0d0ee377cb84acf5b6304552f76a767726709c4c3",
+      "edits": [
+        {
+          "startOffset": 64,
+          "endOffset": 75,
+          "expected": "candlestick",
+          "replacement": "lampstand",
+          "category": "false-friend-object",
+          "reason": "The sanctuary object is an oil lampstand, not a wax-candle holder.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+8%3A3&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
       "verse": 4,
       "sourceTextSha256": "036c290934db2eee5422969ef8e59716a93857c2ca64e5c1baa2eb8e58646a63",
       "edits": [
+        {
+          "startOffset": 21,
+          "endOffset": 32,
+          "expected": "candlestick",
+          "replacement": "lampstand",
+          "category": "false-friend-object",
+          "reason": "The sanctuary object is an oil lampstand, not a wax-candle holder.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+8%3A4&version=KJV"
+            }
+          ]
+        },
         {
           "startOffset": 166,
           "endOffset": 172,
@@ -304,6 +1235,20 @@
           "replacement": "showed",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 195,
+          "endOffset": 206,
+          "expected": "candlestick",
+          "replacement": "lampstand",
+          "category": "false-friend-object",
+          "reason": "The sanctuary object is an oil lampstand, not a wax-candle holder.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+8%3A4&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -319,6 +1264,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "sourceTextSha256": "d24150a50ec3ca54021619aa7c9c1d8ee53b075fb20d3291f51cf789e2882026",
+      "edits": [
+        {
+          "startOffset": 44,
+          "endOffset": 57,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+8%3A8&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -369,6 +1335,27 @@
     },
     {
       "chapter": 9,
+      "verse": 7,
+      "sourceTextSha256": "7db4dc1bce9e61ad7c09ba12480dbce69283bffc703b8e8bd90ec10d33e68848",
+      "edits": [
+        {
+          "startOffset": 71,
+          "endOffset": 97,
+          "expected": "wherefore are we kept back",
+          "replacement": "why are we prevented",
+          "category": "archaic-question",
+          "reason": "Wherefore asks why, and kept back means prevented.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+9%3A7&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
       "verse": 9,
       "sourceTextSha256": "539a3a8d0d5f613d4e20f3d585d54028d300745155101dc6707fcddc01289e29",
       "edits": [
@@ -384,16 +1371,162 @@
     },
     {
       "chapter": 9,
+      "verse": 13,
+      "sourceTextSha256": "39eb0287fb47f533928a6f63063a35e76bfa852abfe7b01b5f9cc09409ba9d12",
+      "edits": [
+        {
+          "startOffset": 56,
+          "endOffset": 87,
+          "expected": "forbeareth to keep the passover",
+          "replacement": "fails to keep the Passover",
+          "category": "archaic-verb",
+          "reason": "Forbeareth here means refrains from or fails to observe it.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+9%3A13&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
       "verse": 16,
       "sourceTextSha256": "472b7891f6c35d3580b6a704dd43bfe66640f4b17b3597ed516626a040ae22f5",
       "edits": [
         {
-          "startOffset": 10,
+          "startOffset": 0,
           "endOffset": 15,
-          "expected": "alway",
-          "replacement": "always",
-          "category": "clear-archaic-english",
-          "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+          "expected": "So it was alway",
+          "replacement": "So it was always",
+          "category": "archaic-adverb",
+          "reason": "Alway is the historical form of always.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+9%3A16&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 17,
+      "sourceTextSha256": "350f6745e45f4c9019cc0d7b65cc6bb3886795d98f8dbc5ca3aef77117ccf336",
+      "edits": [
+        {
+          "startOffset": 120,
+          "endOffset": 141,
+          "expected": "where the cloud abode",
+          "replacement": "where the cloud remained",
+          "category": "archaic-verb",
+          "reason": "Abode means remained.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+9%3A17&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 18,
+      "sourceTextSha256": "9dfd6e6ce24174db7ec60d42491608b246890caf403a12e83efbb92ea7b814d3",
+      "edits": [
+        {
+          "startOffset": 114,
+          "endOffset": 140,
+          "expected": "as long as the cloud abode",
+          "replacement": "as long as the cloud remained",
+          "category": "archaic-verb",
+          "reason": "Abode means remained.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+9%3A18&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 20,
+      "sourceTextSha256": "8eaa53ac3233cf4993dcdd322e7093278aaf0cab7c2cd1c1d4f3d1eebd719058",
+      "edits": [
+        {
+          "startOffset": 107,
+          "endOffset": 132,
+          "expected": "they abode in their tents",
+          "replacement": "they remained in their tents",
+          "category": "archaic-verb",
+          "reason": "Abode means remained.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+9%3A20&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 21,
+      "sourceTextSha256": "b7c3d8763d916d88be1c6b0f2e930af9ad327a8f6ce0a17cf219283f6dcc2f5d",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 35,
+          "expected": "the cloud abode",
+          "replacement": "the cloud remained",
+          "category": "archaic-verb",
+          "reason": "Abode means remained.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+9%3A21&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 36,
+          "endOffset": 62,
+          "expected": "from even unto the morning",
+          "replacement": "from evening until morning",
+          "category": "archaic-time-phrase",
+          "reason": "Even means evening in this time span.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+9%3A21&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse": 22,
+      "sourceTextSha256": "7c6bbae1905c5d7d2ab0b5f6557fea45e0d1dc1b5c48648aef442074c2a0ec2e",
+      "edits": [
+        {
+          "startOffset": 115,
+          "endOffset": 158,
+          "expected": "the children of Israel abode in their tents",
+          "replacement": "the children of Israel remained in their tents",
+          "category": "archaic-verb",
+          "reason": "Abode means remained.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+9%3A22&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -414,6 +1547,111 @@
     },
     {
       "chapter": 11,
+      "verse": 11,
+      "sourceTextSha256": "81efd48e90a6b71c2fb02b3c11624cf98ef270ba66b809329426ae5f83980c1a",
+      "edits": [
+        {
+          "startOffset": 30,
+          "endOffset": 141,
+          "expected": "Wherefore hast thou afflicted thy servant? and wherefore have I not found favour in thy sight, that thou layest",
+          "replacement": "Why have you afflicted your servant? And why have I not found favor in your sight, that you lay",
+          "category": "archaic-question",
+          "reason": "Both linked questions are modernized together so the singular address remains consistent.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A11&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "sourceTextSha256": "9fd971224cdf3e38da5471d3942fd4a3354765fb447b1b854ff8857a9e0a660a",
+      "edits": [
+        {
+          "startOffset": 114,
+          "endOffset": 159,
+          "expected": "as a nursing father beareth the sucking child",
+          "replacement": "as a nursing father carries an infant",
+          "category": "archaic-family-phrase",
+          "reason": "Beareth means carries and sucking child means infant.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A12&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 13,
+      "sourceTextSha256": "ccd138bbe846eb6a3fbb99b819e4791d9be8e3698cf105fd95bee5553f4158a1",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 26,
+          "expected": "Whence should I have flesh",
+          "replacement": "Where could I get meat",
+          "category": "archaic-question",
+          "reason": "Whence asks where the meat could come from.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A13&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 18,
+      "sourceTextSha256": "46f8f318afc5661ce4128a29fa87f118dc685d9a8759ce6ebff82718f43e9346",
+      "edits": [
+        {
+          "startOffset": 50,
+          "endOffset": 67,
+          "expected": "against to morrow",
+          "replacement": "for tomorrow",
+          "category": "archaic-time-phrase",
+          "reason": "Against to morrow means in preparation for tomorrow.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A18&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 23,
+      "sourceTextSha256": "48770e23539e3749d7e5191855bf32c01438aa73702de1f7c4b9fb9f115b4742",
+      "edits": [
+        {
+          "startOffset": 30,
+          "endOffset": 133,
+          "expected": "Is the LORD’s hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not.",
+          "replacement": "Has the LORD’s hand become too short? You shall now see whether my word comes to pass for you or not.",
+          "category": "opaque-idiom",
+          "reason": "The whole reply is modernized consistently while retaining the verse's hand image.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A23&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
       "verse": 25,
       "sourceTextSha256": "1a9540de95d1bd3d493f00c405aee6420665e9647299c4d7c1908e65b80cac87",
       "edits": [
@@ -424,6 +1662,83 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 30,
+      "sourceTextSha256": "142fedc9ed3b945005e1c9b56e22f17ce2c38ce3e7e1895048aaa8170ab88663",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 31,
+          "expected": "Moses gat him into the camp",
+          "replacement": "Moses returned to the camp",
+          "category": "archaic-movement-phrase",
+          "reason": "Gat him into means went or returned to the camp.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A30&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 33,
+      "sourceTextSha256": "dc246458a8da7b1f83dadd60f084c210cc8de69925696e9313432e92231d1d9f",
+      "edits": [
+        {
+          "startOffset": 49,
+          "endOffset": 66,
+          "expected": "ere it was chewed",
+          "replacement": "before it was chewed",
+          "category": "archaic-conjunction",
+          "reason": "Ere means before.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A33&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 126,
+          "endOffset": 151,
+          "expected": "the LORD smote the people",
+          "replacement": "the LORD struck the people",
+          "category": "archaic-verb",
+          "reason": "Smote is the historical past tense of strike.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A33&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse": 35,
+      "sourceTextSha256": "c1c55a722f7d3bcffc2e681e5ceb06b23d7d7d8aa74a2d49138e127fc51c11c0",
+      "edits": [
+        {
+          "startOffset": 63,
+          "endOffset": 84,
+          "expected": "and abode at Hazeroth",
+          "replacement": "and remained at Hazeroth",
+          "category": "archaic-verb",
+          "reason": "Abode means remained.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A35&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -458,6 +1773,41 @@
       ]
     },
     {
+      "chapter": 12,
+      "verse": 8,
+      "sourceTextSha256": "08e644e06e3f0f660592c5a2f585320a9c46ec5031cadf1b02a9b1440d8b88e3",
+      "edits": [
+        {
+          "startOffset": 38,
+          "endOffset": 79,
+          "expected": "even apparently, and not in dark speeches",
+          "replacement": "clearly, and not in riddles",
+          "category": "opaque-revelation-phrase",
+          "reason": "Apparently means clearly here, while dark speeches are riddles.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+12%3A8&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 85,
+          "endOffset": 111,
+          "expected": "the similitude of the LORD",
+          "replacement": "the form of the LORD",
+          "category": "archaic-noun",
+          "reason": "Similitude means visible form or likeness in this verse.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+12%3A8&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 13,
       "verse": 1,
       "sourceTextSha256": "29615d17124775fa5339ffa2cd24e057ac808e6d460d778ac4e7434756684a52",
@@ -469,6 +1819,48 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 20,
+      "sourceTextSha256": "16ecd583ffcc21e167a15b643fb15c8e9f93ac6dbe229a0d907962d55b1588f6",
+      "edits": [
+        {
+          "startOffset": 180,
+          "endOffset": 200,
+          "expected": "the firstripe grapes",
+          "replacement": "the early-ripening grapes",
+          "category": "obsolete-agriculture",
+          "reason": "Firstripe means first ripe or early-ripening.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+13%3A20&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse": 23,
+      "sourceTextSha256": "e5c21892658a084d745f9ff149ec124aad3c12e51aa3406dc1dda89a76f5c53c",
+      "edits": [
+        {
+          "startOffset": 106,
+          "endOffset": 130,
+          "expected": "they bare it between two",
+          "replacement": "two of them carried it",
+          "category": "archaic-verb",
+          "reason": "Bare here means carried, not gave birth.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+13%3A23&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -489,6 +1881,27 @@
     },
     {
       "chapter": 14,
+      "verse": 3,
+      "sourceTextSha256": "4ac0de34dbe4bdf48f2b8a055ea4240ab3b4c1577e6d76389c2226768999cdef",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 38,
+          "expected": "And wherefore hath the LORD brought us",
+          "replacement": "And why has the LORD brought us",
+          "category": "archaic-question",
+          "reason": "Wherefore asks why; the whole opening keeps the grammar consistent.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A3&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
       "verse": 7,
       "sourceTextSha256": "f936512e1d8db67708d7fbeece782918f76936d3d5ea7c5a6a3f6da29e8da1b2",
       "edits": [
@@ -504,9 +1917,44 @@
     },
     {
       "chapter": 14,
+      "verse": 10,
+      "sourceTextSha256": "f644568d7e3e77903de6328c0a1461fb60433ba9d49740ef17db2537e009fc74",
+      "edits": [
+        {
+          "startOffset": 8,
+          "endOffset": 40,
+          "expected": "the congregation bade stone them",
+          "replacement": "the congregation ordered that they be stoned",
+          "category": "archaic-verb",
+          "reason": "Bade means ordered.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A10&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
       "verse": 11,
       "sourceTextSha256": "ac262af962e9a7acd62a95789c7966d1b2fe7bcdb4fa45d2279d111b8e666c2a",
       "edits": [
+        {
+          "startOffset": 74,
+          "endOffset": 113,
+          "expected": "how long will it be ere they believe me",
+          "replacement": "how long will it be before they believe me",
+          "category": "archaic-conjunction",
+          "reason": "Ere means before.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A11&version=KJV"
+            }
+          ]
+        },
         {
           "startOffset": 146,
           "endOffset": 152,
@@ -534,6 +1982,27 @@
     },
     {
       "chapter": 14,
+      "verse": 18,
+      "sourceTextSha256": "e1700908536b67ed0dd14c3a0f0f8e614c8f9a31667bc5709a7282d5654ce42f",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 25,
+          "expected": "The LORD is longsuffering",
+          "replacement": "The LORD is patient",
+          "category": "archaic-divine-attribute",
+          "reason": "Longsuffering means patient and slow to anger.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A18&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
       "verse": 23,
       "sourceTextSha256": "9bfba4ba94e686b41c0edefa9629c34f4b553053028755fc76deaab940d601fa",
       "edits": [
@@ -544,6 +2013,27 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 25,
+      "sourceTextSha256": "fbeb903750c13d692ce826a5855b8047113cffe0470e854887ef037ee2650fd7",
+      "edits": [
+        {
+          "startOffset": 61,
+          "endOffset": 112,
+          "expected": "To morrow turn you, and get you into the wilderness",
+          "replacement": "Tomorrow turn back and go into the wilderness",
+          "category": "archaic-time-and-grammar",
+          "reason": "The complete travel command is modernized without changing its destination.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A25&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -574,6 +2064,83 @@
           "replacement": "swore",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 95,
+          "endOffset": 105,
+          "expected": "save Caleb",
+          "replacement": "except Caleb",
+          "category": "archaic-exception",
+          "reason": "Save means except.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A30&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 40,
+      "sourceTextSha256": "dbea35f737910a014389a0f64f6590c719975995b01ce905495a0cd8cd7fba40",
+      "edits": [
+        {
+          "startOffset": 45,
+          "endOffset": 69,
+          "expected": "gat them up into the top",
+          "replacement": "went up to the top",
+          "category": "archaic-movement-phrase",
+          "reason": "Gat them up means went up.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A40&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 41,
+      "sourceTextSha256": "18601cda5d839a1bdda491aee98d3bbabe6e1c393e235ab92b1158ff57ec464f",
+      "edits": [
+        {
+          "startOffset": 16,
+          "endOffset": 46,
+          "expected": "Wherefore now do ye transgress",
+          "replacement": "Why are you now disobeying",
+          "category": "archaic-question",
+          "reason": "Wherefore asks why and transgress here means disobey the command.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A41&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse": 45,
+      "sourceTextSha256": "bdae74a6b6edfdf9218f76af79de883dbd4f1ad7fc713a1a7d516b43c9d51121",
+      "edits": [
+        {
+          "startOffset": 80,
+          "endOffset": 112,
+          "expected": "smote them, and discomfited them",
+          "replacement": "struck them and defeated them",
+          "category": "obsolete-battle-verbs",
+          "reason": "Smote means struck and discomfited means defeated.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A45&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -594,6 +2161,174 @@
     },
     {
       "chapter": 15,
+      "verse": 3,
+      "sourceTextSha256": "544b9c05c0c63dc1bd751fbee58fd21e0525d5cd3795c66b944ccc156f319137",
+      "edits": [
+        {
+          "startOffset": 166,
+          "endOffset": 178,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A3&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 4,
+      "sourceTextSha256": "b146a77aa18482b6c90b994bc734b475150f84ca84dca05997a0b8436acdd33a",
+      "edits": [
+        {
+          "startOffset": 63,
+          "endOffset": 76,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A4&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 6,
+      "sourceTextSha256": "1b3aab99c66456252d75df18c527266c618d91c22cc8a4e7923fb0b6356a823f",
+      "edits": [
+        {
+          "startOffset": 39,
+          "endOffset": 52,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A6&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 7,
+      "sourceTextSha256": "6a3ace9c7f96e45b96174e38d18291d6cd2eb39d3e997a9c629344bd9162e3cf",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 94,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A7&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 9,
+      "sourceTextSha256": "a69dd66dcb162fc9693701fdf786a86e8485ab4497eec6160cabd81bd5f14eca",
+      "edits": [
+        {
+          "startOffset": 37,
+          "endOffset": 50,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A9&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 10,
+      "sourceTextSha256": "99aeab2c6e8be8bee43d5c07d75cb5574f33fa8e2e4f9c76e3ffed821ff35489",
+      "edits": [
+        {
+          "startOffset": 98,
+          "endOffset": 110,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A10&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 13,
+      "sourceTextSha256": "ee6ab87429c70db9794f8a4bb1bb5a7f71873eaf04148a437ddc2ed8015b220d",
+      "edits": [
+        {
+          "startOffset": 117,
+          "endOffset": 129,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A13&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 14,
+      "sourceTextSha256": "0a48683b70373f32a62f720f80e6d41a786fcde3050b590f36173a2065b628a1",
+      "edits": [
+        {
+          "startOffset": 129,
+          "endOffset": 141,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A14&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
       "verse": 17,
       "sourceTextSha256": "539a3a8d0d5f613d4e20f3d585d54028d300745155101dc6707fcddc01289e29",
       "edits": [
@@ -604,6 +2339,76 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 24,
+      "sourceTextSha256": "2da448dca9c68559e50bb3f371d71234d6556238f84bbb529f42480251052bc4",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 52,
+          "expected": "if ought be committed by ignorance",
+          "replacement": "if anything is done unintentionally",
+          "category": "archaic-legal-phrase",
+          "reason": "Ought means anything and by ignorance describes an unintentional act.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A24&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 180,
+          "endOffset": 192,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A24&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 217,
+          "endOffset": 230,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A24&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 30,
+      "sourceTextSha256": "75eff7e81d50db4643e8b928cab144c84e6b3ddbb37916278bca3fb97deaf2e8",
+      "edits": [
+        {
+          "startOffset": 6,
+          "endOffset": 46,
+          "expected": "the soul that doeth ought presumptuously",
+          "replacement": "the person who does anything defiantly",
+          "category": "archaic-legal-phrase",
+          "reason": "Soul means person, ought means anything, and presumptuously describes defiant intent.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A30&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -623,6 +2428,48 @@
       ]
     },
     {
+      "chapter": 15,
+      "verse": 38,
+      "sourceTextSha256": "e06a864fedf0d5eb7d5ad7574a40371003709407438082b5e1af7246dcd6df10",
+      "edits": [
+        {
+          "startOffset": 188,
+          "endOffset": 205,
+          "expected": "a ribband of blue",
+          "replacement": "a blue cord",
+          "category": "obsolete-clothing-term",
+          "reason": "Ribband is a historical form of ribbon; the object is a cord on the fringe.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A38&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse": 39,
+      "sourceTextSha256": "c43ca89d0a68f7d1746ad779dae8e71c5c4d4ca846792b19b4301e8d8e7e3ee4",
+      "edits": [
+        {
+          "startOffset": 208,
+          "endOffset": 220,
+          "expected": "go a whoring",
+          "replacement": "pursue unfaithfulness",
+          "category": "archaic-metaphor",
+          "reason": "The phrase describes covenant unfaithfulness rather than ordinary travel.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A39&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 16,
       "verse": 5,
       "sourceTextSha256": "4e32ecc6b9ba7e141595ff07353fdc9ad68fd796f76f48df493f8f13c003b5f8",
@@ -636,12 +2483,68 @@
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
         },
         {
+          "startOffset": 58,
+          "endOffset": 72,
+          "expected": "Even to morrow",
+          "replacement": "By tomorrow",
+          "category": "archaic-time-phrase",
+          "reason": "To morrow is the historical spelling of tomorrow.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+16%3A5&version=KJV"
+            }
+          ]
+        },
+        {
           "startOffset": 87,
           "endOffset": 91,
           "expected": "shew",
           "replacement": "show",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 9,
+      "sourceTextSha256": "38f9870d9be8ad4f6b7c446e0598d683a180b56fad793ae7ed121c87c697f45f",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 80,
+          "expected": "Seemeth it but a small thing unto you, that the God of Israel hath separated you",
+          "replacement": "Is it a small thing to you that the God of Israel has separated you",
+          "category": "archaic-question",
+          "reason": "The complete opening question is modernized together to avoid mixed grammar.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+16%3A9&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 15,
+      "sourceTextSha256": "f7ec9861903b1f5b5ac9d6abf594cd1c50cd7ed42b5dcd4edd60a8920cdc845f",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 24,
+          "expected": "Moses was very wroth",
+          "replacement": "Moses was very angry",
+          "category": "archaic-adjective",
+          "reason": "Wroth means angry.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+16%3A15&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -692,6 +2595,27 @@
     },
     {
       "chapter": 16,
+      "verse": 27,
+      "sourceTextSha256": "83d305290d058f61b58b137ad1db30730677f893b8e3545f001b43d35a80ab5c",
+      "edits": [
+        {
+          "startOffset": 3,
+          "endOffset": 34,
+          "expected": "they gat up from the tabernacle",
+          "replacement": "they moved away from the tabernacle",
+          "category": "archaic-movement-phrase",
+          "reason": "Gat up here means withdrew from the surrounding area.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+16%3A27&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
       "verse": 30,
       "sourceTextSha256": "d0a63f3f11f47f4b6155ddffd42025bc96507ee2800c2747f6bf8d1c141649cb",
       "edits": [
@@ -706,6 +2630,27 @@
             {
               "label": "Reviewed lexical evidence",
               "url": "https://www.merriam-webster.com/wordplay/quick-word-history"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 31,
+      "sourceTextSha256": "74e802d41d4a4643e75ef06f67bdde7e04311057866796790dbe54e2fdb054f3",
+      "edits": [
+        {
+          "startOffset": 79,
+          "endOffset": 103,
+          "expected": "the ground clave asunder",
+          "replacement": "the ground split apart",
+          "category": "obsolete-verb",
+          "reason": "Clave asunder means split apart.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+16%3A31&version=KJV"
             }
           ]
         }
@@ -728,6 +2673,48 @@
     },
     {
       "chapter": 16,
+      "verse": 39,
+      "sourceTextSha256": "29ec8ab6de962ca78b9ea778e37bd87b201f3d0bea55b224e08118ee1c5053c4",
+      "edits": [
+        {
+          "startOffset": 28,
+          "endOffset": 46,
+          "expected": "the brasen censers",
+          "replacement": "the bronze censers",
+          "category": "archaic-material",
+          "reason": "Brasen means made of bronze.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+16%3A39&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 41,
+      "sourceTextSha256": "89cdc29699229bf16881fc12579a617b059e7337bbd1bab6b32e20e4593acfd8",
+      "edits": [
+        {
+          "startOffset": 6,
+          "endOffset": 19,
+          "expected": "on the morrow",
+          "replacement": "the next day",
+          "category": "archaic-time",
+          "reason": "Morrow means the next day.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+16%3A41&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
       "verse": 44,
       "sourceTextSha256": "539a3a8d0d5f613d4e20f3d585d54028d300745155101dc6707fcddc01289e29",
       "edits": [
@@ -738,6 +2725,48 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 48,
+      "sourceTextSha256": "2009e9f9608c4ee557fbf63d9e826de32d1ad4d0b86a183bd76acabe8e285464",
+      "edits": [
+        {
+          "startOffset": 50,
+          "endOffset": 71,
+          "expected": "the plague was stayed",
+          "replacement": "the plague was stopped",
+          "category": "archaic-verb",
+          "reason": "Stayed means stopped in this plague account.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+16%3A48&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse": 50,
+      "sourceTextSha256": "68526adef0aa8fa55e2e83f908179572408457383d7b34f322d3be1052913a4d",
+      "edits": [
+        {
+          "startOffset": 87,
+          "endOffset": 108,
+          "expected": "the plague was stayed",
+          "replacement": "the plague was stopped",
+          "category": "archaic-verb",
+          "reason": "Stayed means stopped in this plague account.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+16%3A50&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -773,6 +2802,48 @@
     },
     {
       "chapter": 17,
+      "verse": 8,
+      "sourceTextSha256": "4448a98a689e4f7ca6bd4f1757e4d7e4719c7228cd63f433fe57cb61dad39531",
+      "edits": [
+        {
+          "startOffset": 26,
+          "endOffset": 39,
+          "expected": "on the morrow",
+          "replacement": "the next day",
+          "category": "archaic-time",
+          "reason": "Morrow means the next day.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+17%3A8&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verse": 10,
+      "sourceTextSha256": "cd1ff759d76556daed08e6880590896cb150407994576e2f06d291b2e04cae60",
+      "edits": [
+        {
+          "startOffset": 136,
+          "endOffset": 168,
+          "expected": "quite take away their murmurings",
+          "replacement": "completely put an end to their complaints",
+          "category": "archaic-idiom",
+          "reason": "Quite means completely; murmurings are complaints.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+17%3A10&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 17,
       "verse": 12,
       "sourceTextSha256": "8400083fb90238bc5077cec7a893affef56e6d49fb092f5a3b4f89ea76cff8ca",
       "edits": [
@@ -788,6 +2859,27 @@
     },
     {
       "chapter": 18,
+      "verse": 7,
+      "sourceTextSha256": "2dc04c6ad64a419eafc6a20035386aac4f4d34e54b51344d507376d5c1f5c8b6",
+      "edits": [
+        {
+          "startOffset": 115,
+          "endOffset": 119,
+          "expected": "vail",
+          "replacement": "veil",
+          "category": "archaic-spelling",
+          "reason": "Vail is the historical spelling of veil.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+18%3A7&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
       "verse": 8,
       "sourceTextSha256": "46e61914b09c147f2c45f659a0d599e1d92af4622b07c9c8d73875991850b19b",
       "edits": [
@@ -798,6 +2890,69 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 9,
+      "sourceTextSha256": "8ade5e157dde7ce1a379eb8869e3a6b4bb0ee68771ee897bc7656e8cc8e1376d",
+      "edits": [
+        {
+          "startOffset": 101,
+          "endOffset": 114,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+18%3A9&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 15,
+      "sourceTextSha256": "289a0ecb2eb1133dc7ec0bd9a5beaa363627b4aaf48c4f0af7d663a31a606747",
+      "edits": [
+        {
+          "startOffset": 25,
+          "endOffset": 35,
+          "expected": "the matrix",
+          "replacement": "the womb",
+          "category": "obsolete-anatomy",
+          "reason": "Matrix is the historical anatomical term for womb.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+18%3A15&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse": 17,
+      "sourceTextSha256": "ddfeaa6a8ee94995513324d1128d265f48d43c6831c2e9bc5410618352ccfef1",
+      "edits": [
+        {
+          "startOffset": 232,
+          "endOffset": 244,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+18%3A17&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -847,10 +3002,150 @@
       ]
     },
     {
+      "chapter": 19,
+      "verse": 7,
+      "sourceTextSha256": "6cf910685b7e50ba09b818c1b6a232d93118de98f2e051ccbff410967e556d9c",
+      "edits": [
+        {
+          "startOffset": 154,
+          "endOffset": 168,
+          "expected": "until the even",
+          "replacement": "until evening",
+          "category": "archaic-time",
+          "reason": "Even means evening.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+19%3A7&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 8,
+      "sourceTextSha256": "bebab62997378034b65b8b4d9890da6b3c653772a27e18fae41f78cdcd384552",
+      "edits": [
+        {
+          "startOffset": 108,
+          "endOffset": 122,
+          "expected": "until the even",
+          "replacement": "until evening",
+          "category": "archaic-time",
+          "reason": "Even means evening.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+19%3A8&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 10,
+      "sourceTextSha256": "58b5a6918504125048abd90103c396d0f311e402ed15f0cc578156478e0809e9",
+      "edits": [
+        {
+          "startOffset": 85,
+          "endOffset": 99,
+          "expected": "until the even",
+          "replacement": "until evening",
+          "category": "archaic-time",
+          "reason": "Even means evening.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+19%3A10&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 21,
+      "sourceTextSha256": "ad69cbde8bc012c06e6f5026b0dea6dd25cf02deef6d8b8a601764105ff8400e",
+      "edits": [
+        {
+          "startOffset": 181,
+          "endOffset": 191,
+          "expected": "until even",
+          "replacement": "until evening",
+          "category": "archaic-time",
+          "reason": "Even means evening.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+19%3A21&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse": 22,
+      "sourceTextSha256": "7a94bf62f1a2ac4aff862e2ae76749075045feee5f73b01abce92440f73d5343",
+      "edits": [
+        {
+          "startOffset": 108,
+          "endOffset": 118,
+          "expected": "until even",
+          "replacement": "until evening",
+          "category": "archaic-time",
+          "reason": "Even means evening.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+19%3A22&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 1,
+      "sourceTextSha256": "1a37701d1f215bd91c0f0f2ca6ce7b0ee390a4ead013fae65c7c9cdb747691b6",
+      "edits": [
+        {
+          "startOffset": 110,
+          "endOffset": 136,
+          "expected": "the people abode in Kadesh",
+          "replacement": "the people remained in Kadesh",
+          "category": "archaic-verb",
+          "reason": "Abode means remained.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+20%3A1&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 20,
       "verse": 3,
       "sourceTextSha256": "05493bdc294902d11c472ed228aba6dd3f94b2f18babf36872fdb7b90e0250fe",
       "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 31,
+          "expected": "the people chode with Moses",
+          "replacement": "the people quarreled with Moses",
+          "category": "obsolete-verb",
+          "reason": "Chode is an old past tense meaning quarreled.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+20%3A3&version=KJV"
+            }
+          ]
+        },
         {
           "startOffset": 37,
           "endOffset": 42,
@@ -878,6 +3173,27 @@
     },
     {
       "chapter": 20,
+      "verse": 11,
+      "sourceTextSha256": "0ed20810215e90262aa115b3e5c4ab9d0457855d81b89ded8c8350e36461baea",
+      "edits": [
+        {
+          "startOffset": 47,
+          "endOffset": 70,
+          "expected": "he smote the rock twice",
+          "replacement": "he struck the rock twice",
+          "category": "archaic-verb",
+          "reason": "Smote is the historical past tense of strike.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+20%3A11&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
       "verse": 12,
       "sourceTextSha256": "988618415d4ad2be488dd390dcc45c87baf9fd0eedd8ffed286db636114a5994",
       "edits": [
@@ -888,6 +3204,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse": 14,
+      "sourceTextSha256": "1da1282a19849d978cad9fdb88542ab2467b3165d0d2f2cdb2baf663085902f4",
+      "edits": [
+        {
+          "startOffset": 107,
+          "endOffset": 144,
+          "expected": "all the travail that hath befallen us",
+          "replacement": "all the hardship that has come upon us",
+          "category": "false-friend",
+          "reason": "Travail here means hardship, not childbirth.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+20%3A14&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -918,6 +3255,20 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        },
+        {
+          "startOffset": 179,
+          "endOffset": 213,
+          "expected": "our soul loatheth this light bread",
+          "replacement": "we detest this miserable food",
+          "category": "archaic-idiom",
+          "reason": "Soul represents the people themselves; light here means contemptible, not low-calorie.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+21%3A5&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -937,10 +3288,108 @@
       ]
     },
     {
+      "chapter": 21,
+      "verse": 18,
+      "sourceTextSha256": "2c057dddf53a4b0c5cde914ecb7ffd04e32b9c8a67b7c034c8043808bebba31b",
+      "edits": [
+        {
+          "startOffset": 110,
+          "endOffset": 116,
+          "expected": "staves",
+          "replacement": "poles",
+          "category": "archaic-object",
+          "reason": "Staves are the carrying poles for sanctuary objects.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+21%3A18&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 23,
+      "sourceTextSha256": "62b5bdf8f7f8e2ba9e0cac9c5b975ac0b255c829142c4540a2ce621d0e160549",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 41,
+          "expected": "would not suffer Israel to pass",
+          "replacement": "would not allow Israel to pass",
+          "category": "false-friend",
+          "reason": "Suffer here means allow.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+21%3A23&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 24,
+      "sourceTextSha256": "5fe9c71052082e1039779c16fb5cc52f111e5c6626531630f3fe661ca6d40c8f",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 20,
+          "expected": "Israel smote him",
+          "replacement": "Israel struck him",
+          "category": "archaic-verb",
+          "reason": "Smote is the historical past tense of strike.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+21%3A24&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse": 35,
+      "sourceTextSha256": "f4db82453771916c1fdb649cc0ced135ab182885ba2758481e147968c8323626",
+      "edits": [
+        {
+          "startOffset": 3,
+          "endOffset": 17,
+          "expected": "they smote him",
+          "replacement": "they struck him",
+          "category": "archaic-verb",
+          "reason": "Smote is the historical past tense of strike.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+21%3A35&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 22,
       "verse": 6,
       "sourceTextSha256": "ce1cf15b2cb1c7c902bdcbb00fce127a5a75a6152de395f7a7a1cfdeb957006d",
       "edits": [
+        {
+          "startOffset": 87,
+          "endOffset": 115,
+          "expected": "peradventure I shall prevail",
+          "replacement": "perhaps I shall prevail",
+          "category": "archaic-adverb",
+          "reason": "Peradventure means perhaps.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A6&version=KJV"
+            }
+          ]
+        },
         {
           "startOffset": 188,
           "endOffset": 198,
@@ -963,12 +3412,572 @@
       "sourceTextSha256": "d748e3d52f415c313345c4f744d5963eacf19945efea21c9a802ab02cafebaef",
       "edits": [
         {
+          "startOffset": 62,
+          "endOffset": 87,
+          "expected": "the rewards of divination",
+          "replacement": "the fees for divination",
+          "category": "false-friend-payment",
+          "reason": "Rewards here are the payment carried to hire Balaam's divination.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A7&version=KJV"
+            }
+          ]
+        },
+        {
           "startOffset": 134,
           "endOffset": 139,
           "expected": "spake",
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 8,
+      "sourceTextSha256": "ea4b68790980408f2990c926907763e121000932c99d6d9b181efaf2875a3260",
+      "edits": [
+        {
+          "startOffset": 116,
+          "endOffset": 153,
+          "expected": "the princes of Moab abode with Balaam",
+          "replacement": "the leaders of Moab stayed with Balaam",
+          "category": "archaic-verb-and-title",
+          "reason": "Abode means stayed; princes here are leaders or officials.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A8&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 11,
+      "sourceTextSha256": "b5e0592c4b30701b55d2ad8224540d2fbff690486fe3cf5a9db012315f9613a8",
+      "edits": [
+        {
+          "startOffset": 108,
+          "endOffset": 136,
+          "expected": "peradventure I shall be able",
+          "replacement": "perhaps I shall be able",
+          "category": "archaic-adverb",
+          "reason": "Peradventure means perhaps.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A11&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 13,
+      "sourceTextSha256": "f129af07476fe8679307c16fd73c82b836173404c620d1c3389fb07a9565e82d",
+      "edits": [
+        {
+          "startOffset": 108,
+          "endOffset": 133,
+          "expected": "refuseth to give me leave",
+          "replacement": "refuses to permit me",
+          "category": "archaic-permission-phrase",
+          "reason": "Give me leave means permit me.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A13&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 19,
+      "sourceTextSha256": "580ecc1d57e07ee5e26ddeba1a5382ac63723ba49e45c223c967c75f20e3dffd",
+      "edits": [
+        {
+          "startOffset": 27,
+          "endOffset": 45,
+          "expected": "tarry ye also here",
+          "replacement": "you also stay here",
+          "category": "archaic-verb",
+          "reason": "Tarry means stay or wait.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A19&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 21,
+      "sourceTextSha256": "60a6b5301e417a7c6656c79c6fdfcd2140ec8b247e54bc1413417f98f24c45a5",
+      "edits": [
+        {
+          "startOffset": 47,
+          "endOffset": 54,
+          "expected": "his ass",
+          "replacement": "his donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A21&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 22,
+      "sourceTextSha256": "149daa15b4d58a75d496d2a4fdc9fd4ea859203c2b18768d75f7594ad4f8b13b",
+      "edits": [
+        {
+          "startOffset": 143,
+          "endOffset": 150,
+          "expected": "his ass",
+          "replacement": "his donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A22&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 23,
+      "sourceTextSha256": "c4f8ea5ed7e8c38a5e35d14b90f8f59bc4317f588c7932fb49ee2736c9c28f1b",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 11,
+          "expected": "the ass",
+          "replacement": "the donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A23&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 96,
+          "endOffset": 103,
+          "expected": "the ass",
+          "replacement": "the donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A23&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 175,
+          "endOffset": 182,
+          "expected": "the ass",
+          "replacement": "the donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A23&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 25,
+      "sourceTextSha256": "eed35bf5d6dab76c5dbe6417b0805ee669119405941bfa1e4e3db4744dcdeedb",
+      "edits": [
+        {
+          "startOffset": 9,
+          "endOffset": 16,
+          "expected": "the ass",
+          "replacement": "the donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A25&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 27,
+      "sourceTextSha256": "cdde6b2593374ee7bb44cc6f59ebebfc8b0ff3c5f4b4e86207b822dff03b74f4",
+      "edits": [
+        {
+          "startOffset": 9,
+          "endOffset": 16,
+          "expected": "the ass",
+          "replacement": "the donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A27&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 117,
+          "endOffset": 124,
+          "expected": "the ass",
+          "replacement": "the donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A27&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 28,
+      "sourceTextSha256": "063cdfbd6cbdc4f53126d525298a48c5e1741e4f2fd4d8a73a448e374e166311",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 40,
+          "expected": "the mouth of the ass",
+          "replacement": "the donkey’s mouth",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A28&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 29,
+      "sourceTextSha256": "c3be674e7fc103cafba3df602306a2c9d6b353f36c42f43968610360525b4af2",
+      "edits": [
+        {
+          "startOffset": 16,
+          "endOffset": 28,
+          "expected": "unto the ass",
+          "replacement": "to the donkey",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A29&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 30,
+      "sourceTextSha256": "707eef32eb449bfd4b937eb33f64fee17d0f5c23790c736e88b7d56e0aa611bd",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 16,
+          "expected": "the ass said",
+          "replacement": "the donkey said",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A30&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 30,
+          "endOffset": 151,
+          "expected": "Am not I thine ass, upon which thou hast ridden ever since I was thine unto this day? was I ever wont to do so unto thee?",
+          "replacement": "Am I not your donkey, which you have ridden ever since I became yours to this day? Have I ever been accustomed to doing this to you?",
+          "category": "archaic-animal-and-grammar",
+          "reason": "The donkey's complete question is modernized together to keep the singular address coherent.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A30&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 165,
+          "endOffset": 168,
+          "expected": "Nay",
+          "replacement": "No",
+          "category": "archaic-response",
+          "reason": "Nay is the historical negative response no.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A30&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 32,
+      "sourceTextSha256": "8e1dbb9a06e2ad33798ff466470bf1ea7e098c6e0a93a697eed5930e31a4d8cb",
+      "edits": [
+        {
+          "startOffset": 41,
+          "endOffset": 97,
+          "expected": "Wherefore hast thou smitten thine ass these three times?",
+          "replacement": "Why have you struck your donkey these three times?",
+          "category": "archaic-animal-and-grammar",
+          "reason": "The complete question is modernized together to keep the singular address coherent.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A32&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 98,
+          "endOffset": 173,
+          "expected": "behold, I went out to withstand thee, because thy way is perverse before me",
+          "replacement": "behold, I came out to oppose you, because your way is perverse before me",
+          "category": "archaic-grammar",
+          "reason": "The remainder of the reply is modernized consistently without changing its moral judgment.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A32&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 33,
+      "sourceTextSha256": "cf7bebd2bae98b7418a06f90dc3da6ad2dbca68829ddfe2a56f1c2f0beedca04",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 18,
+          "expected": "the ass saw me",
+          "replacement": "the donkey saw me",
+          "category": "archaic-animal-name",
+          "reason": "Ass is the historical English name for a donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A33&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse": 41,
+      "sourceTextSha256": "e13766ce1c05d23951f51c5254a15a2e10e4619ca0f8f7b7ddf96878cd63597a",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 33,
+          "expected": "on the morrow",
+          "replacement": "the next day",
+          "category": "archaic-time",
+          "reason": "Morrow means the next day.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A41&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 3,
+      "sourceTextSha256": "a9cfc2e426d7d035c4c612aa8b08b0313f352dcbc3a3fa899a78d0786ed37117",
+      "edits": [
+        {
+          "startOffset": 72,
+          "endOffset": 93,
+          "expected": "peradventure the LORD",
+          "replacement": "perhaps the LORD",
+          "category": "archaic-adverb",
+          "reason": "Peradventure means perhaps.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+23%3A3&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 18,
+      "sourceTextSha256": "6b12ae4a5f0914a0ca2ccea3409d682d56d60ee572a006265e7c7747276cd92a",
+      "edits": [
+        {
+          "startOffset": 64,
+          "endOffset": 79,
+          "expected": "hearken unto me",
+          "replacement": "listen to me",
+          "category": "archaic-verb",
+          "reason": "Hearken means listen.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+23%3A18&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 22,
+      "sourceTextSha256": "5396da8db9c19641bcef059112740399cf9047d095000e8c2fb42012429d9165",
+      "edits": [
+        {
+          "startOffset": 50,
+          "endOffset": 76,
+          "expected": "the strength of an unicorn",
+          "replacement": "the strength of a wild ox",
+          "category": "obsolete-animal-name",
+          "reason": "Unicorn in this KJV passage represents a powerful wild bovine, not the modern mythical animal.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+23%3A22&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 23,
+      "sourceTextSha256": "061df960fa1d1850c9e4d539b4aa442d0fe30977b9c22c1e172978936e138972",
+      "edits": [
+        {
+          "startOffset": 158,
+          "endOffset": 180,
+          "expected": "What hath God wrought!",
+          "replacement": "What God has done!",
+          "category": "archaic-exclamation",
+          "reason": "Wrought means done; the exclamation retains its praise.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+23%3A23&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse": 27,
+      "sourceTextSha256": "c551a2153cf875f23ea251cbdaaf1b03703f49f63dcb1c7ffb22201feac25247",
+      "edits": [
+        {
+          "startOffset": 87,
+          "endOffset": 118,
+          "expected": "peradventure it will please God",
+          "replacement": "perhaps it will please God",
+          "category": "archaic-adverb",
+          "reason": "Peradventure means perhaps.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+23%3A27&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 5,
+      "sourceTextSha256": "bf5ec67cb9c0346051f386c7c8106e885a59bfde6cdb8eac7883963e8d5d8f71",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 65,
+          "expected": "How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!",
+          "replacement": "How beautiful are your tents, O Jacob, and your dwellings, O Israel!",
+          "category": "archaic-adjective-and-grammar",
+          "reason": "The full parallel line is modernized together; tabernacles here means dwellings.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+24%3A5&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 8,
+      "sourceTextSha256": "e8bf146aa5c8fbfe52f03e8f654b298c7e824c52365212b66b267644f33b9d32",
+      "edits": [
+        {
+          "startOffset": 55,
+          "endOffset": 81,
+          "expected": "the strength of an unicorn",
+          "replacement": "the strength of a wild ox",
+          "category": "obsolete-animal-name",
+          "reason": "Unicorn here represents a powerful wild bovine.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+24%3A8&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -984,6 +3993,104 @@
           "replacement": "Spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 14,
+      "sourceTextSha256": "77a3ff0ae94967915931bc2b7f56ecc55075c9293931b4c06dd717e4c5d71a8f",
+      "edits": [
+        {
+          "startOffset": 58,
+          "endOffset": 119,
+          "expected": "I will advertise thee what this people shall do to thy people",
+          "replacement": "I will tell you what this people shall do to your people",
+          "category": "false-friend",
+          "reason": "Advertise here means tell or inform; both pronouns are modernized together.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+24%3A14&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse": 17,
+      "sourceTextSha256": "28008fd624c13eb46c55b2adb5f29899e0101dd55d863c6ba24da9430d4b24a3",
+      "edits": [
+        {
+          "startOffset": 50,
+          "endOffset": 62,
+          "expected": "but not nigh",
+          "replacement": "but not near",
+          "category": "archaic-adverb",
+          "reason": "Nigh means near.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+24%3A17&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 1,
+      "sourceTextSha256": "41efee9210b3a7ec8f7a4c6f7bfaebf88b822f2981632b5ebac8bbe8ba335ce2",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 27,
+          "expected": "Israel abode in Shittim",
+          "replacement": "Israel remained in Shittim",
+          "category": "archaic-verb",
+          "reason": "Abode means remained; Shittim is a place name and remains unchanged.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+25%3A1&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 53,
+          "endOffset": 68,
+          "expected": "commit whoredom",
+          "replacement": "commit sexual immorality",
+          "category": "archaic-sexual-term",
+          "reason": "Whoredom is an archaic term for sexual immorality in this narrative.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+25%3A1&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 8,
+      "sourceTextSha256": "e03c715bf93d82f3224ce544f8f59b8f85ab9f97d4b32a07d7d443d4904b2c18",
+      "edits": [
+        {
+          "startOffset": 139,
+          "endOffset": 160,
+          "expected": "the plague was stayed",
+          "replacement": "the plague was stopped",
+          "category": "archaic-verb",
+          "reason": "Stayed means stopped.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+25%3A8&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -1014,6 +4121,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse": 18,
+      "sourceTextSha256": "0b8bebf8fae61a34a7c89ffae73777c9283cd0279282da4ea8d38746b798cd31",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 33,
+          "expected": "they vex you with their wiles",
+          "replacement": "they harass you through their schemes",
+          "category": "archaic-phrase",
+          "reason": "Vex means harass and wiles are deceptive schemes.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+25%3A18&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -1063,6 +4191,83 @@
       ]
     },
     {
+      "chapter": 26,
+      "verse": 59,
+      "sourceTextSha256": "667697914cc3c0f1ee5126afc868871f78470ca3c55fe1be7ccbf173de76dce1",
+      "edits": [
+        {
+          "startOffset": 65,
+          "endOffset": 85,
+          "expected": "whom her mother bare",
+          "replacement": "whom her mother bore",
+          "category": "archaic-verb",
+          "reason": "Bare is the historical past tense of bear in childbirth.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+26%3A59&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 108,
+          "endOffset": 127,
+          "expected": "she bare unto Amram",
+          "replacement": "she bore to Amram",
+          "category": "archaic-verb",
+          "reason": "Bare is the historical past tense of bear in childbirth.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+26%3A59&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse": 65,
+      "sourceTextSha256": "3328513598b8cb57eb9d05e1907402402b627947b2f1df887b5689f3f6aacda0",
+      "edits": [
+        {
+          "startOffset": 110,
+          "endOffset": 120,
+          "expected": "save Caleb",
+          "replacement": "except Caleb",
+          "category": "archaic-exception",
+          "reason": "Save means except.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+26%3A65&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 4,
+      "sourceTextSha256": "875024f9d4fb5307ccb611fa4f9261c8fba378a269c6d13fca71cd7e6d0dedb3",
+      "edits": [
+        {
+          "startOffset": 11,
+          "endOffset": 46,
+          "expected": "the name of our father be done away",
+          "replacement": "our father’s name disappear",
+          "category": "archaic-idiom",
+          "reason": "Done away means removed or made to disappear.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+27%3A4&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 27,
       "verse": 6,
       "sourceTextSha256": "539a3a8d0d5f613d4e20f3d585d54028d300745155101dc6707fcddc01289e29",
@@ -1074,6 +4279,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse": 7,
+      "sourceTextSha256": "f9dd5a9b3bcbb19bd1032aff9a68e8a53edc4a334cc6c6ae01fc98b211e9e386",
+      "edits": [
+        {
+          "startOffset": 28,
+          "endOffset": 39,
+          "expected": "speak right",
+          "replacement": "are right",
+          "category": "archaic-idiom",
+          "reason": "Speak right means that their claim is correct.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+27%3A7&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -1093,6 +4319,27 @@
       ]
     },
     {
+      "chapter": 27,
+      "verse": 19,
+      "sourceTextSha256": "c3e8d7ad6d218bf54e5604d51785c0d529cc4bc3587f4704cedadc11c678e07b",
+      "edits": [
+        {
+          "startOffset": 76,
+          "endOffset": 93,
+          "expected": "give him a charge",
+          "replacement": "commission him",
+          "category": "archaic-leadership-phrase",
+          "reason": "Giving Joshua a charge means formally commissioning him.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+27%3A19&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 28,
       "verse": 1,
       "sourceTextSha256": "29615d17124775fa5339ffa2cd24e057ac808e6d460d778ac4e7434756684a52",
@@ -1104,6 +4351,909 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 2,
+      "sourceTextSha256": "6d991bd442c68a9d958b35b1742d444a47bb3eb619682a6d8d23240d81892c9b",
+      "edits": [
+        {
+          "startOffset": 115,
+          "endOffset": 127,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A2&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 4,
+      "sourceTextSha256": "94c4f7f96522d2f32c505d619919bffd88a36d06da9a7a6ee3fe9e1a077c8e7a",
+      "edits": [
+        {
+          "startOffset": 82,
+          "endOffset": 89,
+          "expected": "at even",
+          "replacement": "in the evening",
+          "category": "archaic-time",
+          "reason": "Even means evening.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A4&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 5,
+      "sourceTextSha256": "37e8adb1e62ee7b1c43211982a07f581940392f8a809b9b2950f726ee89372ca",
+      "edits": [
+        {
+          "startOffset": 44,
+          "endOffset": 57,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A5&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 6,
+      "sourceTextSha256": "9ce747c62470dc3339d9a1fbb4cf2f853598f481cff870227f6282a258162b03",
+      "edits": [
+        {
+          "startOffset": 74,
+          "endOffset": 86,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A6&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 8,
+      "sourceTextSha256": "52676467d1505bef3ebb2f206d56b264dc27b49f9ccfec12e887267f0e6fb790",
+      "edits": [
+        {
+          "startOffset": 36,
+          "endOffset": 43,
+          "expected": "at even",
+          "replacement": "in the evening",
+          "category": "archaic-time",
+          "reason": "Even means evening.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A8&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 52,
+          "endOffset": 65,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A8&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 169,
+          "endOffset": 181,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A8&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 9,
+      "sourceTextSha256": "baa65498765b258dbce5e1b1df8978daf86510e3e0d7e63e4e9b686899551725",
+      "edits": [
+        {
+          "startOffset": 102,
+          "endOffset": 115,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A9&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 12,
+      "sourceTextSha256": "b33df3d5e50021c2a219d6d7535a502ec3f12ccb8a2ea4968ed4d822fc93b587",
+      "edits": [
+        {
+          "startOffset": 37,
+          "endOffset": 50,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A12&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 122,
+          "endOffset": 135,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A12&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 13,
+      "sourceTextSha256": "1b2ae3dd3d991e63276e79c7534c58ce9d6cc94438445ca9e5b8e9bd08044253",
+      "edits": [
+        {
+          "startOffset": 57,
+          "endOffset": 70,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A13&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 112,
+          "endOffset": 124,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A13&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 20,
+      "sourceTextSha256": "8560c7028bb2c927fce862851f5c289a5b23cb6543925209d8c4a251a7c2f7f3",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 23,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A20&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 24,
+      "sourceTextSha256": "f0a68efc61116234ee64db54806aa2e4ad8524bc424c2cb507f2b6a026794ca5",
+      "edits": [
+        {
+          "startOffset": 112,
+          "endOffset": 124,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A24&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 26,
+      "sourceTextSha256": "89a341dbe9ac8a2219010ba7aa2070682a258f102a8ca105b6037067c6ac011e",
+      "edits": [
+        {
+          "startOffset": 58,
+          "endOffset": 71,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A26&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 27,
+      "sourceTextSha256": "ad2af2f1122aa856ca229f133fa3adf589fc2d09f800ff8bbc2b9a365fc9b0ea",
+      "edits": [
+        {
+          "startOffset": 44,
+          "endOffset": 56,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A27&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 28,
+      "sourceTextSha256": "45b838c1d71799b48104df4280cec2c6bb3302fcf941172479dc853eeab4f50c",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 23,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A28&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse": 31,
+      "sourceTextSha256": "459d69d6c9e1396ffcbb9bfb51fd7651dc24e2c520efe8665230ca891353c743",
+      "edits": [
+        {
+          "startOffset": 65,
+          "endOffset": 78,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A31&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 2,
+      "sourceTextSha256": "106f1efcb2e76b1dddfd30b27fb7d8f4d621f1ea66b611271ca328ca083561c8",
+      "edits": [
+        {
+          "startOffset": 42,
+          "endOffset": 54,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A2&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 3,
+      "sourceTextSha256": "e73466e62f8cccc1229863360814822f07da8b95810db4175a3be04d376cddf1",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 23,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A3&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 6,
+      "sourceTextSha256": "c8a21cf6a9526383e9def401f69ca1534a4ba8a4463ff14090e183975ff96d70",
+      "edits": [
+        {
+          "startOffset": 48,
+          "endOffset": 61,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A6&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 101,
+          "endOffset": 114,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A6&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 178,
+          "endOffset": 190,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A6&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 8,
+      "sourceTextSha256": "42f5c3ff8c37ae47b17da2a9a26d91cfd3e2f6c3a9a005cabf674471141de930",
+      "edits": [
+        {
+          "startOffset": 56,
+          "endOffset": 68,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A8&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 9,
+      "sourceTextSha256": "157155b0f33b4c480c7f158aa95e22b5198e5e20fd6a600c37fe27ffc492291e",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 23,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A9&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 11,
+      "sourceTextSha256": "1717eb90f2b5d48c6fc7f929a160a30030bbecd59336c2b7e610396fca4f22c4",
+      "edits": [
+        {
+          "startOffset": 121,
+          "endOffset": 134,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A11&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 13,
+      "sourceTextSha256": "71b95b4171f47b6273274198b76edd987a36c30b87b6038fce967ca0d1e1809f",
+      "edits": [
+        {
+          "startOffset": 68,
+          "endOffset": 80,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A13&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 14,
+      "sourceTextSha256": "c2f689bd42ab3cba761737b047e941d8ba4e5001ef4e97349cf12edb7a962d6e",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 23,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A14&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 16,
+      "sourceTextSha256": "d804f380dcf5fcb3532d9204bb8185212bedf4e855b04d463c63233cee1a9d89",
+      "edits": [
+        {
+          "startOffset": 86,
+          "endOffset": 99,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A16&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 18,
+      "sourceTextSha256": "c1969b7566aaf949a6c7247aebb27143e426b9a672b7748d0fb4a1ecf2553ad1",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 23,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A18&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 19,
+      "sourceTextSha256": "a97bdc9751e5074ac362b48befa8d7fde56d5f92ebfc6e2b5a6c5ced99ed8551",
+      "edits": [
+        {
+          "startOffset": 90,
+          "endOffset": 103,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A19&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 21,
+      "sourceTextSha256": "c1969b7566aaf949a6c7247aebb27143e426b9a672b7748d0fb4a1ecf2553ad1",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 23,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A21&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 22,
+      "sourceTextSha256": "3af80eb36562bc7ac5d9ec6af6c8a6a28484c2eec0232b67076baf608b0967ed",
+      "edits": [
+        {
+          "startOffset": 78,
+          "endOffset": 91,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A22&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 24,
+      "sourceTextSha256": "d39e7d7dd138aca00ccf36d68dab1528f3cdfafe0c2117ab04278984f299dc7c",
+      "edits": [
+        {
+          "startOffset": 6,
+          "endOffset": 19,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A24&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 25,
+      "sourceTextSha256": "d804f380dcf5fcb3532d9204bb8185212bedf4e855b04d463c63233cee1a9d89",
+      "edits": [
+        {
+          "startOffset": 86,
+          "endOffset": 99,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A25&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 27,
+      "sourceTextSha256": "c1969b7566aaf949a6c7247aebb27143e426b9a672b7748d0fb4a1ecf2553ad1",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 23,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A27&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 28,
+      "sourceTextSha256": "3af80eb36562bc7ac5d9ec6af6c8a6a28484c2eec0232b67076baf608b0967ed",
+      "edits": [
+        {
+          "startOffset": 78,
+          "endOffset": 91,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A28&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 30,
+      "sourceTextSha256": "c1969b7566aaf949a6c7247aebb27143e426b9a672b7748d0fb4a1ecf2553ad1",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 23,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A30&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 31,
+      "sourceTextSha256": "c5f40344f0cff7230160e6cafea5f2e29e7d53dc68b13d4cb554e080a2db21ba",
+      "edits": [
+        {
+          "startOffset": 74,
+          "endOffset": 87,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A31&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 33,
+      "sourceTextSha256": "c1969b7566aaf949a6c7247aebb27143e426b9a672b7748d0fb4a1ecf2553ad1",
+      "edits": [
+        {
+          "startOffset": 10,
+          "endOffset": 23,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A33&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 34,
+      "sourceTextSha256": "c5f40344f0cff7230160e6cafea5f2e29e7d53dc68b13d4cb554e080a2db21ba",
+      "edits": [
+        {
+          "startOffset": 74,
+          "endOffset": 87,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A34&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 36,
+      "sourceTextSha256": "ee803c57f7a9577e76ec55d615f2968674d9730f946310eb1bfbc7739500d9c7",
+      "edits": [
+        {
+          "startOffset": 68,
+          "endOffset": 80,
+          "expected": "sweet savour",
+          "replacement": "pleasing aroma",
+          "category": "archaic-offering-phrase",
+          "reason": "Sweet savour describes an aroma acceptable to the LORD.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A36&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 37,
+      "sourceTextSha256": "d3723efe7c2c802e59665cc4d5fa9e2c9df0a9fde39845e2faa4c32f96ca3d09",
+      "edits": [
+        {
+          "startOffset": 6,
+          "endOffset": 19,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A37&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 38,
+      "sourceTextSha256": "3af80eb36562bc7ac5d9ec6af6c8a6a28484c2eec0232b67076baf608b0967ed",
+      "edits": [
+        {
+          "startOffset": 78,
+          "endOffset": 91,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A38&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse": 39,
+      "sourceTextSha256": "b6150fc23d64765faf7e2106ca9196cb1d51e7fdfd7d73503bea4ee1197361bf",
+      "edits": [
+        {
+          "startOffset": 145,
+          "endOffset": 158,
+          "expected": "meat offering",
+          "replacement": "grain offering",
+          "category": "false-friend-offering",
+          "reason": "Meat in this sacrificial formula means a grain offering, not animal flesh.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+29%3A39&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -1154,6 +5304,69 @@
     },
     {
       "chapter": 31,
+      "verse": 10,
+      "sourceTextSha256": "244d091e7de77479d5c8b75e752e02b2babc7bef914d680b36774052141ed2d8",
+      "edits": [
+        {
+          "startOffset": 60,
+          "endOffset": 80,
+          "expected": "their goodly castles",
+          "replacement": "their fortified encampments",
+          "category": "false-friend-settlement",
+          "reason": "Castles here are fortified camps or settlements, not medieval stone castles.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A10&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 14,
+      "sourceTextSha256": "81e8908672e2e0047bca27de9246ece3ab2ae3aba9fdd38cccba67e40f466712",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 19,
+          "expected": "Moses was wroth",
+          "replacement": "Moses was angry",
+          "category": "archaic-adjective",
+          "reason": "Wroth means angry.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A14&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 20,
+      "sourceTextSha256": "2163ef00851107aed3db73cccd803466792d3711f4b6b572766f651769f61d2e",
+      "edits": [
+        {
+          "startOffset": 20,
+          "endOffset": 27,
+          "expected": "raiment",
+          "replacement": "clothing",
+          "category": "archaic-noun",
+          "reason": "Raiment means clothing.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A20&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
       "verse": 25,
       "sourceTextSha256": "539a3a8d0d5f613d4e20f3d585d54028d300745155101dc6707fcddc01289e29",
       "edits": [
@@ -1164,6 +5377,174 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 28,
+      "sourceTextSha256": "62031298befab4aeae3fa45cc55a0a477b4dadbc699558d8a804191f848ffc53",
+      "edits": [
+        {
+          "startOffset": 131,
+          "endOffset": 141,
+          "expected": "the beeves",
+          "replacement": "the cattle",
+          "category": "obsolete-animal-name",
+          "reason": "Beeves is an obsolete plural referring to cattle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A28&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 154,
+          "endOffset": 159,
+          "expected": "asses",
+          "replacement": "donkeys",
+          "category": "archaic-animal-name",
+          "reason": "Asses is the historical plural of donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A28&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 30,
+      "sourceTextSha256": "db4fb7d6c388159eb811f407fe6f3d1434ede0b4e3fe4a6329cab20e69d4002b",
+      "edits": [
+        {
+          "startOffset": 95,
+          "endOffset": 105,
+          "expected": "the beeves",
+          "replacement": "the cattle",
+          "category": "obsolete-animal-name",
+          "reason": "Beeves is an obsolete plural referring to cattle.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A30&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 114,
+          "endOffset": 119,
+          "expected": "asses",
+          "replacement": "donkeys",
+          "category": "archaic-animal-name",
+          "reason": "Asses is the historical plural of donkey.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A30&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 34,
+      "sourceTextSha256": "615f2c7c0fe035c81960427594b8801adb98b3fb9db165b67cfa2fce5bd4185f",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 37,
+          "expected": "threescore and one thousand asses",
+          "replacement": "sixty-one thousand donkeys",
+          "category": "archaic-number-and-animal",
+          "reason": "Threescore and one is sixty-one; asses means donkeys.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A34&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 39,
+      "sourceTextSha256": "1aa60ccc26818a72e5291c54c7715d5e663556cb47efe4bfe745f714e8e6e3da",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 34,
+          "expected": "the asses were thirty thousand",
+          "replacement": "the donkeys were thirty thousand",
+          "category": "archaic-animal-name",
+          "reason": "Asses means donkeys.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A39&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 85,
+          "endOffset": 103,
+          "expected": "threescore and one",
+          "replacement": "sixty-one",
+          "category": "archaic-number",
+          "reason": "Threescore and one is sixty-one.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A39&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 45,
+      "sourceTextSha256": "9507a851a2680a93da427be40437a41cad72bf02fbd08eb1f732f2bda9b3bedd",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 25,
+          "expected": "thirty thousand asses",
+          "replacement": "thirty thousand donkeys",
+          "category": "archaic-animal-name",
+          "reason": "Asses means donkeys.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A45&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse": 49,
+      "sourceTextSha256": "c021c9f2ec204e587a4f0e6bcfaece4aae682029bb528b26b9421edbcf07ee8b",
+      "edits": [
+        {
+          "startOffset": 108,
+          "endOffset": 139,
+          "expected": "there lacketh not one man of us",
+          "replacement": "not one of our men is missing",
+          "category": "archaic-grammar",
+          "reason": "The clause reports that every soldier returned.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A49&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -1179,6 +5560,27 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 5,
+      "sourceTextSha256": "e4a7df8113fb918f95362853653af6ace39809b69daccab6bcfcf323e8189efe",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 146,
+          "expected": "Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan",
+          "replacement": "Therefore they said, if we have found favor in your sight, let this land be given to your servants as a possession, and do not take us across Jordan",
+          "category": "archaic-request-formula",
+          "reason": "The complete request is modernized together so its singular address and action remain coherent.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+32%3A5&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -1214,6 +5616,69 @@
     },
     {
       "chapter": 32,
+      "verse": 12,
+      "sourceTextSha256": "978ab2af3823ebb9de034f4a16df1584f54040ff6050a2fe4be27f1359e985f5",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 10,
+          "expected": "Save Caleb",
+          "replacement": "Except Caleb",
+          "category": "archaic-exception",
+          "reason": "Save means except.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+32%3A12&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 14,
+      "sourceTextSha256": "a19c467ef9c385150c2b587b27220dccef45dcb363e58c13b62d855fb4c9e72d",
+      "edits": [
+        {
+          "startOffset": 29,
+          "endOffset": 51,
+          "expected": "in your fathers’ stead",
+          "replacement": "in your fathers’ place",
+          "category": "archaic-noun",
+          "reason": "Stead means place.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+32%3A14&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verse": 17,
+      "sourceTextSha256": "72f8fccd977e83a0c2e9a67fc8411208cabc0753a77b9dfce91b06d01d56c592",
+      "edits": [
+        {
+          "startOffset": 148,
+          "endOffset": 165,
+          "expected": "the fenced cities",
+          "replacement": "the fortified cities",
+          "category": "false-friend",
+          "reason": "Fenced means fortified or walled, not merely enclosed by a fence.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+32%3A17&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
       "verse": 25,
       "sourceTextSha256": "b756986a59a84ce32c1352582e1e142c6ca478cf172b60f3028edbf132305aeb",
       "edits": [
@@ -1224,6 +5689,62 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "verse": 3,
+      "sourceTextSha256": "7e32be4bbd85fa6df55c0019512c459eeaa3abd34cc40bb5aa55a368ad622fb6",
+      "edits": [
+        {
+          "startOffset": 92,
+          "endOffset": 124,
+          "expected": "on the morrow after the passover",
+          "replacement": "the day after the Passover",
+          "category": "archaic-time",
+          "reason": "Morrow means the next day.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+33%3A3&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 157,
+          "endOffset": 174,
+          "expected": "with an high hand",
+          "replacement": "boldly",
+          "category": "archaic-idiom",
+          "reason": "With a high hand means openly and boldly.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+33%3A3&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "verse": 9,
+      "sourceTextSha256": "c907d289fe20e681e6361124e778f83b95b6e8af250bdcb92f0bd5e97a71b0bf",
+      "edits": [
+        {
+          "startOffset": 97,
+          "endOffset": 126,
+          "expected": "threescore and ten palm trees",
+          "replacement": "seventy palm trees",
+          "category": "archaic-number",
+          "reason": "Threescore and ten equals seventy.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+33%3A9&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -1243,6 +5764,41 @@
       ]
     },
     {
+      "chapter": 33,
+      "verse": 52,
+      "sourceTextSha256": "d5aea445a3a6ae9b414c12bd9b324fbf02103dce6f5db48704d9781eacb45e36",
+      "edits": [
+        {
+          "startOffset": 121,
+          "endOffset": 140,
+          "expected": "their molten images",
+          "replacement": "their cast-metal idols",
+          "category": "archaic-idolatry-term",
+          "reason": "Molten images are idols cast from metal.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+33%3A52&version=KJV"
+            }
+          ]
+        },
+        {
+          "startOffset": 146,
+          "endOffset": 162,
+          "expected": "quite pluck down",
+          "replacement": "completely tear down",
+          "category": "archaic-phrase",
+          "reason": "Quite means completely and pluck down means tear down.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+33%3A52&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 34,
       "verse": 1,
       "sourceTextSha256": "29615d17124775fa5339ffa2cd24e057ac808e6d460d778ac4e7434756684a52",
@@ -1254,6 +5810,69 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "verse": 2,
+      "sourceTextSha256": "7b38e9f464d6f0ded8dd67bc6ff56b11f64b2fd6329499f472976b6bd57f92e0",
+      "edits": [
+        {
+          "startOffset": 181,
+          "endOffset": 199,
+          "expected": "the coasts thereof",
+          "replacement": "its borders",
+          "category": "false-friend-geography",
+          "reason": "Coasts here means the land's boundaries, not seashores.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+34%3A2&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "verse": 5,
+      "sourceTextSha256": "5c9489bdf64bae97312bc9a914d5c0394de4d8e9811623ca76d605a98109086f",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 36,
+          "expected": "the border shall fetch a compass",
+          "replacement": "the border shall turn",
+          "category": "opaque-boundary-phrase",
+          "reason": "Fetch a compass means turn or curve around.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+34%3A5&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "verse": 11,
+      "sourceTextSha256": "2fcc4b1fffc6cacba991aaccf3401367bf08054f28bb09b020647f42ec331878",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 27,
+          "expected": "the coast shall go down",
+          "replacement": "the border shall go down",
+          "category": "false-friend-geography",
+          "reason": "Coast here means border.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+34%3A11&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -1289,6 +5908,111 @@
     },
     {
       "chapter": 35,
+      "verse": 2,
+      "sourceTextSha256": "8fe3b516eb9fc95fe47453685afd88ae475b90c385ffaed8b1728517545f50c2",
+      "edits": [
+        {
+          "startOffset": 163,
+          "endOffset": 185,
+          "expected": "suburbs for the cities",
+          "replacement": "pasturelands around the cities",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs here are open pasturelands assigned around Levitical cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A2&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 4,
+      "sourceTextSha256": "d84a880e28f8995277b5040fe802a8d0193c81e962b4bda549c5b022ac823aa4",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 29,
+          "expected": "the suburbs of the cities",
+          "replacement": "the pasturelands around the cities",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs here are pasturelands outside the city wall.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A4&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 5,
+      "sourceTextSha256": "46ccca0e81e59b6b10f2e62d18f405c5748f09ebdc08ffbeb71456bc95dcb690",
+      "edits": [
+        {
+          "startOffset": 267,
+          "endOffset": 292,
+          "expected": "the suburbs of the cities",
+          "replacement": "the pasturelands around the cities",
+          "category": "false-friend-land-term",
+          "reason": "Suburbs here are pasturelands measured around the cities.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A5&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 6,
+      "sourceTextSha256": "b06e52e220fb7f20b095d3ead32a5608924a0eba7e9c20b43e4818473efb4b0c",
+      "edits": [
+        {
+          "startOffset": 189,
+          "endOffset": 209,
+          "expected": "forty and two cities",
+          "replacement": "forty-two cities",
+          "category": "archaic-number",
+          "reason": "Forty and two is forty-two.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A6&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 7,
+      "sourceTextSha256": "ab4a3f48ba1db98eaaa79d811b472a7704c9855b79809f65a500397e20c67df2",
+      "edits": [
+        {
+          "startOffset": 62,
+          "endOffset": 84,
+          "expected": "forty and eight cities",
+          "replacement": "forty-eight cities",
+          "category": "archaic-number",
+          "reason": "Forty and eight is forty-eight.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A7&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
       "verse": 9,
       "sourceTextSha256": "539a3a8d0d5f613d4e20f3d585d54028d300745155101dc6707fcddc01289e29",
       "edits": [
@@ -1299,6 +6023,195 @@
           "replacement": "spoke",
           "category": "clear-archaic-english",
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 11,
+      "sourceTextSha256": "77cd2cef0331c02eb8b148bab8ed48c90a2c3ea751d66570b06fba5a85ecf1d5",
+      "edits": [
+        {
+          "startOffset": 105,
+          "endOffset": 135,
+          "expected": "killeth any person at unawares",
+          "replacement": "kills any person unintentionally",
+          "category": "archaic-legal-phrase",
+          "reason": "At unawares means unintentionally in the refuge-city law.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A11&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 15,
+      "sourceTextSha256": "15d0e7beb696d6310c67e925716b39e0dc916bba431ad8ced39b57686bd1fcee",
+      "edits": [
+        {
+          "startOffset": 145,
+          "endOffset": 172,
+          "expected": "killeth any person unawares",
+          "replacement": "kills any person unintentionally",
+          "category": "archaic-legal-phrase",
+          "reason": "Unawares means unintentionally.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A15&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 19,
+      "sourceTextSha256": "3b2282de57b170727907142a92bea5e2ea9ff1b4870a385b32f9d47af7ca4d68",
+      "edits": [
+        {
+          "startOffset": 0,
+          "endOffset": 21,
+          "expected": "The revenger of blood",
+          "replacement": "The avenger of blood",
+          "category": "archaic-legal-title",
+          "reason": "Revenger is the older form of avenger in this legal office.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A19&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 21,
+      "sourceTextSha256": "fac10cf24d1a3cf710730870d32a4a38daa18b2d688f64eeb8b732b1696b55d6",
+      "edits": [
+        {
+          "startOffset": 121,
+          "endOffset": 142,
+          "expected": "the revenger of blood",
+          "replacement": "the avenger of blood",
+          "category": "archaic-legal-title",
+          "reason": "Revenger is the older form of avenger.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A21&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 25,
+      "sourceTextSha256": "7a323cfc3c4bec5962d20389d8ebdf9c5a4608851710e845c146f1a65adbf776",
+      "edits": [
+        {
+          "startOffset": 65,
+          "endOffset": 86,
+          "expected": "the revenger of blood",
+          "replacement": "the avenger of blood",
+          "category": "archaic-legal-title",
+          "reason": "Revenger is the older form of avenger.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A25&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 29,
+      "sourceTextSha256": "7319096d66218f701372691125ab260f9e8f5e734ee71c29efeebbaa4cd0b0db",
+      "edits": [
+        {
+          "startOffset": 31,
+          "endOffset": 50,
+          "expected": "statute of judgment",
+          "replacement": "legal statute",
+          "category": "archaic-legal-phrase",
+          "reason": "The phrase denotes a binding legal statute.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A29&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 30,
+      "sourceTextSha256": "99b338d9304876e5e42bb4cb5fb910622a068797e86a15c7630bf1ea35d4a7f1",
+      "edits": [
+        {
+          "startOffset": 61,
+          "endOffset": 86,
+          "expected": "by the mouth of witnesses",
+          "replacement": "by the testimony of witnesses",
+          "category": "archaic-legal-phrase",
+          "reason": "By the mouth of witnesses means on their testimony.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A30&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 31,
+      "sourceTextSha256": "e566f5b13457032efdbc78a73b84c249c6c93261dbbd83459598f2e0ba82e541",
+      "edits": [
+        {
+          "startOffset": 18,
+          "endOffset": 51,
+          "expected": "take no satisfaction for the life",
+          "replacement": "accept no ransom for the life",
+          "category": "false-friend-legal-term",
+          "reason": "Satisfaction here means a ransom or payment to avoid the sentence.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A31&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verse": 32,
+      "sourceTextSha256": "f4e8eacf9c889b281a56bcef6da78e40e872075ce94d6c3b8d6164c1e52d740d",
+      "edits": [
+        {
+          "startOffset": 13,
+          "endOffset": 41,
+          "expected": "take no satisfaction for him",
+          "replacement": "accept no ransom for him",
+          "category": "false-friend-legal-term",
+          "reason": "Satisfaction here means ransom.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A32&version=KJV"
+            }
+          ]
         }
       ]
     },
@@ -1316,11 +6229,53 @@
           "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist."
         }
       ]
+    },
+    {
+      "chapter": 36,
+      "verse": 4,
+      "sourceTextSha256": "093c569c96ef6d24f07a73286ae8780ffb355d303a51c39dcbc9f336029242cd",
+      "edits": [
+        {
+          "startOffset": 4,
+          "endOffset": 19,
+          "expected": "when the jubile",
+          "replacement": "when the Jubilee",
+          "category": "archaic-spelling",
+          "reason": "Jubile is the historical spelling of Jubilee.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+36%3A4&version=KJV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "verse": 5,
+      "sourceTextSha256": "5e5764c737f2c6b0c088dae0989f62c08202ceed517741089fea17beb85c8aa1",
+      "edits": [
+        {
+          "startOffset": 118,
+          "endOffset": 132,
+          "expected": "hath said well",
+          "replacement": "is right",
+          "category": "archaic-idiom",
+          "reason": "Hath said well means their statement is correct.",
+          "evidence": [
+            {
+              "label": "Complete-verse KJV contextual review",
+              "url": "https://www.biblegateway.com/passage/?search=Numbers+36%3A5&version=KJV"
+            }
+          ]
+        }
+      ]
     }
   ],
   "ownerReview": {
-    "contentVersion": 3,
-    "review": "KJV round 3 complete-verse review",
+    "contentVersion": 6,
+    "review": "KJV Numbers complete-context review",
     "requiredFullTest": true
   }
 }

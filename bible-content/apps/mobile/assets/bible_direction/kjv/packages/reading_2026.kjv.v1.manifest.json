@@ -2,25 +2,25 @@
   "format": "shine-reading-filter-manifest",
   "filterId": "KJV-READING-2026",
   "schemaVersion": 1,
-  "contentVersion": 5,
+  "contentVersion": 6,
   "sourceVersionId": "KJV",
   "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
   "normalizationId": "shine-kjv-visible-text-v1",
-  "contentSha256": "e7a2d644cd35253780f0eb638b69e214dd838f2e54813ff321666da065017246",
-  "sizeBytes": 107388,
-  "expandedSizeBytes": 618821,
+  "contentSha256": "d128cde6e435592ce6f72c804ca4f76773be225680e4fa7242462ce4f943a3ff",
+  "sizeBytes": 126880,
+  "expandedSizeBytes": 730520,
   "mimeType": "application/vnd.shine.reading-filter+gzip",
-  "generatedAt": "2026-09-11",
+  "generatedAt": "2026-09-12",
   "editorialPolicy": {
     "id": "kjv-minimal-comprehension-policy",
-    "version": 5,
+    "version": 6,
     "description": "Only exact, occurrence-reviewed wording that materially improves comprehension is projected. The packaged KJV remains immutable."
   },
   "coverage": {
     "expectedBookCount": 66,
     "includedBookCount": 66,
-    "changedVerseCount": 1551,
-    "editCount": 1652
+    "changedVerseCount": 1760,
+    "editCount": 1901
   },
   "books": [
     {
@@ -55,9 +55,9 @@
       "order": 4,
       "sourceFile": "num_reading_2026.kjv.v1.json",
       "sourceContentSha256": "ea6986ce9cbbec33fa81dc78aba0773c13693f6bb3e24802d31cd3a4d936a273",
-      "payloadSha256": "a3bf9fc0a88a7ff2ff7661f247ad0c832c63ea0eb1d2fab296ddf3e74dacdc62",
-      "changedVerseCount": 86,
-      "editCount": 87
+      "payloadSha256": "fd05b71a85af83c23ea8e1533411c5043b6897fb1b268f99de0acae7d1fbe12a",
+      "changedVerseCount": 295,
+      "editCount": 336
     },
     {
       "id": "DEU",
