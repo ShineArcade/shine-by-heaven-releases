@@ -55,22 +55,24 @@ def main():
             assert phrase not in text, (ref, phrase, text)
 
     raw = PACKAGE.read_bytes(); manifest = read(MANIFEST)
-    assert manifest["contentVersion"] == 10
+    # Matthew keeps its v10 owner review when a later book advances the
+    # package-wide content version.
+    assert manifest["contentVersion"] >= 10
     assert manifest["contentSha256"] == hashlib.sha256(raw).hexdigest()
     payload = json.loads(gzip.decompress(raw))
-    assert payload["contentVersion"] == 10 and len(payload["books"]) == 66
+    assert payload["contentVersion"] == manifest["contentVersion"] and len(payload["books"]) == 66
     package_mat = next(book for book in payload["books"] if book["book"] == "MAT")
     assert package_mat == direction
 
     registry = read(REGISTRY)
-    assert registry["activeContentVersion"] == 10
+    assert registry["activeContentVersion"] == manifest["contentVersion"]
     applied = {(x["reference"], x["expected"], x["replacement"]) for x in registry["applied"]}
     for chapter, verse, expected, replacement, *_ in generator.CHANGES:
         assert (f"MAT.{chapter}.{verse}", expected, replacement) in applied
     pending = [x for x in registry["pending"] if x["id"].startswith("matthew-kjv-v10-")]
     assert len(pending) == len(generator.PENDING)
     assert all(x["reason"] and x["references"] and x["evidence"] for x in pending)
-    print(json.dumps({"contentVersion": 10, "verifiedMatthewVerses": len(rendered), "reviewedRules": len(generator.CHANGES), "matthewChangedVerses": len(direction["verses"]), "matthewEdits": sum(len(v["edits"]) for v in direction["verses"]), "pendingFamilies": len(pending), "contentSha256": manifest["contentSha256"]}, indent=2))
+    print(json.dumps({"matthewReviewVersion": 10, "packageContentVersion": manifest["contentVersion"], "verifiedMatthewVerses": len(rendered), "reviewedRules": len(generator.CHANGES), "matthewChangedVerses": len(direction["verses"]), "matthewEdits": sum(len(v["edits"]) for v in direction["verses"]), "pendingFamilies": len(pending), "contentSha256": manifest["contentSha256"]}, indent=2))
 
 
 if __name__ == "__main__":

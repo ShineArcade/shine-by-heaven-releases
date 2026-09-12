@@ -1,0 +1,4467 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 23,
+  "generatedAt": "2026-09-12T18:30:00.000Z",
+  "issuedAt": "2026-09-12T18:30:00.000Z",
+  "expiresAt": "2028-09-12T18:30:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 2,
+      "expected": "envío á mi mensajero delante de tu faz, que apareje tu camino delante de ti",
+      "replacement": "envío a mi mensajero delante de ti, quien preparará tu camino",
+      "category": "archaic-presence-phrase",
+      "reason": "La frase conserva el envío delante de Jesús y la preparación de su camino sin repetir una construcción antigua.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 6,
+      "expected": "un cinto de cuero alrededor de sus lomos",
+      "replacement": "un cinturón de cuero alrededor de su cintura",
+      "category": "clear-clothing-phrase",
+      "reason": "La frase describe un cinturón de cuero alrededor de la cintura de Juan.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 7,
+      "expected": "desatar encorvado la correa de sus zapatos",
+      "replacement": "agacharme para desatar las correas de sus sandalias",
+      "category": "historical-footwear-phrase",
+      "reason": "La acción es agacharse para desatar las correas de las sandalias; se conservan gesto y humildad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 15,
+      "expected": "El tiempo es cumplido",
+      "replacement": "El tiempo se ha cumplido",
+      "category": "grammar-fulfilled-time",
+      "reason": "La forma actual conserva que el tiempo señalado ya llegó a su cumplimiento.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 19,
+      "expected": "aderezaban las redes",
+      "replacement": "arreglaban las redes",
+      "category": "archaic-prepare-verb",
+      "reason": "Aderezar las redes significa arreglarlas para volver a usarlas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 22,
+      "expected": "su doctrina",
+      "replacement": "su enseñanza",
+      "category": "false-friend-teaching-term",
+      "reason": "Doctrina designa aquí la enseñanza que la multitud acaba de oír.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A22&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 22,
+      "expected": "potestad",
+      "replacement": "autoridad",
+      "category": "archaic-authority-term",
+      "reason": "Potestad significa la autoridad con la que Jesús enseñaba.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A22&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 23,
+      "expected": "dió voces",
+      "replacement": "gritó",
+      "category": "archaic-cry-phrase",
+      "reason": "Dar voces significa gritar; se conserva que el hombre interrumpió en voz alta.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A23&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 25,
+      "expected": "riñó",
+      "replacement": "reprendió",
+      "category": "archaic-rebuke-verb",
+      "reason": "Reñir significa reprender al espíritu con autoridad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 25,
+      "expected": "Enmudece",
+      "replacement": "Calla",
+      "category": "archaic-silence-command",
+      "reason": "El mandato ordena al espíritu guardar silencio antes de salir.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 26,
+      "expected": "el espíritu inmundo, haciéndole pedazos, y clamando á gran voz, salió",
+      "replacement": "el espíritu inmundo lo convulsionó y, clamando a gran voz, salió",
+      "category": "false-friend-convulsion-phrase",
+      "reason": "El espíritu sacude al hombre con una convulsión; el texto no afirma que despedazó su cuerpo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 27,
+      "expected": "inquirían",
+      "replacement": "preguntaban",
+      "category": "archaic-inquiry-verb",
+      "reason": "Inquirir entre sí significa preguntarse unos a otros qué había ocurrido.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 27,
+      "expected": "potestad",
+      "replacement": "autoridad",
+      "category": "archaic-authority-term",
+      "reason": "La multitud reconoce la autoridad con que Jesús manda a los espíritus.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 30,
+      "expected": "calentura",
+      "replacement": "fiebre",
+      "category": "archaic-medical-term",
+      "reason": "Calentura significa fiebre en la enfermedad de la suegra de Simón.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A30&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 31,
+      "expected": "la dejó la calentura",
+      "replacement": "se le quitó la fiebre",
+      "category": "clear-healing-phrase",
+      "reason": "La fiebre desaparece de la mujer después que Jesús la levanta.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 32,
+      "expected": "los que tenían mal",
+      "replacement": "los enfermos",
+      "category": "archaic-illness-phrase",
+      "reason": "La frase se refiere a quienes padecían enfermedades.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A32&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 35,
+      "expected": "aun muy de noche",
+      "replacement": "cuando todavía estaba oscuro",
+      "category": "archaic-time-phrase",
+      "reason": "La frase sitúa la salida de Jesús antes del amanecer.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A35&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 40,
+      "expected": "é hincada la rodilla, le dice",
+      "replacement": "y arrodillándose, le dice",
+      "category": "archaic-kneeling-phrase",
+      "reason": "Hincar la rodilla significa arrodillarse ante Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A40&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 44,
+      "expected": "ofrece por tu limpieza lo que Moisés mandó",
+      "replacement": "presenta por tu purificación la ofrenda que Moisés mandó",
+      "category": "historical-purification-offering",
+      "reason": "La instrucción exige presentar la ofrenda prescrita por Moisés para la purificación.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A44&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 45,
+      "expected": "él salido",
+      "replacement": "cuando él salió",
+      "category": "archaic-participle-clause",
+      "reason": "La forma actual aclara que, después de salir, el hombre comenzó a divulgar lo ocurrido.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A45&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 1,
+      "verse": 45,
+      "expected": "manifiestamente",
+      "replacement": "públicamente",
+      "category": "archaic-public-adverb",
+      "reason": "La frase indica que Jesús ya no podía entrar públicamente en la ciudad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+1%3A45&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 1,
+      "expected": "se oyó que estaba en casa",
+      "replacement": "se supo que estaba en casa",
+      "category": "clear-report-phrase",
+      "reason": "La noticia de que Jesús estaba en casa se difundió por Capernaum.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 3,
+      "expected": "unos trayendo un paralítico, que era traído por cuatro",
+      "replacement": "unos que traían a un paralítico entre cuatro personas",
+      "category": "clear-carrying-phrase",
+      "reason": "Cuatro personas llevan al paralítico hasta Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 4,
+      "expected": "á causa del gentío",
+      "replacement": "a causa de tanta gente",
+      "category": "false-friend-crowd-term",
+      "reason": "Gentío designa la gran cantidad de personas que bloqueaba la entrada.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 4,
+      "expected": "bajaron el lecho en que yacía el paralítico",
+      "replacement": "bajaron la camilla donde estaba acostado el paralítico",
+      "category": "historical-bed-phrase",
+      "reason": "La camilla es el objeto que bajan por el techo con el paralítico acostado.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 10,
+      "expected": "potestad",
+      "replacement": "autoridad",
+      "category": "archaic-authority-term",
+      "reason": "Potestad significa autoridad para perdonar pecados.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 14,
+      "expected": "al banco de los públicos tributos",
+      "replacement": "a la mesa de recaudación de impuestos",
+      "category": "historical-tax-phrase",
+      "reason": "La frase identifica el puesto donde Leví cobraba impuestos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 15,
+      "expected": "publicanos",
+      "replacement": "recaudadores de impuestos",
+      "category": "historical-tax-term",
+      "reason": "Publicanos eran recaudadores de impuestos en este contexto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 16,
+      "expected": "publicanos",
+      "replacement": "recaudadores de impuestos",
+      "category": "historical-tax-term",
+      "reason": "Publicanos eran recaudadores de impuestos; el cambio se aplica a las dos menciones del versículo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 16,
+      "expected": "publicanos",
+      "replacement": "recaudadores de impuestos",
+      "category": "historical-tax-term",
+      "reason": "Publicanos eran recaudadores de impuestos; el cambio se aplica a las dos menciones del versículo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 17,
+      "expected": "los que tienen mal",
+      "replacement": "los enfermos",
+      "category": "archaic-illness-phrase",
+      "reason": "La comparación contrasta a las personas sanas con las enfermas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 19,
+      "expected": "los que están de bodas",
+      "replacement": "los invitados a la boda",
+      "category": "historical-wedding-phrase",
+      "reason": "La expresión designa a quienes acompañan al novio durante la boda.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 21,
+      "expected": "paño recio",
+      "replacement": "paño nuevo",
+      "category": "false-friend-cloth-term",
+      "reason": "La comparación usa tela nueva sobre una prenda vieja.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 2,
+      "verse": 26,
+      "expected": "panes de la proposición",
+      "replacement": "panes consagrados",
+      "category": "historical-sacred-bread",
+      "reason": "La expresión se refiere al pan sagrado reservado para el servicio sacerdotal.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+2%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 3,
+      "verse": 1,
+      "expected": "una mano seca",
+      "replacement": "una mano atrofiada",
+      "category": "historical-medical-phrase",
+      "reason": "Seca describe una mano atrofiada o incapacitada, no falta de humedad.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+3%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 3,
+      "verse": 2,
+      "expected": "le acechaban si en sábado le sanaría",
+      "replacement": "lo observaban atentamente para ver si lo sanaría en sábado",
+      "category": "archaic-surveillance-verb",
+      "reason": "Lo vigilaban para acusarlo si sanaba en sábado.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+3%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 3,
+      "verse": 5,
+      "expected": "condoleciéndose de la ceguedad de su corazón",
+      "replacement": "entristecido por la dureza de sus corazones",
+      "category": "false-friend-hardness-phrase",
+      "reason": "El pasaje habla de dureza moral del corazón, no de ceguera física.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+3%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 3,
+      "verse": 9,
+      "expected": "la barquilla",
+      "replacement": "una barca pequeña",
+      "category": "historical-vessel-term",
+      "reason": "Barquilla significa una barca pequeña preparada para evitar que la multitud lo aplastara.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+3%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 3,
+      "verse": 9,
+      "expected": "no le oprimiesen",
+      "replacement": "no lo aplastaran",
+      "category": "archaic-crowding-verb",
+      "reason": "La barca evita que la multitud presione físicamente a Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+3%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 3,
+      "verse": 10,
+      "expected": "caían sobre él",
+      "replacement": "se lanzaban sobre él",
+      "category": "clear-crowd-action",
+      "reason": "Quienes padecían males se abalanzaban para tocarlo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+3%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 3,
+      "verse": 10,
+      "expected": "plagas",
+      "replacement": "dolencias",
+      "category": "false-friend-affliction-term",
+      "reason": "Plagas designa aquí las dolencias que padecían quienes buscaban tocar a Jesús, no calamidades colectivas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+3%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 3,
+      "verse": 12,
+      "expected": "les reñía mucho que no",
+      "replacement": "les ordenaba firmemente que no",
+      "category": "archaic-rebuke-phrase",
+      "reason": "Jesús ordena con firmeza que no revelen quién es.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+3%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 3,
+      "verse": 15,
+      "expected": "potestad",
+      "replacement": "autoridad",
+      "category": "archaic-authority-term",
+      "reason": "Potestad significa autoridad para sanar y expulsar demonios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+3%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 3,
+      "verse": 17,
+      "expected": "apellidó",
+      "replacement": "dio el sobrenombre",
+      "category": "archaic-naming-verb",
+      "reason": "Jesús da a Jacobo y Juan el sobrenombre Boanerges.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+3%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 3,
+      "verse": 20,
+      "expected": "ni aun podían comer pan",
+      "replacement": "ni siquiera podían comer",
+      "category": "archaic-meal-phrase",
+      "reason": "La multitud era tan grande que Jesús y sus discípulos no podían detenerse a comer.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+3%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 2,
+      "expected": "su doctrina",
+      "replacement": "su enseñanza",
+      "category": "false-friend-teaching-term",
+      "reason": "Doctrina designa aquí la enseñanza comunicada por parábolas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 4,
+      "expected": "las aves del cielo, y la tragaron",
+      "replacement": "las aves del cielo y se la comieron",
+      "category": "archaic-eating-verb",
+      "reason": "Las aves comen la semilla que cayó junto al camino.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 5,
+      "expected": "pedregales",
+      "replacement": "terreno pedregoso",
+      "category": "archaic-ground-term",
+      "reason": "Pedregales describe el terreno con poca profundidad de tierra.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 8,
+      "expected": "llevó uno á treinta, y otro á sesenta, y otro á ciento",
+      "replacement": "produjo a treinta, a sesenta y a ciento por uno",
+      "category": "historical-yield-phrase",
+      "reason": "La frase expresa el rendimiento multiplicado de la semilla en buena tierra.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 16,
+      "expected": "la toman con gozo",
+      "replacement": "la reciben con alegría",
+      "category": "archaic-reception-phrase",
+      "reason": "La imagen describe recibir la palabra con alegría.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 17,
+      "expected": "antes son temporales, que en levantándose la tribulación ó la persecución por causa de la palabra, luego se escandalizan",
+      "replacement": "sino que duran poco tiempo; cuando surge la tribulación o la persecución por causa de la palabra, abandonan la fe",
+      "category": "context-reviewed-fall-away",
+      "reason": "La frase completa aclara la corta duración y el abandono bajo persecución sin romper su concordancia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 19,
+      "expected": "los cuidados de este siglo",
+      "replacement": "las preocupaciones de este mundo",
+      "category": "archaic-worry-phrase",
+      "reason": "La frase designa preocupaciones de la vida presente que ahogan la palabra.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 19,
+      "expected": "las codicias que hay en las otras cosas",
+      "replacement": "los deseos de otras cosas",
+      "category": "archaic-desire-phrase",
+      "reason": "Codicias abarca aquí deseos que entran y ahogan la palabra.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 21,
+      "expected": "¿Tráese la antorcha",
+      "replacement": "¿Se trae la lámpara",
+      "category": "historical-lamp-term",
+      "reason": "La imagen presenta una lámpara que se coloca para alumbrar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 21,
+      "expected": "candelero",
+      "replacement": "soporte para lámpara",
+      "category": "historical-lampstand-term",
+      "reason": "El objeto eleva la lámpara para que alumbre.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 28,
+      "expected": "de suyo",
+      "replacement": "por sí sola",
+      "category": "archaic-self-action-phrase",
+      "reason": "La tierra produce el fruto por sí sola dentro de la parábola.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A28&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 29,
+      "expected": "cuando el fruto fuere producido, luego se mete la hoz, porque la siega es llegada",
+      "replacement": "cuando el fruto está maduro, se usa la hoz, porque ha llegado la cosecha",
+      "category": "historical-harvest-phrase",
+      "reason": "La frase conserva la maduración del fruto, el uso de la hoz y la llegada de la cosecha en un orden comprensible.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 31,
+      "expected": "simientes",
+      "replacement": "semillas",
+      "category": "archaic-seed-term",
+      "reason": "La comparación se refiere a semillas botánicas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 32,
+      "expected": "todas las legumbres",
+      "replacement": "todas las plantas del huerto",
+      "category": "historical-garden-term",
+      "reason": "La comparación es con las plantas cultivadas del huerto, no solo con verduras comestibles.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A32&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 32,
+      "expected": "morar bajo su sombra",
+      "replacement": "refugiarse bajo su sombra",
+      "category": "archaic-dwelling-phrase",
+      "reason": "Las aves encuentran refugio bajo la sombra de las ramas de la planta.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A32&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 34,
+      "expected": "declaraba todo",
+      "replacement": "explicaba todo",
+      "category": "archaic-explanation-verb",
+      "reason": "En privado Jesús explicaba las parábolas a sus discípulos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A34&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 36,
+      "expected": "despachando la multitud",
+      "replacement": "despidiendo a la multitud",
+      "category": "archaic-dismissal-verb",
+      "reason": "La acción es despedir a la gente antes de cruzar el lago.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A36&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 37,
+      "expected": "ya se henchía",
+      "replacement": "ya se llenaba",
+      "category": "archaic-vessel-phrase",
+      "reason": "Las olas llenaban de agua la barca durante la tormenta.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A37&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 39,
+      "expected": "increpó al viento",
+      "replacement": "reprendió al viento",
+      "category": "archaic-rebuke-verb",
+      "reason": "Jesús reprende al viento antes de ordenar al mar que calle.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A39&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 39,
+      "expected": "grande bonanza",
+      "replacement": "gran calma",
+      "category": "archaic-calm-term",
+      "reason": "Bonanza significa la calma que siguió al cese del viento.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A39&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 40,
+      "expected": "amedrentados",
+      "replacement": "atemorizados",
+      "category": "archaic-fear-term",
+      "reason": "Amedrentados significa dominados por el miedo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A40&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 3,
+      "expected": "tenía domicilio en los sepulcros",
+      "replacement": "vivía entre los sepulcros",
+      "category": "archaic-dwelling-phrase",
+      "reason": "El hombre habitaba entre los sepulcros.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 4,
+      "expected": "con grillos y cadenas",
+      "replacement": "con grilletes y cadenas",
+      "category": "historical-restraint-term",
+      "reason": "Grillos son grilletes colocados en los pies.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 4,
+      "expected": "los grillos desmenuzados",
+      "replacement": "los grilletes rotos",
+      "category": "historical-restraint-term",
+      "reason": "Grillos son grilletes colocados en los pies y desmenuzados significa que habían sido rotos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 17,
+      "expected": "los términos de ellos",
+      "replacement": "su región",
+      "category": "false-friend-region",
+      "reason": "Términos significa el territorio de aquella población.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 18,
+      "expected": "había sido fatigado del demonio",
+      "replacement": "había estado poseído por el demonio",
+      "category": "false-friend-demon-phrase",
+      "reason": "Fatigado no describe cansancio: el hombre había estado bajo posesión demoníaca.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 21,
+      "expected": "gran compañía",
+      "replacement": "una gran multitud",
+      "category": "false-friend-crowd-term",
+      "reason": "Compañía designa aquí una multitud reunida alrededor de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 22,
+      "expected": "príncipes de la sinagoga",
+      "replacement": "dirigentes de la sinagoga",
+      "category": "historical-synagogue-role",
+      "reason": "La frase identifica a los responsables de la sinagoga.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A22&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 23,
+      "expected": "está á la muerte",
+      "replacement": "está a punto de morir",
+      "category": "archaic-near-death-phrase",
+      "reason": "La hija de Jairo se encuentra al borde de la muerte.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A23&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 23,
+      "expected": "para que sea salva",
+      "replacement": "para que sane",
+      "category": "context-reviewed-healing-phrase",
+      "reason": "En este contexto la petición inmediata de Jairo es que su hija sane y siga viviendo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A23&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 25,
+      "expected": "una mujer que estaba con flujo de sangre doce años hacía",
+      "replacement": "una mujer que padecía hemorragias desde hacía doce años",
+      "category": "historical-medical-term",
+      "reason": "La mujer padecía hemorragias de manera continua desde hacía doce años.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 26,
+      "expected": "nada había aprovechado",
+      "replacement": "no había mejorado",
+      "category": "archaic-medical-result",
+      "reason": "A pesar de los tratamientos, su condición no había mejorado.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 29,
+      "expected": "la fuente de su sangre se secó",
+      "replacement": "se detuvo la hemorragia",
+      "category": "historical-medical-phrase",
+      "reason": "La hemorragia se detuvo inmediatamente.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 29,
+      "expected": "aquel azote",
+      "replacement": "aquella enfermedad",
+      "category": "false-friend-affliction-term",
+      "reason": "Azote designa la enfermedad que la atormentaba.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 30,
+      "expected": "la virtud que había salido de él",
+      "replacement": "el poder que había salido de él",
+      "category": "false-friend-power-term",
+      "reason": "Virtud significa aquí poder, no conducta moral.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A30&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 30,
+      "expected": "á la compañía",
+      "replacement": "a la multitud",
+      "category": "false-friend-crowd-term",
+      "reason": "Compañía designa a la multitud que rodeaba a Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A30&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 35,
+      "expected": "Tu hija es muerta",
+      "replacement": "Tu hija ha muerto",
+      "category": "grammar-death-phrase",
+      "reason": "La forma actual comunica la noticia de que la niña ya había muerto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A35&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 35,
+      "expected": "¿para qué fatigas más al Maestro?",
+      "replacement": "¿para qué molestas más al Maestro?",
+      "category": "false-friend-trouble-verb",
+      "reason": "La pregunta sugiere que ya no vale la pena molestar al Maestro después de la muerte de la niña.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A35&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 38,
+      "expected": "el alboroto",
+      "replacement": "la conmoción",
+      "category": "archaic-commotion-term",
+      "reason": "La casa estaba llena de conmoción, llanto y lamentos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A38&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 40,
+      "expected": "hacían burla de él",
+      "replacement": "se burlaban de él",
+      "category": "archaic-mockery-phrase",
+      "reason": "Las personas se burlaban de la afirmación de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A40&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 40,
+      "expected": "echados fuera todos",
+      "replacement": "después de hacer salir a todos",
+      "category": "archaic-dismissal-clause",
+      "reason": "Jesús hace salir a la multitud antes de entrar con los padres y sus acompañantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A40&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 41,
+      "expected": "que es, si lo interpretares",
+      "replacement": "que traducido significa",
+      "category": "archaic-translation-phrase",
+      "reason": "El narrador explica el significado de Talitha cumi.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A41&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 5,
+      "verse": 42,
+      "expected": "se espantaron de grande espanto",
+      "replacement": "quedaron sumamente asombrados",
+      "category": "archaic-amazement-phrase",
+      "reason": "La repetición antigua expresa gran asombro ante la resurrección de la niña.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+5%3A42&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 1,
+      "expected": "su tierra",
+      "replacement": "su pueblo",
+      "category": "false-friend-hometown-term",
+      "reason": "Jesús vuelve a su lugar de origen acompañado por sus discípulos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 2,
+      "expected": "tales maravillas que por sus manos son hechas",
+      "replacement": "tales milagros realizados por sus manos",
+      "category": "archaic-miracle-term",
+      "reason": "Maravillas designa los milagros realizados por sus manos; la frase completa conserva la concordancia al cambiar el sustantivo a masculino.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 3,
+      "expected": "se escandalizaban en él",
+      "replacement": "lo rechazaban",
+      "category": "context-reviewed-rejection-phrase",
+      "reason": "La familiaridad con Jesús les impedía aceptarlo; el contexto expresa rechazo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 7,
+      "expected": "potestad",
+      "replacement": "autoridad",
+      "category": "archaic-authority-term",
+      "reason": "Potestad significa autoridad sobre los espíritus impuros.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 8,
+      "expected": "báculo",
+      "replacement": "bastón",
+      "category": "historical-travel-staff",
+      "reason": "Báculo significa bastón de viaje en la instrucción a los doce.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 8,
+      "expected": "alforja",
+      "replacement": "bolsa de viaje",
+      "category": "historical-travel-bag",
+      "reason": "Alforja es la bolsa usada para provisiones durante el viaje y se distingue de la bolsa del dinero.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 10,
+      "expected": "posad",
+      "replacement": "quedaos",
+      "category": "archaic-stay-verb",
+      "reason": "La orden es permanecer en la misma casa hasta salir de aquel lugar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 14,
+      "expected": "virtudes obran en él",
+      "replacement": "poderes milagrosos actúan en él",
+      "category": "false-friend-miraculous-power",
+      "reason": "Virtudes designa aquí poderes milagrosos, no cualidades morales.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 19,
+      "expected": "Herodías le acechaba",
+      "replacement": "Herodías le guardaba rencor",
+      "category": "false-friend-grudge-phrase",
+      "reason": "El verbo expresa hostilidad persistente y deseo de matarlo, no vigilancia física.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 25,
+      "expected": "prestamente",
+      "replacement": "de inmediato",
+      "category": "archaic-speed-adverb",
+      "reason": "La joven regresa de inmediato con su petición.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 27,
+      "expected": "uno de la guardia",
+      "replacement": "un verdugo de la guardia",
+      "category": "historical-executioner-role",
+      "reason": "El guardia enviado recibe la orden específica de decapitar a Juan.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 31,
+      "expected": "reposad un poco",
+      "replacement": "descansad un poco",
+      "category": "archaic-rest-verb",
+      "reason": "Jesús invita a los discípulos a descansar después de la actividad continua.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 31,
+      "expected": "ni aun tenían lugar de comer",
+      "replacement": "ni siquiera tenían tiempo para comer",
+      "category": "false-friend-opportunity-phrase",
+      "reason": "Lugar significa aquí oportunidad o tiempo disponible para comer, no un sitio físico.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 33,
+      "expected": "concurrieron allá muchos á pie",
+      "replacement": "corrieron allá muchos a pie",
+      "category": "archaic-movement-verb",
+      "reason": "La gente llegó corriendo desde las ciudades y se adelantó a la barca.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A33&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 35,
+      "expected": "ya fuese el día muy entrado",
+      "replacement": "ya era muy tarde",
+      "category": "archaic-time-phrase",
+      "reason": "Los discípulos señalan que la hora estaba avanzada.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A35&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 35,
+      "expected": "el día ya muy entrado",
+      "replacement": "ya es muy tarde",
+      "category": "archaic-time-phrase",
+      "reason": "La segunda mención confirma que la hora estaba avanzada.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A35&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 36,
+      "expected": "cortijos",
+      "replacement": "caseríos",
+      "category": "historical-rural-place",
+      "reason": "Cortijos designa pequeños asentamientos o casas rurales de los alrededores.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A36&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 39,
+      "expected": "por partidas",
+      "replacement": "por grupos",
+      "category": "archaic-group-term",
+      "reason": "Jesús organiza a la multitud en grupos sobre la hierba.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A39&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 40,
+      "expected": "por partidas",
+      "replacement": "en grupos",
+      "category": "archaic-group-term",
+      "reason": "La multitud se sentó organizada en grupos de cien y de cincuenta.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A40&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 42,
+      "expected": "se hartaron",
+      "replacement": "quedaron satisfechos",
+      "category": "archaic-satisfaction-verb",
+      "reason": "Todos comieron hasta quedar satisfechos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A42&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 45,
+      "expected": "dió priesa á sus discípulos á subir en el barco, é ir delante de él",
+      "replacement": "hizo que sus discípulos subieran de inmediato al barco y fueran delante de él",
+      "category": "archaic-urgency-phrase",
+      "reason": "Jesús los hizo embarcarse sin demora mientras despedía a la multitud.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A45&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 48,
+      "expected": "fatigados bogando",
+      "replacement": "esforzándose por remar",
+      "category": "archaic-rowing-phrase",
+      "reason": "El viento contrario hacía difícil remar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A48&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 48,
+      "expected": "cerca de la cuarta vigilia de la noche",
+      "replacement": "de madrugada",
+      "category": "historical-night-watch",
+      "reason": "La cuarta vigilia corresponde a las últimas horas de la noche, antes del amanecer.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A48&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 50,
+      "expected": "Alentaos",
+      "replacement": "Ánimo",
+      "category": "archaic-encouragement-command",
+      "reason": "Jesús los anima al identificarse y ordenarles que no teman.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A50&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 52,
+      "expected": "estaban ofuscados sus corazones",
+      "replacement": "sus corazones estaban endurecidos",
+      "category": "false-friend-hardness-phrase",
+      "reason": "El versículo explica su falta de comprensión por la dureza de sus corazones.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A52&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 6,
+      "verse": 53,
+      "expected": "tomaron puerto",
+      "replacement": "llegaron a la orilla",
+      "category": "archaic-landing-phrase",
+      "reason": "La barca cruza y llega a tierra en Genesaret.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+6%3A53&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 2,
+      "expected": "manos comunes",
+      "replacement": "manos impuras",
+      "category": "historical-ritual-term",
+      "reason": "Comunes significa ritualmente impuras; el propio versículo aclara que no estaban lavadas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 2,
+      "expected": "es á saber",
+      "replacement": "es decir",
+      "category": "archaic-explanation-phrase",
+      "reason": "La locución introduce la explicación de que las manos no estaban lavadas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 2,
+      "expected": "los condenaban",
+      "replacement": "los criticaban",
+      "category": "false-friend-criticism-verb",
+      "reason": "El contexto describe la crítica de los adversarios por comer sin el lavado ritual, no una sentencia judicial.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 11,
+      "expected": "Es Corbán (quiere decir, don mío á Dios )",
+      "replacement": "Es Corbán (es decir, una ofrenda dedicada a Dios)",
+      "category": "historical-dedicated-gift",
+      "reason": "Corbán designa una ofrenda dedicada a Dios y explica la excusa dada a los padres.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 13,
+      "expected": "que disteis",
+      "replacement": "que habéis transmitido",
+      "category": "false-friend-tradition-verb",
+      "reason": "La tradición fue transmitida de generación en generación.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 18,
+      "expected": "sin entendimiento",
+      "replacement": "sin comprender",
+      "category": "archaic-understanding-phrase",
+      "reason": "Jesús pregunta por qué todavía no comprenden la enseñanza.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 19,
+      "expected": "sale á la secreta",
+      "replacement": "sale del cuerpo",
+      "category": "archaic-bodily-phrase",
+      "reason": "La frase describe la eliminación corporal de los alimentos sin conservar un eufemismo hoy opaco.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 19,
+      "expected": "haciendo limpias todas las viandas",
+      "replacement": "declarando limpios todos los alimentos",
+      "category": "archaic-food-term",
+      "reason": "La frase concluye que todos los alimentos quedan declarados limpios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 24,
+      "expected": "los términos de Tiro y de Sidón",
+      "replacement": "la región de Tiro y Sidón",
+      "category": "false-friend-region",
+      "reason": "Términos designa la región, no límites verbales o condiciones.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A24&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 29,
+      "expected": "Por esta palabra",
+      "replacement": "Por esta respuesta",
+      "category": "false-friend-answer-phrase",
+      "reason": "Jesús responde a lo que la mujer acaba de decir.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 32,
+      "expected": "un sordo y tartamudo",
+      "replacement": "un hombre sordo y con dificultad para hablar",
+      "category": "historical-speech-phrase",
+      "reason": "La persona tenía una dificultad del habla además de no poder oír.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A32&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 7,
+      "verse": 35,
+      "expected": "fué desatada la ligadura de su lengua, y hablaba bien",
+      "replacement": "desapareció el impedimento de su lengua, y hablaba con claridad",
+      "category": "clear-speech-phrase",
+      "reason": "Después de la sanidad desapareció el impedimento del habla y el hombre pudo hablar claramente.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+7%3A35&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 8,
+      "verse": 11,
+      "expected": "altercar",
+      "replacement": "discutir",
+      "category": "archaic-dispute-verb",
+      "reason": "Los fariseos comenzaron a discutir con Jesús mientras lo ponían a prueba.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+8%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 8,
+      "verse": 11,
+      "expected": "tentándole",
+      "replacement": "poniéndolo a prueba",
+      "category": "false-friend-test-verb",
+      "reason": "La petición de una señal buscaba poner a Jesús a prueba, no describir una tentación moral.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+8%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 8,
+      "verse": 15,
+      "expected": "les mandó",
+      "replacement": "les advirtió",
+      "category": "false-friend-warning-verb",
+      "reason": "Jesús les advierte que se cuiden de la levadura de los fariseos y de Herodes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+8%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 8,
+      "verse": 16,
+      "expected": "altercaban los unos con los otros diciendo: Pan no tenemos",
+      "replacement": "discutían entre sí porque no tenían pan",
+      "category": "archaic-dispute-clause",
+      "reason": "La frase conserva que los discípulos discutían entre sí por no haber llevado pan.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+8%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 8,
+      "verse": 17,
+      "expected": "¿Qué altercáis",
+      "replacement": "¿Por qué discutís",
+      "category": "archaic-dispute-phrase",
+      "reason": "Jesús pregunta por la discusión que sostienen acerca del pan.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+8%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 8,
+      "verse": 24,
+      "expected": "Veo los hombres, pues veo que andan como árboles",
+      "replacement": "Veo a los hombres; parecen árboles que caminan",
+      "category": "clear-partial-sight-phrase",
+      "reason": "La frase conserva la visión parcial del hombre y su comparación con árboles que caminan.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+8%3A24&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 8,
+      "verse": 25,
+      "expected": "vió de lejos y claramente á todos",
+      "replacement": "vio todo con claridad",
+      "category": "clear-restored-sight-phrase",
+      "reason": "La segunda imposición de manos restaura por completo la visión.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+8%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 8,
+      "verse": 31,
+      "expected": "padeciese mucho, y ser reprobado de los ancianos, y de los príncipes de los sacerdotes, y de los escribas, y ser muerto, y resucitar después de tres días",
+      "replacement": "padeciese mucho, fuese rechazado por los ancianos, los principales sacerdotes y los escribas, fuera muerto y resucitara después de tres días",
+      "category": "archaic-rejection-clause",
+      "reason": "La frase completa conserva el sufrimiento, el rechazo por los dirigentes, la muerte y la resurrección, y evita mezclar formas verbales incompatibles.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+8%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 8,
+      "verse": 33,
+      "expected": "riñó á Pedro",
+      "replacement": "reprendió a Pedro",
+      "category": "archaic-rebuke-verb",
+      "reason": "Jesús reprende a Pedro después de volverse hacia los discípulos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+8%3A33&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 8,
+      "verse": 33,
+      "expected": "no sabes las cosas que son de Dios",
+      "replacement": "no pones la mira en las cosas de Dios",
+      "category": "false-friend-mindset-phrase",
+      "reason": "La reprensión se refiere a orientar la mente hacia los intereses de Dios, no a falta de información.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+8%3A33&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 8,
+      "verse": 37,
+      "expected": "¿O qué recompensa dará el hombre por su alma?",
+      "replacement": "¿O qué dará el hombre a cambio de su alma?",
+      "category": "false-friend-exchange-term",
+      "reason": "La pregunta es qué puede darse a cambio del alma, no qué premio se recibe.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+8%3A37&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 3,
+      "expected": "lavador",
+      "replacement": "lavandero",
+      "category": "historical-launderer-term",
+      "reason": "La blancura supera lo que cualquier lavandero podría conseguir.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 5,
+      "expected": "pabellones",
+      "replacement": "refugios",
+      "category": "historical-shelter-term",
+      "reason": "Pabellones designa refugios o enramadas para Jesús, Moisés y Elías.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 6,
+      "expected": "Porque no sabía lo que hablaba; que estaban espantados",
+      "replacement": "No sabía qué decir, pues estaban espantados",
+      "category": "archaic-causal-clause",
+      "reason": "La frase conserva que Pedro habló sin saber qué decir debido al temor de los presentes, sin repetir dos conectores causales.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 12,
+      "expected": "restituirá",
+      "replacement": "restaurará",
+      "category": "archaic-restore-verb",
+      "reason": "Restituir todas las cosas significa restaurarlas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 18,
+      "expected": "le despedaza",
+      "replacement": "lo convulsiona",
+      "category": "false-friend-convulsion-verb",
+      "reason": "El espíritu provoca convulsiones; no despedaza el cuerpo del muchacho.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 18,
+      "expected": "echa espumarajos",
+      "replacement": "echa espuma por la boca",
+      "category": "archaic-seizure-phrase",
+      "reason": "La frase describe la espuma producida durante la convulsión.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 18,
+      "expected": "cruje los dientes",
+      "replacement": "rechina los dientes",
+      "category": "archaic-seizure-phrase",
+      "reason": "Rechinar los dientes expresa el movimiento involuntario descrito.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 18,
+      "expected": "se va secando",
+      "replacement": "queda rígido",
+      "category": "false-friend-seizure-phrase",
+      "reason": "La descripción culmina con rigidez corporal, no con deshidratación.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 19,
+      "expected": "os tengo de sufrir",
+      "replacement": "tendré que soportaros",
+      "category": "archaic-endure-phrase",
+      "reason": "Sufrir significa soportar en la lamentación de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 20,
+      "expected": "le desgarraba",
+      "replacement": "lo convulsionó",
+      "category": "false-friend-convulsion-verb",
+      "reason": "El espíritu sacude al muchacho con una convulsión al ver a Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 20,
+      "expected": "echando espumarajos",
+      "replacement": "echando espuma por la boca",
+      "category": "archaic-seizure-phrase",
+      "reason": "La frase describe la espuma producida durante la convulsión.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 21,
+      "expected": "¿Cuánto tiempo há que le aconteció esto?",
+      "replacement": "¿Desde cuándo le sucede esto?",
+      "category": "archaic-duration-question",
+      "reason": "La pregunta busca desde cuándo padece el muchacho.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 26,
+      "expected": "el espíritu clamando y desgarrándole mucho, salió",
+      "replacement": "el espíritu clamó, lo convulsionó violentamente y salió",
+      "category": "false-friend-convulsion-phrase",
+      "reason": "El espíritu grita, causa una convulsión violenta y sale; desgarrar no describe que rompiera el cuerpo del muchacho.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 35,
+      "expected": "el postrero",
+      "replacement": "el último",
+      "category": "archaic-rank-term",
+      "reason": "Postrero significa último en el contraste con querer ser primero.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A35&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 42,
+      "expected": "escandalizare á uno de estos pequeñitos",
+      "replacement": "haga caer a uno de estos pequeños",
+      "category": "context-reviewed-stumbling-phrase",
+      "reason": "Escandalizar significa causar una caída espiritual, no provocar sorpresa.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A42&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 50,
+      "expected": "la sal fuere desabrida",
+      "replacement": "la sal pierde su sabor",
+      "category": "archaic-salt-phrase",
+      "reason": "Desabrida significa que la sal ha perdido su sabor.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A50&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 9,
+      "verse": 50,
+      "expected": "la adobaréis",
+      "replacement": "la sazonarán",
+      "category": "archaic-season-verb",
+      "reason": "Adobar la sal significa devolverle capacidad de sazonar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+9%3A50&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 1,
+      "expected": "los términos de Judea",
+      "replacement": "la región de Judea",
+      "category": "false-friend-region",
+      "reason": "Términos designa la región geográfica de Judea.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 2,
+      "expected": "para tentarle",
+      "replacement": "para ponerlo a prueba",
+      "category": "false-friend-test-verb",
+      "reason": "Los fariseos plantean la pregunta para poner a prueba a Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 2,
+      "expected": "repudiar á su mujer",
+      "replacement": "divorciarse de su mujer",
+      "category": "archaic-divorce-phrase",
+      "reason": "Repudiar a la esposa significa divorciarse de ella.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 4,
+      "expected": "carta de divorcio, y repudiar",
+      "replacement": "un certificado de divorcio y divorciarse",
+      "category": "historical-divorce-phrase",
+      "reason": "La respuesta alude al documento de divorcio y a la separación legal, con el artículo necesario en español actual.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 11,
+      "expected": "repudiare á su mujer, y se casare con otra",
+      "replacement": "se divorcie de su mujer y se case con otra",
+      "category": "archaic-divorce-phrase",
+      "reason": "Repudiar significa divorciarse en la enseñanza de Jesús y se conserva la correlación verbal.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 13,
+      "expected": "reñían á los que los presentaban",
+      "replacement": "reprendían a quienes los presentaban",
+      "category": "archaic-rebuke-verb",
+      "reason": "Los discípulos reprendían a quienes acercaban a los niños.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 14,
+      "expected": "Dejad los niños venir, y no se lo estorbéis",
+      "replacement": "Dejad que los niños vengan, y no se lo impidáis",
+      "category": "archaic-hinder-clause",
+      "reason": "Jesús ordena permitir que los niños se acerquen y no impedírselo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 17,
+      "expected": "hincando la rodilla",
+      "replacement": "arrodillándose",
+      "category": "archaic-kneeling-phrase",
+      "reason": "El hombre se arrodilla ante Jesús para hacer su pregunta.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 17,
+      "expected": "poseer la vida eterna",
+      "replacement": "heredar la vida eterna",
+      "category": "false-friend-inherit-verb",
+      "reason": "La pregunta usa la imagen bíblica de recibir la vida eterna como herencia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 19,
+      "expected": "No hurtes",
+      "replacement": "No robes",
+      "category": "archaic-steal-verb",
+      "reason": "Hurtar significa robar en la lista de mandamientos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 19,
+      "expected": "No defraudes",
+      "replacement": "No engañes",
+      "category": "archaic-defraud-verb",
+      "reason": "Defraudar significa engañar o privar injustamente a otra persona.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 31,
+      "expected": "muchos primeros serán postreros, y postreros primeros",
+      "replacement": "muchos de los primeros serán últimos, y los últimos serán primeros",
+      "category": "archaic-order-clause",
+      "reason": "La frase conserva la inversión entre primeros y últimos e incorpora los artículos necesarios para una lectura natural.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 33,
+      "expected": "príncipes de los sacerdotes",
+      "replacement": "principales sacerdotes",
+      "category": "historical-priestly-role",
+      "reason": "La frase identifica al grupo dirigente de los sacerdotes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A33&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 34,
+      "expected": "le escarnecerán",
+      "replacement": "se burlarán de él",
+      "category": "archaic-mockery-verb",
+      "reason": "Escarnecer significa burlarse cruelmente de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A34&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 34,
+      "expected": "azotarán",
+      "replacement": "golpearán con látigos",
+      "category": "historical-scourging-phrase",
+      "reason": "Azotar describe el castigo con látigos antes de la muerte.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A34&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 42,
+      "expected": "se ven ser príncipes",
+      "replacement": "son reconocidos como gobernantes",
+      "category": "archaic-ruler-phrase",
+      "reason": "La frase identifica a quienes son considerados gobernantes de las naciones.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A42&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 42,
+      "expected": "se enseñorean de ellas",
+      "replacement": "las dominan",
+      "category": "archaic-domination-verb",
+      "reason": "Enseñorearse significa ejercer dominio sobre otros.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A42&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 42,
+      "expected": "potestad",
+      "replacement": "autoridad",
+      "category": "archaic-authority-term",
+      "reason": "Potestad significa autoridad ejercida por los gobernantes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A42&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 46,
+      "expected": "una gran compañía",
+      "replacement": "una gran multitud",
+      "category": "false-friend-crowd-term",
+      "reason": "Compañía designa aquí la multitud que seguía a Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A46&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 49,
+      "expected": "Ten confianza",
+      "replacement": "Ten ánimo",
+      "category": "archaic-encouragement-phrase",
+      "reason": "La gente anima al ciego porque Jesús lo está llamando.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A49&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 10,
+      "verse": 51,
+      "expected": "cobre la vista",
+      "replacement": "recobre la vista",
+      "category": "archaic-sight-verb",
+      "reason": "El hombre pide recuperar la capacidad de ver.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+10%3A51&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 11,
+      "verse": 1,
+      "expected": "monte de las Olivas",
+      "replacement": "monte de los Olivos",
+      "category": "historical-place-name",
+      "reason": "El nombre actual del lugar es monte de los Olivos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+11%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 11,
+      "verse": 2,
+      "expected": "Id al lugar que está delante de vosotros",
+      "replacement": "Id a la aldea que está frente a vosotros",
+      "category": "archaic-location-phrase",
+      "reason": "Jesús los envía a la aldea que tienen delante.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+11%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 11,
+      "verse": 2,
+      "expected": "luego entrados en él",
+      "replacement": "al entrar en ella",
+      "category": "grammar-village-pronoun",
+      "reason": "El pronombre se refiere a la aldea y debe concordar en femenino; la acción ocurre al entrar en ella.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+11%3A2&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 11,
+      "verse": 15,
+      "expected": "trastornó las mesas",
+      "replacement": "volcó las mesas",
+      "category": "false-friend-overturn-verb",
+      "reason": "Trastornar significa aquí volcar físicamente las mesas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+11%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 11,
+      "verse": 16,
+      "expected": "llevase vaso",
+      "replacement": "transportara ningún objeto",
+      "category": "false-friend-carried-object",
+      "reason": "Vaso significa aquí cualquier objeto o mercancía transportada por el templo; la frase completa conserva la prohibición.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+11%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 11,
+      "verse": 18,
+      "expected": "su doctrina",
+      "replacement": "su enseñanza",
+      "category": "false-friend-teaching-term",
+      "reason": "La multitud estaba asombrada por la enseñanza de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+11%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 11,
+      "verse": 21,
+      "expected": "Pedro acordándose",
+      "replacement": "Pedro, recordando",
+      "category": "archaic-memory-verb",
+      "reason": "Pedro recordó la declaración de Jesús sobre la higuera.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+11%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 11,
+      "verse": 28,
+      "expected": "facultad",
+      "replacement": "autoridad",
+      "category": "false-friend-authority-term",
+      "reason": "Facultad significa la autoridad para realizar esas acciones.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+11%3A28&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 11,
+      "verse": 28,
+      "expected": "facultad",
+      "replacement": "autoridad",
+      "category": "false-friend-authority-term",
+      "reason": "Facultad significa la autoridad para realizar esas acciones.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+11%3A28&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 11,
+      "verse": 29,
+      "expected": "Os preguntaré también yo una palabra",
+      "replacement": "Os haré también una pregunta",
+      "category": "false-friend-question-phrase",
+      "reason": "Palabra designa aquí una pregunta que Jesús les pide contestar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+11%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 11,
+      "verse": 29,
+      "expected": "facultad",
+      "replacement": "autoridad",
+      "category": "false-friend-authority-term",
+      "reason": "Facultad significa la autoridad para realizar esas acciones.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+11%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 1,
+      "expected": "la cercó con seto",
+      "replacement": "la rodeó con una cerca",
+      "category": "archaic-fence-phrase",
+      "reason": "El propietario rodeó la viña con una cerca.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 1,
+      "expected": "un lagar",
+      "replacement": "una prensa para uvas",
+      "category": "historical-winepress-term",
+      "reason": "Lagar es la instalación donde se exprimían las uvas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 1,
+      "expected": "labradores",
+      "replacement": "agricultores arrendatarios",
+      "category": "historical-tenant-term",
+      "reason": "Los labradores cultivaban la viña arrendada y debían entregar parte del fruto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 3,
+      "expected": "le hirieron",
+      "replacement": "lo golpearon",
+      "category": "archaic-assault-verb",
+      "reason": "Los arrendatarios golpearon al siervo y lo enviaron vacío.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 4,
+      "expected": "volvieron á enviarle afrentado",
+      "replacement": "lo despidieron humillado",
+      "category": "archaic-abuse-phrase",
+      "reason": "Afrentar significa tratar vergonzosamente al siervo; la frase actual evita sugerir que lo enviaron de nuevo a los mismos arrendatarios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 6,
+      "expected": "el postrero",
+      "replacement": "por último",
+      "category": "archaic-final-sequence",
+      "reason": "El dueño envía finalmente a su hijo amado.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 6,
+      "expected": "Tendrán en reverencia",
+      "replacement": "Respetarán",
+      "category": "archaic-respect-phrase",
+      "reason": "El dueño espera que respeten a su hijo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 7,
+      "expected": "heredad",
+      "replacement": "herencia",
+      "category": "archaic-inheritance-term",
+      "reason": "Heredad designa la herencia que los arrendatarios quieren tomar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 10,
+      "expected": "es puesta por cabeza de esquina",
+      "replacement": "se ha convertido en la piedra angular",
+      "category": "historical-building-term",
+      "reason": "La cita identifica la piedra principal del edificio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A10&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 13,
+      "expected": "para que le sorprendiesen en alguna palabra",
+      "replacement": "para atraparlo en sus propias palabras",
+      "category": "archaic-trap-phrase",
+      "reason": "Los enviados intentan obtener una respuesta que puedan usar contra Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 15,
+      "expected": "¿Por qué me tentáis?",
+      "replacement": "¿Por qué intentáis ponerme a prueba?",
+      "category": "false-friend-test-verb",
+      "reason": "Jesús reconoce que intentan ponerlo a prueba con la pregunta del tributo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 19,
+      "expected": "levante linaje á su hermano",
+      "replacement": "dé descendencia a su hermano",
+      "category": "historical-offspring-phrase",
+      "reason": "La ley buscaba conservar la descendencia del hermano fallecido.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 24,
+      "expected": "la potencia de Dios",
+      "replacement": "el poder de Dios",
+      "category": "archaic-power-term",
+      "reason": "Potencia significa el poder de Dios para resucitar a los muertos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A24&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 28,
+      "expected": "disputar",
+      "replacement": "debatir",
+      "category": "archaic-discussion-verb",
+      "reason": "El escriba había oído a Jesús debatir con los saduceos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A28&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 34,
+      "expected": "osaba preguntarle",
+      "replacement": "se atrevía a preguntarle",
+      "category": "archaic-dare-verb",
+      "reason": "Después de su respuesta nadie se atrevía a hacerle otra pregunta.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A34&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 36,
+      "expected": "á mi diestra",
+      "replacement": "a mi derecha",
+      "category": "archaic-direction-term",
+      "reason": "Diestra significa el lado derecho en la cita del salmo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A36&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 37,
+      "expected": "¿de dónde, pues, es su hijo?",
+      "replacement": "¿cómo, pues, es su hijo?",
+      "category": "semantic-question-correction",
+      "reason": "La pregunta es cómo puede el Mesías ser hijo de David si David lo llama Señor; no pregunta por un lugar de procedencia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A37&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 37,
+      "expected": "los que eran del común del pueblo",
+      "replacement": "la gente común",
+      "category": "archaic-ordinary-people",
+      "reason": "La gente común escuchaba a Jesús con agrado.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A37&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 37,
+      "expected": "le oían de buena gana",
+      "replacement": "lo oía con agrado",
+      "category": "grammar-collective-subject",
+      "reason": "El verbo y el pronombre concuerdan con el sujeto colectivo singular la gente común.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A37&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 38,
+      "expected": "su doctrina",
+      "replacement": "su enseñanza",
+      "category": "false-friend-teaching-term",
+      "reason": "Doctrina designa la enseñanza pública de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A38&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 38,
+      "expected": "las salutaciones",
+      "replacement": "los saludos",
+      "category": "archaic-greeting-term",
+      "reason": "Salutaciones significa saludos públicos en las plazas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A38&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 39,
+      "expected": "las primeras sillas",
+      "replacement": "los asientos principales",
+      "category": "historical-seat-term",
+      "reason": "La frase se refiere a los lugares de honor en las sinagogas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A39&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 39,
+      "expected": "primeros asientos en las cenas",
+      "replacement": "lugares de honor en los banquetes",
+      "category": "historical-banquet-place",
+      "reason": "Los escribas buscaban los lugares de honor en las comidas formales.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A39&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 40,
+      "expected": "por pretexto hacen largas oraciones",
+      "replacement": "para aparentar hacen largas oraciones",
+      "category": "false-friend-pretense-phrase",
+      "reason": "Las oraciones largas se usan como apariencia religiosa mientras explotan a las viudas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A40&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 41,
+      "expected": "arca de la ofrenda",
+      "replacement": "tesoro del templo",
+      "category": "historical-temple-treasury",
+      "reason": "La escena ocurre frente al lugar donde se depositaban las ofrendas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A41&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 41,
+      "expected": "en el arca",
+      "replacement": "en el tesoro",
+      "category": "historical-temple-treasury",
+      "reason": "El dinero se depositaba en el tesoro del templo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A41&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 12,
+      "verse": 44,
+      "expected": "ésta, de su pobreza echó todo lo que tenía, todo su alimento",
+      "replacement": "ésta, aun en su pobreza, echó todo lo que tenía para vivir",
+      "category": "false-friend-livelihood-phrase",
+      "reason": "La viuda entregó todos sus recursos para vivir; la frase completa evita duplicar todo lo que tenía.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+12%3A44&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 3,
+      "expected": "monte de las Olivas",
+      "replacement": "monte de los Olivos",
+      "category": "historical-place-name",
+      "reason": "El nombre actual del lugar es monte de los Olivos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 8,
+      "expected": "principios de dolores serán estos",
+      "replacement": "estos serán el principio de los dolores de parto",
+      "category": "context-reviewed-birth-pains",
+      "reason": "La imagen compara los primeros acontecimientos con el comienzo de los dolores de parto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A8&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 9,
+      "expected": "vosotros mirad por vosotros",
+      "replacement": "mirad por vosotros mismos",
+      "category": "archaic-reflexive-warning",
+      "reason": "La advertencia pide a los discípulos estar atentos a lo que les sucederá, sin repetir vosotros.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 9,
+      "expected": "concilios",
+      "replacement": "tribunales",
+      "category": "historical-judicial-term",
+      "reason": "Los concilios son tribunales locales ante los que serían entregados.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 9,
+      "expected": "seréis llamados",
+      "replacement": "compareceréis",
+      "category": "false-friend-court-appearance",
+      "reason": "Los discípulos serían llevados ante gobernadores y reyes para dar testimonio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A9&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 17,
+      "expected": "las preñadas, y de las que criaren",
+      "replacement": "las embarazadas y de las que estén amamantando",
+      "category": "archaic-pregnancy-and-nursing",
+      "reason": "La advertencia incluye a las mujeres embarazadas y a las que estén amamantando en aquellos días.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 19,
+      "expected": "que crió Dios",
+      "replacement": "que Dios creó",
+      "category": "archaic-create-spelling",
+      "reason": "Criar conserva aquí el sentido antiguo de crear; la forma actual evita confundirlo con educar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 20,
+      "expected": "ninguna carne se salvaría",
+      "replacement": "nadie sobreviviría",
+      "category": "context-reviewed-survival-phrase",
+      "reason": "Carne representa a los seres humanos y el contexto habla de sobrevivir aquellos días.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 20,
+      "expected": "por causa de los escogidos que él escogió",
+      "replacement": "por causa de los escogidos a quienes eligió",
+      "category": "archaic-election-clause",
+      "reason": "La frase conserva que el Señor eligió a los escogidos y evita una repetición que dificulta la lectura.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 25,
+      "expected": "las virtudes que están en los cielos serán conmovidas",
+      "replacement": "los poderes que están en los cielos serán conmovidos",
+      "category": "false-friend-cosmic-power",
+      "reason": "Virtudes significa poderes celestiales, no cualidades morales.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A25&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 26,
+      "expected": "mucha potestad",
+      "replacement": "gran poder",
+      "category": "context-reviewed-power-term",
+      "reason": "La venida del Hijo del hombre se describe con gran poder y gloria.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 27,
+      "expected": "desde el cabo de la tierra",
+      "replacement": "desde el extremo de la tierra",
+      "category": "archaic-extremity-phrase",
+      "reason": "La frase expresa el límite más lejano de la tierra.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 27,
+      "expected": "juntará sus escogidos",
+      "replacement": "reunirá a sus escogidos",
+      "category": "archaic-gathering-phrase",
+      "reason": "Los ángeles reunirán a los escogidos desde los extremos descritos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 34,
+      "expected": "dió facultad",
+      "replacement": "dio autoridad",
+      "category": "false-friend-authority-term",
+      "reason": "El dueño delega autoridad a sus siervos durante su ausencia.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A34&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 34,
+      "expected": "el hombre que partiéndose lejos",
+      "replacement": "un hombre que se fue lejos",
+      "category": "archaic-departure-clause",
+      "reason": "La comparación presenta a un hombre que se marcha y deja responsabilidades a sus siervos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A34&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 1,
+      "expected": "príncipes de los sacerdotes",
+      "replacement": "principales sacerdotes",
+      "category": "historical-priestly-role",
+      "reason": "La frase identifica al grupo dirigente de los sacerdotes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 1,
+      "expected": "por engaño",
+      "replacement": "con engaño",
+      "category": "grammar-deception-phrase",
+      "reason": "Buscaban una manera engañosa de arrestar y matar a Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 1,
+      "expected": "los días de los panes sin levadura",
+      "replacement": "la fiesta de los panes sin levadura",
+      "category": "historical-feast-name",
+      "reason": "La expresión nombra la fiesta de los panes sin levadura que seguía a la Pascua.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 3,
+      "expected": "un alabastro de ungüento de nardo espique de mucho precio",
+      "replacement": "un frasco de alabastro con perfume de nardo puro muy costoso",
+      "category": "historical-perfume-container",
+      "reason": "La mujer trae un frasco de alabastro con perfume costoso de nardo para ungir a Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 3,
+      "expected": "quebrando el alabastro",
+      "replacement": "rompiendo el frasco",
+      "category": "false-friend-container-material",
+      "reason": "Alabastro nombra el material del frasco; la mujer rompe el recipiente antes de derramar el perfume.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 6,
+      "expected": "¿por qué la fatigáis?",
+      "replacement": "¿por qué la molestáis?",
+      "category": "false-friend-trouble-verb",
+      "reason": "Jesús pregunta por qué están molestando a la mujer que hizo una buena obra.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 6,
+      "expected": "buena obra me ha hecho",
+      "replacement": "Ha hecho una buena obra conmigo",
+      "category": "archaic-benefit-clause",
+      "reason": "Jesús declara que la mujer ha realizado una buena obra con él; se conserva el inicio de oración después de la pregunta.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 11,
+      "expected": "se holgaron",
+      "replacement": "se alegraron",
+      "category": "archaic-gladness-verb",
+      "reason": "Los principales sacerdotes se alegraron al oír la propuesta de Judas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 11,
+      "expected": "dineros",
+      "replacement": "dinero",
+      "category": "archaic-money-plural",
+      "reason": "La promesa consiste en entregar dinero a Judas; el plural antiguo no añade varias monedas o pagos distintos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 12,
+      "expected": "á disponer",
+      "replacement": "a preparar",
+      "category": "archaic-prepare-verb",
+      "reason": "Los discípulos preguntan dónde deben preparar la Pascua.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 12,
+      "expected": "sacrificaban la pascua",
+      "replacement": "sacrificaban el cordero pascual",
+      "category": "historical-passover-sacrifice",
+      "reason": "La acción concreta del primer día era sacrificar el cordero de la Pascua.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A12&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 15,
+      "expected": "un gran cenáculo ya preparado",
+      "replacement": "una gran habitación superior ya preparada",
+      "category": "historical-upper-room",
+      "reason": "El hombre mostraría una gran habitación en la planta superior, amueblada y lista.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 15,
+      "expected": "aderezad",
+      "replacement": "preparad",
+      "category": "archaic-prepare-verb",
+      "reason": "Los discípulos deben preparar allí la Pascua.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 16,
+      "expected": "aderezaron",
+      "replacement": "prepararon",
+      "category": "archaic-prepare-verb",
+      "reason": "Los discípulos prepararon la Pascua como Jesús indicó.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 23,
+      "expected": "tomando el vaso",
+      "replacement": "tomando la copa",
+      "category": "historical-cup-term",
+      "reason": "Vaso designa la copa compartida durante la cena.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A23&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 23,
+      "expected": "bebieron de él todos",
+      "replacement": "todos bebieron de ella",
+      "category": "grammar-cup-pronoun",
+      "reason": "El pronombre concuerda con copa después de modernizar el recipiente.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A23&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 26,
+      "expected": "Y como hubieron cantado el himno, se salieron",
+      "replacement": "Y después de cantar el himno, salieron",
+      "category": "archaic-departure-clause",
+      "reason": "Después de cantar el himno, Jesús y los discípulos salieron hacia el monte.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 26,
+      "expected": "monte de las Olivas",
+      "replacement": "monte de los Olivos",
+      "category": "historical-place-name",
+      "reason": "El nombre actual del lugar es monte de los Olivos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 27,
+      "expected": "seréis escandalizados en mí",
+      "replacement": "me abandonaréis",
+      "category": "context-reviewed-desertion-phrase",
+      "reason": "La cita siguiente explica que los discípulos se dispersarán cuando hieran al pastor.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 27,
+      "expected": "serán derramadas las ovejas",
+      "replacement": "serán dispersadas las ovejas",
+      "category": "false-friend-scattering-verb",
+      "reason": "La cita describe la dispersión de las ovejas después de herir al pastor, no que sean derramadas como un líquido.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 31,
+      "expected": "con mayor porfía",
+      "replacement": "con mayor insistencia",
+      "category": "archaic-insistence-term",
+      "reason": "Pedro insistía con más vehemencia en que no negaría a Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 33,
+      "expected": "comenzó á atemorizarse, y á angustiarse",
+      "replacement": "comenzó a sentir temor y profunda angustia",
+      "category": "archaic-distress-phrase",
+      "reason": "La frase conserva el temor y la intensa angustia de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A33&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 34,
+      "expected": "esperad aquí",
+      "replacement": "quedaos aquí",
+      "category": "archaic-stay-verb",
+      "reason": "Jesús pide a los tres discípulos permanecer y velar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A34&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 36,
+      "expected": "este vaso",
+      "replacement": "esta copa",
+      "category": "historical-cup-metaphor",
+      "reason": "Vaso designa la copa como imagen del sufrimiento que Jesús enfrentará.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A36&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 36,
+      "expected": "todas las cosas son á ti posibles; traspasa de mí",
+      "replacement": "todo te es posible; aparta de mí",
+      "category": "archaic-prayer-clause",
+      "reason": "La petición conserva que todo es posible para el Padre y que Jesús pide que aparte de él la copa.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A36&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 36,
+      "expected": "sino lo que tú",
+      "replacement": "sino lo que tú quieres",
+      "category": "archaic-elliptical-clause",
+      "reason": "La forma actual hace explícito el verbo ya implícito en la entrega de Jesús a la voluntad del Padre.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A36&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 38,
+      "expected": "el espíritu á la verdad es presto",
+      "replacement": "el espíritu está dispuesto",
+      "category": "archaic-readiness-phrase",
+      "reason": "Presto significa dispuesto en el contraste entre espíritu y carne.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A38&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 38,
+      "expected": "mas la carne enferma",
+      "replacement": "pero la carne es débil",
+      "category": "false-friend-weakness-term",
+      "reason": "Enferma expresa debilidad humana, no una enfermedad concreta.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A38&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 43,
+      "expected": "una compañía con espadas y palos",
+      "replacement": "una multitud con espadas y palos",
+      "category": "false-friend-crowd-term",
+      "reason": "Compañía designa aquí el grupo numeroso enviado a arrestar a Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A43&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 43,
+      "expected": "príncipes de los sacerdotes",
+      "replacement": "principales sacerdotes",
+      "category": "historical-priestly-role",
+      "reason": "La multitud fue enviada por el grupo dirigente de los sacerdotes.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A43&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 44,
+      "expected": "dado señal común",
+      "replacement": "dado una señal acordada",
+      "category": "false-friend-agreed-signal",
+      "reason": "Judas había acordado previamente la señal del beso.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A44&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 48,
+      "expected": "Como á ladrón",
+      "replacement": "Cómo contra un bandido",
+      "category": "historical-robber-term",
+      "reason": "El término describe a un bandido violento al que se arrestaría con armas; la pregunta conserva la tilde interrogativa.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A48&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 55,
+      "expected": "todo el concilio",
+      "replacement": "todo el Consejo",
+      "category": "historical-council-term",
+      "reason": "La frase identifica al consejo religioso reunido para buscar testimonio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A55&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 56,
+      "expected": "sus testimonios no concertaban",
+      "replacement": "sus testimonios no coincidían",
+      "category": "archaic-agreement-verb",
+      "reason": "Los falsos testimonios no concordaban entre sí.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A56&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 58,
+      "expected": "que es hecho de mano",
+      "replacement": "hecho por manos humanas",
+      "category": "archaic-human-made-phrase",
+      "reason": "La acusación contrasta un templo construido por manos humanas con otro no construido de ese modo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A58&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 58,
+      "expected": "otro echo sin mano",
+      "replacement": "otro no hecho por manos humanas",
+      "category": "spelling-and-agreement",
+      "reason": "Echo era una errata por hecho; la frase conserva el contraste con el templo construido por manos humanas.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A58&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 62,
+      "expected": "á la diestra de la potencia de Dios",
+      "replacement": "a la derecha del poder de Dios",
+      "category": "archaic-power-phrase",
+      "reason": "Diestra significa derecha y potencia significa poder en la declaración de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A62&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 64,
+      "expected": "le condenaron ser culpado de muerte",
+      "replacement": "lo condenaron como merecedor de muerte",
+      "category": "archaic-condemnation-phrase",
+      "reason": "El consejo lo declara merecedor de la pena de muerte.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A64&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 66,
+      "expected": "atrio",
+      "replacement": "patio",
+      "category": "historical-courtyard-term",
+      "reason": "Pedro estaba en el patio de la residencia del sumo sacerdote.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A66&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 14,
+      "verse": 70,
+      "expected": "tu habla es semejante",
+      "replacement": "tu manera de hablar lo confirma",
+      "category": "false-friend-accent-phrase",
+      "reason": "La manera de hablar de Pedro revelaba su origen galileo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+14%3A70&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 7,
+      "expected": "habían hecho muerte en una revuelta",
+      "replacement": "habían cometido asesinato durante una revuelta",
+      "category": "archaic-murder-phrase",
+      "reason": "Barrabás estaba preso con quienes habían cometido asesinato en una revuelta.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 13,
+      "expected": "dar voces",
+      "replacement": "gritar",
+      "category": "archaic-cry-phrase",
+      "reason": "La multitud volvió a gritar que lo crucificaran.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 16,
+      "expected": "es á saber, al Pretorio",
+      "replacement": "es decir, al Pretorio",
+      "category": "archaic-explanation-phrase",
+      "reason": "Es a saber introduce la explicación del lugar.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 16,
+      "expected": "convocan",
+      "replacement": "reunieron a",
+      "category": "grammar-narrative-tense",
+      "reason": "La narración continúa en pasado: los soldados reunieron a toda la compañía dentro del Pretorio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A16&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 19,
+      "expected": "le adoraban hincadas las rodillas",
+      "replacement": "se arrodillaban ante él en burla",
+      "category": "context-reviewed-mocking-gesture",
+      "reason": "Los soldados se arrodillan en una parodia cruel de homenaje, no como adoración sincera.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 20,
+      "expected": "le hubieron escarnecido",
+      "replacement": "se hubieron burlado de él",
+      "category": "archaic-mockery-verb",
+      "reason": "Escarnecer significa burlarse cruelmente de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 20,
+      "expected": "le desnudaron la púrpura",
+      "replacement": "le quitaron el manto púrpura",
+      "category": "historical-purple-garment",
+      "reason": "Los soldados quitaron a Jesús el manto púrpura usado para burlarse de él.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 22,
+      "expected": "que declarado quiere decir",
+      "replacement": "que traducido significa",
+      "category": "archaic-translation-phrase",
+      "reason": "El evangelista explica el significado del nombre Gólgota.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A22&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 29,
+      "expected": "le denostaban",
+      "replacement": "lo insultaban",
+      "category": "archaic-abuse-verb",
+      "reason": "Denostar significa insultar con desprecio.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A29&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 31,
+      "expected": "escarneciendo",
+      "replacement": "burlándose de él",
+      "category": "archaic-mockery-verb",
+      "reason": "Los principales sacerdotes se burlaban de Jesús.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A31&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 32,
+      "expected": "le denostaban",
+      "replacement": "lo insultaban",
+      "category": "archaic-abuse-verb",
+      "reason": "Quienes estaban crucificados con Jesús también lo insultaban.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A32&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 37,
+      "expected": "espiró",
+      "replacement": "murió",
+      "category": "archaic-death-verb",
+      "reason": "Espiró expresa que Jesús murió después de dar un gran grito.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A37&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 43,
+      "expected": "senador noble",
+      "replacement": "miembro respetado del Consejo",
+      "category": "historical-council-role",
+      "reason": "José era un miembro respetado del consejo que esperaba el reino de Dios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A43&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 43,
+      "expected": "osadamente entró á Pilato",
+      "replacement": "se presentó con valentía ante Pilato",
+      "category": "archaic-boldness-phrase",
+      "reason": "José se presentó valientemente ante Pilato para pedir el cuerpo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A43&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 46,
+      "expected": "sepulcro que estaba cavado en una peña",
+      "replacement": "sepulcro excavado en una roca",
+      "category": "archaic-rock-tomb",
+      "reason": "El sepulcro había sido excavado en la roca.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A46&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 15,
+      "verse": 46,
+      "expected": "revolvió una piedra",
+      "replacement": "hizo rodar una piedra",
+      "category": "false-friend-roll-verb",
+      "reason": "José hizo rodar una piedra hasta la entrada del sepulcro.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+15%3A46&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 16,
+      "verse": 1,
+      "expected": "drogas aromáticas",
+      "replacement": "especias aromáticas",
+      "category": "historical-burial-spices",
+      "reason": "Las mujeres compraron especias aromáticas para ungir el cuerpo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+16%3A1&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 16,
+      "verse": 3,
+      "expected": "revolverá la piedra",
+      "replacement": "hará rodar la piedra",
+      "category": "false-friend-roll-verb",
+      "reason": "La pregunta es quién hará rodar la piedra de la entrada.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+16%3A3&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 16,
+      "verse": 4,
+      "expected": "Y como miraron, ven la piedra revuelta; que era muy grande.",
+      "replacement": "Y al mirar, vieron que la piedra había sido removida, aunque era muy grande.",
+      "category": "false-friend-removed-stone",
+      "reason": "Al mirar, las mujeres vieron que la piedra ya había sido apartada; la frase completa mantiene el tiempo narrativo en pasado y la observación sobre su tamaño.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+16%3A4&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 16,
+      "verse": 5,
+      "expected": "una larga ropa blanca",
+      "replacement": "una larga túnica blanca",
+      "category": "historical-garment-term",
+      "reason": "El joven estaba vestido con una larga túnica blanca.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+16%3A5&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 16,
+      "verse": 6,
+      "expected": "resucitado há",
+      "replacement": "ha resucitado",
+      "category": "grammar-resurrection-phrase",
+      "reason": "La forma actual conserva la declaración de que Jesús resucitó.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+16%3A6&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 16,
+      "verse": 13,
+      "expected": "lo hicieron saber",
+      "replacement": "se lo comunicaron",
+      "category": "archaic-report-phrase",
+      "reason": "Los dos comunicaron a los demás lo que habían visto.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+16%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 16,
+      "verse": 14,
+      "expected": "censuróles su incredulidad",
+      "replacement": "los reprendió por su incredulidad",
+      "category": "archaic-rebuke-enclitic",
+      "reason": "Jesús reprendió a los once por su incredulidad y dureza de corazón.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+16%3A14&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 16,
+      "verse": 15,
+      "expected": "toda criatura",
+      "replacement": "toda persona",
+      "category": "context-reviewed-human-audience",
+      "reason": "El mandato envía a predicar el evangelio a todas las personas del mundo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+16%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 16,
+      "verse": 18,
+      "expected": "cosa mortífera",
+      "replacement": "algo mortal",
+      "category": "archaic-deadly-phrase",
+      "reason": "La frase se refiere a beber algo capaz de causar la muerte.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+16%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 16,
+      "verse": 18,
+      "expected": "Quitarán serpientes",
+      "replacement": "Tomarán serpientes en sus manos",
+      "category": "false-friend-take-up-verb",
+      "reason": "Quitar significa aquí tomar o levantar serpientes; la forma actual evita entender que simplemente las apartarán.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+16%3A18&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 16,
+      "verse": 19,
+      "expected": "á la diestra de Dios",
+      "replacement": "a la derecha de Dios",
+      "category": "archaic-direction-term",
+      "reason": "Diestra significa el lado derecho en la exaltación del Señor.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+16%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 4,
+      "verse": 21,
+      "expected": "debajo del almud",
+      "replacement": "debajo de una canasta",
+      "category": "historical-container-term",
+      "reason": "Almud designa el recipiente que cubre la lámpara; canasta conserva la imagen sin sugerir un cajón rígido.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+4%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MRK",
+      "chapter": 13,
+      "verse": 27,
+      "expected": "hasta el cabo",
+      "replacement": "hasta el extremo",
+      "category": "archaic-extremity-phrase",
+      "reason": "La frase expresa el límite más lejano del cielo.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos+13%3A27&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    }
+  ]
+}

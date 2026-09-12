@@ -2,24 +2,24 @@
   "format": "shine-reading-filter-manifest",
   "filterId": "RV1909-LECTURA-2026",
   "schemaVersion": 1,
-  "contentVersion": 22,
+  "contentVersion": 24,
   "sourceVersionId": "RV1909",
   "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-  "contentSha256": "7914e0056a6242a20ee5d0407bc591a2cb5871e3038c63da3eda1c5ff1c9eda9",
-  "sizeBytes": 713131,
-  "expandedSizeBytes": 4125537,
+  "contentSha256": "b5b8898f459ad65dd06708cd947dd5fde6309d187ba2cc8eb2345d683c5a219e",
+  "sizeBytes": 743742,
+  "expandedSizeBytes": 4268564,
   "mimeType": "application/vnd.shine.reading-filter+gzip",
-  "generatedAt": "2026-09-12T11:00:00.000Z",
+  "generatedAt": "2026-09-12T22:20:00.000Z",
   "editorialPolicy": {
     "id": "unified-minimal-comprehension-policy",
-    "version": 3,
+    "version": 24,
     "description": "Only exact, reviewed, comprehension-essential projections are applied. The packaged RV1909 corpus remains immutable."
   },
   "coverage": {
     "expectedBookCount": 66,
     "includedBookCount": 66,
-    "changedVerseCount": 7329,
-    "editCount": 9393
+    "changedVerseCount": 7509,
+    "editCount": 9688
   },
   "books": [
     {
@@ -378,7 +378,7 @@
       "order": 40,
       "sourceFile": "matthew_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "fc7d90be95f3b98ae53cff0261942302b1bb7c457a630a80a4f4ced5751c6845",
-      "payloadSha256": "952407301e72d10f252ee860ab63e7990206d3dd1806a71d3423957ba66b9f60",
+      "payloadSha256": "b83349e95b486f357ccdcba6710b8735625fd733e757ffff30f0ce3360cd6e0b",
       "changedVerseCount": 472,
       "editCount": 642
     },
@@ -387,9 +387,9 @@
       "order": 41,
       "sourceFile": "mark_reading_2026.rv1909.v1.json",
       "sourceContentSha256": "04f8d21abda441a16c94f54c204c7111a21629e97a0f59307f2ec62544ab4955",
-      "payloadSha256": "7d6798305b5df8090ffd84d907baa3613d060a006f7d5c68c1b29e1926055ee9",
-      "changedVerseCount": 132,
-      "editCount": 145
+      "payloadSha256": "6ec0f82f92c1deb592d218ebe63af4720630b8560906d770c7a06131405dce89",
+      "changedVerseCount": 312,
+      "editCount": 440
     },
     {
       "id": "LUK",

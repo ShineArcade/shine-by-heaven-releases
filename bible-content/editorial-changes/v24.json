@@ -1,0 +1,252 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 24,
+  "generatedAt": "2026-09-12T22:20:00.000Z",
+  "issuedAt": "2026-09-12T22:20:00.000Z",
+  "expiresAt": "2028-09-12T22:20:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "changes": [
+    {
+      "book": "MAT",
+      "chapter": 2,
+      "verse": 7,
+      "expected": "entendió de ellos diligentemente el tiempo del aparecimiento de la estrella",
+      "replacement": "averiguó cuidadosamente cuándo había aparecido la estrella",
+      "category": "grammar-inquiry-clause",
+      "reason": "La frase completa elimina el complemento huérfano de la estrella y conserva que Herodes averiguó el momento de su aparición.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+2%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 5,
+      "verse": 11,
+      "expected": "os vituperaren y os persiguieren, y dijeren",
+      "replacement": "os insulten, os persigan y digan",
+      "category": "grammar-parallel-verbs",
+      "reason": "Los tres verbos coordinados conservan la misma persona y el mismo tiempo verbal después de modernizar vituperaren.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+5%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 5,
+      "verse": 15,
+      "expected": "mas",
+      "replacement": "sino",
+      "category": "contextual-adversative-connector",
+      "reason": "Después de una negación, la lámpara se coloca no debajo del recipiente, sino sobre el candelero.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+5%3A15&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 5,
+      "verse": 26,
+      "expected": "el último cuadrante",
+      "replacement": "la última moneda",
+      "category": "grammar-coin-agreement",
+      "reason": "El artículo, el adjetivo y el sustantivo deben concordar al explicar el cuadrante como la última moneda adeudada.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+5%3A26&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 5,
+      "verse": 33,
+      "expected": "mas",
+      "replacement": "sino que",
+      "category": "contextual-adversative-connector",
+      "reason": "La instrucción contrapone no jurar falsamente con cumplir los juramentos al Señor; sino que expresa esa corrección.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+5%3A33&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 6,
+      "verse": 13,
+      "expected": "mas",
+      "replacement": "sino",
+      "category": "contextual-adversative-connector",
+      "reason": "La petición contrapone no entrar en tentación con ser librados del mal.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+6%3A13&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 6,
+      "verse": 19,
+      "expected": "la polilla y el orín corrompe",
+      "replacement": "la polilla y el óxido corrompen",
+      "category": "grammar-compound-subject",
+      "reason": "Polilla y óxido forman un sujeto compuesto y requieren el verbo plural.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+6%3A19&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 6,
+      "verse": 20,
+      "expected": "ni polilla ni orín corrompe",
+      "replacement": "ni polilla ni óxido corrompen",
+      "category": "grammar-compound-subject",
+      "reason": "Los dos agentes coordinados conservan el plural verbal en la imagen paralela del tesoro celestial.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+6%3A20&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 7,
+      "verse": 21,
+      "expected": "mas",
+      "replacement": "sino",
+      "category": "contextual-adversative-connector",
+      "reason": "La frase distingue a quien solo dice Señor de quien hace la voluntad del Padre.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+7%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 9,
+      "verse": 17,
+      "expected": "mas",
+      "replacement": "sino que",
+      "category": "contextual-adversative-connector",
+      "reason": "El vino nuevo no se pone en odres viejos, sino que se pone en odres nuevos.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+9%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 9,
+      "verse": 24,
+      "expected": "mas",
+      "replacement": "sino que",
+      "category": "contextual-adversative-connector",
+      "reason": "Jesús afirma que la niña no está muerta, sino que duerme.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+9%3A24&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 15,
+      "verse": 11,
+      "expected": "mas",
+      "replacement": "sino",
+      "category": "contextual-adversative-connector",
+      "reason": "La enseñanza contrapone lo que entra por la boca con lo que sale de ella.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+15%3A11&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 16,
+      "verse": 17,
+      "expected": "mas",
+      "replacement": "sino",
+      "category": "contextual-adversative-connector",
+      "reason": "La revelación no procede de carne ni sangre, sino del Padre celestial.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+16%3A17&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 21,
+      "verse": 21,
+      "expected": "mas",
+      "replacement": "sino que",
+      "category": "contextual-adversative-connector",
+      "reason": "No solo podrían repetir la señal de la higuera, sino que también podrían hablar al monte; sino que mantiene esa ampliación.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+21%3A21&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 22,
+      "verse": 30,
+      "expected": "mas",
+      "replacement": "sino que",
+      "category": "contextual-adversative-connector",
+      "reason": "En la resurrección no se casan, sino que son como los ángeles de Dios.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+22%3A30&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "book": "MAT",
+      "chapter": 23,
+      "verse": 7,
+      "expected": "las salutaciones",
+      "replacement": "los saludos",
+      "category": "grammar-greeting-agreement",
+      "reason": "El artículo debe concordar con saludos después de modernizar salutaciones.",
+      "evidence": [
+        {
+          "label": "Control contextual RVR1960, NVI, LBLA y RVC",
+          "url": "https://www.biblegateway.com/passage/?search=Mateo+23%3A7&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    }
+  ]
+}

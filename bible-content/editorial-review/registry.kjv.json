@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T13:00:00.000Z",
+  "updatedAt": "2026-09-12T20:30:00.000Z",
   "sourceVersionId": "KJV",
-  "activeContentVersion": 11,
+  "activeContentVersion": 12,
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/verify_kjv_reading_2026.mjs",
   "applied": [
@@ -26838,6 +26838,2502 @@
       "category": "historical-disability-phrase",
       "reason": "Dumb means unable to speak; the complete phrase is made grammatical in current English.",
       "evidenceUrl": "https://www.biblegateway.com/passage/?search=Matthew+15%3A31&version=KJV%3BNIV"
+    },
+    {
+      "reference": "MRK.1.4",
+      "expected": "remission of sins",
+      "replacement": "forgiveness of sins",
+      "category": "historical-forgiveness-term",
+      "reason": "Remission means forgiveness in John's baptismal proclamation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A4&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.6",
+      "expected": "a girdle of a skin about his loins",
+      "replacement": "a leather belt around his waist",
+      "category": "archaic-clothing-phrase",
+      "reason": "The phrase describes John's leather belt around his waist.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A6&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.7",
+      "expected": "the latchet of whose shoes",
+      "replacement": "the straps of whose sandals",
+      "category": "historical-footwear-phrase",
+      "reason": "Latchet and shoes describe the straps of sandals in this scene.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A7&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.7",
+      "expected": "stoop down and unloose",
+      "replacement": "stoop down and untie",
+      "category": "archaic-untie-verb",
+      "reason": "Unloose means untie the sandal straps.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A7&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.8",
+      "expected": "Holy Ghost",
+      "replacement": "Holy Spirit",
+      "category": "historical-spirit-term",
+      "reason": "Holy Ghost is modernized to Holy Spirit without changing the referent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A8&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.10",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A10&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.18",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A18&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.18",
+      "expected": "forsook their nets",
+      "replacement": "left their nets",
+      "category": "archaic-departure-verb",
+      "reason": "Forsook means they left their nets to follow Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A18&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.19",
+      "expected": "in the ship",
+      "replacement": "in the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the fishing boat on the Sea of Galilee.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A19&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.20",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A20&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.20",
+      "expected": "in the ship",
+      "replacement": "in the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes Zebedee's fishing boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A20&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.21",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A21&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.25",
+      "expected": "Hold thy peace and come out of him",
+      "replacement": "Be silent, and come out of him",
+      "category": "archaic-silence-command",
+      "reason": "The command orders the unclean spirit to be silent and leave the man.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A25&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.26",
+      "expected": "had torn him",
+      "replacement": "had convulsed him",
+      "category": "false-friend-convulsion-verb",
+      "reason": "Torn describes a convulsion; the man's body was not torn apart.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A26&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.32",
+      "expected": "at even",
+      "replacement": "in the evening",
+      "category": "archaic-time-phrase",
+      "reason": "At even means in the evening.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A32&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.32",
+      "expected": "possessed with devils",
+      "replacement": "demon-possessed",
+      "category": "historical-demon-phrase",
+      "reason": "Devils refers to demons in this healing account.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A32&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.34",
+      "expected": "divers diseases",
+      "replacement": "various diseases",
+      "category": "false-friend-variety-term",
+      "reason": "Divers means various, not people who dive.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A34&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.34",
+      "expected": "cast out many devils",
+      "replacement": "cast out many demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A34&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.34",
+      "expected": "suffered not the devils to speak",
+      "replacement": "did not allow the demons to speak",
+      "category": "archaic-permission-clause",
+      "reason": "Suffered not means did not allow; devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A34&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.39",
+      "expected": "cast out devils",
+      "replacement": "cast out demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A39&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.43",
+      "expected": "straitly charged him",
+      "replacement": "sternly warned him",
+      "category": "archaic-warning-phrase",
+      "reason": "Straitly charged means sternly warned.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A43&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.43",
+      "expected": "forthwith sent him away",
+      "replacement": "sent him away at once",
+      "category": "archaic-speed-phrase",
+      "reason": "Forthwith means at once.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A43&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.1.30",
+      "expected": "they tell him of her",
+      "replacement": "they told him about her",
+      "category": "grammar-narrative-tense",
+      "reason": "The narrative continues in the past tense when they told Jesus about Simon's mother-in-law.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+1%3A30&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.1",
+      "expected": "it was noised that he was in the house",
+      "replacement": "it became known that he was in the house",
+      "category": "false-friend-report-phrase",
+      "reason": "Noised means the news became known, not that a sound was made.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A1&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.2",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A2&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.2",
+      "expected": "insomuch that",
+      "replacement": "so that",
+      "category": "archaic-result-connector",
+      "reason": "Insomuch that introduces the result of the crowd gathering.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A2&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.3",
+      "expected": "bringing one sick of the palsy, which was borne of four",
+      "replacement": "bringing a paralyzed man carried by four people",
+      "category": "obsolete-medical-phrase",
+      "reason": "Palsy denotes paralysis and borne means carried; the whole phrase preserves the four carriers without duplicating the action.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A3&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.4",
+      "expected": "come nigh unto him for the press",
+      "replacement": "come near him because of the crowd",
+      "category": "archaic-crowd-phrase",
+      "reason": "Press denotes the crowd blocking access to Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A4&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.4",
+      "expected": "the bed wherein the sick of the palsy lay",
+      "replacement": "the mat on which the paralyzed man lay",
+      "category": "obsolete-medical-phrase",
+      "reason": "The object lowered through the roof was the paralyzed man's mat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A4&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.5",
+      "expected": "the sick of the palsy",
+      "replacement": "the paralyzed man",
+      "category": "obsolete-medical-term",
+      "reason": "Palsy denotes paralysis.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A5&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.8",
+      "expected": "that they so reasoned within themselves",
+      "replacement": "that they were reasoning within themselves",
+      "category": "archaic-reasoning-phrase",
+      "reason": "The scribes were deliberating inwardly; the complete phrase preserves natural word order.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A8&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.9",
+      "expected": "the sick of the palsy",
+      "replacement": "the paralyzed man",
+      "category": "obsolete-medical-term",
+      "reason": "Palsy denotes paralysis.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A9&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.10",
+      "expected": "the sick of the palsy",
+      "replacement": "the paralyzed man",
+      "category": "obsolete-medical-term",
+      "reason": "Palsy denotes paralysis.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A10&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.12",
+      "expected": "We never saw it on this fashion",
+      "replacement": "We have never seen anything like this",
+      "category": "archaic-manner-phrase",
+      "reason": "On this fashion means in this manner; the complete sentence avoids retaining a false object pronoun.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A12&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.14",
+      "expected": "receipt of custom",
+      "replacement": "tax collection booth",
+      "category": "historical-tax-phrase",
+      "reason": "The phrase identifies Levi's tax collection post.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A14&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.15",
+      "expected": "sat at meat",
+      "replacement": "was dining",
+      "category": "false-friend-meal-phrase",
+      "reason": "Sat at meat means was dining, not sitting only with meat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A15&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.15",
+      "expected": "publicans",
+      "replacement": "tax collectors",
+      "category": "historical-tax-term",
+      "reason": "Publicans were tax collectors.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A15&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.16",
+      "expected": "publicans",
+      "replacement": "tax collectors",
+      "category": "historical-tax-term",
+      "reason": "Publicans were tax collectors.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A16&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.19",
+      "expected": "children of the bridechamber",
+      "replacement": "wedding guests",
+      "category": "historical-wedding-phrase",
+      "reason": "The phrase denotes the bridegroom's wedding companions.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A19&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.21",
+      "expected": "No man also seweth a piece of new cloth on an old garment else the new piece that filled it up taketh away from the old and the rent is made worse",
+      "replacement": "No one sews a piece of new cloth on an old garment; otherwise the new patch pulls away from the old, and the tear becomes worse",
+      "category": "archaic-garment-parable",
+      "reason": "The complete sentence keeps the patch image clear and prevents obsolete wording from obscuring the result.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A21&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.22",
+      "expected": "old bottles",
+      "replacement": "old wineskins",
+      "category": "historical-wineskin-term",
+      "reason": "Bottles denotes leather wineskins.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A22&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.22",
+      "expected": "the bottles",
+      "replacement": "the wineskins",
+      "category": "historical-wineskin-term",
+      "reason": "Bottles denotes leather wineskins.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A22&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.22",
+      "expected": "new bottles",
+      "replacement": "new wineskins",
+      "category": "historical-wineskin-term",
+      "reason": "Bottles denotes leather wineskins.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A22&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.23",
+      "expected": "corn fields",
+      "replacement": "grainfields",
+      "category": "historical-grain-term",
+      "reason": "Corn means grain in this British English context.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A23&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.2.23",
+      "expected": "ears of corn",
+      "replacement": "heads of grain",
+      "category": "historical-grain-term",
+      "reason": "The disciples plucked heads of grain, not modern maize.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+2%3A23&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.3.4",
+      "expected": "held their peace",
+      "replacement": "remained silent",
+      "category": "archaic-silence-phrase",
+      "reason": "Held their peace means remained silent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+3%3A4&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.3.6",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+3%3A6&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.3.9",
+      "expected": "a small ship",
+      "replacement": "a small boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes a small boat kept ready for Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+3%3A9&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.3.9",
+      "expected": "should wait on him",
+      "replacement": "should be kept ready for him",
+      "category": "false-friend-readiness-phrase",
+      "reason": "Wait on means that the boat was to remain ready for Jesus, not that it served him as an attendant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+3%3A9&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.3.9",
+      "expected": "lest they should throng him",
+      "replacement": "so they would not crush him",
+      "category": "archaic-crowding-phrase",
+      "reason": "Throng describes the crowd pressing hard against Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+3%3A9&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.3.10",
+      "expected": "insomuch that they pressed upon him for to touch him, as many as had plagues",
+      "replacement": "so that all who had afflictions pressed toward him to touch him",
+      "category": "false-friend-affliction-clause",
+      "reason": "Plagues denotes personal afflictions; the complete clause identifies those pressing toward Jesus to touch him.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+3%3A10&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.3.12",
+      "expected": "straitly charged them",
+      "replacement": "sternly warned them",
+      "category": "archaic-warning-phrase",
+      "reason": "Straitly charged means sternly warned.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+3%3A12&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.3.15",
+      "expected": "cast out devils",
+      "replacement": "cast out demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+3%3A15&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.3.22",
+      "expected": "by the prince of the devils casteth he out devils",
+      "replacement": "by the prince of the demons he casts out demons",
+      "category": "archaic-demon-clause",
+      "reason": "The complete clause states the accusation that Jesus expelled demons by their prince.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+3%3A22&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.3.27",
+      "expected": "spoil his goods",
+      "replacement": "plunder his possessions",
+      "category": "false-friend-plunder-phrase",
+      "reason": "Spoil means plunder and goods means possessions.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+3%3A27&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.3.27",
+      "expected": "spoil his house",
+      "replacement": "plunder his house",
+      "category": "false-friend-plunder-phrase",
+      "reason": "Spoil means plunder the bound strong man's house.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+3%3A27&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.4",
+      "expected": "fowls of the air",
+      "replacement": "birds of the air",
+      "category": "archaic-bird-term",
+      "reason": "Fowls means birds.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A4&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.17",
+      "expected": "they are offended",
+      "replacement": "they fall away",
+      "category": "false-friend-fall-away-verb",
+      "reason": "Offended describes abandoning the word under affliction or persecution.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A17&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.21",
+      "expected": "under a bushel",
+      "replacement": "under a basket",
+      "category": "historical-container-term",
+      "reason": "Bushel denotes the measuring container placed over a lamp.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A21&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.21",
+      "expected": "on a candlestick",
+      "replacement": "on a lampstand",
+      "category": "historical-lampstand-term",
+      "reason": "Candlestick denotes a stand for an oil lamp.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A21&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.21",
+      "expected": "Is a candle brought",
+      "replacement": "Is a lamp brought",
+      "category": "historical-lamp-term",
+      "reason": "Candle denotes the oil lamp placed on a lampstand in this setting.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A21&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.28",
+      "expected": "For the earth bringeth forth fruit of herself",
+      "replacement": "For the earth produces crops by itself",
+      "category": "archaic-growth-clause",
+      "reason": "The earth produces the crop by itself in the parable.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A28&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.28",
+      "expected": "first the blade then the ear after that the full corn in the ear",
+      "replacement": "first the stalk, then the head, after that the full grain in the head",
+      "category": "historical-growth-phrase",
+      "reason": "The sequence describes the growth of grain from stalk to mature head.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A28&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.32",
+      "expected": "all herbs",
+      "replacement": "all garden plants",
+      "category": "historical-garden-term",
+      "reason": "Herbs denotes cultivated garden plants in the comparison.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A32&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.32",
+      "expected": "fowls of the air",
+      "replacement": "birds of the air",
+      "category": "archaic-bird-term",
+      "reason": "Fowls means birds.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A32&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.36",
+      "expected": "in the ship",
+      "replacement": "in the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat used to cross the lake.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A36&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.36",
+      "expected": "other little ships",
+      "replacement": "other small boats",
+      "category": "historical-vessel-term",
+      "reason": "Ships denotes the other small boats accompanying them.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A36&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.37",
+      "expected": "great storm of wind",
+      "replacement": "great windstorm",
+      "category": "archaic-storm-phrase",
+      "reason": "The phrase describes a violent windstorm.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A37&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.37",
+      "expected": "the ship",
+      "replacement": "the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat on the lake.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A37&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.38",
+      "expected": "hinder part of the ship",
+      "replacement": "stern of the boat",
+      "category": "historical-vessel-location",
+      "reason": "The hinder part is the stern of the boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A38&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.4.39",
+      "expected": "Peace be still And the wind ceased",
+      "replacement": "Be silent, be still. And the wind ceased",
+      "category": "archaic-silence-command",
+      "reason": "The two commands order the sea to be silent and still; the period preserves the boundary before the narrative resumes.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+4%3A39&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.2",
+      "expected": "out of the ship",
+      "replacement": "out of the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat arriving at shore.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A2&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.4",
+      "expected": "fetters and chains",
+      "replacement": "shackles and chains",
+      "category": "historical-restraint-term",
+      "reason": "Fetters are restraining shackles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A4&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.4",
+      "expected": "plucked asunder",
+      "replacement": "torn apart",
+      "category": "archaic-break-phrase",
+      "reason": "Plucked asunder means torn apart.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A4&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.4",
+      "expected": "fetters broken in pieces",
+      "replacement": "shackles broken in pieces",
+      "category": "historical-restraint-term",
+      "reason": "Fetters are restraining shackles.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A4&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.10",
+      "expected": "besought him much",
+      "replacement": "begged him earnestly",
+      "category": "archaic-pleading-phrase",
+      "reason": "Besought means begged earnestly.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A10&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.11",
+      "expected": "herd of swine",
+      "replacement": "herd of pigs",
+      "category": "historical-animal-term",
+      "reason": "Swine means pigs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A11&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.12",
+      "expected": "all the devils besought him",
+      "replacement": "all the demons begged him",
+      "category": "archaic-demon-clause",
+      "reason": "Devils refers to demons and besought means begged.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A12&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.12",
+      "expected": "into the swine",
+      "replacement": "into the pigs",
+      "category": "historical-animal-term",
+      "reason": "Swine means pigs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A12&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.13",
+      "expected": "forthwith",
+      "replacement": "at once",
+      "category": "archaic-speed-adverb",
+      "reason": "Forthwith means at once.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A13&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.13",
+      "expected": "gave them leave",
+      "replacement": "allowed them",
+      "category": "archaic-permission-phrase",
+      "reason": "Gave them leave means allowed the spirits to enter the pigs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A13&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.13",
+      "expected": "entered into the swine",
+      "replacement": "entered the pigs",
+      "category": "historical-animal-term",
+      "reason": "Swine means pigs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A13&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.13",
+      "expected": "were choked in the sea",
+      "replacement": "drowned in the sea",
+      "category": "archaic-drowning-phrase",
+      "reason": "Choked in the sea means the herd drowned after running down the steep bank.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A13&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.14",
+      "expected": "fed the swine",
+      "replacement": "tended the pigs",
+      "category": "historical-animal-phrase",
+      "reason": "The people were tending the herd of pigs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A14&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.15",
+      "expected": "possessed with the devil",
+      "replacement": "demon-possessed",
+      "category": "historical-demon-phrase",
+      "reason": "Devil refers to the demon that had possessed the man.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A15&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.16",
+      "expected": "how it befell to him that was possessed with the devil",
+      "replacement": "what had happened to the man who had been demon-possessed",
+      "category": "archaic-event-clause",
+      "reason": "The complete clause identifies what happened to the man and avoids leaving an obsolete relative construction around the modernized term.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A16&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.16",
+      "expected": "concerning the swine",
+      "replacement": "concerning the pigs",
+      "category": "historical-animal-term",
+      "reason": "Swine means pigs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A16&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.17",
+      "expected": "began to pray him to depart out of their coasts",
+      "replacement": "began to beg him to leave their region",
+      "category": "archaic-request-phrase",
+      "reason": "Pray means beg and coasts means their surrounding region; the full clause avoids the unidiomatic phrase leave out of.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A17&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.18",
+      "expected": "into the ship",
+      "replacement": "into the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A18&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.18",
+      "expected": "possessed with the devil",
+      "replacement": "demon-possessed",
+      "category": "historical-demon-phrase",
+      "reason": "Devil refers to the demon that had possessed the man.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A18&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.18",
+      "expected": "prayed him that he might be with him",
+      "replacement": "begged to go with him",
+      "category": "archaic-request-phrase",
+      "reason": "Prayed means begged; the man asked to accompany Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A18&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.21",
+      "expected": "by ship",
+      "replacement": "by boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat used to cross the lake.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A21&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.21",
+      "expected": "much people gathered unto him",
+      "replacement": "a large crowd gathered around him",
+      "category": "archaic-crowd-phrase",
+      "reason": "Much people means a large crowd gathered around Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A21&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.21",
+      "expected": "nigh unto the sea",
+      "replacement": "near the sea",
+      "category": "archaic-near-term",
+      "reason": "Nigh means near.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A21&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.23",
+      "expected": "besought him greatly",
+      "replacement": "begged him earnestly",
+      "category": "archaic-pleading-phrase",
+      "reason": "Besought means begged earnestly.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A23&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.23",
+      "expected": "lieth at the point of death",
+      "replacement": "is at the point of death",
+      "category": "archaic-near-death-phrase",
+      "reason": "Lieth is an obsolete form; the daughter is near death.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A23&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.25",
+      "expected": "an issue of blood twelve years",
+      "replacement": "chronic bleeding for twelve years",
+      "category": "historical-medical-phrase",
+      "reason": "Issue of blood denotes persistent bleeding over twelve years.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A25&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.29",
+      "expected": "the fountain of her blood was dried up",
+      "replacement": "her bleeding stopped",
+      "category": "historical-medical-phrase",
+      "reason": "The phrase states that the woman's bleeding stopped.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A29&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.29",
+      "expected": "that plague",
+      "replacement": "that affliction",
+      "category": "false-friend-affliction-term",
+      "reason": "Plague denotes the woman's affliction, not an epidemic.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A29&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.30",
+      "expected": "virtue had gone out of him",
+      "replacement": "power had gone out of him",
+      "category": "false-friend-power-term",
+      "reason": "Virtue means healing power, not moral goodness.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A30&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.30",
+      "expected": "the press",
+      "replacement": "the crowd",
+      "category": "false-friend-crowd-term",
+      "reason": "Press denotes the crowd surrounding Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A30&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.30",
+      "expected": "turned him about",
+      "replacement": "turned around",
+      "category": "archaic-turn-phrase",
+      "reason": "Turned him about means Jesus turned around in the crowd.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A30&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.34",
+      "expected": "whole of thy plague",
+      "replacement": "healed of that affliction",
+      "category": "archaic-healing-phrase",
+      "reason": "Whole means healed and plague denotes the affliction; the wording avoids mixing pronoun systems.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A34&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.39",
+      "expected": "make ye this ado",
+      "replacement": "make this commotion",
+      "category": "archaic-commotion-term",
+      "reason": "Ado means commotion.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A39&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.39",
+      "expected": "the damsel",
+      "replacement": "the girl",
+      "category": "archaic-girl-term",
+      "reason": "Damsel means girl.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A39&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.40",
+      "expected": "laughed him to scorn",
+      "replacement": "laughed at him",
+      "category": "archaic-ridicule-phrase",
+      "reason": "The mourners ridiculed Jesus by laughing at him.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A40&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.40",
+      "expected": "the damsel",
+      "replacement": "the girl",
+      "category": "archaic-girl-term",
+      "reason": "Damsel means girl.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A40&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.41",
+      "expected": "the damsel",
+      "replacement": "the girl",
+      "category": "archaic-girl-term",
+      "reason": "Damsel means girl.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A41&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.41",
+      "expected": "Damsel, I say unto thee, arise",
+      "replacement": "Girl, I say unto thee, arise",
+      "category": "archaic-girl-phrase",
+      "reason": "Damsel means girl; the direct command and KJV pronoun system are retained.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A41&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.42",
+      "expected": "straightway the damsel arose",
+      "replacement": "immediately the girl arose",
+      "category": "archaic-speed-and-girl-phrase",
+      "reason": "Straightway means immediately and damsel means girl.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A42&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.42",
+      "expected": "astonished with a great astonishment",
+      "replacement": "completely astonished",
+      "category": "archaic-amazement-phrase",
+      "reason": "The expression communicates the great degree of their astonishment without repeating the same word.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A42&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.5.43",
+      "expected": "charged them straitly",
+      "replacement": "sternly ordered them",
+      "category": "archaic-command-phrase",
+      "reason": "Charged them straitly means sternly ordered them.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+5%3A43&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.2",
+      "expected": "mighty works are wrought by his hands",
+      "replacement": "miracles are performed by his hands",
+      "category": "archaic-miracle-phrase",
+      "reason": "Mighty works denotes miracles and wrought means performed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A2&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.2",
+      "expected": "From whence hath this man these things",
+      "replacement": "From where did this man get these things",
+      "category": "archaic-origin-question",
+      "reason": "Whence asks where Jesus received these things; the complete question uses current English syntax.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A2&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.5",
+      "expected": "no mighty work",
+      "replacement": "no miracle",
+      "category": "archaic-miracle-term",
+      "reason": "Mighty work means miracle.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A5&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.5",
+      "expected": "a few sick folk",
+      "replacement": "a few sick people",
+      "category": "archaic-people-term",
+      "reason": "Folk means people.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A5&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.8",
+      "expected": "no scrip",
+      "replacement": "no travel bag",
+      "category": "historical-travel-bag",
+      "reason": "Scrip is a travel bag for provisions.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A8&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.13",
+      "expected": "cast out many devils",
+      "replacement": "cast out many demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A13&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.14",
+      "expected": "mighty works do shew forth themselves in him",
+      "replacement": "miraculous powers are at work in him",
+      "category": "archaic-miracle-phrase",
+      "reason": "The phrase attributes miraculous powers to the risen John in Herod's explanation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A14&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.19",
+      "expected": "had a quarrel against him",
+      "replacement": "held a grudge against him",
+      "category": "false-friend-grudge-phrase",
+      "reason": "Quarrel means a continuing grievance or grudge here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A19&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.22",
+      "expected": "the damsel",
+      "replacement": "the girl",
+      "category": "archaic-girl-term",
+      "reason": "Damsel means girl.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A22&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.22",
+      "expected": "daughter of the said Herodias",
+      "replacement": "daughter of Herodias",
+      "category": "archaic-said-reference",
+      "reason": "Said is an obsolete legal-style reference to the previously named Herodias.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A22&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.25",
+      "expected": "came in straightway with haste unto the king",
+      "replacement": "came immediately to the king",
+      "category": "archaic-speed-phrase",
+      "reason": "The girl returned immediately to the king; the urgency remains explicit in her demand for the head right now.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A25&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.25",
+      "expected": "by and by in a charger",
+      "replacement": "right now on a platter",
+      "category": "false-friend-platter-phrase",
+      "reason": "By and by means immediately and charger means platter.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A25&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.28",
+      "expected": "in a charger",
+      "replacement": "on a platter",
+      "category": "historical-platter-term",
+      "reason": "Charger means platter.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A28&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.28",
+      "expected": "the damsel",
+      "replacement": "the girl",
+      "category": "archaic-girl-term",
+      "reason": "Damsel means girl.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A28&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.31",
+      "expected": "had no leisure so much as to eat",
+      "replacement": "did not even have time to eat",
+      "category": "false-friend-opportunity-phrase",
+      "reason": "No leisure means they lacked time to eat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A31&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.32",
+      "expected": "by ship",
+      "replacement": "by boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A32&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.33",
+      "expected": "ran afoot thither",
+      "replacement": "ran there on foot",
+      "category": "archaic-movement-phrase",
+      "reason": "Afoot thither means there on foot.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A33&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.33",
+      "expected": "outwent them",
+      "replacement": "arrived ahead of them",
+      "category": "archaic-arrival-verb",
+      "reason": "Outwent means the people reached the place before the boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A33&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.37",
+      "expected": "two hundred pennyworth of bread",
+      "replacement": "two hundred denarii worth of bread",
+      "category": "historical-coin-phrase",
+      "reason": "Pennyworth refers to denarii, not modern pennies.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A37&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.39",
+      "expected": "by companies",
+      "replacement": "in groups",
+      "category": "archaic-group-term",
+      "reason": "Companies means organized groups.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A39&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.40",
+      "expected": "in ranks",
+      "replacement": "in groups",
+      "category": "archaic-group-term",
+      "reason": "Ranks means organized groups seated together.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A40&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.45",
+      "expected": "straightway he constrained his disciples to get",
+      "replacement": "immediately he made his disciples get",
+      "category": "archaic-urgency-phrase",
+      "reason": "Constrained means Jesus made them embark without delay; the complete phrase remains grammatical.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A45&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.45",
+      "expected": "into the ship",
+      "replacement": "into the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A45&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.47",
+      "expected": "when even was come",
+      "replacement": "when evening came",
+      "category": "archaic-time-phrase",
+      "reason": "Even means evening.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A47&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.47",
+      "expected": "the ship",
+      "replacement": "the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat on the lake.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A47&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.48",
+      "expected": "toiling in rowing",
+      "replacement": "struggling to row",
+      "category": "archaic-rowing-phrase",
+      "reason": "The wind made rowing difficult.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A48&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.48",
+      "expected": "about the fourth watch of the night",
+      "replacement": "before dawn",
+      "category": "historical-night-watch",
+      "reason": "The fourth watch corresponds to the final hours before dawn.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A48&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.51",
+      "expected": "into the ship",
+      "replacement": "into the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A51&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.51",
+      "expected": "sore amazed in themselves beyond measure, and wondered",
+      "replacement": "utterly amazed and wondered",
+      "category": "archaic-intensity-phrase",
+      "reason": "The phrase expresses overwhelming amazement without stacking two modern intensifiers.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A51&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.54",
+      "expected": "out of the ship",
+      "replacement": "out of the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A54&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.54",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A54&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.54",
+      "expected": "they knew him",
+      "replacement": "they recognized him",
+      "category": "false-friend-recognition-verb",
+      "reason": "Knew means the people recognized Jesus when he left the boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A54&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.56",
+      "expected": "besought him",
+      "replacement": "begged him",
+      "category": "archaic-pleading-verb",
+      "reason": "Besought means begged.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A56&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.6.56",
+      "expected": "were made whole",
+      "replacement": "were healed",
+      "category": "archaic-healing-phrase",
+      "reason": "Made whole means healed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+6%3A56&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.11",
+      "expected": "by whatsoever thou mightest be profited by me",
+      "replacement": "whatever help thou mightest have received from me",
+      "category": "archaic-support-phrase",
+      "reason": "The saying declares parental support dedicated as Corban while retaining the KJV pronoun system.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A11&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.12",
+      "expected": "ye suffer him no more",
+      "replacement": "ye no longer allow him",
+      "category": "archaic-permission-phrase",
+      "reason": "Suffer means allow; the KJV pronoun system remains intact.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A12&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.12",
+      "expected": "do ought for his father",
+      "replacement": "do anything for his father",
+      "category": "archaic-anything-term",
+      "reason": "Ought means anything here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A12&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.19",
+      "expected": "Because it entereth not into his heart but into the belly and goeth out into the draught purging all meats",
+      "replacement": "Because it does not enter his heart but his stomach, and then passes out of the body, making all foods clean",
+      "category": "historical-bodily-phrase",
+      "reason": "Draught is an old bodily-elimination term and meats means foods generally; the complete clause keeps its verbs consistent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A19&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.26",
+      "expected": "besought him",
+      "replacement": "begged him",
+      "category": "archaic-pleading-verb",
+      "reason": "Besought means begged.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A26&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.26",
+      "expected": "cast forth the devil out of her daughter",
+      "replacement": "cast the demon out of her daughter",
+      "category": "historical-demon-phrase",
+      "reason": "Devil refers to the demon in her daughter; the full phrase avoids duplicating out.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A26&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.27",
+      "expected": "it is not meet",
+      "replacement": "it is not right",
+      "category": "false-friend-right-term",
+      "reason": "Meet means right or appropriate.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A27&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.29",
+      "expected": "the devil is gone out",
+      "replacement": "the demon has gone out",
+      "category": "historical-demon-term",
+      "reason": "Devil refers to the demon in her daughter.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A29&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.30",
+      "expected": "found the devil gone out",
+      "replacement": "found that the demon had gone out",
+      "category": "historical-demon-clause",
+      "reason": "The woman discovered that the demon had left her daughter.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A30&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.30",
+      "expected": "her daughter laid upon the bed",
+      "replacement": "her daughter lying upon the bed",
+      "category": "grammar-participle-phrase",
+      "reason": "Lying is the correct participle for the daughter's position on the bed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A30&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.31",
+      "expected": "departing from the coasts",
+      "replacement": "departing from the region",
+      "category": "false-friend-region",
+      "reason": "Coasts means the region around Tyre and Sidon.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A31&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.31",
+      "expected": "through the midst of the coasts of Decapolis",
+      "replacement": "through the region of Decapolis",
+      "category": "false-friend-region",
+      "reason": "Coasts means the region of Decapolis.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A31&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.32",
+      "expected": "one that was deaf, and had an impediment in his speech",
+      "replacement": "a deaf man with a speech impediment",
+      "category": "historical-disability-phrase",
+      "reason": "The phrase identifies a man who could not hear and had difficulty speaking.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A32&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.35",
+      "expected": "the string of his tongue was loosed, and he spake plain",
+      "replacement": "his speech impediment disappeared, and he spoke clearly",
+      "category": "historical-speech-phrase",
+      "reason": "The healing removes the speech impediment and restores clear speech.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A35&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.7.37",
+      "expected": "he maketh both the deaf to hear, and the dumb to speak",
+      "replacement": "he enables deaf people to hear and people unable to speak to speak",
+      "category": "historical-disability-phrase",
+      "reason": "The current wording describes the restored abilities without obsolete labels.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+7%3A37&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.3",
+      "expected": "divers of them",
+      "replacement": "some of them",
+      "category": "false-friend-quantity-term",
+      "reason": "Divers means some in this crowd.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A3&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.4",
+      "expected": "From whence can a man satisfy these men with bread here in the wilderness",
+      "replacement": "Where can anyone get enough bread to feed all these people here in the wilderness",
+      "category": "archaic-feeding-question",
+      "reason": "The complete question asks where enough food could be obtained for the crowd in the wilderness.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A4&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.8",
+      "expected": "they took up of the broken meat that was left seven baskets",
+      "replacement": "they collected seven baskets of leftover pieces",
+      "category": "false-friend-food-phrase",
+      "reason": "Meat means food generally; the complete phrase states that seven baskets of pieces remained.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A8&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.10",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A10&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.10",
+      "expected": "into a ship",
+      "replacement": "into a boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A10&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.11",
+      "expected": "tempting him",
+      "replacement": "testing him",
+      "category": "false-friend-test-verb",
+      "reason": "The demand for a sign was intended to test Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A11&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.13",
+      "expected": "into the ship",
+      "replacement": "into the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A13&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.14",
+      "expected": "in the ship",
+      "replacement": "in the boat",
+      "category": "historical-vessel-term",
+      "reason": "Ship denotes the boat.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A14&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.15",
+      "expected": "the leaven of the Pharisees",
+      "replacement": "the yeast of the Pharisees",
+      "category": "historical-yeast-term",
+      "reason": "Leaven means yeast in Jesus' warning image.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A15&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.15",
+      "expected": "the leaven of Herod",
+      "replacement": "the yeast of Herod",
+      "category": "historical-yeast-term",
+      "reason": "Leaven means yeast in Jesus' warning image.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A15&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.16",
+      "expected": "reasoned among themselves",
+      "replacement": "discussed among themselves",
+      "category": "archaic-discussion-verb",
+      "reason": "Reasoned means they discussed the lack of bread.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A16&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.22",
+      "expected": "they bring a blind man unto him, and besought him to touch him",
+      "replacement": "they bring a blind man to him and beg him to touch him",
+      "category": "archaic-pleading-clause",
+      "reason": "Besought means begged; the complete phrase keeps the narrative tense consistent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A22&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.23",
+      "expected": "if he saw ought",
+      "replacement": "whether he saw anything",
+      "category": "archaic-anything-phrase",
+      "reason": "Ought means anything in Jesus' question.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A23&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.8.31",
+      "expected": "be rejected of the elders, and of the chief priests, and scribes",
+      "replacement": "be rejected by the elders, chief priests, and scribes",
+      "category": "archaic-agent-phrase",
+      "reason": "Modern English uses by for all the leaders who reject him.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+8%3A31&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.3",
+      "expected": "his raiment became shining, exceeding white as snow; so as no fuller on earth can white them",
+      "replacement": "his clothes became shining, exceedingly white as snow, whiter than any launderer on earth could make them",
+      "category": "historical-launderer-phrase",
+      "reason": "The whole phrase modernizes raiment, fuller and white as a verb while preserving the extraordinary whiteness.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A3&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.5",
+      "expected": "three tabernacles",
+      "replacement": "three shelters",
+      "category": "historical-shelter-term",
+      "reason": "Tabernacles means temporary shelters in this scene.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A5&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.6",
+      "expected": "sore afraid",
+      "replacement": "very afraid",
+      "category": "archaic-intensity-phrase",
+      "reason": "Sore intensifies their fear.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A6&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.12",
+      "expected": "be set at nought",
+      "replacement": "be treated with contempt",
+      "category": "archaic-contempt-phrase",
+      "reason": "Set at nought means treated as worthless or with contempt.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A12&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.13",
+      "expected": "whatsoever they listed",
+      "replacement": "whatever they wanted",
+      "category": "archaic-desire-phrase",
+      "reason": "Listed means wanted in this context.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A13&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.15",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A15&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.17",
+      "expected": "my son, which hath a dumb spirit",
+      "replacement": "my son, who has a spirit that prevents him from speaking",
+      "category": "historical-disability-phrase",
+      "reason": "Dumb describes the effect of the spirit on speech, not the son's intelligence.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A17&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.18",
+      "expected": "wheresoever he taketh him, he teareth him",
+      "replacement": "wherever it seizes him, it convulses him",
+      "category": "false-friend-convulsion-phrase",
+      "reason": "The spirit seizes and convulses the son; teareth does not mean his body is torn apart.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A18&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.18",
+      "expected": "he foameth, and gnasheth with his teeth, and pineth away",
+      "replacement": "he foams at the mouth, grinds his teeth, and becomes rigid",
+      "category": "historical-seizure-phrase",
+      "reason": "The phrase describes symptoms of the convulsion in current language.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A18&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.19",
+      "expected": "how long shall I suffer you bring him unto me",
+      "replacement": "how long must I endure you? Bring him unto me",
+      "category": "archaic-endure-clause",
+      "reason": "Suffer means endure in Jesus' lament; the punctuation separates the command to bring the boy.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A19&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.20",
+      "expected": "straightway the spirit tare him",
+      "replacement": "immediately the spirit convulsed him",
+      "category": "false-friend-convulsion-phrase",
+      "reason": "Tare describes a convulsion, not bodily tearing.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A20&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.20",
+      "expected": "he fell on the ground, and wallowed foaming",
+      "replacement": "he fell on the ground and rolled around, foaming at the mouth",
+      "category": "archaic-convulsion-phrase",
+      "reason": "Wallowed here describes the boy rolling on the ground during the convulsion.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A20&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.24",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A24&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.25",
+      "expected": "dumb and deaf spirit",
+      "replacement": "spirit that prevents speech and hearing",
+      "category": "historical-disability-phrase",
+      "reason": "The command identifies the spirit by its effects without obsolete labels.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A25&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.26",
+      "expected": "rent him sore",
+      "replacement": "convulsed him violently",
+      "category": "false-friend-convulsion-phrase",
+      "reason": "Rent him sore describes a violent convulsion, not a torn body.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A26&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.38",
+      "expected": "casting out devils",
+      "replacement": "casting out demons",
+      "category": "historical-demon-term",
+      "reason": "Devils refers to demons.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A38&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.38",
+      "expected": "we forbad him",
+      "replacement": "we forbade him",
+      "category": "historical-verb-form",
+      "reason": "Forbad is an obsolete form of forbade.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A38&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.42",
+      "expected": "whosoever shall offend one of these little ones that believe in me it is better for him that a millstone were hanged about his neck and he were cast into the sea",
+      "replacement": "whoever causes one of these little ones who believe in me to stumble, it would be better for him if a millstone were hung around his neck and he were thrown into the sea",
+      "category": "false-friend-stumble-clause",
+      "reason": "Offend means cause spiritual stumbling; the complete sentence keeps the believing little ones together and preserves the warning's comparison.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A42&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.43",
+      "expected": "hand offend thee",
+      "replacement": "hand causes thee to sin",
+      "category": "false-friend-stumble-phrase",
+      "reason": "Offend means cause to sin; the KJV pronoun system remains intact.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A43&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.43",
+      "expected": "enter into life maimed",
+      "replacement": "enter life with one hand",
+      "category": "historical-disability-phrase",
+      "reason": "Maimed describes the loss of the hand in the comparison.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A43&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.45",
+      "expected": "foot offend thee",
+      "replacement": "foot causes thee to sin",
+      "category": "false-friend-stumble-phrase",
+      "reason": "Offend means cause to sin; the KJV pronoun system remains intact.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A45&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.45",
+      "expected": "enter halt into life",
+      "replacement": "enter life unable to walk",
+      "category": "historical-disability-phrase",
+      "reason": "Halt is an obsolete term for impaired walking.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A45&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.47",
+      "expected": "eye offend thee",
+      "replacement": "eye causes thee to sin",
+      "category": "false-friend-stumble-phrase",
+      "reason": "Offend means cause to sin; the KJV pronoun system remains intact.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A47&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.50",
+      "expected": "lost his saltness",
+      "replacement": "lost its flavor",
+      "category": "false-friend-salt-phrase",
+      "reason": "Saltness means flavor in the salt image.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A50&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.9.50",
+      "expected": "wherewith will ye season it",
+      "replacement": "how will ye restore its flavor",
+      "category": "archaic-season-phrase",
+      "reason": "The question asks how the salt's flavor could be restored while retaining the KJV pronoun system.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+9%3A50&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.1",
+      "expected": "coasts of Judæa",
+      "replacement": "region of Judæa",
+      "category": "false-friend-region",
+      "reason": "Coasts means the region, not a seacoast.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A1&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.1",
+      "expected": "as he was wont",
+      "replacement": "as was his custom",
+      "category": "archaic-custom-phrase",
+      "reason": "Was wont means it was his customary practice.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A1&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.2",
+      "expected": "put away his wife",
+      "replacement": "divorce his wife",
+      "category": "archaic-divorce-phrase",
+      "reason": "Put away means divorce in this legal-marital context.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A2&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.2",
+      "expected": "tempting him",
+      "replacement": "testing him",
+      "category": "false-friend-test-verb",
+      "reason": "The Pharisees' question was intended to test Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A2&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.4",
+      "expected": "Moses suffered to write a bill of divorcement, and to put her away",
+      "replacement": "Moses allowed a man to write a certificate of divorce and divorce her",
+      "category": "archaic-divorce-clause",
+      "reason": "The sentence describes permission to issue a divorce certificate and divorce the wife.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A4&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.8",
+      "expected": "they twain",
+      "replacement": "the two",
+      "category": "archaic-number-term",
+      "reason": "Twain means two.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A8&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.8",
+      "expected": "no more twain",
+      "replacement": "no longer two",
+      "category": "archaic-number-term",
+      "reason": "Twain means two.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A8&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.9",
+      "expected": "put asunder",
+      "replacement": "separate",
+      "category": "archaic-separation-verb",
+      "reason": "Put asunder means separate.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A9&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.14",
+      "expected": "Suffer the little children",
+      "replacement": "Allow the little children",
+      "category": "archaic-permission-verb",
+      "reason": "Suffer means allow.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A14&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.19",
+      "expected": "Defraud not",
+      "replacement": "Do not cheat",
+      "category": "archaic-defraud-command",
+      "reason": "Defraud means cheat or deprive another unfairly.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A19&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.21",
+      "expected": "whatsoever thou hast",
+      "replacement": "whatever thou hast",
+      "category": "archaic-whatever-phrase",
+      "reason": "Whatsoever means whatever; the KJV pronoun system remains intact.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A21&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.23",
+      "expected": "How hardly shall they that have riches enter",
+      "replacement": "How difficult it is for those who have riches to enter",
+      "category": "false-friend-difficulty-phrase",
+      "reason": "Hardly means with difficulty, not scarcely; the full clause remains grammatical.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A23&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.35",
+      "expected": "we would that thou shouldest do for us whatsoever we shall desire",
+      "replacement": "we want thee to do for us whatever we ask",
+      "category": "archaic-request-clause",
+      "reason": "The complete request uses current syntax while retaining the KJV second-person pronoun system.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A35&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.43",
+      "expected": "your minister",
+      "replacement": "your servant",
+      "category": "historical-service-term",
+      "reason": "Minister means servant in the contrast with worldly authority.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A43&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.44",
+      "expected": "the chiefest",
+      "replacement": "first",
+      "category": "archaic-rank-term",
+      "reason": "Chiefest means first in rank.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A44&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.45",
+      "expected": "to be ministered unto but to minister",
+      "replacement": "to be served but to serve",
+      "category": "historical-service-phrase",
+      "reason": "Ministered means served in both halves of the contrast.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A45&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.46",
+      "expected": "highway side",
+      "replacement": "roadside",
+      "category": "archaic-roadside-term",
+      "reason": "Highway side means the roadside.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A46&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.48",
+      "expected": "many charged him that he should hold his peace",
+      "replacement": "many ordered him to be silent",
+      "category": "archaic-silence-clause",
+      "reason": "Charged means ordered and hold his peace means be silent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A48&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.48",
+      "expected": "he cried the more a great deal",
+      "replacement": "he cried out all the more",
+      "category": "archaic-intensity-clause",
+      "reason": "The phrase means Bartimæus kept crying out even more loudly despite the warning.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A48&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.10.49",
+      "expected": "Be of good comfort",
+      "replacement": "Take courage",
+      "category": "archaic-encouragement-phrase",
+      "reason": "The bystanders encourage Bartimæus because Jesus is calling him.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+10%3A49&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.11.3",
+      "expected": "straightway",
+      "replacement": "immediately",
+      "category": "archaic-speed-adverb",
+      "reason": "Straightway means immediately.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+11%3A3&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.11.3",
+      "expected": "send him hither",
+      "replacement": "send him here",
+      "category": "archaic-direction-adverb",
+      "reason": "Hither means here.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+11%3A3&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.11.13",
+      "expected": "he came, if haply he might find any thing thereon",
+      "replacement": "he came to see whether he might find anything on it",
+      "category": "archaic-possibility-phrase",
+      "reason": "Haply means perhaps; the complete phrase states the purpose without leaving an unnecessary comma.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+11%3A13&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.11.15",
+      "expected": "moneychangers",
+      "replacement": "money changers",
+      "category": "historical-spacing",
+      "reason": "The current spelling separates the two words.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+11%3A15&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.11.15",
+      "expected": "began to cast out them that sold and bought",
+      "replacement": "began to cast out those who sold and bought",
+      "category": "archaic-word-order",
+      "reason": "The modern word order keeps those who sold and bought as the object of cast out.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+11%3A15&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.11.16",
+      "expected": "would not suffer",
+      "replacement": "would not allow",
+      "category": "archaic-permission-verb",
+      "reason": "Suffer means allow.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+11%3A16&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.11.16",
+      "expected": "any vessel through the temple",
+      "replacement": "anything through the temple",
+      "category": "false-friend-carried-object",
+      "reason": "Vessel denotes any carried object or merchandise in this context.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+11%3A16&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.11.17",
+      "expected": "den of thieves",
+      "replacement": "den of robbers",
+      "category": "historical-robber-term",
+      "reason": "The phrase refers to violent robbers using a den, not only secret theft.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+11%3A17&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.11.25",
+      "expected": "if ye have ought against any",
+      "replacement": "if ye have anything against anyone",
+      "category": "archaic-anything-phrase",
+      "reason": "Ought means anything; the KJV pronoun system remains intact.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+11%3A25&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.11.31",
+      "expected": "reasoned with themselves",
+      "replacement": "discussed among themselves",
+      "category": "archaic-discussion-verb",
+      "reason": "They discussed how to answer Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+11%3A31&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.1",
+      "expected": "set an hedge",
+      "replacement": "put a hedge",
+      "category": "historical-article-grammar",
+      "reason": "Modern English uses a before hedge.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A1&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.1",
+      "expected": "winefat",
+      "replacement": "winepress",
+      "category": "historical-winepress-term",
+      "reason": "Winefat denotes the lower receptacle of a winepress; winepress communicates the whole installation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A1&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.1",
+      "expected": "digged a place",
+      "replacement": "dug a place",
+      "category": "archaic-dig-verb",
+      "reason": "Digged is an obsolete past-tense form of dug.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A1&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.1",
+      "expected": "let it out to husbandmen",
+      "replacement": "leased it to tenant farmers",
+      "category": "historical-tenant-phrase",
+      "reason": "Husbandmen are the tenant farmers to whom the vineyard was leased.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A1&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.2",
+      "expected": "the husbandmen",
+      "replacement": "the tenant farmers",
+      "category": "historical-tenant-term",
+      "reason": "Husbandmen are tenant farmers.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A2&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.7",
+      "expected": "those husbandmen",
+      "replacement": "those tenant farmers",
+      "category": "historical-tenant-term",
+      "reason": "Husbandmen are tenant farmers.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A7&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.9",
+      "expected": "the husbandmen",
+      "replacement": "the tenant farmers",
+      "category": "historical-tenant-term",
+      "reason": "Husbandmen are tenant farmers.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A9&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.16",
+      "expected": "image and superscription",
+      "replacement": "image and inscription",
+      "category": "historical-inscription-term",
+      "reason": "Superscription means the written inscription on the coin.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A16&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.27",
+      "expected": "do greatly err",
+      "replacement": "are greatly mistaken",
+      "category": "archaic-error-phrase",
+      "reason": "Err means be mistaken.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A27&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.36",
+      "expected": "Holy Ghost",
+      "replacement": "Holy Spirit",
+      "category": "historical-spirit-term",
+      "reason": "Holy Ghost is modernized to Holy Spirit without changing the referent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A36&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.39",
+      "expected": "uppermost rooms at feasts",
+      "replacement": "places of honor at feasts",
+      "category": "false-friend-honor-phrase",
+      "reason": "Uppermost rooms means the places of highest honor, not upstairs rooms.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A39&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.42",
+      "expected": "two mites, which make a farthing",
+      "replacement": "two small coins, worth only a fraction of a day's wage",
+      "category": "historical-coin-phrase",
+      "reason": "The phrase explains the very small value without equating the coins with modern currency.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A42&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.12.44",
+      "expected": "all that she had even all her living",
+      "replacement": "everything she had, all she had to live on",
+      "category": "false-friend-livelihood-phrase",
+      "reason": "Living means her entire livelihood; the complete phrase avoids duplicating all she had.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+12%3A44&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.13.8",
+      "expected": "divers places",
+      "replacement": "various places",
+      "category": "false-friend-variety-term",
+      "reason": "Divers means various.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+13%3A8&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.13.8",
+      "expected": "beginnings of sorrows",
+      "replacement": "beginning of birth pains",
+      "category": "historical-birth-pains",
+      "reason": "The phrase uses the image of the beginning of labor pains.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+13%3A8&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.13.11",
+      "expected": "take no thought beforehand",
+      "replacement": "do not worry beforehand",
+      "category": "false-friend-worry-phrase",
+      "reason": "Take no thought means do not worry, not avoid thinking altogether.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+13%3A11&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.13.11",
+      "expected": "Holy Ghost",
+      "replacement": "Holy Spirit",
+      "category": "historical-spirit-term",
+      "reason": "Holy Ghost is modernized to Holy Spirit without changing the referent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+13%3A11&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.13.17",
+      "expected": "them that are with child",
+      "replacement": "those who are pregnant",
+      "category": "archaic-pregnancy-phrase",
+      "reason": "With child means pregnant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+13%3A17&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.13.17",
+      "expected": "them that give suck",
+      "replacement": "those who are nursing infants",
+      "category": "archaic-nursing-phrase",
+      "reason": "Give suck means nurse an infant.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+13%3A17&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.13.22",
+      "expected": "to seduce if it were possible even the elect",
+      "replacement": "to deceive, if it were possible, even the elect",
+      "category": "false-friend-deception-phrase",
+      "reason": "Seduce means deceive in this warning about false signs, not its common modern sexual sense.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+13%3A22&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.13.34",
+      "expected": "taking a far journey",
+      "replacement": "going on a long journey",
+      "category": "archaic-journey-phrase",
+      "reason": "The man leaves home for a long journey.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+13%3A34&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.13.34",
+      "expected": "the porter",
+      "replacement": "the doorkeeper",
+      "category": "historical-doorkeeper-term",
+      "reason": "Porter means the doorkeeper assigned to watch.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+13%3A34&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.13.35",
+      "expected": "at even",
+      "replacement": "in the evening",
+      "category": "archaic-time-phrase",
+      "reason": "Even means evening.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+13%3A35&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.13.35",
+      "expected": "at the cockcrowing",
+      "replacement": "when the rooster crows",
+      "category": "historical-night-watch",
+      "reason": "Cockcrowing identifies the night watch associated with the rooster's crow.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+13%3A35&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.1",
+      "expected": "take him by craft",
+      "replacement": "arrest him by deception",
+      "category": "false-friend-deception-phrase",
+      "reason": "Craft means deception in the plot to arrest Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A1&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.3",
+      "expected": "sat at meat",
+      "replacement": "was dining",
+      "category": "false-friend-meal-phrase",
+      "reason": "Sat at meat means was dining.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A3&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.3",
+      "expected": "an alabaster box of ointment of spikenard very precious",
+      "replacement": "an alabaster jar of very costly pure nard perfume",
+      "category": "historical-perfume-phrase",
+      "reason": "The phrase describes a costly perfume of pure nard in an alabaster jar.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A3&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.3",
+      "expected": "she brake the box",
+      "replacement": "she broke the jar",
+      "category": "historical-container-phrase",
+      "reason": "The woman broke the alabaster jar before pouring the perfume.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A3&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.14",
+      "expected": "goodman of the house",
+      "replacement": "owner of the house",
+      "category": "archaic-householder-term",
+      "reason": "Goodman means the owner or head of the household.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A14&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.14",
+      "expected": "guestchamber",
+      "replacement": "guest room",
+      "category": "archaic-room-term",
+      "reason": "Guestchamber means guest room.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A14&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.33",
+      "expected": "sore amazed, and to be very heavy",
+      "replacement": "deeply distressed and troubled",
+      "category": "archaic-distress-phrase",
+      "reason": "The phrase conveys Jesus' intense distress and anguish.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A33&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.34",
+      "expected": "exceeding sorrowful unto death",
+      "replacement": "overwhelmed with sorrow to the point of death",
+      "category": "archaic-sorrow-phrase",
+      "reason": "The phrase retains the extreme depth of Jesus' sorrow.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A34&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.34",
+      "expected": "tarry ye here",
+      "replacement": "remain here",
+      "category": "archaic-stay-phrase",
+      "reason": "Tarry means remain.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A34&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.43",
+      "expected": "with swords and staves",
+      "replacement": "with swords and clubs",
+      "category": "historical-weapon-term",
+      "reason": "Staves means clubs in the arresting crowd.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A43&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.44",
+      "expected": "given them a token",
+      "replacement": "given them a signal",
+      "category": "false-friend-signal-term",
+      "reason": "Token means the prearranged identifying signal.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A44&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.45",
+      "expected": "he goeth straightway to him",
+      "replacement": "he went immediately to him",
+      "category": "archaic-speed-clause",
+      "reason": "Straightway means immediately; the full phrase keeps the narrative action in the past tense.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A45&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.47",
+      "expected": "smote a servant",
+      "replacement": "struck a servant",
+      "category": "archaic-strike-verb",
+      "reason": "Smote means struck.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A47&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.48",
+      "expected": "against a thief",
+      "replacement": "against a bandit",
+      "category": "historical-robber-term",
+      "reason": "The term describes a bandit confronted by an armed group.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A48&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.48",
+      "expected": "with staves",
+      "replacement": "with clubs",
+      "category": "historical-weapon-term",
+      "reason": "Staves means clubs.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A48&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.54",
+      "expected": "into the palace of the high priest",
+      "replacement": "into the courtyard of the high priest",
+      "category": "false-friend-courtyard-term",
+      "reason": "Palace refers here to the high priest's courtyard where Peter warmed himself.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A54&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.56",
+      "expected": "bare false witness",
+      "replacement": "gave false testimony",
+      "category": "archaic-testimony-phrase",
+      "reason": "Bare witness means gave testimony.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A56&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.56",
+      "expected": "their witness agreed not together",
+      "replacement": "their testimony did not agree",
+      "category": "archaic-agreement-phrase",
+      "reason": "The witnesses' statements did not agree with one another.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A56&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.57",
+      "expected": "bare false witness",
+      "replacement": "gave false testimony",
+      "category": "archaic-testimony-phrase",
+      "reason": "Bare witness means gave testimony.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A57&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.61",
+      "expected": "held his peace",
+      "replacement": "remained silent",
+      "category": "archaic-silence-phrase",
+      "reason": "Held his peace means remained silent.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A61&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.63",
+      "expected": "rent his clothes",
+      "replacement": "tore his clothes",
+      "category": "archaic-tear-verb",
+      "reason": "Rent means tore.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A63&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.66",
+      "expected": "beneath in the palace",
+      "replacement": "below in the courtyard",
+      "category": "false-friend-courtyard-term",
+      "reason": "Palace refers to the courtyard where Peter remained below.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A66&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.14.70",
+      "expected": "thy speech agreeth thereto",
+      "replacement": "thy accent confirms it",
+      "category": "archaic-accent-phrase",
+      "reason": "Peter's accent identifies him as Galilæan while retaining the KJV pronoun system.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+14%3A70&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.1",
+      "expected": "straightway in the morning",
+      "replacement": "early in the morning",
+      "category": "archaic-time-phrase",
+      "reason": "Straightway indicates the early, immediate morning action.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A1&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.16",
+      "expected": "they call together the whole band",
+      "replacement": "they called together the whole company of soldiers",
+      "category": "historical-military-clause",
+      "reason": "Band means the company of soldiers, and the complete phrase retains the past narrative tense.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A16&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.17",
+      "expected": "platted a crown of thorns",
+      "replacement": "braided a crown of thorns",
+      "category": "archaic-braid-verb",
+      "reason": "Platted means braided.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A17&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.17",
+      "expected": "put it about his head",
+      "replacement": "put it on his head",
+      "category": "archaic-placement-phrase",
+      "reason": "About his head means the crown was placed on his head.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A17&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.19",
+      "expected": "bowing their knees worshipped him",
+      "replacement": "knelt before him in mockery",
+      "category": "context-reviewed-mockery-phrase",
+      "reason": "The soldiers' gesture is mocking homage, not sincere worship.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A19&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.19",
+      "expected": "smote him on the head",
+      "replacement": "struck him on the head",
+      "category": "archaic-strike-verb",
+      "reason": "Smote means struck.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A19&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.19",
+      "expected": "did spit upon him",
+      "replacement": "spat on him",
+      "category": "archaic-spit-phrase",
+      "reason": "The current verb form preserves the soldiers' act of spitting on Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A19&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.21",
+      "expected": "one Simon a Cyrenian",
+      "replacement": "a man named Simon from Cyrene",
+      "category": "historical-origin-phrase",
+      "reason": "Cyrenian means a person from Cyrene.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A21&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.26",
+      "expected": "superscription of his accusation",
+      "replacement": "inscription stating the charge against him",
+      "category": "historical-inscription-phrase",
+      "reason": "Superscription means the written charge displayed above Jesus.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A26&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.27",
+      "expected": "two thieves",
+      "replacement": "two bandits",
+      "category": "historical-robber-term",
+      "reason": "The term denotes bandits or violent criminals, not only covert thieves.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A27&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.29",
+      "expected": "railed on him",
+      "replacement": "insulted him",
+      "category": "archaic-abuse-verb",
+      "reason": "Railed on means insulted.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A29&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.29",
+      "expected": "wagging their heads",
+      "replacement": "shaking their heads",
+      "category": "archaic-gesture-verb",
+      "reason": "Wagging means shaking in this mocking gesture.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A29&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.32",
+      "expected": "reviled him",
+      "replacement": "insulted him",
+      "category": "archaic-abuse-verb",
+      "reason": "Reviled means insulted.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A32&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.37",
+      "expected": "gave up the ghost",
+      "replacement": "died",
+      "category": "archaic-death-phrase",
+      "reason": "Gave up the ghost means died in this narrative statement.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A37&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.38",
+      "expected": "veil of the temple was rent in twain",
+      "replacement": "curtain of the temple was torn in two",
+      "category": "archaic-temple-phrase",
+      "reason": "Veil means curtain, rent means torn, and twain means two.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A38&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.39",
+      "expected": "saw that he so cried out, and gave up the ghost",
+      "replacement": "saw how he cried out and died",
+      "category": "archaic-death-clause",
+      "reason": "The centurion observed the manner of Jesus' cry and death; the complete clause avoids a broken mixture of old and current syntax.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A39&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.43",
+      "expected": "an honourable counsellor",
+      "replacement": "a respected member of the council",
+      "category": "historical-council-role",
+      "reason": "Joseph was a respected council member.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A43&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.43",
+      "expected": "which also waited for the kingdom of God",
+      "replacement": "who also waited for the kingdom of God",
+      "category": "grammar-person-relative-pronoun",
+      "reason": "Who is the current relative pronoun for Joseph as a person.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A43&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.43",
+      "expected": "came, and went in boldly unto Pilate, and craved",
+      "replacement": "came and went boldly to Pilate to ask for",
+      "category": "archaic-request-clause",
+      "reason": "The complete clause removes the broken came-and-went construction while preserving Joseph's bold request.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A43&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.46",
+      "expected": "a sepulchre which was hewn out of a rock",
+      "replacement": "a tomb cut out of rock",
+      "category": "archaic-tomb-phrase",
+      "reason": "Sepulchre means tomb and hewn means cut.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A46&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.15.46",
+      "expected": "door of the sepulchre",
+      "replacement": "entrance of the tomb",
+      "category": "archaic-tomb-phrase",
+      "reason": "The stone closed the entrance of the tomb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+15%3A46&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.1",
+      "expected": "sweet spices",
+      "replacement": "aromatic spices",
+      "category": "false-friend-aromatic-term",
+      "reason": "Sweet spices means fragrant burial spices.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A1&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.2",
+      "expected": "unto the sepulchre",
+      "replacement": "to the tomb",
+      "category": "archaic-tomb-term",
+      "reason": "Sepulchre means tomb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A2&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.3",
+      "expected": "door of the sepulchre",
+      "replacement": "entrance of the tomb",
+      "category": "archaic-tomb-phrase",
+      "reason": "The stone blocked the tomb's entrance.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A3&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.5",
+      "expected": "entering into the sepulchre",
+      "replacement": "entering the tomb",
+      "category": "archaic-tomb-term",
+      "reason": "Sepulchre means tomb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A5&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.5",
+      "expected": "were affrighted",
+      "replacement": "were alarmed",
+      "category": "archaic-fear-verb",
+      "reason": "Affrighted means alarmed or frightened.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A5&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.6",
+      "expected": "Be not affrighted",
+      "replacement": "Do not be alarmed",
+      "category": "archaic-fear-command",
+      "reason": "Affrighted means alarmed.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A6&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.8",
+      "expected": "from the sepulchre",
+      "replacement": "from the tomb",
+      "category": "archaic-tomb-term",
+      "reason": "Sepulchre means tomb.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A8&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.9",
+      "expected": "cast seven devils",
+      "replacement": "expelled seven demons",
+      "category": "historical-demon-phrase",
+      "reason": "Devils refers to demons; expelled avoids duplicating out in the surrounding phrase.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A9&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.13",
+      "expected": "told it unto the residue: neither believed they them",
+      "replacement": "told the others, but they did not believe them either",
+      "category": "archaic-report-clause",
+      "reason": "Residue means the remaining disciples; the full clause keeps the report and their disbelief clear.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A13&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.14",
+      "expected": "sat at meat",
+      "replacement": "were dining",
+      "category": "false-friend-meal-phrase",
+      "reason": "Sat at meat means were dining.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A14&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.14",
+      "expected": "upbraided them with their unbelief",
+      "replacement": "rebuked them for their unbelief",
+      "category": "archaic-rebuke-phrase",
+      "reason": "Upbraided means rebuked; for expresses the reason for the rebuke.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A14&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.14",
+      "expected": "because they believed not them which had seen him after he was risen",
+      "replacement": "because they did not believe those who had seen him after he was risen",
+      "category": "archaic-belief-clause",
+      "reason": "The complete clause states clearly that they did not believe the eyewitnesses.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A14&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.16",
+      "expected": "shall be damned",
+      "replacement": "shall be condemned",
+      "category": "archaic-condemnation-term",
+      "reason": "Damned means condemned in this judgment statement.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A16&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+    },
+    {
+      "reference": "MRK.16.17",
+      "expected": "these signs shall follow them that believe In my name shall they cast out devils they shall speak with new tongues",
+      "replacement": "these signs shall accompany those who believe: In my name they shall cast out demons; they shall speak with new tongues",
+      "category": "false-friend-accompany-clause",
+      "reason": "Follow means the signs accompany believers; the complete sentence also preserves the two listed signs with clear punctuation.",
+      "evidenceUrl": "https://www.biblegateway.com/passage/?search=Mark+16%3A17&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
     }
   ],
   "pending": [
@@ -130660,6 +133156,1284 @@
         {
           "label": "Matthew KJV/NIV contextual control",
           "url": "https://www.biblegateway.com/passage/?search=Matthew+1-28&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-pronouns",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "thee/thou/thy/ye verb system",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Isolated pronoun changes would create mixed grammar; Mark requires a complete person-and-number policy.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 2
+        },
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 3
+        },
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 11
+        },
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 15
+        },
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 17
+        },
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 24
+        },
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 25
+        },
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 37
+        },
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 40
+        },
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 41
+        },
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 44
+        },
+        {
+          "book": "MRK",
+          "chapter": 2,
+          "verse": 5
+        },
+        {
+          "book": "MRK",
+          "chapter": 2,
+          "verse": 7
+        },
+        {
+          "book": "MRK",
+          "chapter": 2,
+          "verse": 8
+        },
+        {
+          "book": "MRK",
+          "chapter": 2,
+          "verse": 9
+        },
+        {
+          "book": "MRK",
+          "chapter": 2,
+          "verse": 10
+        },
+        {
+          "book": "MRK",
+          "chapter": 2,
+          "verse": 11
+        },
+        {
+          "book": "MRK",
+          "chapter": 2,
+          "verse": 18
+        },
+        {
+          "book": "MRK",
+          "chapter": 2,
+          "verse": 22
+        },
+        {
+          "book": "MRK",
+          "chapter": 2,
+          "verse": 25
+        },
+        {
+          "book": "MRK",
+          "chapter": 3,
+          "verse": 5
+        },
+        {
+          "book": "MRK",
+          "chapter": 3,
+          "verse": 11
+        },
+        {
+          "book": "MRK",
+          "chapter": 3,
+          "verse": 22
+        },
+        {
+          "book": "MRK",
+          "chapter": 3,
+          "verse": 26
+        },
+        {
+          "book": "MRK",
+          "chapter": 3,
+          "verse": 29
+        },
+        {
+          "book": "MRK",
+          "chapter": 3,
+          "verse": 30
+        },
+        {
+          "book": "MRK",
+          "chapter": 3,
+          "verse": 32
+        },
+        {
+          "book": "MRK",
+          "chapter": 4,
+          "verse": 9
+        },
+        {
+          "book": "MRK",
+          "chapter": 4,
+          "verse": 13
+        },
+        {
+          "book": "MRK",
+          "chapter": 4,
+          "verse": 24
+        },
+        {
+          "book": "MRK",
+          "chapter": 4,
+          "verse": 25
+        },
+        {
+          "book": "MRK",
+          "chapter": 4,
+          "verse": 38
+        },
+        {
+          "book": "MRK",
+          "chapter": 4,
+          "verse": 40
+        },
+        {
+          "book": "MRK",
+          "chapter": 5,
+          "verse": 7
+        },
+        {
+          "book": "MRK",
+          "chapter": 5,
+          "verse": 8
+        },
+        {
+          "book": "MRK",
+          "chapter": 5,
+          "verse": 9
+        },
+        {
+          "book": "MRK",
+          "chapter": 5,
+          "verse": 19
+        },
+        {
+          "book": "MRK",
+          "chapter": 5,
+          "verse": 23
+        },
+        {
+          "book": "MRK",
+          "chapter": 5,
+          "verse": 31
+        },
+        {
+          "book": "MRK",
+          "chapter": 5,
+          "verse": 34
+        },
+        {
+          "book": "MRK",
+          "chapter": 5,
+          "verse": 35
+        },
+        {
+          "book": "MRK",
+          "chapter": 5,
+          "verse": 39
+        },
+        {
+          "book": "MRK",
+          "chapter": 5,
+          "verse": 41
+        },
+        {
+          "book": "MRK",
+          "chapter": 6,
+          "verse": 2
+        },
+        {
+          "book": "MRK",
+          "chapter": 6,
+          "verse": 10
+        },
+        {
+          "book": "MRK",
+          "chapter": 6,
+          "verse": 11
+        },
+        {
+          "book": "MRK",
+          "chapter": 6,
+          "verse": 18
+        },
+        {
+          "book": "MRK",
+          "chapter": 6,
+          "verse": 22
+        },
+        {
+          "book": "MRK",
+          "chapter": 6,
+          "verse": 23
+        },
+        {
+          "book": "MRK",
+          "chapter": 6,
+          "verse": 25
+        },
+        {
+          "book": "MRK",
+          "chapter": 6,
+          "verse": 31
+        },
+        {
+          "book": "MRK",
+          "chapter": 6,
+          "verse": 37
+        },
+        {
+          "book": "MRK",
+          "chapter": 6,
+          "verse": 38
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 5
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 6
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 8
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 9
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 10
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 11
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 12
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 13
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 18
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 29
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 37
+        },
+        {
+          "book": "MRK",
+          "chapter": 8,
+          "verse": 5
+        },
+        {
+          "book": "MRK",
+          "chapter": 8,
+          "verse": 12
+        },
+        {
+          "book": "MRK",
+          "chapter": 8,
+          "verse": 17
+        },
+        {
+          "book": "MRK",
+          "chapter": 8,
+          "verse": 18
+        },
+        {
+          "book": "MRK",
+          "chapter": 8,
+          "verse": 19
+        },
+        {
+          "book": "MRK",
+          "chapter": 8,
+          "verse": 20
+        },
+        {
+          "book": "MRK",
+          "chapter": 8,
+          "verse": 21
+        },
+        {
+          "book": "MRK",
+          "chapter": 8,
+          "verse": 29
+        },
+        {
+          "book": "MRK",
+          "chapter": 8,
+          "verse": 33
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 5
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 16
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 17
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 18
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 22
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 23
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 24
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 25
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 33
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 38
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 41
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 43
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 45
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 47
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 50
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 9
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 18
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 19
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 21
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 28
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 29
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 35
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 36
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 37
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 38
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 39
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 42
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 47
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 48
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 49
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 51
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 52
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 2
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 3
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 5
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 14
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 17
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 21
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 23
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 24
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 25
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 26
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 28
+        },
+        {
+          "book": "MRK",
+          "chapter": 11,
+          "verse": 31
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 10
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 14
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 15
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 24
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 26
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 27
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 30
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 31
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 32
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 34
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 36
+        },
+        {
+          "book": "MRK",
+          "chapter": 12,
+          "verse": 43
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 2
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 7
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 9
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 11
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 13
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 14
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 18
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 20
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 23
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 28
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 29
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 33
+        },
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 35
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 6
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 7
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 8
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 9
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 12
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 13
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 14
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 27
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 30
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 31
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 32
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 34
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 36
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 37
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 38
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 48
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 49
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 60
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 61
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 62
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 64
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 67
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 68
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 70
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 71
+        },
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 72
+        },
+        {
+          "book": "MRK",
+          "chapter": 15,
+          "verse": 2
+        },
+        {
+          "book": "MRK",
+          "chapter": 15,
+          "verse": 4
+        },
+        {
+          "book": "MRK",
+          "chapter": 15,
+          "verse": 9
+        },
+        {
+          "book": "MRK",
+          "chapter": 15,
+          "verse": 12
+        },
+        {
+          "book": "MRK",
+          "chapter": 15,
+          "verse": 14
+        },
+        {
+          "book": "MRK",
+          "chapter": 15,
+          "verse": 29
+        },
+        {
+          "book": "MRK",
+          "chapter": 15,
+          "verse": 34
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 6
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 7
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 15
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-eternal-damnation",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "eternal damnation",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Mark 3:29 has textual and theological wording differences that a vocabulary pass must not decide.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 3,
+          "verse": 29
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-isaiah-citation",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "lest at any time they should be converted",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "The Isaiah citation in Mark 4:12 has interpretive questions of purpose and result.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 4,
+          "verse": 12
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-ritual-washings",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "washing of hands, cups and vessels",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "The historical washing practices and a textual variant need an explanatory note rather than a quick substitute.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 3
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 4
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 8
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-evil-list",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "evil things from within",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Several Greek terms in Mark 7:21-22 carry distinct moral meanings and require individual review.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 21
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 22
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-if-thou-canst",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "If thou canst believe",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "The received reading and other textual traditions punctuate or formulate Mark 9:23 differently.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 23
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-prayer-fasting",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "prayer and fasting",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Fasting belongs to a traditional textual variant and remains untouched.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 29
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-hell-fire-salt",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "hell, worm, fire and salt",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "The repeated traditional verses and linked images require textual and exegetical review together.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 43
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 44
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 45
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 46
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 47
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 48
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 49
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-cup-baptism",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "cup and baptism of suffering",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "These metaphors should not be flattened into paraphrase.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 38
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 39
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-abomination",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "abomination of desolation",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "The prophetic phrase depends on Daniel and textual variants and remains unchanged.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 14
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-testament",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "new testament / covenant",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Changing testament to covenant requires a Bible-wide terminology decision.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 24
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
+        }
+      ]
+    },
+    {
+      "id": "mark-kjv-v12-long-ending",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "long ending of Mark",
+      "proposedOptions": [
+        "Retain with an explanatory note",
+        "Modernize after focused clause review"
+      ],
+      "reason": "Mark 16:9-20 remains fully included. Lexical clarifications do not decide authenticity or add or remove clauses.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 9
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 10
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 11
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 12
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 13
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 14
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 15
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 16
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 17
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 18
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 19
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 20
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Mark multi-version contextual control",
+          "url": "https://www.biblegateway.com/passage/?search=Mark&version=KJV%3BNKJV%3BNIV%3BESV%3BNRSVUE"
         }
       ]
     }

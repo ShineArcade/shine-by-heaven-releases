@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T11:00:00.000Z",
+  "updatedAt": "2026-09-12T22:20:00.000Z",
   "sourceVersionId": "RV1909",
-  "activeChangeSet": "editorial-changes/v22.json",
+  "activeChangeSet": "editorial-changes/v24.json",
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs",
   "pending": [
@@ -7007,6 +7007,427 @@
         {
           "label": "Revisión contextual de Mateo",
           "url": "https://www.biblegateway.com/passage/?search=Mateo&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-1",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "remisión de pecados",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "Es una fórmula teológica conocida; aunque perdón aclara el sentido, se reserva para mantener coherencia doctrinal con todo el Nuevo Testamento.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 1,
+          "verse": 4
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-2",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "Cananita / cananista",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "El sobrenombre de Simón se relaciona con celo y no con procedencia cananea; requiere una política uniforme de nombres apostólicos.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 3,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-3",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "pecado eterno / juicio eterno",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "Las tradiciones textuales y traducciones difieren en la formulación; no se resuelve mediante modernización léxica.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 3,
+          "verse": 29
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-4",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "para que no se conviertan",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "La cita de Isaías tiene opciones interpretativas sobre propósito y resultado; debe permanecer intacta sin una nota enfocada.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 4,
+          "verse": 12
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-5",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "quería precederlos",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "La acción de pasar de largo puede tener función narrativa y teofánica; una paráfrasis podría borrar ese matiz.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 6,
+          "verse": 48
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-6",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "lavado ritual de manos",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "La tradición manuscrita y el sentido de la expresión de lavado exigen una nota histórica, no una sustitución rápida.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 3
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 4
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-7",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "lista de males interiores",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "Varios términos griegos admiten matices distintos; deben revisarse individualmente antes de modernizar toda la lista.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 21
+        },
+        {
+          "book": "MRK",
+          "chapter": 7,
+          "verse": 22
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-8",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "Si puedes creer",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "La lectura recibida y otras tradiciones puntúan o formulan la respuesta de manera distinta; se conserva el texto base.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 23
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-9",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "oración y ayuno",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "Ayuno pertenece a una variante textual tradicional; la revisión de claridad no debe decidir crítica textual.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 29
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-10",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "gusano, fuego y sal",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "La imagen y los versículos tradicionales requieren tratamiento textual y exegético conjunto.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 44
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 46
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 48
+        },
+        {
+          "book": "MRK",
+          "chapter": 9,
+          "verse": 49
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-11",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "copa y bautismo de sufrimiento",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "Las metáforas están explicadas por el contexto pero no deben convertirse en una paráfrasis que elimine su forma bíblica.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 38
+        },
+        {
+          "book": "MRK",
+          "chapter": 10,
+          "verse": 39
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-12",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "abominación desoladora",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "Es un término profético con referencia intertextual a Daniel y variantes textuales; se conserva para una revisión enfocada.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 13,
+          "verse": 14
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-13",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "nuevo pacto / nuevo testamento",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "Pacto y testamento implican una decisión terminológica que debe mantenerse coherente en toda la Biblia.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 14,
+          "verse": 24
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
+        }
+      ]
+    },
+    {
+      "id": "mark-v23-14",
+      "status": "pending-review",
+      "scope": "new-testament",
+      "term": "final largo de Marcos",
+      "proposedOptions": [
+        "conservar con nota",
+        "modernizar después de revisión textual y contextual"
+      ],
+      "reason": "Marcos 16:9-20 pertenece a la tradición textual recibida. Se conserva su inclusión completa y no se decide su autenticidad; las aclaraciones léxicas internas no añaden ni eliminan cláusulas.",
+      "references": [
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 9
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 10
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 11
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 12
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 13
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 14
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 15
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 16
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 17
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 18
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 19
+        },
+        {
+          "book": "MRK",
+          "chapter": 16,
+          "verse": 20
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Control contextual de Marcos",
+          "url": "https://www.biblegateway.com/passage/?search=Marcos&version=RVR1960%3BNVI%3BLBLA%3BRVC"
         }
       ]
     }
