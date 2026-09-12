@@ -90,6 +90,11 @@ const packageBytes = zlib.gzipSync(expandedBytes, {
   level: zlib.constants.Z_BEST_COMPRESSION,
   mtime: 0,
 })
+// Node writes the host operating-system identifier into byte 9 of the gzip
+// header (Windows and Linux differ) even when mtime is fixed. Pin it to the
+// canonical Unix value so identical reviewed content has identical bytes and
+// hashes on developer machines and in the Linux release workflow.
+packageBytes[9] = 3
 const contentSha256 = sha256(packageBytes)
 const manifest = {
   format: 'shine-reading-filter-manifest',
