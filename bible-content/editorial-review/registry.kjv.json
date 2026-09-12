@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T12:15:00.000Z",
+  "updatedAt": "2026-09-12T13:00:00.000Z",
   "sourceVersionId": "KJV",
-  "activeContentVersion": 10,
+  "activeContentVersion": 11,
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/verify_kjv_reading_2026.mjs",
   "applied": [
