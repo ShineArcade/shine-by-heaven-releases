@@ -3,9 +3,9 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-bible-stable",
-    "contentVersion": 19,
-    "issuedAt": "2026-09-12T00:00:00.000Z",
-    "expiresAt": "2028-09-12T00:00:00.000Z",
+    "contentVersion": 20,
+    "issuedAt": "2026-09-12T05:00:00.000Z",
+    "expiresAt": "2028-09-12T05:00:00.000Z",
     "distributionScope": "public",
     "updatePolicy": {
       "versionAuthority": "contentVersion",
@@ -39,18 +39,18 @@
         "kind": "reading-filter",
         "id": "RV1909-LECTURA-2026",
         "schemaVersion": 1,
-        "contentVersion": 19,
+        "contentVersion": 20,
         "sourceVersionId": "RV1909",
         "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-        "contentSha256": "1a2911933932ff80527a0a96412d13d006175cc6139914f4e162cd40f2d47de7",
-        "sizeBytes": 620633,
+        "contentSha256": "d87ba79b43dbf9ba409b9177769b67a9bc698909b1d36a45db427f3ad09106c1",
+        "sizeBytes": 636244,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.rv1909.v19.package.json.gz",
+        "artifactPath": "reading_2026.rv1909.v20.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
-          "changedVerseCount": 6507,
-          "editCount": 8221
+          "changedVerseCount": 6657,
+          "editCount": 8502
         },
         "editorialPolicy": {
           "id": "unified-minimal-comprehension-policy",
@@ -60,11 +60,11 @@
       }
     ]
   },
-  "contentSha256": "fe5ce235f65f6b9224c2e84955ad371890c019c9579ecebeb5cb9d12b03d03ef",
+  "contentSha256": "8cbd19a8523fd07c9388fe7cf2362cfa6483839bdd60a5b62995963f0829b6a0",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "i0Gxrs_vHxM5Pdb7_VzQIbX_o7k2XoyfahWH1snTuvpbSp6naLh_AWZLDp1NZy3MT3LW4eEdUXWueqc0trh2DA"
+    "value": "WVB5ti_FHSQFbr41pbBfKYwcSxOr3AjFRCq1CnKVSE-F54Y9IGh7C7XI4GS1W4fwSkL3axTZxHxZbHwEYILJAQ"
   }
 }
