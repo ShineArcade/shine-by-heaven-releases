@@ -1,0 +1,567 @@
+# Números RV1909 — revisión contextual posterior a v17
+
+Estado: en curso. Cada candidato se coteja en su versículo completo antes de pasar al conjunto editorial. Nada de esta lista se aplica mediante reemplazo global.
+
+## Capítulos 1–6
+
+### Candidatos claros
+
+- 1:1 `en el primero del mes segundo` → `el primer día del segundo mes` (orden temporal antiguo).
+- 1:2 `Tomad el encabezamiento` → `Hagan el censo` (encabezamiento designa aquí el censo, no un título).
+- 1:2 `por sus cabezas` → `individualmente` (conteo persona por persona).
+- 1:3 `por sus cuadrillas` → `por sus unidades` (organización de los hombres aptos para la guerra).
+- 1:17 `declarados por sus nombres` → `designados por nombre`.
+- 1:19 `contólos` → `los contó`.
+- 1:50 `todos sus vasos` → `todos sus utensilios` (objetos del tabernáculo, no recipientes solamente).
+- 1:50,52–53 y 2:17 `asentar el campo/las tiendas` → `acampar/instalar el campamento`, según la frase completa.
+- 1:51 `cuando el tabernáculo partiere/parare` → `cuando el tabernáculo se traslade/se instale`.
+- 1:53 `tendrán la guarda` → `estarán a cargo`.
+- 2:4,6,8,11,13,15,19,21,23,26,28,30 `hueste` → `unidad` (grupo contado bajo cada bandera; no se aplica fuera de estos versículos sin contexto).
+- 2:31 `los postreros` → `los últimos`.
+- 3:3 `cuyas manos él hinchió para administrar el sacerdocio` → `que fueron consagrados para ejercer el sacerdocio` (idioma técnico de investidura, no inflamación física).
+- 3:6 `Haz llegar a la tribu de Leví` → `Haz que se acerque la tribu de Leví`.
+- 3:8 `alhajas del tabernáculo` → `utensilios del tabernáculo`.
+- 3:12 `primogénitos que abren la matriz` → `primogénitos varones` (expresa el primer nacido sin el falso sentido anatómico moderno).
+- 3:23 `a espaldas del tabernáculo` → `detrás del tabernáculo`.
+- 3:25–26 y 4:25–26 `pabellón de la puerta` → `cortina de la entrada`.
+- 3:32 `prepósito de los que tienen la guarda` → `supervisor de los encargados`.
+- 3:36 `enseres` → `utensilios`.
+- 3:37 `en derredor` → `alrededor`.
+- 3:46 `sobrepujan a los Levitas` → `exceden el número de los levitas`.
+- 3:47 `óbolos` → `geras` (la medida hebrea indicada para el siclo; coherente con Levítico 27:25).
+- 4:3,23,30,35,39,43 `entran en compañía` → `entran a servir`.
+- 4:5,15 `mudar el campo` → `levantar el campamento`.
+- 4:6–12 `cárdeno` → `azul` (color textil, aplicado por referencia concreta).
+- 4:7 `mesa de la proposición` → `mesa del pan de la Presencia`.
+- 4:7 `tazones para libar` → `jarras para las ofrendas líquidas`.
+- 4:9 `candilejas`, `despabiladeras` y `platillos` → `lámparas`, `despabiladores` y `bandejas`.
+- 4:10,12 `parihuelas` → `andas` (estructura para transportar los objetos sagrados).
+- 4:14 `garfios` y `braseros` → `tenedores` y `recipientes para las brasas`.
+- 4:15 `en acabando` → `cuando hayan terminado`.
+- 4:16 `la ofrenda continuo` → `la ofrenda continua` (concordancia).
+- 4:27 `les encomendaréis en guarda todos sus cargos` → `les asignarán todas sus responsabilidades`.
+- 4:28,33 `bajo la mano de Ithamar` → `bajo la dirección de Ithamar`.
+- 4:47 `tener cargo de obra` → `transportar las cargas`.
+- 5:2 `contaminado sobre muerto` → `impuro por contacto con un muerto`.
+- 5:6 `haciendo prevaricación ... y delinquiere` → `siendo infiel ... y resulte culpable`.
+- 5:8 `daráse la indemnización del agravio` → `la indemnización por el agravio se dará`.
+- 5:12 `se desmandare, e hiciere traición contra él` → `se desvíe y sea infiel a su marido`.
+- 5:13 `carnal ayuntamiento` → `relaciones sexuales`.
+- 5:15 `epha` → `efa`; `presente de celos` → `ofrenda por los celos`.
+- 5:18 `aguas amargas que acarrean maldición` → `agua amarga que trae maldición`.
+- 5:19,21 `conjurará` → `hará jurar`.
+- 5:20,29 `amancillado/amancillare` → `contaminado/se contamine`.
+- 5:20 `hubiere tenido coito contigo` → `haya tenido relaciones sexuales contigo`.
+- 5:25 `mecerálo` → `lo mecerá`.
+- 5:26 `un puñado del presente` → `un puñado de la ofrenda`.
+- 5:27 `Darále` → `Le dará`; `será por maldición` → `será objeto de maldición`.
+- 5:30 `presentarála` → `la presentará`.
+- 6:3 `sidra` → `bebida fermentada` (aquí designa bebida alcohólica fuerte, no solo sidra de manzana).
+- 6:4 `vid de vino` → `vid`; `granillos` y `hollejo` → `semillas` y `piel`.
+- 6:5 `guedejas del cabello` → `cabello`.
+- 6:6 `no entrará a persona muerta` → `no se acercará a ningún muerto`.
+- 6:9 `raerá su cabeza` → `se afeitará la cabeza`.
+- 6:10 `palominos` → `pichones de paloma`.
+- 6:11 `pecó sobre el muerto` → `incurrió en culpa por causa del muerto`.
+
+### Reservados para revisión
+
+- 4:6,8,10–12,25 `pieles de tejones`: la especie o material hebreo no tiene identificación segura; conservar y explicar antes que imponer una especie.
+- 4:18 `No cortaréis la tribu de las familias de Coath`: el sentido es impedir su eliminación por acercamiento indebido, pero la paráfrasis exacta debe conservar el vínculo con los versículos 19–20.
+- 4:20 `cuando cubrieren las cosas santas; que morirán`: la sintaxis es opaca y el momento descrito varía entre traducciones; revisar como cláusula completa.
+- 5:14 `espíritu de celo`: puede indicar celos, sospecha o impulso de celos; no sustituir aisladamente.
+- 5:15 `presente de recordación, que trae en memoria pecado`: la función ritual necesita revisión de la frase completa.
+- 5:21–22 `tu muslo que caiga / caer tu muslo`: eufemismo corporal discutido; no insertar una interpretación médica dentro del texto.
+- 6:2 `voto de Nazareo`: conservar el nombre histórico; la interfaz puede explicarlo.
+
+## Capítulos 7–12
+
+### Candidatos claros
+
+- 7:1 `ungídolo y santificádolo, con todos sus vasos` → `lo ungió y santificó, junto con todos sus utensilios`.
+- 7:6 `diólos a los Levitas` → `los dio a los levitas`.
+- 7:8 `bajo la mano de Ithamar` → `bajo la dirección de Ithamar`.
+- 7:9 `llevaban sobre sí en los hombros el servicio del santuario` → `llevaban sobre sus hombros los objetos del santuario`.
+- 7:13,19,25,31,37,43,49,55,61,67,73,79 `flor de harina ... para presente` → `harina fina ... para ofrenda de cereal`; las doce repeticiones se comprobaron individualmente.
+- 7:14,20,26,32,38,44,50,56,62,68,74,80 `perfume` → `incienso` en las cucharas de oro.
+- 7:17,23,29,35,41,47,53,59,65,71,77,83,88 `sacrificio de paces` → `sacrificio de paz`.
+- 7:85 `la plata de los vasos` → `la plata de los recipientes`.
+- 8:2 `alumbrarán frente a frente del candelero` → `alumbrarán hacia el frente del candelero`.
+- 8:4 `esta era la hechura del candelero` → `así estaba hecho el candelero`.
+- 8:6–7 `expíalos / para expiarlos` → `purifícalos / para purificarlos`; el rito prepara a los levitas para el servicio y el contexto distingue su purificación de los sacrificios expiatorios del v. 12.
+- 8:7 `haz pasar la navaja sobre toda su carne` → `haz que se afeiten todo el cuerpo`.
+- 8:8 `su presente de flor de harina` → `su ofrenda de cereal de harina fina`.
+- 8:9–10 `harás llegar / habrás hecho llegar los Levitas` → `harás acercar / hayas hecho acercar a los levitas`.
+- 8:11,13,15,21 `ofrecerá/ofrecerás/ofreció ... en ofrenda` → `presentará/presentarás/presentó ... como ofrenda`.
+- 8:16 `todo aquel que abre matriz` → `todo primogénito varón`.
+- 8:24 `Esto cuanto a los Levitas` → `Esto se aplica a los levitas`.
+- 8:25 `volverán del oficio de su ministerio` → `se retirarán de su servicio`.
+- 8:26 `para hacer la guarda, bien que no servirán` → `para ayudarles a cumplir sus responsabilidades, pero no harán el servicio`.
+- 9:2–3 `harán la pascua a su tiempo` → `celebrarán la Pascua en la fecha señalada`.
+- 9:6–7,10 `inmundos por causa de muerto` → `impuros por contacto con un muerto`.
+- 9:7 `dijéronle` → `le dijeron`.
+- 9:10–14 `hará/hiciere la pascua` → `celebrará/celebre la Pascua`.
+- 9:11 `cenceñas` → `panes sin levadura`.
+- 9:17–23 `se partían / partían / movían` → `partían / avanzaban`, y `al dicho de Jehová` → `por mandato de Jehová`, según cada oración.
+- 9:22 `se estaban acampados, y no movían` → `permanecían acampados y no partían`.
+- 10:2 `hacer mover el campo` → `levantar el campamento`.
+- 10:5–7 `tocareis alarma / alarma tocarán a sus partidas` → `den el toque de avance / darán el toque para que partan`.
+- 10:9–10 `seréis/os serán en memoria delante de Jehová` → `Jehová se acordará de vosotros`.
+- 10:10 `solemnidades` → `fiestas señaladas`; `principios de vuestros meses` → `comienzos de cada mes`; `sacrificios de vuestras paces` → `sacrificios de paz`.
+- 10:13 `al dicho de Jehová` → `por mandato de Jehová`.
+- 10:14–27 `campo` → `campamento` cuando nombra el grupo de una bandera; `era sobre su ejército` → `estaba al mando de su unidad`.
+- 10:21 `los otros acondicionaron el tabernáculo` → `los otros levantaron el tabernáculo`.
+- 10:25 `recogiendo todos los campos` → `cerrando la marcha de todos los campamentos`.
+- 10:28 `Estas son las partidas` → `Este era el orden de marcha`.
+- 10:30 `parentela` → `familia`.
+- 10:31 `sabes nuestros alojamientos ... y nos serás en lugar de ojos` → `sabes dónde debemos acampar ... y nos servirás de guía`.
+- 10:32 `cuando tuviéremos el bien que Jehová nos ha de hacer` → `cuando Jehová nos haga el bien que ha prometido`.
+- 10:33 `camino de tres días` → `durante una jornada de tres días`.
+- 10:35 `en moviendo el arca` → `cuando el arca partía`; `sean disipados` → `sean dispersados`.
+- 10:36 `cuando ella asentaba` → `cuando el arca se detenía`.
+- 11:1 `se quejó a oídos de Jehová` → `se quejó, y Jehová lo oyó`; `enardecióse su furor` → `se encendió su ira`; `el un cabo del campo` → `un extremo del campamento`.
+- 11:2 `dió voces a Moisés` → `clamó a Moisés`; `soterróse el fuego` → `el fuego se apagó`.
+- 11:4 `el vulgo que había en medio` → `la multitud extranjera que estaba entre ellos`.
+- 11:5 `de balde` → `gratis`.
+- 11:7 `semilla de culantro` → `semilla de cilantro`.
+- 11:8 `Derramábase el pueblo` → `El pueblo se dispersaba`; `majaban en morteros` → `lo machacaban en morteros`; `caldera` → `olla`.
+- 11:10 `pareció mal a Moisés` → `Moisés se disgustó`.
+- 11:11 `has hecho mal a tu siervo` → `has tratado mal a tu siervo`.
+- 11:12 `como lleva la que cría al que mama` → `como una nodriza lleva al niño de pecho`.
+- 11:13 `lloran a mí` → `claman a mí`.
+- 11:14 `me es pesado en demasía` → `es demasiado pesado para mí`.
+- 11:16 `sus principales` → `sus dirigentes`.
+- 11:18 `Santificaos para mañana` → `Consagraos para mañana`.
+- 11:20 `os sea en aborrecimiento` → `os cause repugnancia`.
+- 11:21 `Seiscientos mil de a pie` → `Seiscientos mil hombres a pie`.
+- 11:22 `para que tengan abasto` → `para que tengan suficiente`.
+- 11:24 `e los hizo estar` → `y los hizo estar`.
+- 11:25 `hablóle` → `habló con él`; `posó sobre ellos` → `reposó sobre ellos`.
+- 11:26 `entre los escritos` → `entre los inscritos`.
+- 11:27 `un mozo` → `un joven`.
+- 11:30 `recogióse Moisés al campo` → `Moisés regresó al campamento`.
+- 11:31–32 `en derredor del campo` → `alrededor del campamento`; `sobre la haz de la tierra` → `sobre la superficie de la tierra`; `recogiéronse` → `recogieron`.
+- 11:33 `antes que fuese mascada` → `antes que la terminaran de masticar`.
+- 11:34 `al pueblo codicioso` → `a los que habían tenido aquel deseo desmedido`.
+- 11:35 `movió el pueblo ... y pararon` → `el pueblo partió ... y acampó`.
+- 12:1 `mujer Ethiope` → `mujer cusita`.
+- 12:2 `oyólo Jehová` → `Jehová lo oyó`.
+- 12:6 `si tuviereis profeta de Jehová` → `si hay entre vosotros un profeta de Jehová`.
+- 12:8 `a las claras, y no por figuras` → `claramente y no por enigmas`.
+- 12:9 `fuése` → `se fue`.
+- 12:11 `no pongas ahora sobre nosotros pecado` → `no nos hagas cargar ahora con este pecado`.
+- 12:13 `Ruégote` → `Te ruego`.
+- 12:14–15 `real` → `campamento`.
+
+### Reservados para revisión
+
+- 7:89 `la cubierta que estaba sobre el arca`: decidir de manera uniforme entre cubierta expiatoria y propiciatorio en todo el Pentateuco.
+- 8:11–13 `ofrenda de los levitas`: el rito se describe como ofrenda mecida; no eliminar ese matiz al simplificar la sintaxis.
+- 8:19 `reconcilien a los hijos de Israel`: cotejar expiación/protección ritual antes de fijar el verbo moderno.
+- 9:3,5,11 `entre las dos tardes`: expresión temporal técnica; conservar hasta resolverla con una nota común a Éxodo y Levítico.
+- 9:13 `será cortada de sus pueblos`: la sanción exacta no debe convertirse en expulsión o muerte sin una decisión textual.
+- 11:6 `nuestra alma se seca`: imagen deliberada que puede aclararse con nota; no reemplazar por pérdida de apetito sin revisión.
+- 11:7 `bdelio`: identificación antigua incierta; conservar el nombre y explicar.
+- 11:15 `que yo no vea mi mal`: puede referirse a la ruina o desgracia de Moisés; requiere revisar la cláusula completa.
+- 11:25 `profetizaron, y no cesaron`: existen lecturas antiguas distintas sobre si continuaron o no; conservar hasta revisión textual.
+- 11:28 `uno de sus jóvenes`: el vínculo temporal con Josué es incierto en esta redacción; no corregir por conjetura.
+- 11:31 `casi dos codos sobre la haz de la tierra`: puede describir altura de vuelo o profundidad de acumulación; no imponer una interpretación.
+- 12:3 `manso`: término comprensible con posible matiz de humildad; conservar.
+- 12:12 `consumida la mitad de su carne`: comparación fuerte y deliberada; mantener con nota antes que suavizar.
+
+## Capítulos 13–18
+
+### Candidatos claros
+
+- 13:1 `movió el pueblo ... y asentaron el campo` → `el pueblo partió ... y acampó`.
+- 13:3,17–18,21,26,32–33 `reconocer la tierra` → `explorar la tierra`.
+- 13:18,25 `Enviólos / llamóse` → `Los envió / se llamó`.
+- 13:18,23,30 `mediodía` → `sur` cuando designa la región geográfica.
+- 13:20 `pingüe o flaco` → `fértil o pobre`.
+- 13:24 `arroyo de Escol` → `valle de Escol`.
+- 13:27 `diéronles la respuesta` → `les dieron su informe`.
+- 13:29 `ciudades muy grandes y fuertes` → `ciudades muy grandes y fortificadas`; `hijos de Anac` → `descendientes de Anac`.
+- 13:31 `que más podremos que ella` → `porque ciertamente podremos conquistarla`.
+- 13:33 `vituperaron ... la tierra` → `dieron ... un informe desfavorable de la tierra`.
+- 14:1 `alzaron grita, y dieron voces` → `alzaron la voz y gritaron`.
+- 14:2 `quejáronse ... y díjoles` → `se quejaron ... y les dijo`.
+- 14:3,31 `chiquitos sean por presa` → `niños sean capturados`.
+- 14:4 `Hagamos un capitán` → `Nombremos un jefe`.
+- 14:5 `cayeron sobre sus rostros` → `se postraron rostro en tierra`.
+- 14:8 `él nos meterá en esta tierra` → `él nos llevará a esta tierra`.
+- 14:9 `nuestro pan son: su amparo se ha apartado de ellos` → `serán presa nuestra, pues su protección se ha apartado de ellos`.
+- 14:12 `le heriré de mortandad` → `lo heriré con una plaga`.
+- 14:13 `Oiránlo luego los Egipcios` → `Los egipcios lo oirán`.
+- 14:14 `habitadores` → `habitantes`; `ojo a ojo aparecías tú` → `te manifestabas ante ellos cara a cara`.
+- 14:15 `has hecho morir a este pueblo como a un hombre` → `matas a todo este pueblo de una vez`.
+- 14:17 `sea magnificada la fortaleza del Señor` → `se manifieste la grandeza del poder del Señor`.
+- 14:18 `absolviendo no absolverá al culpado` → `de ningún modo tendrá por inocente al culpable`.
+- 14:20 `conforme a tu dicho` → `conforme a tu palabra`.
+- 14:22 `me han tentado` → `me han puesto a prueba`.
+- 14:24 `cumplió de ir en pos de mí` → `me siguió fielmente`; `su simiente la recibirá en heredad` → `sus descendientes la recibirán como herencia`.
+- 14:25 `camino del mar Rojo` → `en dirección al mar Rojo`.
+- 14:27 `depravada multitud / querellas` → `comunidad perversa / quejas`.
+- 14:29,32 `vuestros cuerpos caerán` → `vuestros cadáveres quedarán` en el desierto.
+- 14:30 `alcé mi mano de haceros habitar` → `juré con mano alzada que os haría habitar`.
+- 14:33 `llevarán vuestras fornicaciones` → `sufrirán las consecuencias de vuestra infidelidad`.
+- 14:36 `vueltos habían hecho murmurar ... desacreditando aquel país` → `al volver hicieron que toda la congregación murmurara con su informe desfavorable`.
+- 14:39 `el pueblo se enlutó mucho` → `el pueblo hizo gran duelo`.
+- 14:40 `Henos aquí` → `Aquí estamos`.
+- 14:41 `quebrantáis el dicho de Jehová; esto tampoco os sucederá bien` → `desobedecéis el mandato de Jehová; esto no prosperará`.
+- 14:43 `os habéis retraído de seguir a Jehová` → `os habéis apartado de Jehová`.
+- 14:44 `se obstinaron en subir` → `se atrevieron a subir`; `campo` → `campamento`.
+- 14:45 `e hiriéronlos y derrotáronlos` → `y los hirieron y derrotaron`.
+- 15:2 `tierra de vuestras habitaciones` → `tierra donde habitaréis`.
+- 15:3–14 `ofrenda encendida` → `ofrenda presentada por fuego`; `especial voto` → `voto especial`; `de vuestra voluntad` → `ofrenda voluntaria`; `solemnidades` → `fiestas señaladas`.
+- 15:4,6,9,24 `epha de flor de harina ... presente` → `efa de harina fina ... ofrenda de cereal`.
+- 15:5,11 `cada un cordero` → `cada cordero`.
+- 15:8 `sacrificio ... de paces` → `sacrificio de paz`.
+- 15:14,23 `por vuestras edades` → `por vuestras generaciones`.
+- 15:16 `un mismo derecho` → `una misma ordenanza`.
+- 15:20 `ofrenda de la era` → `ofrenda de la cosecha de la era`.
+- 15:22–29 `por yerro` → `sin intención`, ajustando cada cláusula completa para conservar quién actuó y quién recibe expiación.
+- 15:24 `si el pecado fue hecho por yerro con ignorancia de la congregación` → `si la congregación pecó sin intención y sin darse cuenta`.
+- 15:25 `porque yerro es` → `porque fue un error involuntario`.
+- 15:28 `la persona que habrá pecado` → `la persona que haya pecado`.
+- 15:30 `con altiva mano ... a Jehová injurió` → `con actitud desafiante ... desafía a Jehová`.
+- 15:31 `dio por nulo su mandamiento` → `quebrantó su mandamiento`.
+- 15:33 `trajéronle` → `lo llevaron`.
+- 15:35 `Irremisiblemente muera aquel hombre` → `Aquel hombre deberá morir sin falta`.
+- 15:38–39 `pezuelos (franjas)` → `flecos`; `cordón de cárdeno` → `cordón azul`; `serviros ha de pezuelo` → `el fleco os servirá`; `en pos de vuestro corazón y de vuestros ojos ... fornicáis` → `siguiendo vuestro corazón y vuestros ojos, tras los cuales os volvéis infieles`.
+- 16:1 `tomaron gente` → `reunieron seguidores`.
+- 16:2 `príncipes ... de los del consejo, varones de nombre` → `jefes ... representantes de la asamblea, hombres reconocidos`.
+- 16:3,7 `Básteos` → `¡Basta ya!`.
+- 16:5 `al santo harálo llegar a sí ... él lo allegará a sí` → `hará que el santo se acerque a él ... hará que el elegido se acerque`.
+- 16:6 `tomaos incensarios` → `tomen incensarios`.
+- 16:7,17–18,35,40 `sahumerio` → `incienso`.
+- 16:9 `¿Os es poco ... haciéndoos allegar a sí ... ministraseis?` → `¿Os parece poco ... acercaros a él ... servir?`.
+- 16:13 `te enseñorees de nosotros imperiosamente` → `quieras gobernarnos como dueño absoluto`.
+- 16:15 `No mires a su presente` → `No aceptes su ofrenda`.
+- 16:17 `allegad delante de Jehová` → `preséntense delante de Jehová`.
+- 16:22 `¿y airarte has tú...?` → `¿te enojarás tú...?`.
+- 16:24,27,34 `en derredor` → `alrededor`.
+- 16:26 `por que no perezcáis` → `para que no perezcáis`.
+- 16:27 `chiquitos` → `niños pequeños`.
+- 16:28 `no de mi corazón las hice` → `no las hice por iniciativa propia`.
+- 16:29 `fueren ellos visitados a la manera de todos los hombres` → `corren la misma suerte que todos los hombres`.
+- 16:31–33 `en acabando / rompióse / tragólos / cubriólos` → `cuando terminó / se abrió / los tragó / los cubrió`.
+- 16:32 `sus casas ... su hacienda` → `sus familias ... sus posesiones`.
+- 16:37–38 `son santificados` → `han quedado consagrados`; `pecadores contra sus almas` → `pecadores a quienes costó la vida`; `planchas extendidas` → `láminas martilladas`.
+- 16:39 `incensarios de metal` → `incensarios de bronce`.
+- 16:40 `simiente de Aarón` → `descendencia de Aarón`.
+- 16:45 `consumirélos` → `los consumiré`.
+- 16:46–49 `furor / mortandad / negocio de Coré` → `ira / plaga / rebelión de Coré`.
+- 16:47 `puso perfume, e hizo expiación` → `puso incienso e hizo expiación`.
+- 17:8 `arrojado renuevos` → `producido brotes`.
+- 17:10 `harás cesar sus quejas de sobre mí` → `harás que cesen sus quejas contra mí`.
+- 17:11 `E lo hizo Moisés` → `Y Moisés lo hizo`.
+- 17:12 `somos muertos, perdidos somos` → `¡Estamos muriendo! ¡Estamos perdidos!`.
+- 17:13 `¿acabaremos de perecer todos?` → `¿pereceremos todos?`.
+- 18:1 `llevaréis el pecado del santuario / sacerdocio` → `cargaréis con la culpa relacionada con el santuario / sacerdocio`.
+- 18:2 `hazlos llegar ... y servirte han` → `haz que se acerquen ... y te servirán`.
+- 18:3–5 `cargo / guarda` → `responsabilidad / cuidado`, según cada frase.
+- 18:7 `en todo negocio del altar` → `en todo lo relacionado con el altar`.
+- 18:8 `por razón de la unción` → `como porción correspondiente a vuestra unción`.
+- 18:9 `todo presente ... toda expiación por el pecado ... por la culpa` → `toda ofrenda de cereal ... toda ofrenda por el pecado ... por la culpa`.
+- 18:11,18,26 `ofrendas agitadas / pecho de la mecedura / ofrenda mecida` → `ofrendas mecidas / pecho de la ofrenda mecida / ofrenda elevada`, conservando la acción ritual.
+- 18:12 `mosto` → `vino nuevo`.
+- 18:15 `lo que abriere matriz` → `todo primogénito`.
+- 18:16 `veinte óbolos` → `veinte geras`.
+- 18:17 `santificados son / grosura / olor suave` → `están consagrados / grasa / aroma agradable`.
+- 18:19 `helas dado` → `las he dado`.
+- 18:22–23 `lleven pecado / llevarán su iniquidad` → `incurran en culpa / cargarán con su responsabilidad`.
+- 18:27,30 `acopio/fruto del lagar` → `producto del lagar`.
+- 18:31 `remuneración` → `recompensa`.
+
+### Reservados para revisión
+
+- 14:11 `me ha de irritar`: el verbo puede significar rechazar o despreciar, además de provocar; no elegir sin cotejo textual.
+- 14:18 `visita la maldad de los padres sobre los hijos`: fórmula teológica que debe conservarse o aclararse de manera uniforme con Éxodo 34:7.
+- 14:34 `conoceréis mi castigo`: el término subyacente puede expresar oposición o desagrado; conservar hasta revisión textual.
+- 15:3,7,10,13–14 `olor suave`: fórmula ritual reservada ya en Levítico para una política uniforme.
+- 15:30–31 `será cortada de en medio de su pueblo`: no convertir la sanción en expulsión o muerte sin decidir su alcance.
+- 16:14 `¿has de arrancar los ojos de estos hombres?`: puede ser imagen de cegar o de engañar; conservar con nota hasta revisión.
+- 16:30 `descendieren vivos al abismo`: decidir de manera uniforme si el texto debe conservar `abismo`, usar `sepulcro` o explicar Seol.
+- 17:4 `delante del testimonio`: el objeto exacto debe aclararse de forma coherente con el arca y las tablas del pacto.
+- 18:10 `En el santuario la comerás`: algunas versiones expresan lugar santísimo; no ampliar el espacio ritual sin cotejo.
+- 18:19 `pacto de sal`: imagen de permanencia deliberada; conservar y explicar.
+
+## Capítulos 19–24
+
+### Candidatos claros
+
+- 19:2 `vaca bermeja` → `vaca roja`; `en la cual no haya falta` → `sin defecto`.
+- 19:3 `harála degollar` → `hará que la degüellen`.
+- 19:4 `hacia la delantera del tabernáculo` → `hacia el frente del tabernáculo`.
+- 19:9,13,17,20–21 `agua de separación` → `agua de purificación`.
+- 19:11,13 `tocare muerto / tocare en muerto` → `toque un cadáver`.
+- 19:12 `aquesta agua` → `esta agua`.
+- 19:13 `el tabernáculo de Jehová contaminó` → `ha contaminado el tabernáculo de Jehová`.
+- 19:15 `tapadera bien ajustada` → `tapa bien ajustada`.
+- 19:16 `muerto a cuchillo sobre la haz del campo` → `muerto a espada en campo abierto`.
+- 19:18 `mojarálo / muebles / el matado` → `lo mojará / objetos / el que fue muerto`.
+- 19:19 `cuando lo habrá purificado al día séptimo` → `cuando lo haya purificado el séptimo día`.
+- 20:1 `asentó el pueblo` → `el pueblo acampó`.
+- 20:3 `regañó el pueblo con Moisés` → `el pueblo discutió con Moisés`.
+- 20:5 `lugar de sementera` → `lugar donde se pueda sembrar`.
+- 20:6 `echáronse sobre sus rostros` → `se postraron rostro en tierra`.
+- 20:8 `hablad a la peña en ojos de ellos` → `hablad a la roca ante sus ojos`.
+- 20:10 `díjoles` → `les dijeron`.
+- 20:12 `santificarme en ojos de los hijos de Israel` → `mostrar mi santidad ante los hijos de Israel`.
+- 20:13 `aguas de la rencilla` → `aguas de la contienda`.
+- 20:14 `todo el trabajo que nos ha venido` → `todas las dificultades que hemos sufrido`.
+- 20:16 `sacónos de Egipto` → `nos sacó de Egipto`; `extremo de tus confines` → `límite de tu territorio`.
+- 20:17 `Rogámoste / labranza / diestra / siniestra / término` → `Te rogamos / campo cultivado / derecha / izquierda / territorio`.
+- 20:19 `Por el camino seguido iremos` → `Iremos por el camino principal`; `pasaré de seguida` → `solamente pasaré a pie`.
+- 20:20 `con mucho pueblo, y mano fuerte` → `con un ejército numeroso y poderoso`.
+- 20:21 `por su término` → `por su territorio`.
+- 20:22 `Y partidos de Cades` → `Toda la congregación partió de Cades`.
+- 20:26,28 `haz desnudar a Aarón sus vestidos / hizo desnudar ... y vistiólos` → `quítale a Aarón sus vestiduras / le quitó ... y se las puso`.
+- 20:27 `a ojos de toda la congregación` → `a la vista de toda la congregación`.
+- 20:29 `Aarón era muerto` → `Aarón había muerto`.
+- 21:1 `tomó de él presa` → `capturó a algunos israelitas`.
+- 21:3 `destruyólos a ellos` → `los destruyó`.
+- 21:4 `abatióse el ánimo del pueblo` → `el pueblo se impacientó`.
+- 21:5 `nuestra alma tiene fastidio de este pan tan liviano` → `detestamos este alimento miserable`.
+- 21:6 `serpientes ardientes` → `serpientes venenosas`.
+- 21:7 `Pecado hemos` → `Hemos pecado`.
+- 21:8–9 `bandera` → `asta`; `serpiente de metal` → `serpiente de bronce`; `púsola` → `la puso`.
+- 21:11–13 `asentaron` → `acamparon`; `al nacimiento del sol` → `hacia el oriente`; `término` → `frontera`.
+- 21:15 `va a parar en Ar` → `se extiende hasta Ar`.
+- 21:17 `a él cantad` → `cantadle`.
+- 21:22 `labrados` → `campos cultivados`; `término` → `territorio`.
+- 21:24 `E hirióle Israel a filo de espada` → `Israel lo hirió a filo de espada`.
+- 21:25 `aldeas` → `poblaciones vecinas`.
+- 21:27 `los proverbistas` → `los poetas`; `repárese la ciudad` → `sea restaurada la ciudad`.
+- 21:29 `Perecido has` → `Has perecido`; `puso sus hijos en huída, y sus hijas en cautividad` → `entregó a sus hijos como fugitivos y a sus hijas como cautivas`.
+- 21:32 `reconocer a Jazer` → `explorar Jazer`.
+- 21:34 `en tu mano lo he dado` → `lo he entregado en tu mano`.
+- 21:35 `sin que le quedara uno` → `sin dejarle sobreviviente alguno`.
+- 22:1 `movieron ... asentaron` → `partieron ... acamparon`; `de esta parte del Jordán` → `al otro lado del Jordán, frente a Jericó`.
+- 22:3 `el pueblo que era mucho / angustióse` → `el pueblo era muy numeroso / Moab se angustió`.
+- 22:4 `lamerá esta gente todos nuestros contornos, como lame el buey la grama` → `esta multitud consumirá todo lo que nos rodea, como el buey consume la hierba`.
+- 22:5,11 `cubre la haz de la tierra` → `cubre la superficie de la tierra`.
+- 22:6,11,17 `maldíceme/maldícemelo` → `maldice por mí a este pueblo`, evitando que el enclítico parezca convertir a Balac en objeto de la maldición.
+- 22:7 `dádivas de adivinación` → `pago por la adivinación`.
+- 22:8,19 `Reposad/Ruégoos ... reposéis` → `Pasad/Os ruego ... paséis aquí la noche`.
+- 22:9,16,20 `díjole/dijéronle` → `le dijo/le dijeron`.
+- 22:13 `Jehová no me quiere dejar ir` → `Jehová no me permite ir`.
+- 22:15 `tornó Balac a enviar` → `Balac volvió a enviar`.
+- 22:18 `hacer cosa chica ni grande` → `hacer cosa alguna`.
+- 22:21 `cinchó su asna` → `ensilló su asna`.
+- 22:22 `por adversario suyo` → `para oponérsele`; `dos mozos` → `dos criados`.
+- 22:23,31 `espada desnuda` → `espada desenvainada`.
+- 22:25 `pegóse a la pared, y apretó ... el pie` → `se pegó a la pared y prensó contra ella el pie`.
+- 22:26 `una angostura ... ni a diestra ni a siniestra` → `un lugar estrecho ... ni a derecha ni a izquierda`.
+- 22:27 `se echó debajo de Balaam` → `se echó al suelo debajo de Balaam`; `con el palo` → `con su vara`.
+- 22:30 `¿he acostumbrado a hacerlo así contigo?` → `¿acostumbro a tratarte así?`.
+- 22:31 `hizo reverencia, e se inclinó sobre su rostro` → `se inclinó y se postró rostro en tierra`.
+- 22:32 `he salido para contrarrestarte ... tu camino es perverso` → `he salido para oponerme a ti ... tu camino es imprudente`.
+- 22:33 `hase apartado luego` → `se ha apartado`.
+- 22:36 `el cabo de los confines` → `el límite de su territorio`.
+- 22:41 `la extremidad del pueblo` → `una parte del pueblo`.
+- 23:3 `te la noticiaré` → `te la comunicaré`.
+- 23:4 `Siete altares he ordenado` → `He preparado siete altares`.
+- 23:5,16–17 `díjole` → `le dijo`.
+- 23:7–8,18 `tomó su parábola / execra` → `pronunció su oráculo / maldice`.
+- 23:9 `habitará confiado` → `vive apartado`; `no será contado entre las gentes` → `no se considera una nación como las demás`.
+- 23:10 `Muera mi persona ... y mi postrimería` → `Muera yo ... y sea mi fin`.
+- 23:11 `hete tomado` → `te traje`; `has proferido bendiciones` → `los has bendecido`.
+- 23:19 `ni hijo de hombre para que se arrepienta` → `ni hijo de hombre para que cambie de parecer`; se conserva que Dios no miente ni deja incumplida su palabra.
+- 23:20 `he tomado bendición` → `he recibido la orden de bendecir`.
+- 23:22 y 24:8 `fuerzas como de unicornio` → `fuerza como la de un toro salvaje`.
+- 23:23 y 24:1 `agüero` → `augurio`.
+- 23:26 `aquello tengo de hacer` → `eso debo hacer`.
+- 23:27 `por ventura` → `quizá`.
+- 24:2 `Israel alojado por sus tribus` → `Israel acampado por tribus`.
+- 24:3,15 `tomó su parábola` → `pronunció su oráculo`.
+- 24:6 `lináloes` → `áloes`.
+- 24:7 `su simiente ... ensalzarse ha su rey` → `su descendencia ... su rey será exaltado`.
+- 24:8 `gentes sus enemigas / asaeteará con sus saetas` → `naciones enemigas / las atravesará con sus flechas`.
+- 24:10 `los has resueltamente bendecido` → `los has bendecido repetidamente`.
+- 24:11 `Húyete ... a tu lugar` → `Vuelve ahora a tu tierra`.
+- 24:13 `de mi arbitrio` → `por mi propia voluntad`.
+- 24:14,20 `postrimeros días / postrimería` → `días venideros / fin`.
+- 24:17 `Verélo / levantaráse / cantones de Moab` → `Lo veo / se levantará / extremos de Moab`.
+- 24:18 `se portará varonilmente` → `actuará con poder`.
+- 24:19 `el de Jacob se enseñoreará` → `de Jacob saldrá el que dominará`.
+- 24:24 `navíos de la costa de Cittim` → `naves de las costas de Quitim`.
+
+### Reservados para revisión
+
+- 19:9 `es una expiación`: las cenizas se usan para purificación del pecado; revisar el nombre ritual antes de cambiarlo.
+- 19:17 `agua viva`: puede significar agua corriente o fresca, pero la imagen es recurrente y no debe perderse por sustitución global.
+- 19:13,20 `será cortada de Israel/de la congregación`: sanción reservada para política uniforme.
+- 20:16 `envió ángel`: puede referirse a un ángel o mensajero; conservar el término.
+- 20:24,26 `reunido a sus pueblos`: eufemismo histórico de muerte con contenido teológico; conservar con nota.
+- 21:1 `camino de los centinelas`: la identificación de Atharim es incierta; no convertirlo automáticamente en exploradores o topónimo.
+- 21:14–15 `libro de las batallas ... mar Bermejo ... arroyos de Arnón`: fragmento poético y textual difícil; requiere revisión especializada.
+- 21:18 `el legislador, con sus bordones`: poema del pozo; las funciones de gobernantes, cetros y bastones no deben fijarse sin cotejo.
+- 21:29–30 canto sobre Moab: los sujetos y varios topónimos son difíciles; no alisar el poema por conjetura.
+- 22:29 `te has burlado de mí`: puede expresar abuso o ridiculización; conservar hasta decidir el matiz.
+- 22:33 la sintaxis contrafactual sobre matar a Balaam y dejar viva al asna debe revisarse como oración completa.
+- 22:40 `envió a Balaam y a los príncipes`: el objeto enviado se omite; no añadir carne o porciones sin base expresa.
+- 23:21 `No ha notado iniquidad ... júbilo de rey`: declaración poética y teológica; no convertirla en una absolución general mediante paráfrasis.
+- 23:23 `como ahora, será dicho de Jacob`: el orden temporal y el sentido del oráculo requieren revisión de la línea completa.
+- 24:3–4,15–16 `varón de ojos abiertos ... caído, mas abiertos los ojos`: lectura textual y estado visionario discutidos; conservar.
+- 24:7 `su simiente será en muchas aguas`: imagen de abundancia y descendencia; conservar antes que explicarla dentro del texto.
+- 24:17 `hijos de Seth`: el referente puede ser Set o pueblos tumultuosos según la lectura; no resolverlo por una traducción secundaria.
+- 24:20–24 oráculos finales: conservar sujetos y pueblos hasta una revisión conjunta del poema.
+
+## Capítulos 25–30
+
+### Candidatos claros
+
+- 25:1 `REPOSÓ Israel en Sittim / empezó a fornicar` → `Israel se quedó en Sitim / empezó a cometer inmoralidad sexual`.
+- 25:2,13 `e se inclinó / e hizo expiación` → `y se inclinó / e hizo expiación`, aplicando la conjunción según el sonido siguiente.
+- 25:3,5 `allegóse / se han allegado a Baal-peor` → `se unió / se han unido al culto de Baal-peor`.
+- 25:7 `viólo ... y levantóse` → `Finees lo vio ... y se levantó`.
+- 25:8 `alanceólos a ambos` → `atravesó a ambos con la lanza`.
+- 25:8–9,18 `mortandad` → `plaga`.
+- 25:11 `ha hecho tornar mi furor ... llevado de celo` → `ha apartado mi ira ... mostrando el mismo celo que yo`.
+- 25:12 `di les` → `diles`.
+- 25:13 `su simiente` → `su descendencia`.
+- 25:15 `príncipe de pueblos, padre de familia` → `jefe principal de una familia`.
+- 25:17–18 `Hostilizaréis / ardides / negocio de Peor` → `Traten como enemigos / engaños / asunto de Peor`.
+- 26:2 `Tomad la suma` → `Hagan el censo`.
+- 26:7,18,22,25,27,34,37,41,43,47,50–51,57,62–64 `contados` → `censados` cuando designa el resultado del censo.
+- 26:9 `los del consejo ... hicieron el motín ... con la compañía de Coré` → `representantes ... se rebelaron ... junto con el grupo de Coré`.
+- 26:10 `tragó a ellos y a Coré ... aquella compañía` → `se los tragó junto con Coré ... aquel grupo`.
+- 26:53–54 `por la cuenta de los nombres / sus contados` → `según el número registrado / el número de censados`.
+- 26:55 `Empero` → `Pero`.
+- 26:56 `entre el grande y el pequeño` → `entre los grupos grandes y pequeños`.
+- 26:59 `ésta parió de Amram a Aarón y a Moisés` → `ella le dio a Amram por hijos a Aarón y Moisés`.
+- 27:2 `presentáronse` → `se presentaron`.
+- 27:3 `la junta ... la compañía de Coré` → `el grupo ... el grupo de Coré`.
+- 27:7 `has de darles posesión de heredad ... traspasarás la heredad ... a ellas` → `debes darles una propiedad como herencia ... transferirles la herencia de su padre`.
+- 27:11 `estatuto de derecho` → `estatuto legal`.
+- 27:13 `después que la habrás visto` → `después que la hayas visto`.
+- 27:14 `rebeldes a mi dicho / rencilla / santificarme ... a ojos de ellos` → `rebeldes a mi mandato / contienda / mostrar mi santidad ante ellos`.
+- 27:16 `Ponga Jehová ... varón sobre la congregación` → `Que Jehová ... ponga un hombre al frente de la congregación`.
+- 27:17 `que salga ... entre ... los saque y los introduzca` → `que los guíe al salir y al entrar, que los haga salir y volver`.
+- 27:19 `ponerlo has` → `lo pondrás`.
+- 27:20 `pondrás de tu dignidad sobre él` → `le conferirás parte de tu autoridad`.
+- 27:21 `por el dicho de él saldrán ... entrarán` → `por su decisión saldrán ... entrarán`.
+- 28:2–31 y 29:1–39: normalizar por referencia concreta `ofrenda encendida` → `ofrenda presentada por fuego`, `holocausto continuo` → `holocausto diario`, `presente` → `ofrenda de cereal`, `flor de harina` → `harina fina`, `cada un/el un` → `cada un/el primer`, `principios de vuestros meses` → `comienzo de cada mes`, `solemnidad` → `fiesta señalada`, `ázimos` → `panes sin levadura`, `obra servil` → `trabajo habitual`, `vianda` → `alimento de la ofrenda`, y `paces` → `ofrendas de paz`. Las repeticiones se registrarán como referencias individuales, no como sustitución libre.
+- 28:5 y demás medidas `epha` → `efa`.
+- 28:11 `becerros de la vacada` → `becerros`.
+- 28:15,22,30 y 29:5,11,16,19,22,25,28,31,34,38 `macho cabrío en/por expiación` → `macho cabrío como ofrenda por el pecado`.
+- 28:24 `ofrecerse ha` → `se ofrecerá`.
+- 29:7 `afligiréis vuestras almas` → `os humillaréis`, dejando la práctica concreta para la nota ritual.
+- 29:39 `ofrendas libres` → `ofrendas voluntarias`.
+- 30:3–16 `ligando/ligó/ligare su alma con obligación` → `asumiendo/asumió/asuma una obligación`; se moderniza cada oración completa sin cambiar quién puede confirmar o anular el voto.
+- 30:4,16 `mocedad` → `juventud`.
+- 30:5,8,12,15 `callare/calló a ello` → `no dice/no dijo nada al respecto`.
+- 30:6,9,12 `vedare/vedó` → `se opone/se opuso`.
+- 30:7,15 `Empero` → `Pero`.
+- 30:10 `repudiada` → `divorciada`.
+- 30:13 `cuanto a sus votos` → `respecto de sus votos`.
+- 30:15 `confirmólas` → `las confirmó`.
+
+### Reservados para revisión
+
+- 25:4 `Toma todos los príncipes ... y ahórcalos`: el sujeto de la ejecución y su relación con los culpables varía en las traducciones; no modificar antes del cotejo del hebreo.
+- 25:8 `a la mujer por su vientre`: puede describir el cuerpo de la mujer o la cámara interior; conservar hasta revisión textual.
+- 25:11–13 `celo / pacto de paz / expiación`: conservar la relación teológica sin reducirla a emoción humana.
+- 26:59 `la cual nació a Leví en Egipto`: la genealogía tiene sintaxis difícil; no reordenar fuera de la cláusula de maternidad ya clara.
+- 27:13 `serás reunido a tus pueblos`: eufemismo de muerte reservado para una política uniforme.
+- 27:21 `juicio del Urim`: término técnico; conservar y explicar.
+- 28:4,8 `entre las dos tardes`: mantener reservado con Éxodo, Levítico y Números 9.
+- 28:6,8,13,27 y 29:2,6,8,13,36 `olor de suavidad`: fórmula ritual reservada para una política uniforme.
+- 28:7 `libación de superior vino`: la expresión puede indicar bebida fuerte o vino selecto; no fijar el matiz sin cotejo.
+- 30:14 `afligir el alma`: puede referirse a ayuno o abnegación; mantener hasta revisión de la ley completa.
+
+## Capítulos 31–36
+
+### Candidatos claros
+
+- 31:2 `Haz la venganza ... sobre los Madianitas` → `Ejecuta la venganza ... contra los madianitas`.
+- 31:3 `Armaos algunos ... e irán` → `Armaos algunos ... e irán`; se conserva `e` porque precede al sonido /i/.
+- 31:5 `fueron dados de los millares ... a punto de guerra` → `fueron seleccionados de los clanes ... listos para la guerra`.
+- 31:6 `los santos instrumentos` → `los utensilios sagrados`.
+- 31:8 `mataron a cuchillo` → `mataron a espada`.
+- 31:9 `chiquitos / arrebataron toda su hacienda` → `niños / tomaron todas sus posesiones`.
+- 31:10 `aldeas y castillos` → `aldeas y campamentos`.
+- 31:11 `despojo / presa, así de hombres como de bestias` → `botín / cautivos y animales`.
+- 31:12–13,19,24 `campo` → `campamento`.
+- 31:14,48,52,54 `tribunos y centuriones` → `jefes de mil y jefes de cien`.
+- 31:15 `¿Todas las mujeres habéis reservado?` → `¿Habéis dejado con vida a todas las mujeres?`.
+- 31:16 `fueron a los hijos de Israel, por consejo de Balaam, para causar prevaricación ... en el negocio de Peor; ... mortandad` → `por consejo de Balaam indujeron a los hijos de Israel a ser infieles ... en el asunto de Peor; ... plaga`.
+- 31:17–18,35 `haya conocido varón carnalmente / ayuntamiento de varón` → `haya tenido relaciones sexuales con un hombre`.
+- 31:19 `hubiere tocado muerto` → `haya tocado un cadáver`.
+- 31:20 `toda obra de pelos de cabra` → `todo objeto hecho de pelo de cabra`.
+- 31:22 `metal` → `bronce`.
+- 31:23 `bien que ... habrá de purificarse` → `pero también deberá purificarse`.
+- 31:26 `Toma la cuenta de la presa` → `Haz un inventario del botín`.
+- 31:27 `partirás por mitad la presa` → `dividirás el botín por la mitad`.
+- 31:30,47 `tienen la guarda` → `están a cargo`; `diólos` → `los dio`.
+- 31:41 `elevada ofrenda` → `ofrenda presentada`.
+- 31:49 `han tomado razón ... y ninguno ha faltado` → `han contado ... y no falta ninguno`.
+- 31:50–51 `vasos/alhajas de oro` → `objetos/joyas de oro`.
+- 31:53 `habían pillado` → `habían tomado botín`.
+- 31:54 `por memoria` → `como memorial`.
+- 32:1 `muy grande muchedumbre de ganado / parecióles ... lugar de ganado` → `enorme cantidad de ganado / vieron que ... era apropiado para el ganado`.
+- 32:7,9 `prevenís/preocuparon el ánimo` → `desanimáis/desanimaron`.
+- 32:11–12 `fueron perfectos en pos de mí/Jehová` → `siguieron fielmente a Jehová`.
+- 32:14 `prole de hombres pecadores` → `descendencia de hombres pecadores`.
+- 32:15 `Si os volviereis de en pos de él` → `Si dejáis de seguirlo`.
+- 32:16,24,36 `majadas` → `corrales`.
+- 32:17 `ciudades fuertes` → `ciudades fortificadas`.
+- 32:19,32 `de estotra/de esta parte del Jordán` → `de este lado del Jordán`.
+- 32:20 `os apercibiereis para ir ... a la guerra` → `os armáis para ir ... a la guerra`.
+- 32:22,29 `sea/fuere sojuzgado` → `sea/fuere sometido`.
+- 32:24 `Edificaos ciudades` → `Edificad ciudades`.
+- 32:29 `díjoles` → `les dijo`.
+- 32:33 `ciudades y términos` → `ciudades y territorios`.
+- 32:38 `mudados los nombres` → `después de cambiarles el nombre`.
+- 32:39 `tomáronla` → `la tomaron`.
+- 33:1–2 `estancias / salidas ... jornadas / partidas` → `etapas / lugares de partida ... jornadas / etapas`.
+- 33:3 `con mano alta, a ojos de` → `abiertamente y a la vista de`.
+- 33:4 `Jehová hecho también juicios en sus dioses` → `Jehová había ejecutado juicios contra sus dioses`.
+- 33:6–8,10,12–35,37,41–49 `partiendo/partidos ... asentaron` → `partieron ... acamparon`; cada etapa se conserva como referencia individual.
+- 33:38 `en el primero del mes` → `el primer día del mes`.
+- 33:40 `mediodía` → `sur`.
+- 33:44 `término de Moab` → `frontera de Moab`.
+- 33:52 `moradores / pinturas / imágenes de fundición / altos` → `habitantes / ídolos de piedra / imágenes de metal fundido / lugares altos`.
+- 33:54 `heredaréis la tierra por suertes` → `repartiréis la tierra por sorteo`.
+- 33:55 `afligiros han` → `os hostigarán`.
+- 33:56 `como yo pensé hacerles a ellos` → `lo que había decidido hacerles a ellos`.
+- 34:2 `es a saber` → `es decir`.
+- 34:5,9 `sus remates` → `su extremo`.
+- 34:11 `la costa de la mar de Cinnereth` → `la orilla del mar de Cineret`.
+- 34:15 `al nacimiento del sol` → `hacia el oriente`.
+- 34:17 `os aposesionarán la tierra` → `os repartirán la tierra como posesión`.
+- 34:29 `hiciesen la partición de la herencia` → `repartieran la herencia`.
+- 35:2–5,7 `ejidos` → `pastizales`.
+- 35:6,11–15,25–28 `ciudades de acogimiento` → `ciudades de refugio`.
+- 35:11,15 `homicida que hiriere a alguno de muerte por yerro` → `persona que mate a alguien sin intención`.
+- 35:12,19,21,24–27 `pariente del muerto` → `vengador de la sangre`, término legal para el familiar encargado del caso.
+- 35:17 `piedra de mano, de que pueda morir` → `piedra capaz de causar la muerte`.
+- 35:18 `instrumento de palo de mano` → `objeto de madera capaz de causar la muerte`.
+- 35:21,24 `heridor` → `agresor`.
+- 35:24 `conforme a estas leyes` → `conforme a estas normas`.
+- 35:25 `librará al homicida de mano ... lo hará volver` → `protegerá al acusado del vengador ... lo hará volver`.
+- 35:26–27 `término` → `límite`.
+- 35:29 `ordenanza de derecho por vuestras edades` → `estatuto legal por vuestras generaciones`.
+- 35:30 `por dicho de testigos ... un solo testigo no hará fe` → `por declaración de testigos ... un solo testigo no bastará`.
+- 35:31–32 `tomaréis precio / indefectiblemente morirá` → `aceptaréis rescate / deberá morir sin falta`.
+- 35:33 `amancillará la tierra` → `profanará la tierra`.
+- 36:1 `príncipes ... cabezas de padres` → `jefes ... cabezas de las familias paternas`.
+- 36:3 `será así desfalcada` → `será descontada` de la herencia de nuestros padres.
+- 36:5 `por dicho de Jehová / habla rectamente` → `por mandato de Jehová / tiene razón`.
+- 36:6 `como a ellas les pluguiere` → `con quien ellas prefieran`.
+- 36:7 `se allegará a la heredad` → `conservará la herencia` de la tribu de sus padres.
+- 36:9 `no ande la heredad rodando` → `la herencia no pasará` de una tribu a otra.
+- 36:12 `fueron mujeres` → `se casaron con hombres` de las familias de Manasés.
+
+### Reservados para revisión
+
+- 31:2 `serás recogido a tus pueblos`: eufemismo de muerte reservado para política uniforme.
+- 31:17–18: las órdenes de guerra se conservan sin suavizarlas; cualquier ajuste debe ser lingüístico y no alterar alcance, sujetos ni resultado.
+- 31:23 `aguas de purificación`: confirmar si remite específicamente al agua de Números 19 antes de añadir explicación.
+- 31:50 `hacer expiación por nuestras almas`: conservar el propósito ritual y no reducirlo a agradecimiento por sobrevivir.
+- 32:19,32 y 33:48–51 `de esta parte del Jordán`: la orientación depende del hablante y del avance narrativo; cada referencia debe renderizarse con una dirección inequívoca.
+- 33:52 `pinturas`: el término hebreo suele entenderse como piedras talladas o imágenes; confirmar la denominación común antes de publicar.
+- 34:3–12: los topónimos y trazado de límites se conservan; solo se moderniza la sintaxis segura.
+- 35:12–28 `vengador de la sangre`: término legal comprensible con nota; no presentarlo como autorización moderna de venganza privada.
+- 35:30–33: conservar sin suavizar la exigencia de testigos, la pena y la prohibición de rescate; modernizar únicamente la sintaxis.

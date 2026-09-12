@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "updatedAt": "2026-09-11T00:00:00.000Z",
   "sourceVersionId": "RV1909",
-  "activeChangeSet": "editorial-changes/v17.json",
+  "activeChangeSet": "editorial-changes/v18.json",
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs",
   "pending": [
@@ -3601,6 +3601,1730 @@
         {
           "label": "Control contextual RVR1960 y NVI",
           "url": "https://www.biblegateway.com/passage/?search=Leviticus+27%3A2&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-1",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "pieles de tejones",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "la especie o material hebreo no tiene identificación segura; conservar y explicar antes que imponer una especie.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 4,
+          "verse": 6
+        },
+        {
+          "book": "NUM",
+          "chapter": 4,
+          "verse": 8
+        },
+        {
+          "book": "NUM",
+          "chapter": 4,
+          "verse": 10
+        },
+        {
+          "book": "NUM",
+          "chapter": 4,
+          "verse": 11
+        },
+        {
+          "book": "NUM",
+          "chapter": 4,
+          "verse": 12
+        },
+        {
+          "book": "NUM",
+          "chapter": 4,
+          "verse": 25
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A6&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-2",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "No cortaréis la tribu de las familias de Coath",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "el sentido es impedir su eliminación por acercamiento indebido, pero la paráfrasis exacta debe conservar el vínculo con los versículos 19–20.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 4,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A18&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-3",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "cuando cubrieren las cosas santas; que morirán",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "la sintaxis es opaca y el momento descrito varía entre traducciones; revisar como cláusula completa.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 4,
+          "verse": 20
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+4%3A20&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-4",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "espíritu de celo",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "puede indicar celos, sospecha o impulso de celos; no sustituir aisladamente.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 5,
+          "verse": 14
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+5%3A14&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-5",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "presente de recordación, que trae en memoria pecado",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "la función ritual necesita revisión de la frase completa.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 5,
+          "verse": 15
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+5%3A15&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-6",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "tu muslo que caiga / caer tu muslo",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "eufemismo corporal discutido; no insertar una interpretación médica dentro del texto.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 5,
+          "verse": 21
+        },
+        {
+          "book": "NUM",
+          "chapter": 5,
+          "verse": 22
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+5%3A21&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-7",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "voto de Nazareo",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "conservar el nombre histórico; la interfaz puede explicarlo.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 6,
+          "verse": 2
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+6%3A2&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-8",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "la cubierta que estaba sobre el arca",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "decidir de manera uniforme entre cubierta expiatoria y propiciatorio en todo el Pentateuco.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 7,
+          "verse": 89
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+7%3A89&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-9",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "ofrenda de los levitas",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "el rito se describe como ofrenda mecida; no eliminar ese matiz al simplificar la sintaxis.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 8,
+          "verse": 11
+        },
+        {
+          "book": "NUM",
+          "chapter": 8,
+          "verse": 12
+        },
+        {
+          "book": "NUM",
+          "chapter": 8,
+          "verse": 13
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+8%3A11&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-10",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "reconcilien a los hijos de Israel",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "cotejar expiación/protección ritual antes de fijar el verbo moderno.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 8,
+          "verse": 19
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+8%3A19&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-11",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "entre las dos tardes",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "expresión temporal técnica; conservar hasta resolverla con una nota común a Éxodo y Levítico.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 9,
+          "verse": 3
+        },
+        {
+          "book": "NUM",
+          "chapter": 9,
+          "verse": 5
+        },
+        {
+          "book": "NUM",
+          "chapter": 9,
+          "verse": 11
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+9%3A3&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-12",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "será cortada de sus pueblos",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "la sanción exacta no debe convertirse en expulsión o muerte sin una decisión textual.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 9,
+          "verse": 13
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+9%3A13&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-13",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "nuestra alma se seca",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "imagen deliberada que puede aclararse con nota; no reemplazar por pérdida de apetito sin revisión.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 11,
+          "verse": 6
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A6&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-14",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "bdelio",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "identificación antigua incierta; conservar el nombre y explicar.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 11,
+          "verse": 7
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A7&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-15",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "que yo no vea mi mal",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "puede referirse a la ruina o desgracia de Moisés; requiere revisar la cláusula completa.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 11,
+          "verse": 15
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A15&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-16",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "profetizaron, y no cesaron",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "existen lecturas antiguas distintas sobre si continuaron o no; conservar hasta revisión textual.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 11,
+          "verse": 25
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A25&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-17",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "uno de sus jóvenes",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "el vínculo temporal con Josué es incierto en esta redacción; no corregir por conjetura.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 11,
+          "verse": 28
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A28&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-18",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "casi dos codos sobre la haz de la tierra",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "puede describir altura de vuelo o profundidad de acumulación; no imponer una interpretación.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 11,
+          "verse": 31
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+11%3A31&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-19",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "manso",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "término comprensible con posible matiz de humildad; conservar.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 12,
+          "verse": 3
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+12%3A3&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-20",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "consumida la mitad de su carne",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "comparación fuerte y deliberada; mantener con nota antes que suavizar.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 12,
+          "verse": 12
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+12%3A12&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-21",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "me ha de irritar",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "el verbo puede significar rechazar o despreciar, además de provocar; no elegir sin cotejo textual.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 14,
+          "verse": 11
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A11&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-22",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "visita la maldad de los padres sobre los hijos",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "fórmula teológica que debe conservarse o aclararse de manera uniforme con Éxodo 34:7.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 14,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A18&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-23",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "conoceréis mi castigo",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "el término subyacente puede expresar oposición o desagrado; conservar hasta revisión textual.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 14,
+          "verse": 34
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+14%3A34&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-24",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "olor suave",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "fórmula ritual reservada ya en Levítico para una política uniforme.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 15,
+          "verse": 3
+        },
+        {
+          "book": "NUM",
+          "chapter": 15,
+          "verse": 7
+        },
+        {
+          "book": "NUM",
+          "chapter": 15,
+          "verse": 10
+        },
+        {
+          "book": "NUM",
+          "chapter": 15,
+          "verse": 13
+        },
+        {
+          "book": "NUM",
+          "chapter": 15,
+          "verse": 14
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A3&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-25",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "será cortada de en medio de su pueblo",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "no convertir la sanción en expulsión o muerte sin decidir su alcance.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 15,
+          "verse": 30
+        },
+        {
+          "book": "NUM",
+          "chapter": 15,
+          "verse": 31
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+15%3A30&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-26",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "¿has de arrancar los ojos de estos hombres?",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "puede ser imagen de cegar o de engañar; conservar con nota hasta revisión.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 16,
+          "verse": 14
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+16%3A14&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-27",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "descendieren vivos al abismo",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "decidir de manera uniforme si el texto debe conservar `abismo`, usar `sepulcro` o explicar Seol.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 16,
+          "verse": 30
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+16%3A30&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-28",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "delante del testimonio",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "el objeto exacto debe aclararse de forma coherente con el arca y las tablas del pacto.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 17,
+          "verse": 4
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+17%3A4&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-29",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "En el santuario la comerás",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "algunas versiones expresan lugar santísimo; no ampliar el espacio ritual sin cotejo.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 18,
+          "verse": 10
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+18%3A10&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-30",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "pacto de sal",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "imagen de permanencia deliberada; conservar y explicar.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 18,
+          "verse": 19
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+18%3A19&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-31",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "es una expiación",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "las cenizas se usan para purificación del pecado; revisar el nombre ritual antes de cambiarlo.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 19,
+          "verse": 9
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+19%3A9&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-32",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "agua viva",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "puede significar agua corriente o fresca, pero la imagen es recurrente y no debe perderse por sustitución global.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 19,
+          "verse": 17
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+19%3A17&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-33",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "será cortada de Israel/de la congregación",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "sanción reservada para política uniforme.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 19,
+          "verse": 13
+        },
+        {
+          "book": "NUM",
+          "chapter": 19,
+          "verse": 20
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+19%3A13&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-34",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "envió ángel",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "puede referirse a un ángel o mensajero; conservar el término.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 20,
+          "verse": 16
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+20%3A16&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-35",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "reunido a sus pueblos",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "eufemismo histórico de muerte con contenido teológico; conservar con nota.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 20,
+          "verse": 24
+        },
+        {
+          "book": "NUM",
+          "chapter": 20,
+          "verse": 26
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+20%3A24&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-36",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "camino de los centinelas",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "la identificación de Atharim es incierta; no convertirlo automáticamente en exploradores o topónimo.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 21,
+          "verse": 1
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+21%3A1&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-37",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "libro de las batallas ... mar Bermejo ... arroyos de Arnón",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "fragmento poético y textual difícil; requiere revisión especializada.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 21,
+          "verse": 14
+        },
+        {
+          "book": "NUM",
+          "chapter": 21,
+          "verse": 15
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+21%3A14&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-38",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "el legislador, con sus bordones",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "poema del pozo; las funciones de gobernantes, cetros y bastones no deben fijarse sin cotejo.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 21,
+          "verse": 18
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+21%3A18&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-39",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "te has burlado de mí",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "puede expresar abuso o ridiculización; conservar hasta decidir el matiz.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 22,
+          "verse": 29
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A29&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-40",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "envió a Balaam y a los príncipes",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "el objeto enviado se omite; no añadir carne o porciones sin base expresa.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 22,
+          "verse": 40
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+22%3A40&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-41",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "No ha notado iniquidad ... júbilo de rey",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "declaración poética y teológica; no convertirla en una absolución general mediante paráfrasis.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 23,
+          "verse": 21
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+23%3A21&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-42",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "como ahora, será dicho de Jacob",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "el orden temporal y el sentido del oráculo requieren revisión de la línea completa.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 23,
+          "verse": 23
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+23%3A23&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-43",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "varón de ojos abiertos ... caído, mas abiertos los ojos",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "lectura textual y estado visionario discutidos; conservar.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 24,
+          "verse": 3
+        },
+        {
+          "book": "NUM",
+          "chapter": 24,
+          "verse": 4
+        },
+        {
+          "book": "NUM",
+          "chapter": 24,
+          "verse": 15
+        },
+        {
+          "book": "NUM",
+          "chapter": 24,
+          "verse": 16
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+24%3A3&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-44",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "su simiente será en muchas aguas",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "imagen de abundancia y descendencia; conservar antes que explicarla dentro del texto.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 24,
+          "verse": 7
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+24%3A7&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-45",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "hijos de Seth",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "el referente puede ser Set o pueblos tumultuosos según la lectura; no resolverlo por una traducción secundaria.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 24,
+          "verse": 17
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+24%3A17&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-46",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "Toma todos los príncipes ... y ahórcalos",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "el sujeto de la ejecución y su relación con los culpables varía en las traducciones; no modificar antes del cotejo del hebreo.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 25,
+          "verse": 4
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+25%3A4&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-47",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "a la mujer por su vientre",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "puede describir el cuerpo de la mujer o la cámara interior; conservar hasta revisión textual.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 25,
+          "verse": 8
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+25%3A8&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-48",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "celo / pacto de paz / expiación",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "conservar la relación teológica sin reducirla a emoción humana.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 25,
+          "verse": 11
+        },
+        {
+          "book": "NUM",
+          "chapter": 25,
+          "verse": 12
+        },
+        {
+          "book": "NUM",
+          "chapter": 25,
+          "verse": 13
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+25%3A11&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-49",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "la cual nació a Leví en Egipto",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "la genealogía tiene sintaxis difícil; no reordenar fuera de la cláusula de maternidad ya clara.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 26,
+          "verse": 59
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+26%3A59&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-50",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "serás reunido a tus pueblos",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "eufemismo de muerte reservado para una política uniforme.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 27,
+          "verse": 13
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+27%3A13&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-51",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "juicio del Urim",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "término técnico; conservar y explicar.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 27,
+          "verse": 21
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+27%3A21&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-52",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "entre las dos tardes",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "mantener reservado con Éxodo, Levítico y Números 9.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 28,
+          "verse": 4
+        },
+        {
+          "book": "NUM",
+          "chapter": 28,
+          "verse": 8
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A4&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-53",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "olor de suavidad",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "fórmula ritual reservada para una política uniforme.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 28,
+          "verse": 6
+        },
+        {
+          "book": "NUM",
+          "chapter": 28,
+          "verse": 8
+        },
+        {
+          "book": "NUM",
+          "chapter": 28,
+          "verse": 13
+        },
+        {
+          "book": "NUM",
+          "chapter": 28,
+          "verse": 27
+        },
+        {
+          "book": "NUM",
+          "chapter": 28,
+          "verse": 29
+        },
+        {
+          "book": "NUM",
+          "chapter": 28,
+          "verse": 2
+        },
+        {
+          "book": "NUM",
+          "chapter": 28,
+          "verse": 36
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A6&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-54",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "libación de superior vino",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "la expresión puede indicar bebida fuerte o vino selecto; no fijar el matiz sin cotejo.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 28,
+          "verse": 7
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+28%3A7&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-55",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "afligir el alma",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "puede referirse a ayuno o abnegación; mantener hasta revisión de la ley completa.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 30,
+          "verse": 14
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+30%3A14&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-56",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "serás recogido a tus pueblos",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "eufemismo de muerte reservado para política uniforme.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 31,
+          "verse": 2
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A2&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-57",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "aguas de purificación",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "confirmar si remite específicamente al agua de Números 19 antes de añadir explicación.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 31,
+          "verse": 23
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A23&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-58",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "hacer expiación por nuestras almas",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "conservar el propósito ritual y no reducirlo a agradecimiento por sobrevivir.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 31,
+          "verse": 50
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A50&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-59",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "de esta parte del Jordán",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "la orientación depende del hablante y del avance narrativo; cada referencia debe renderizarse con una dirección inequívoca.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 32,
+          "verse": 19
+        },
+        {
+          "book": "NUM",
+          "chapter": 32,
+          "verse": 32
+        },
+        {
+          "book": "NUM",
+          "chapter": 32,
+          "verse": 33
+        },
+        {
+          "book": "NUM",
+          "chapter": 32,
+          "verse": 48
+        },
+        {
+          "book": "NUM",
+          "chapter": 32,
+          "verse": 49
+        },
+        {
+          "book": "NUM",
+          "chapter": 32,
+          "verse": 50
+        },
+        {
+          "book": "NUM",
+          "chapter": 32,
+          "verse": 51
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+32%3A19&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-60",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "pinturas",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "el término hebreo suele entenderse como piedras talladas o imágenes; confirmar la denominación común antes de publicar.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 33,
+          "verse": 52
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+33%3A52&version=RVR1960%3BNVI"
+        }
+      ]
+    },
+    {
+      "id": "numbers-v18-61",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "term": "vengador de la sangre",
+      "proposedOptions": [
+        "Mantener con nota explicativa",
+        "Actualizar tras revisión textual"
+      ],
+      "reason": "término legal comprensible con nota; no presentarlo como autorización moderna de venganza privada.",
+      "references": [
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 12
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 13
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 14
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 15
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 16
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 17
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 18
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 19
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 20
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 21
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 22
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 23
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 24
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 25
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 26
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 27
+        },
+        {
+          "book": "NUM",
+          "chapter": 35,
+          "verse": 28
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Revisión contextual RVR1960 y NVI",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+35%3A12&version=RVR1960%3BNVI"
         }
       ]
     }
