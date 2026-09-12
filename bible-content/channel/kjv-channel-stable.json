@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-kjv-reading-stable",
-    "contentVersion": 7,
+    "contentVersion": 9,
     "issuedAt": "2026-09-10T00:00:00.000Z",
     "expiresAt": "2028-09-10T00:00:00.000Z",
     "distributionScope": "public",
@@ -19,34 +19,34 @@
         "kind": "reading-filter",
         "id": "KJV-READING-2026",
         "schemaVersion": 1,
-        "contentVersion": 7,
+        "contentVersion": 9,
         "sourceVersionId": "KJV",
         "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
-        "contentSha256": "82ff19e1cb334fe9408c0f15de93051b3335982fbf349e6e296ad19fd1447ce2",
-        "sizeBytes": 143268,
+        "contentSha256": "2d02674dd6d262022cc0d13e504fb352fa0536282b0d5812458d7357e318d218",
+        "sizeBytes": 270959,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.kjv.v7.package.json.gz",
+        "artifactPath": "reading_2026.kjv.v9.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
           "expectedBookCount": 66,
           "includedBookCount": 66,
-          "changedVerseCount": 1946,
-          "editCount": 2154
+          "changedVerseCount": 3696,
+          "editCount": 4309
         },
         "editorialPolicy": {
           "id": "kjv-minimal-comprehension-policy",
-          "version": 7,
+          "version": 9,
           "description": "Only exact, occurrence-reviewed wording that materially improves comprehension is projected. The packaged KJV remains immutable."
         }
       }
     ]
   },
-  "contentSha256": "b5b375431d1135f1985eeddcffce585b8a99d07bcb5a481c5f6cb48169e7f72d",
+  "contentSha256": "d3f7b402b7579a859c315146114a3853a482f32bc72d411a146220c89edf7884",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "ZBfb6YWMJT6-x-NHG6x_rebaUnfpbQHMX2T-GbYIuMeGLBKAs4sTdUgXUObr6yo-CcgJx376ZDCbu7lGEDeeCA"
+    "value": "tD3GjktnyM7GKUTb_2QHtiqvr7LkF4i82E37onvr0392o4jkgz9IW8fILb2jwVVfu2L7q03dS57fAbZSzX8fCQ"
   }
 }
