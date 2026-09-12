@@ -184,8 +184,8 @@ def main():
     entries.sort(key=lambda item: (order[item["book"]], item["chapter"], item["verse"], text(item["book"], item["chapter"], item["verse"]).index(item["expected"])))
     payload = {
         "format": "shine-reading-2026-editorial-change-set", "schemaVersion": 1,
-        "contentVersion": VERSION, "generatedAt": "2026-09-12T08:00:00.000Z",
-        "issuedAt": "2026-09-12T08:00:00.000Z", "expiresAt": "2028-09-12T08:00:00.000Z",
+        "contentVersion": VERSION, "generatedAt": "2026-09-12T07:00:00.000Z",
+        "issuedAt": "2026-09-12T07:00:00.000Z", "expiresAt": "2028-09-12T07:00:00.000Z",
         "sourceVersionId": "RV1909", "filterId": "RV1909-LECTURA-2026", "changes": entries,
     }
     CHANGE_SET.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -206,7 +206,7 @@ def main():
             "term": term, "proposedOptions": options, "reason": reason, "references": references,
             "evidence": [{"label": "Revisión contextual por versículo", "url": f"https://www.biblegateway.com/quicksearch/?quicksearch={term}&version=RVR1960%3BNVI"}],
         })
-    registry.update({"updatedAt": "2026-09-12T08:00:00.000Z", "activeChangeSet": "editorial-changes/v21.json"})
+    registry.update({"updatedAt": "2026-09-12T07:00:00.000Z", "activeChangeSet": "editorial-changes/v21.json"})
     REGISTRY.write_text(json.dumps(registry, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps({"changes": len(entries), "changedVerses": len(spans), "books": len({e['book'] for e in entries}), "pendingFamilies": len(PENDING)}, ensure_ascii=False))
 

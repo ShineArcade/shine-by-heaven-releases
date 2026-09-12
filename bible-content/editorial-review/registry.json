@@ -1,7 +1,7 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T08:00:00.000Z",
+  "updatedAt": "2026-09-12T07:00:00.000Z",
   "sourceVersionId": "RV1909",
   "activeChangeSet": "editorial-changes/v21.json",
   "requiredFullTest": true,

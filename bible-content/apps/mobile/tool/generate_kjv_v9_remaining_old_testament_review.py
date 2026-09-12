@@ -241,14 +241,14 @@ def main():
         path.write_text(json.dumps(direction, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
 
     source_path = DIRECTION / "reading_2026.package-source.json"; package_source = read(source_path)
-    package_source["contentVersion"] = VERSION; package_source["generatedAt"] = "2026-09-12T09:30:00.000Z"; package_source["editorialPolicy"]["version"] = VERSION; write(source_path, package_source)
+    package_source["contentVersion"] = VERSION; package_source["generatedAt"] = "2026-09-12T07:05:00.000Z"; package_source["editorialPolicy"]["version"] = VERSION; write(source_path, package_source)
     direction_books = [read(p) for p in direction_paths.values()]; direction_books.sort(key=lambda x: order[x["book"]])
     payload = {"books": direction_books, "contentVersion": VERSION, "editorialPolicy": package_source["editorialPolicy"], "filterId": package_source["filterId"], "format": "shine-reading-filter-package", "normalizationId": package_source["normalizationId"], "schemaVersion": 1, "sourceCorpusSha256": package_source["sourceCorpusSha256"], "sourceVersionId": package_source["sourceVersionId"]}
     raw = canonical(payload).encode(); compressed = gzip.compress(raw, compresslevel=9, mtime=0); packages = DIRECTION / "packages"; (packages / "reading_2026.kjv.v1.package.json.gz").write_bytes(compressed)
     coverage = {"expectedBookCount": 66, "includedBookCount": len(direction_books), "changedVerseCount": sum(len(b["verses"]) for b in direction_books), "editCount": sum(len(v["edits"]) for b in direction_books for v in b["verses"])}
     manifest = {"format": "shine-reading-filter-manifest", "filterId": package_source["filterId"], "schemaVersion": 1, "contentVersion": VERSION, "sourceVersionId": package_source["sourceVersionId"], "sourceCorpusSha256": package_source["sourceCorpusSha256"], "normalizationId": package_source["normalizationId"], "contentSha256": sha(compressed), "sizeBytes": len(compressed), "expandedSizeBytes": len(raw), "mimeType": "application/vnd.shine.reading-filter+gzip", "generatedAt": "2026-09-12", "editorialPolicy": package_source["editorialPolicy"], "coverage": coverage, "books": [{"id": b["book"], "order": order[b["book"]], "sourceFile": direction_paths[b["book"]].name, "sourceContentSha256": b["sourceContentSha256"], "payloadSha256": sha(canonical(b).encode()), "changedVerseCount": len(b["verses"]), "editCount": sum(len(v["edits"]) for v in b["verses"])} for b in direction_books]}
     write(packages / "reading_2026.kjv.v1.manifest.json", manifest)
-    registry = read(REGISTRY); registry["updatedAt"] = "2026-09-12T09:30:00.000Z"; registry["activeContentVersion"] = VERSION
+    registry = read(REGISTRY); registry["updatedAt"] = "2026-09-12T07:05:00.000Z"; registry["activeContentVersion"] = VERSION
     known = {(x["reference"], x["expected"], x["replacement"]) for x in registry["applied"]}
     for book, chapter, verse, expected, replacement, category, reason in applied:
         key = (f"{book}.{chapter}.{verse}", expected, replacement)
