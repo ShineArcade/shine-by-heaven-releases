@@ -10638,12 +10638,20 @@
     }
   ],
   "reviewRound": {
-    "id": "nt-context-20260912",
-    "contentVersion": 27,
-    "baselineContentVersion": 26,
-    "bookCount": 27,
-    "method": "Sequential full verse reading, contextual reference checks, complete composite rereading and targeted closure; no automatic lexical expansion.",
-    "sourceCorpusChanged": false
+    "id": "ot-followup-20260913",
+    "contentVersion": 28,
+    "baselineContentVersion": 27,
+    "bookCount": 1,
+    "method": "Targeted rereading of 33 passages per version, local contextual references, four verse corrections across both versions, and regression verification. Not a full sequential OT review.",
+    "sourceCorpusChanged": false,
+    "previousRound": {
+      "id": "nt-context-20260912",
+      "contentVersion": 27,
+      "baselineContentVersion": 26,
+      "bookCount": 27,
+      "method": "Sequential full verse reading, contextual reference checks, complete composite rereading and targeted closure; no automatic lexical expansion.",
+      "sourceCorpusChanged": false
+    }
   },
   "reviewHistory": [
     {
