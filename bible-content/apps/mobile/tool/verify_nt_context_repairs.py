@@ -213,5 +213,9 @@ if args.package_ready:
         assert [b['book'] for b in package['books']]==[b['book'] for b in payload['books']]
         for actual,expected in zip(package['books'],payload['books']):
             assert actual['sourceContentSha256']==expected['sourceContentSha256']
-            assert actual['verses']==[v for v in expected['verses'] if v['edits']],('packaged projection differs',version,actual['book'])
+            # Later OT corrections have their own exact approvals. NT decisions
+            # and every other OT edit must still match this reviewed projection.
+            from verify_ot_followup_20260913 import approved_verses
+            approved_book=approved_verses(version,expected['book'],expected['verses'])
+            assert actual['verses']==[v for v in approved_book if v['edits']],('packaged projection differs',version,actual['book'])
 print(json.dumps({'result':'PASS','decisions':len(decisions),'versionVerses':len(approved),'sourceRestoredVerses':len(technical),'byBook':dict(Counter(f'{v}:{b}' for v,b,c,n in approved)), 'packagedProjectionVerified':args.package_ready,'editorialCompleteness':'NOT ASSERTED','publication':'NOT VERIFIED BY THIS TEST'},ensure_ascii=False))

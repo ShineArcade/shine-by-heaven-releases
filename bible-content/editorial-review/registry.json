@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T07:15:00.000Z",
+  "updatedAt": "2026-09-13T14:50:00.000Z",
   "sourceVersionId": "RV1909",
-  "activeChangeSet": "editorial-changes/v27.json",
+  "activeChangeSet": "editorial-changes/v28.json",
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/smoke_bible_content_flow.mjs",
   "pending": [
@@ -10341,6 +10341,30 @@
           "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/NT_RESERVATION_CLOSURE_20260912.md"
         }
       ]
+    },
+    {
+      "id": "ot-followup-rv-exo-15-11",
+      "term": "terrible en loores",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "proposedOptions": [
+        "Conservar provisionalmente la lectura activa",
+        "Evaluar temible en alabanzas sin alterar la imagen"
+      ],
+      "reason": "Las referencias locales difieren entre hazañas, alabanzas y gloria. Hace falta resolver específicamente la fuerza de terrible y la imagen de loores antes de otra sustitución; el repaso breve no da por cerrada esta decisión.",
+      "references": [
+        {
+          "book": "EXO",
+          "chapter": 15,
+          "verse": 11
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Repaso contextual del Antiguo Testamento",
+          "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+        }
+      ]
     }
   ],
   "auditOtFinal2026": {
@@ -10607,6 +10631,10 @@
     {
       "label": "Historial completo / Full review history",
       "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/nt-context-repair-history-20260912.json"
+    },
+    {
+      "label": "Repaso breve AT / OT targeted follow-up",
+      "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
     }
   ],
   "reviewRound": {
@@ -68880,6 +68908,54 @@
       ],
       "restoredOriginal": false,
       "finalReading": "Porque la voluntad de Dios es vuestra santificación: que os apartéis de inmoralidad sexual;"
+    },
+    {
+      "id": "ot-followup-20260913-rv1909-ZEC-14-4",
+      "book": "ZEC",
+      "chapter": 14,
+      "verse": 4,
+      "expected": "Y afirmaránse sus pies en aquel día sobre el monte de las Olivos, que está en frente de Jerusalem á la parte de oriente: y el monte de las Olivos, se partirá por medio de sí hacia el oriente y hacia el occidente, haciendo un muy grande valle; y la mitad del monte se apartará hacia el norte, y la otra mitad hacia el sur.",
+      "replacement": "Y afirmaránse sus pies en aquel día sobre el monte de los Olivos, que está en frente de Jerusalem á la parte de oriente: y el monte de los Olivos, se partirá por medio de sí hacia el oriente y hacia el occidente, haciendo un muy grande valle; y la mitad del monte se apartará hacia el norte, y la otra mitad hacia el sur.",
+      "original": "Y afirmaránse sus pies en aquel día sobre el monte de las Olivas, que está en frente de Jerusalem á la parte de oriente: y el monte de las Olivas, se partirá por medio de sí hacia el oriente y hacia el occidente, haciendo un muy grande valle; y la mitad del monte se apartará hacia el norte, y la otra mitad hacia el mediodía.",
+      "reason": "La modernización Olivas → Olivos dejó el artículo femenino en las dos menciones del monte. Se amplía cada tramo a las Olivas → los Olivos; se conserva el resto del versículo. RVR1960, LBLA y NVI coinciden en el nombre masculino; NIV conserva el mismo topónimo.",
+      "evidence": [
+        {
+          "label": "Revisión contextual y referencias locales / Contextual review and local references",
+          "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+        }
+      ],
+      "localControls": [
+        {
+          "version": "RVR1960",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 4,
+          "sha256": "991738bdb04f81fad8392fe57e7eeafae5d339d209ae9499973e7eed4c367b1f"
+        },
+        {
+          "version": "LBLA",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 4,
+          "sha256": "824e161b6d40fe335089d29a50e1eb6858911bcc951bf4c2ad62a6b6f296cce0"
+        },
+        {
+          "version": "NVI",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 4,
+          "sha256": "8e24715940292958baa0abb227281fef79e06af02869b8fe0cf1fa9124c66803"
+        },
+        {
+          "version": "NIV",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 4,
+          "sha256": "91057a130a11a2a7cf8363c287d0286561e357bf0e034d27c34614480a822a40"
+        }
+      ],
+      "restoredOriginal": false,
+      "finalReading": "Y afirmaránse sus pies en aquel día sobre el monte de los Olivos, que está en frente de Jerusalem á la parte de oriente: y el monte de los Olivos, se partirá por medio de sí hacia el oriente y hacia el occidente, haciendo un muy grande valle; y la mitad del monte se apartará hacia el norte, y la otra mitad hacia el sur."
     }
   ],
   "resolvedReviewReferences": [

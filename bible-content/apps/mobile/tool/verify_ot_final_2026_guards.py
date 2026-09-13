@@ -157,7 +157,7 @@ ROTURAS = [('conjuncion e ante consonante',
            ('cliticon doble', r'\b(?:le|lo|la|les|los|las|me|te|nos|os)\s+se\b'),
            ('palabra duplicada', r'\b(que|de|a|á|en|y|el|la|los|las)\s+\1\b'),
            ('doble espacio', r'  +'),
-           ('articulo sin concordancia', r'\b(?:el|un)\s+(?:persona|ofrenda)\b|\b(?:la|una)\s+(?:campos|cautivos)\b')]
+           ('articulo sin concordancia', r'\b(?:el|un)\s+(?:persona|ofrenda)\b|\b(?:la|una)\s+(?:campos|cautivos)\b|\blas\s+Olivos\b')]
 for nombre, pat in ROTURAS:
     rx = re.compile(pat, re.I)
     for k, t in proj.items():

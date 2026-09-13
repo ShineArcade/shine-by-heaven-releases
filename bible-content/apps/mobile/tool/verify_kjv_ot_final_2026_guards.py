@@ -94,7 +94,10 @@ DEBE = [(('EXO', 4, 6), 'bosom', True), (('EXO', 4, 6), 'cloak', False),
         (('EXO', 18, 18), 'thyself', True), (('EXO', 18, 18), 'yourselves', False),
         (('EXO', 25, 31), 'knops', True), (('EXO', 37, 17), 'knops', True),
         (('DEU', 29, 23), 'that that', False), (('EXO', 27, 4), 'brass', False),
-        (('GEN', 20, 6), 'therefore allowed you', False)]
+        (('GEN', 20, 6), 'therefore allowed you', False),
+        (('2KI', 23, 11), 'court', True), (('2KI', 23, 11), 'pasturelands', False),
+        (('PSA', 18, 26), 'with the perverse thou wilt show thyself shrewd', True),
+        (('EZK', 45, 2), 'open space', True), (('EZK', 45, 2), 'pasturelands', False)]
 for k, frase, debe in DEBE:
     hay = re.search(r'\b' + re.escape(frase) + r'\b', proj.get(k, corp[k]), re.I) is not None
     if hay != debe:

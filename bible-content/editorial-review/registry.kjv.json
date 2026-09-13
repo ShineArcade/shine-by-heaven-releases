@@ -1,9 +1,9 @@
 {
   "format": "shine-reading-2026-editorial-review-registry",
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T07:15:00.000Z",
+  "updatedAt": "2026-09-13T14:50:00.000Z",
   "sourceVersionId": "KJV",
-  "activeContentVersion": 15,
+  "activeContentVersion": 16,
   "requiredFullTest": true,
   "fullTestCommand": "node bible-content/apps/mobile/tool/verify_kjv_reading_2026.mjs",
   "applied": [
@@ -29011,19 +29011,6 @@
       "evidence": []
     },
     {
-      "reference": "2KI.23.11",
-      "expected": "suburbs",
-      "replacement": "pasturelands",
-      "category": "false-friend-land-term",
-      "reason": "Suburbs denotes pasturelands around Levitical cities.",
-      "evidence": [
-        {
-          "label": "Complete-verse KJV contextual review",
-          "url": "https://www.biblegateway.com/passage/?search=2KI+23%3A11&version=KJV%3BNIV"
-        }
-      ]
-    },
-    {
       "reference": "2KI.23.12",
       "expected": "from thence",
       "replacement": "from there",
@@ -35066,48 +35053,6 @@
       "category": "clear-archaic-english",
       "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist.",
       "evidence": []
-    },
-    {
-      "reference": "PSA.18.26",
-      "expected": "shew",
-      "replacement": "show",
-      "category": "clear-archaic-english",
-      "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist.",
-      "evidence": []
-    },
-    {
-      "reference": "PSA.18.26",
-      "expected": "froward thou",
-      "replacement": "perverse thou",
-      "category": "archaic-character-term",
-      "reason": "Froward describes perverse or contrary conduct.",
-      "evidence": [
-        {
-          "label": "Complete-verse KJV contextual review",
-          "url": "https://www.biblegateway.com/passage/?search=PSA+18%3A26&version=KJV%3BNIV"
-        }
-      ]
-    },
-    {
-      "reference": "PSA.18.26",
-      "expected": "shew",
-      "replacement": "show",
-      "category": "clear-archaic-english",
-      "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist.",
-      "evidence": []
-    },
-    {
-      "reference": "PSA.18.26",
-      "expected": "froward.",
-      "replacement": "perverse.",
-      "category": "archaic-character-term",
-      "reason": "Froward describes perverse or contrary conduct.",
-      "evidence": [
-        {
-          "label": "Complete-verse KJV contextual review",
-          "url": "https://www.biblegateway.com/passage/?search=PSA+18%3A26&version=KJV%3BNIV"
-        }
-      ]
     },
     {
       "reference": "PSA.18.30",
@@ -45174,19 +45119,6 @@
         {
           "label": "Complete-verse KJV contextual review",
           "url": "https://www.biblegateway.com/passage/?search=EZK+44%3A29&version=KJV%3BNIV"
-        }
-      ]
-    },
-    {
-      "reference": "EZK.45.2",
-      "expected": "suburbs",
-      "replacement": "pasturelands",
-      "category": "false-friend-land-term",
-      "reason": "Suburbs denotes pasturelands around Levitical cities.",
-      "evidence": [
-        {
-          "label": "Complete-verse KJV contextual review",
-          "url": "https://www.biblegateway.com/passage/?search=EZK+45%3A2&version=KJV%3BNIV"
         }
       ]
     },
@@ -189130,6 +189062,74 @@
           "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
         }
       ]
+    },
+    {
+      "reference": "2KI.23.11",
+      "expected": "suburbs",
+      "replacement": "court",
+      "category": "contextual-land-term",
+      "reason": "The scene is the temple entrance and the chamber of an official, not pasture for Levitical cities. NIV identifies a court; LBLA describes the surrounding premises and NVI the recinto. Replace only this occurrence with court, preserving the KJV clause and its referent.",
+      "evidence": [
+        {
+          "label": "Revisión contextual y referencias locales / Contextual review and local references",
+          "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+        }
+      ]
+    },
+    {
+      "reference": "EZK.45.2",
+      "expected": "suburbs",
+      "replacement": "open space",
+      "category": "contextual-land-term",
+      "reason": "The fifty-cubit strip surrounds the sanctuary; it is not grazing land for a city. LBLA and NVI describe open or free space, and NIV open land. Open space preserves the spatial function without introducing pasture use. The KJV measurements and the rest of the verse remain unchanged.",
+      "evidence": [
+        {
+          "label": "Revisión contextual y referencias locales / Contextual review and local references",
+          "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+        }
+      ]
+    },
+    {
+      "reference": "PSA.18.26",
+      "expected": "shew",
+      "replacement": "show",
+      "category": "clear-archaic-english",
+      "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist.",
+      "evidence": []
+    },
+    {
+      "reference": "PSA.18.26",
+      "expected": "froward thou",
+      "replacement": "perverse thou",
+      "category": "archaic-character-term",
+      "reason": "Froward describes perverse or contrary conduct.",
+      "evidence": [
+        {
+          "label": "Complete-verse KJV contextual review",
+          "url": "https://www.biblegateway.com/passage/?search=PSA+18%3A26&version=KJV%3BNIV"
+        }
+      ]
+    },
+    {
+      "reference": "PSA.18.26",
+      "expected": "shew",
+      "replacement": "show",
+      "category": "clear-archaic-english",
+      "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist.",
+      "evidence": []
+    },
+    {
+      "reference": "PSA.18.26",
+      "expected": "froward.",
+      "replacement": "shrewd.",
+      "category": "contextual-response",
+      "reason": "The two occurrences have different referents. The first describes the perverse person; the second describes God responding to that person. Rendering both as perverse wrongly suggests the same moral fault. NIV uses shrewd for the response; LBLA and NVI use sagaz, while RVR1960 uses severo. The parallel 2 Samuel 22:27 confirms the distinction. Only the second occurrence changes; the first perverse and the KJV pronouns remain.",
+      "evidence": [
+        {
+          "label": "Revisión contextual y referencias locales / Contextual review and local references",
+          "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+        }
+      ]
     }
   ],
   "pending": [
@@ -314815,6 +314815,30 @@
           "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/NT_RESERVATION_CLOSURE_20260912.md"
         }
       ]
+    },
+    {
+      "id": "ot-followup-kjv-2sa-22-27",
+      "term": "unsavoury",
+      "status": "pending-review",
+      "scope": "old-testament",
+      "proposedOptions": [
+        "Keep the source pending a dedicated decision",
+        "Assess shrewd against the parallel Psalm 18:26"
+      ],
+      "reason": "Unsavoury remains in the original KJV, not as a new faulty replacement. The parallel and NIV/LBLA/NVI clarify the adversarial response, but this occurrence is recorded separately rather than changed automatically with Psalms.",
+      "references": [
+        {
+          "book": "2SA",
+          "chapter": 22,
+          "verse": 27
+        }
+      ],
+      "evidence": [
+        {
+          "label": "Repaso contextual del Antiguo Testamento",
+          "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+        }
+      ]
     }
   ],
   "auditOtFinal2026": {
@@ -314854,6 +314878,10 @@
     {
       "label": "Historial completo / Full review history",
       "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/nt-context-repair-history-20260912.json"
+    },
+    {
+      "label": "Repaso breve AT / OT targeted follow-up",
+      "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
     }
   ],
   "reviewRound": {
@@ -374081,6 +374109,150 @@
       ],
       "restoredOriginal": false,
       "finalReading": "For this is the will of God, even your sanctification, that ye should abstain from sexual immorality:"
+    },
+    {
+      "id": "ot-followup-20260913-kjv-2KI-23-11",
+      "book": "2KI",
+      "chapter": 23,
+      "verse": 11,
+      "expected": "And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathan-melech the chamberlain, which was in the pasturelands, and burned the chariots of the sun with fire.",
+      "replacement": "And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathan-melech the chamberlain, which was in the court, and burned the chariots of the sun with fire.",
+      "original": "And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathan-melech the chamberlain, which was in the suburbs, and burned the chariots of the sun with fire.",
+      "reason": "The scene is the temple entrance and the chamber of an official, not pasture for Levitical cities. NIV identifies a court; LBLA describes the surrounding premises and NVI the recinto. Replace only this occurrence with court, preserving the KJV clause and its referent.",
+      "evidence": [
+        {
+          "label": "Revisión contextual y referencias locales / Contextual review and local references",
+          "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+        }
+      ],
+      "localControls": [
+        {
+          "version": "RVR1960",
+          "book": "2KI",
+          "chapter": 23,
+          "verse": 11,
+          "sha256": "8309a4cdd3566c49872973a4bdd7282ef06ae99d4fffc65b1f93d514070b9d82"
+        },
+        {
+          "version": "LBLA",
+          "book": "2KI",
+          "chapter": 23,
+          "verse": 11,
+          "sha256": "0102118831677a4110b117f7b8c8e0d4ffb68b1dc60b09b4ac58d56d5d053f28"
+        },
+        {
+          "version": "NVI",
+          "book": "2KI",
+          "chapter": 23,
+          "verse": 11,
+          "sha256": "89e1c1b406374f1ee84e407cad3f7f1e8b5ad1fe02e6dc31fef836140338d66c"
+        },
+        {
+          "version": "NIV",
+          "book": "2KI",
+          "chapter": 23,
+          "verse": 11,
+          "sha256": "51335f7de192851442bb4594a6dee733bfe2d251a924ed04e0614aba5605088e"
+        }
+      ],
+      "restoredOriginal": false,
+      "finalReading": "And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathan-melech the chamberlain, which was in the court, and burned the chariots of the sun with fire."
+    },
+    {
+      "id": "ot-followup-20260913-kjv-EZK-45-2",
+      "book": "EZK",
+      "chapter": 45,
+      "verse": 2,
+      "expected": "Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the pasturelands thereof.",
+      "replacement": "Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the open space thereof.",
+      "original": "Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the suburbs thereof.",
+      "reason": "The fifty-cubit strip surrounds the sanctuary; it is not grazing land for a city. LBLA and NVI describe open or free space, and NIV open land. Open space preserves the spatial function without introducing pasture use. The KJV measurements and the rest of the verse remain unchanged.",
+      "evidence": [
+        {
+          "label": "Revisión contextual y referencias locales / Contextual review and local references",
+          "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+        }
+      ],
+      "localControls": [
+        {
+          "version": "RVR1960",
+          "book": "EZK",
+          "chapter": 45,
+          "verse": 2,
+          "sha256": "866b77f7d24d2da18a54440d555aa3912179a74555080364996b1f455f9353ba"
+        },
+        {
+          "version": "LBLA",
+          "book": "EZK",
+          "chapter": 45,
+          "verse": 2,
+          "sha256": "79eae7ca62a4738bfb0a06074e00bde29f032ac365f977b909628867794f5379"
+        },
+        {
+          "version": "NVI",
+          "book": "EZK",
+          "chapter": 45,
+          "verse": 2,
+          "sha256": "f2b56ee9386f8c6b4c06b352d33e9175e1011babe38f0491f61f13fccf0a248e"
+        },
+        {
+          "version": "NIV",
+          "book": "EZK",
+          "chapter": 45,
+          "verse": 2,
+          "sha256": "d9c9d354f957774c0733d76951282b4f0d547ef2fb379bb6fa8258457b976604"
+        }
+      ],
+      "restoredOriginal": false,
+      "finalReading": "Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the open space thereof."
+    },
+    {
+      "id": "ot-followup-20260913-kjv-PSA-18-26",
+      "book": "PSA",
+      "chapter": 18,
+      "verse": 26,
+      "expected": "With the pure thou wilt show thyself pure; and with the perverse thou wilt show thyself perverse.",
+      "replacement": "With the pure thou wilt show thyself pure; and with the perverse thou wilt show thyself shrewd.",
+      "original": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward.",
+      "reason": "The two occurrences have different referents. The first describes the perverse person; the second describes God responding to that person. Rendering both as perverse wrongly suggests the same moral fault. NIV uses shrewd for the response; LBLA and NVI use sagaz, while RVR1960 uses severo. The parallel 2 Samuel 22:27 confirms the distinction. Only the second occurrence changes; the first perverse and the KJV pronouns remain.",
+      "evidence": [
+        {
+          "label": "Revisión contextual y referencias locales / Contextual review and local references",
+          "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+        }
+      ],
+      "localControls": [
+        {
+          "version": "RVR1960",
+          "book": "PSA",
+          "chapter": 18,
+          "verse": 26,
+          "sha256": "16cf76e04272ff033ea32b4f88096ef1ea7616c871e41ab79f5b2e4ef9af8fce"
+        },
+        {
+          "version": "LBLA",
+          "book": "PSA",
+          "chapter": 18,
+          "verse": 26,
+          "sha256": "d5cc3a0fb3c4f6258aef440ca198e9d6d7a039371e6da4bc0e62fe5d96e4a9d4"
+        },
+        {
+          "version": "NVI",
+          "book": "PSA",
+          "chapter": 18,
+          "verse": 26,
+          "sha256": "ba6690a106bfc68fc022787bd8634c996e67fdd863c8dfc9adb2c4dfe4d59657"
+        },
+        {
+          "version": "NIV",
+          "book": "PSA",
+          "chapter": 18,
+          "verse": 26,
+          "sha256": "4ad4bce63c45955ef2823676f0415d0e2e1d123435dc29fe4eab01574a6ce8f6"
+        }
+      ],
+      "restoredOriginal": false,
+      "finalReading": "With the pure thou wilt show thyself pure; and with the perverse thou wilt show thyself shrewd."
     }
   ],
   "resolvedReviewReferences": [

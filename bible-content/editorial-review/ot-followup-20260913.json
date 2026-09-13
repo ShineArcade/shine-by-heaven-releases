@@ -1,0 +1,418 @@
+[
+  {
+    "id": "ot-followup-20260913-rv1909-ZEC-14-4",
+    "version": "rv1909",
+    "contentVersion": 28,
+    "book": "ZEC",
+    "chapter": 14,
+    "verse": 4,
+    "source": "Y afirmaránse sus pies en aquel día sobre el monte de las Olivas, que está en frente de Jerusalem á la parte de oriente: y el monte de las Olivas, se partirá por medio de sí hacia el oriente y hacia el occidente, haciendo un muy grande valle; y la mitad del monte se apartará hacia el norte, y la otra mitad hacia el mediodía.",
+    "sourceTextSha256": "22ec2c5c0a717f0488cc28f7437147aed7cf006c692192bfbcad407b559141b2",
+    "previousEdits": [
+      {
+        "category": "clear-archaic-lexicon",
+        "endOffset": 64,
+        "expected": "Olivas",
+        "reason": "Approved by the final authoritative 66-book consistency reconciliation.",
+        "replacement": "Olivos",
+        "startOffset": 58
+      },
+      {
+        "category": "clear-archaic-lexicon",
+        "endOffset": 145,
+        "expected": "Olivas",
+        "reason": "Approved by the final authoritative 66-book consistency reconciliation.",
+        "replacement": "Olivos",
+        "startOffset": 139
+      },
+      {
+        "category": "archaic-direction",
+        "endOffset": 325,
+        "expected": "mediodía",
+        "reason": "Cambio léxico mínimo ya aprobado en libros anteriores. RVR1960, RVC y RV2020 sustituyen la misma cantidad de ocurrencias y no conservan el término antiguo en cada referencia de este grupo; el render completo y los límites estructurales se revisan de nuevo por libro.",
+        "replacement": "sur",
+        "startOffset": 317
+      }
+    ],
+    "edits": [
+      {
+        "category": "agreement-repair",
+        "endOffset": 64,
+        "expected": "las Olivas",
+        "reason": "La modernización Olivas → Olivos dejó el artículo femenino en las dos menciones del monte. Se amplía cada tramo a las Olivas → los Olivos; se conserva el resto del versículo. RVR1960, LBLA y NVI coinciden en el nombre masculino; NIV conserva el mismo topónimo.",
+        "replacement": "los Olivos",
+        "startOffset": 54,
+        "evidence": [
+          {
+            "label": "Revisión contextual y referencias locales / Contextual review and local references",
+            "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+          }
+        ]
+      },
+      {
+        "category": "agreement-repair",
+        "endOffset": 145,
+        "expected": "las Olivas",
+        "reason": "La modernización Olivas → Olivos dejó el artículo femenino en las dos menciones del monte. Se amplía cada tramo a las Olivas → los Olivos; se conserva el resto del versículo. RVR1960, LBLA y NVI coinciden en el nombre masculino; NIV conserva el mismo topónimo.",
+        "replacement": "los Olivos",
+        "startOffset": 135,
+        "evidence": [
+          {
+            "label": "Revisión contextual y referencias locales / Contextual review and local references",
+            "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+          }
+        ]
+      },
+      {
+        "category": "archaic-direction",
+        "endOffset": 325,
+        "expected": "mediodía",
+        "reason": "Cambio léxico mínimo ya aprobado en libros anteriores. RVR1960, RVC y RV2020 sustituyen la misma cantidad de ocurrencias y no conservan el término antiguo en cada referencia de este grupo; el render completo y los límites estructurales se revisan de nuevo por libro.",
+        "replacement": "sur",
+        "startOffset": 317
+      }
+    ],
+    "previousReading": "Y afirmaránse sus pies en aquel día sobre el monte de las Olivos, que está en frente de Jerusalem á la parte de oriente: y el monte de las Olivos, se partirá por medio de sí hacia el oriente y hacia el occidente, haciendo un muy grande valle; y la mitad del monte se apartará hacia el norte, y la otra mitad hacia el sur.",
+    "finalReading": "Y afirmaránse sus pies en aquel día sobre el monte de los Olivos, que está en frente de Jerusalem á la parte de oriente: y el monte de los Olivos, se partirá por medio de sí hacia el oriente y hacia el occidente, haciendo un muy grande valle; y la mitad del monte se apartará hacia el norte, y la otra mitad hacia el sur.",
+    "reason": "La modernización Olivas → Olivos dejó el artículo femenino en las dos menciones del monte. Se amplía cada tramo a las Olivas → los Olivos; se conserva el resto del versículo. RVR1960, LBLA y NVI coinciden en el nombre masculino; NIV conserva el mismo topónimo.",
+    "evidence": [
+      {
+        "label": "Revisión contextual y referencias locales / Contextual review and local references",
+        "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+      }
+    ],
+    "localControls": [
+      {
+        "version": "RVR1960",
+        "book": "ZEC",
+        "chapter": 14,
+        "verse": 4,
+        "sha256": "991738bdb04f81fad8392fe57e7eeafae5d339d209ae9499973e7eed4c367b1f"
+      },
+      {
+        "version": "LBLA",
+        "book": "ZEC",
+        "chapter": 14,
+        "verse": 4,
+        "sha256": "824e161b6d40fe335089d29a50e1eb6858911bcc951bf4c2ad62a6b6f296cce0"
+      },
+      {
+        "version": "NVI",
+        "book": "ZEC",
+        "chapter": 14,
+        "verse": 4,
+        "sha256": "8e24715940292958baa0abb227281fef79e06af02869b8fe0cf1fa9124c66803"
+      },
+      {
+        "version": "NIV",
+        "book": "ZEC",
+        "chapter": 14,
+        "verse": 4,
+        "sha256": "91057a130a11a2a7cf8363c287d0286561e357bf0e034d27c34614480a822a40"
+      }
+    ]
+  },
+  {
+    "id": "ot-followup-20260913-kjv-2KI-23-11",
+    "version": "kjv",
+    "contentVersion": 16,
+    "book": "2KI",
+    "chapter": 23,
+    "verse": 11,
+    "source": "And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathan-melech the chamberlain, which was in the suburbs, and burned the chariots of the sun with fire.",
+    "sourceTextSha256": "c53a08fa08c1e2af1d5b864d42e06ea036bddb96a96bb002af03bff3c7061d02",
+    "previousEdits": [
+      {
+        "category": "false-friend-land-term",
+        "endOffset": 192,
+        "evidence": [
+          {
+            "label": "Complete-verse KJV contextual review",
+            "url": "https://www.biblegateway.com/passage/?search=2KI+23%3A11&version=KJV%3BNIV"
+          }
+        ],
+        "expected": "suburbs",
+        "reason": "Suburbs denotes pasturelands around Levitical cities.",
+        "replacement": "pasturelands",
+        "startOffset": 185
+      }
+    ],
+    "edits": [
+      {
+        "category": "contextual-land-term",
+        "endOffset": 192,
+        "evidence": [
+          {
+            "label": "Revisión contextual y referencias locales / Contextual review and local references",
+            "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+          }
+        ],
+        "expected": "suburbs",
+        "reason": "The scene is the temple entrance and the chamber of an official, not pasture for Levitical cities. NIV identifies a court; LBLA describes the surrounding premises and NVI the recinto. Replace only this occurrence with court, preserving the KJV clause and its referent.",
+        "replacement": "court",
+        "startOffset": 185
+      }
+    ],
+    "previousReading": "And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathan-melech the chamberlain, which was in the pasturelands, and burned the chariots of the sun with fire.",
+    "finalReading": "And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathan-melech the chamberlain, which was in the court, and burned the chariots of the sun with fire.",
+    "reason": "The scene is the temple entrance and the chamber of an official, not pasture for Levitical cities. NIV identifies a court; LBLA describes the surrounding premises and NVI the recinto. Replace only this occurrence with court, preserving the KJV clause and its referent.",
+    "evidence": [
+      {
+        "label": "Revisión contextual y referencias locales / Contextual review and local references",
+        "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+      }
+    ],
+    "localControls": [
+      {
+        "version": "RVR1960",
+        "book": "2KI",
+        "chapter": 23,
+        "verse": 11,
+        "sha256": "8309a4cdd3566c49872973a4bdd7282ef06ae99d4fffc65b1f93d514070b9d82"
+      },
+      {
+        "version": "LBLA",
+        "book": "2KI",
+        "chapter": 23,
+        "verse": 11,
+        "sha256": "0102118831677a4110b117f7b8c8e0d4ffb68b1dc60b09b4ac58d56d5d053f28"
+      },
+      {
+        "version": "NVI",
+        "book": "2KI",
+        "chapter": 23,
+        "verse": 11,
+        "sha256": "89e1c1b406374f1ee84e407cad3f7f1e8b5ad1fe02e6dc31fef836140338d66c"
+      },
+      {
+        "version": "NIV",
+        "book": "2KI",
+        "chapter": 23,
+        "verse": 11,
+        "sha256": "51335f7de192851442bb4594a6dee733bfe2d251a924ed04e0614aba5605088e"
+      }
+    ]
+  },
+  {
+    "id": "ot-followup-20260913-kjv-EZK-45-2",
+    "version": "kjv",
+    "contentVersion": 16,
+    "book": "EZK",
+    "chapter": 45,
+    "verse": 2,
+    "source": "Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the suburbs thereof.",
+    "sourceTextSha256": "7863edec297e6039396b2981fddf315471b18b8f428eb936dbfabc9a65afcba8",
+    "previousEdits": [
+      {
+        "category": "false-friend-land-term",
+        "endOffset": 159,
+        "evidence": [
+          {
+            "label": "Complete-verse KJV contextual review",
+            "url": "https://www.biblegateway.com/passage/?search=EZK+45%3A2&version=KJV%3BNIV"
+          }
+        ],
+        "expected": "suburbs",
+        "reason": "Suburbs denotes pasturelands around Levitical cities.",
+        "replacement": "pasturelands",
+        "startOffset": 152
+      }
+    ],
+    "edits": [
+      {
+        "category": "contextual-land-term",
+        "endOffset": 159,
+        "evidence": [
+          {
+            "label": "Revisión contextual y referencias locales / Contextual review and local references",
+            "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+          }
+        ],
+        "expected": "suburbs",
+        "reason": "The fifty-cubit strip surrounds the sanctuary; it is not grazing land for a city. LBLA and NVI describe open or free space, and NIV open land. Open space preserves the spatial function without introducing pasture use. The KJV measurements and the rest of the verse remain unchanged.",
+        "replacement": "open space",
+        "startOffset": 152
+      }
+    ],
+    "previousReading": "Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the pasturelands thereof.",
+    "finalReading": "Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the open space thereof.",
+    "reason": "The fifty-cubit strip surrounds the sanctuary; it is not grazing land for a city. LBLA and NVI describe open or free space, and NIV open land. Open space preserves the spatial function without introducing pasture use. The KJV measurements and the rest of the verse remain unchanged.",
+    "evidence": [
+      {
+        "label": "Revisión contextual y referencias locales / Contextual review and local references",
+        "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+      }
+    ],
+    "localControls": [
+      {
+        "version": "RVR1960",
+        "book": "EZK",
+        "chapter": 45,
+        "verse": 2,
+        "sha256": "866b77f7d24d2da18a54440d555aa3912179a74555080364996b1f455f9353ba"
+      },
+      {
+        "version": "LBLA",
+        "book": "EZK",
+        "chapter": 45,
+        "verse": 2,
+        "sha256": "79eae7ca62a4738bfb0a06074e00bde29f032ac365f977b909628867794f5379"
+      },
+      {
+        "version": "NVI",
+        "book": "EZK",
+        "chapter": 45,
+        "verse": 2,
+        "sha256": "f2b56ee9386f8c6b4c06b352d33e9175e1011babe38f0491f61f13fccf0a248e"
+      },
+      {
+        "version": "NIV",
+        "book": "EZK",
+        "chapter": 45,
+        "verse": 2,
+        "sha256": "d9c9d354f957774c0733d76951282b4f0d547ef2fb379bb6fa8258457b976604"
+      }
+    ]
+  },
+  {
+    "id": "ot-followup-20260913-kjv-PSA-18-26",
+    "version": "kjv",
+    "contentVersion": 16,
+    "book": "PSA",
+    "chapter": 18,
+    "verse": 26,
+    "source": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward.",
+    "sourceTextSha256": "5614f8141831e9a24695325d0a605313fe3545bc88d8f982f5998318f27f8230",
+    "previousEdits": [
+      {
+        "category": "clear-archaic-english",
+        "endOffset": 28,
+        "expected": "shew",
+        "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist.",
+        "replacement": "show",
+        "startOffset": 24
+      },
+      {
+        "category": "archaic-character-term",
+        "endOffset": 68,
+        "evidence": [
+          {
+            "label": "Complete-verse KJV contextual review",
+            "url": "https://www.biblegateway.com/passage/?search=PSA+18%3A26&version=KJV%3BNIV"
+          }
+        ],
+        "expected": "froward thou",
+        "reason": "Froward describes perverse or contrary conduct.",
+        "replacement": "perverse thou",
+        "startOffset": 56
+      },
+      {
+        "category": "clear-archaic-english",
+        "endOffset": 78,
+        "expected": "shew",
+        "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist.",
+        "replacement": "show",
+        "startOffset": 74
+      },
+      {
+        "category": "archaic-character-term",
+        "endOffset": 95,
+        "evidence": [
+          {
+            "label": "Complete-verse KJV contextual review",
+            "url": "https://www.biblegateway.com/passage/?search=PSA+18%3A26&version=KJV%3BNIV"
+          }
+        ],
+        "expected": "froward.",
+        "reason": "Froward describes perverse or contrary conduct.",
+        "replacement": "perverse.",
+        "startOffset": 87
+      }
+    ],
+    "edits": [
+      {
+        "category": "clear-archaic-english",
+        "endOffset": 28,
+        "expected": "shew",
+        "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist.",
+        "replacement": "show",
+        "startOffset": 24
+      },
+      {
+        "category": "archaic-character-term",
+        "endOffset": 68,
+        "evidence": [
+          {
+            "label": "Complete-verse KJV contextual review",
+            "url": "https://www.biblegateway.com/passage/?search=PSA+18%3A26&version=KJV%3BNIV"
+          }
+        ],
+        "expected": "froward thou",
+        "reason": "Froward describes perverse or contrary conduct.",
+        "replacement": "perverse thou",
+        "startOffset": 56
+      },
+      {
+        "category": "clear-archaic-english",
+        "endOffset": 78,
+        "expected": "shew",
+        "reason": "Context-safe standalone occurrence allowed by the conservative v1 whitelist.",
+        "replacement": "show",
+        "startOffset": 74
+      },
+      {
+        "category": "contextual-response",
+        "endOffset": 95,
+        "evidence": [
+          {
+            "label": "Revisión contextual y referencias locales / Contextual review and local references",
+            "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+          }
+        ],
+        "expected": "froward.",
+        "reason": "The two occurrences have different referents. The first describes the perverse person; the second describes God responding to that person. Rendering both as perverse wrongly suggests the same moral fault. NIV uses shrewd for the response; LBLA and NVI use sagaz, while RVR1960 uses severo. The parallel 2 Samuel 22:27 confirms the distinction. Only the second occurrence changes; the first perverse and the KJV pronouns remain.",
+        "replacement": "shrewd.",
+        "startOffset": 87
+      }
+    ],
+    "previousReading": "With the pure thou wilt show thyself pure; and with the perverse thou wilt show thyself perverse.",
+    "finalReading": "With the pure thou wilt show thyself pure; and with the perverse thou wilt show thyself shrewd.",
+    "reason": "The two occurrences have different referents. The first describes the perverse person; the second describes God responding to that person. Rendering both as perverse wrongly suggests the same moral fault. NIV uses shrewd for the response; LBLA and NVI use sagaz, while RVR1960 uses severo. The parallel 2 Samuel 22:27 confirms the distinction. Only the second occurrence changes; the first perverse and the KJV pronouns remain.",
+    "evidence": [
+      {
+        "label": "Revisión contextual y referencias locales / Contextual review and local references",
+        "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+      }
+    ],
+    "localControls": [
+      {
+        "version": "RVR1960",
+        "book": "PSA",
+        "chapter": 18,
+        "verse": 26,
+        "sha256": "16cf76e04272ff033ea32b4f88096ef1ea7616c871e41ab79f5b2e4ef9af8fce"
+      },
+      {
+        "version": "LBLA",
+        "book": "PSA",
+        "chapter": 18,
+        "verse": 26,
+        "sha256": "d5cc3a0fb3c4f6258aef440ca198e9d6d7a039371e6da4bc0e62fe5d96e4a9d4"
+      },
+      {
+        "version": "NVI",
+        "book": "PSA",
+        "chapter": 18,
+        "verse": 26,
+        "sha256": "ba6690a106bfc68fc022787bd8634c996e67fdd863c8dfc9adb2c4dfe4d59657"
+      },
+      {
+        "version": "NIV",
+        "book": "PSA",
+        "chapter": 18,
+        "verse": 26,
+        "sha256": "4ad4bce63c45955ef2823676f0415d0e2e1d123435dc29fe4eab01574a6ce8f6"
+      }
+    ]
+  }
+]

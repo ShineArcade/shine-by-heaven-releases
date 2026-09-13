@@ -1,0 +1,47 @@
+{
+  "format": "shine-reading-2026-editorial-change-set",
+  "schemaVersion": 1,
+  "contentVersion": 28,
+  "generatedAt": "2026-09-13T14:50:00.000Z",
+  "issuedAt": "2026-09-13T14:50:00.000Z",
+  "expiresAt": "2028-09-13T09:00:00.000Z",
+  "sourceVersionId": "RV1909",
+  "filterId": "RV1909-LECTURA-2026",
+  "note": "Two exact article-noun agreement repairs in Zechariah 14:4. NT v27 preserved. Full follow-up history in editorial-review/ot-followup-20260913.json.",
+  "changes": [
+    {
+      "book": "ZEC",
+      "chapter": 14,
+      "verse": 4,
+      "category": "agreement-repair",
+      "endOffset": 64,
+      "expected": "las Olivas",
+      "reason": "La modernización Olivas → Olivos dejó el artículo femenino en las dos menciones del monte. Se amplía cada tramo a las Olivas → los Olivos; se conserva el resto del versículo. RVR1960, LBLA y NVI coinciden en el nombre masculino; NIV conserva el mismo topónimo.",
+      "replacement": "los Olivos",
+      "startOffset": 54,
+      "evidence": [
+        {
+          "label": "Revisión contextual y referencias locales / Contextual review and local references",
+          "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+        }
+      ]
+    },
+    {
+      "book": "ZEC",
+      "chapter": 14,
+      "verse": 4,
+      "category": "agreement-repair",
+      "endOffset": 145,
+      "expected": "las Olivas",
+      "reason": "La modernización Olivas → Olivos dejó el artículo femenino en las dos menciones del monte. Se amplía cada tramo a las Olivas → los Olivos; se conserva el resto del versículo. RVR1960, LBLA y NVI coinciden en el nombre masculino; NIV conserva el mismo topónimo.",
+      "replacement": "los Olivos",
+      "startOffset": 135,
+      "evidence": [
+        {
+          "label": "Revisión contextual y referencias locales / Contextual review and local references",
+          "url": "https://github.com/ShineArcade/shine-by-heaven-releases/blob/main/bible-content/editorial-review/OT_FOLLOWUP_20260913.md"
+        }
+      ]
+    }
+  ]
+}

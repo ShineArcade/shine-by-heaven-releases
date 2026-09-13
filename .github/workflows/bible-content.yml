@@ -67,6 +67,7 @@ jobs:
         run: |
           python bible-content/apps/mobile/tool/verify_ot_final_2026_guards.py
           python bible-content/apps/mobile/tool/verify_kjv_ot_final_2026_guards.py
+          python bible-content/apps/mobile/tool/verify_ot_followup_20260913.py
 
       - name: Build signed public channel
         env:
