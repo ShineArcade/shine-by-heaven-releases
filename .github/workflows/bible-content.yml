@@ -57,6 +57,12 @@ jobs:
           node bible-content/apps/mobile/tool/verify_kjv_reading_2026.mjs
           node bible-content/apps/mobile/tool/smoke_kjv_content_flow.mjs
 
+      - name: Verify the approved NT projections and restored source punctuation
+        run: |
+          node bible-content/apps/mobile/tool/verify_editorial_occurrence.mjs
+          python bible-content/apps/mobile/tool/verify_nt_context_repairs.py --package-ready
+          python bible-content/apps/mobile/tool/verify_kjv_source_restoration.py
+
       - name: Guard the audited Old Testament projections
         run: |
           python bible-content/apps/mobile/tool/verify_ot_final_2026_guards.py

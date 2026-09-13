@@ -1,0 +1,1245 @@
+[
+  {
+    "id": "single-eye",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "ojo sincero / single eye",
+    "references": [
+      {
+        "book": "MAT",
+        "chapter": 6,
+        "verse": 22
+      },
+      {
+        "book": "LUK",
+        "chapter": 11,
+        "verse": 34
+      }
+    ],
+    "reason": "Los controles permiten sano, bueno o íntegro; no se impone generosidad como única lectura. Mantener la imagen evita convertir una interpretación en texto.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "sano / sound",
+      "bueno / good"
+    ]
+  },
+  {
+    "id": "luke-alms",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "lo que os resta / such things as ye have",
+    "references": [
+      {
+        "book": "LUK",
+        "chapter": 11,
+        "verse": 41
+      }
+    ],
+    "reason": "La relación entre interior, contenido y lo que se da admite lecturas distintas. No se añade un objeto por escoger una paráfrasis moderna.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "revisar alcance de contenido e interior"
+    ]
+  },
+  {
+    "id": "luke-force",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "se hace fuerza / presseth into",
+    "references": [
+      {
+        "book": "LUK",
+        "chapter": 16,
+        "verse": 16
+      }
+    ],
+    "reason": "Se conserva el alcance recibido del esfuerzo y el reino sin resolver su relación con violencia mediante una sustitución.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "revisar voz y alcance del verbo"
+    ]
+  },
+  {
+    "id": "luke-within",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "entre vosotros / within you",
+    "references": [
+      {
+        "book": "LUK",
+        "chapter": 17,
+        "verse": 21
+      }
+    ],
+    "reason": "Se mantiene la formulación de cada base; dentro y entre implican decisiones interpretativas que no son meros sinónimos.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "dentro / within",
+      "entre / among"
+    ]
+  },
+  {
+    "id": "luke-enough",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "Dejad hasta aquí / Suffer ye thus far",
+    "references": [
+      {
+        "book": "LUK",
+        "chapter": 22,
+        "verse": 51
+      }
+    ],
+    "reason": "Las referencias difieren entre permitir, detenerse y dejar; no hay base para presentar una opción como corrección inequívoca.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "permitir",
+      "detenerse"
+    ]
+  },
+  {
+    "id": "john-birth",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "nacido de fornicación / born of fornication",
+    "references": [
+      {
+        "book": "JHN",
+        "chapter": 8,
+        "verse": 41
+      }
+    ],
+    "reason": "Se conserva el lenguaje de filiación en la acusación: una paráfrasis puede decidir indebidamente entre ilegitimidad física e infidelidad religiosa.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "unión ilegítima / illegitimate union",
+      "inmoralidad sexual / sexual immorality"
+    ]
+  },
+  {
+    "id": "john-spirit-wind",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "viento / wind",
+    "references": [
+      {
+        "book": "JHN",
+        "chapter": 3,
+        "verse": 8
+      }
+    ],
+    "reason": "Se conserva el juego recibido entre viento y Espíritu; no se elimina uno de los sentidos para explicar la comparación.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "mantener la comparación y explicar en glosa"
+    ]
+  },
+  {
+    "id": "rom-god-genitive",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "fe de Jesucristo / faith of Jesus Christ",
+    "references": [
+      {
+        "book": "ROM",
+        "chapter": 3,
+        "verse": 22
+      },
+      {
+        "book": "GAL",
+        "chapter": 2,
+        "verse": 16
+      }
+    ],
+    "reason": "La relación fe en/fidelidad de es una reserva del genitivo; conservar la base no significa que una traducción moderna sea automáticamente incorrecta.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "fe en / faith in",
+      "fidelidad de / faithfulness of"
+    ]
+  },
+  {
+    "id": "rom-offering",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "pecado / sin",
+    "references": [
+      {
+        "book": "2CO",
+        "chapter": 5,
+        "verse": 21
+      }
+    ],
+    "reason": "No se convierte pecado en ofrenda por el pecado sin una decisión exegética adicional; el contexto y la fuerza de la afirmación se preservan.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "ofrenda por el pecado / sin offering"
+    ]
+  },
+  {
+    "id": "rom-evil",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "pensar el mal / thinketh no evil",
+    "references": [
+      {
+        "book": "1CO",
+        "chapter": 13,
+        "verse": 5
+      }
+    ],
+    "reason": "No se limita la expresión a llevar un registro de ofensas, aunque algunos controles expliciten ese sentido.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "no llevar cuenta de ofensas"
+    ]
+  },
+  {
+    "id": "cor-perfect",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "lo perfecto / that which is perfect",
+    "references": [
+      {
+        "book": "1CO",
+        "chapter": 13,
+        "verse": 10
+      }
+    ],
+    "reason": "No se identifica lo perfecto con un acontecimiento, canon o etapa mediante una sustitución editorial.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "mantener sin identificar referente"
+    ]
+  },
+  {
+    "id": "cor-freedom",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "úsalo más / use it rather",
+    "references": [
+      {
+        "book": "1CO",
+        "chapter": 7,
+        "verse": 21
+      }
+    ],
+    "reason": "La libertad y la condición de esclavo admiten discusión del referente de usar. Se conserva la formulación recibida.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "revisar el referente contextual"
+    ]
+  },
+  {
+    "id": "cor-virgin",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "su virgen / his virgin",
+    "references": [
+      {
+        "book": "1CO",
+        "chapter": 7,
+        "verse": 36
+      }
+    ],
+    "reason": "Los controles adoptan relaciones familiares o matrimoniales diferentes; la capa no identifica padre, tutor o prometido sin decisión adicional.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "hija",
+      "prometida"
+    ]
+  },
+  {
+    "id": "cor-use",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "usan / abusing",
+    "references": [
+      {
+        "book": "1CO",
+        "chapter": 7,
+        "verse": 31
+      },
+      {
+        "book": "1CO",
+        "chapter": 9,
+        "verse": 18
+      }
+    ],
+    "reason": "Uso, aprovechamiento pleno y abuso no siempre son intercambiables. Se mantiene el alcance propio de cada frase.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "usar plenamente",
+      "abusar"
+    ]
+  },
+  {
+    "id": "cor-dead",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "bautizan por los muertos / baptized for the dead",
+    "references": [
+      {
+        "book": "1CO",
+        "chapter": 15,
+        "verse": 29
+      }
+    ],
+    "reason": "Se conserva la pregunta sin introducir una práctica o teoría sobre quién recibe el beneficio.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "glosa contextual sin reescritura"
+    ]
+  },
+  {
+    "id": "maranatha",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "Maranatha",
+    "references": [
+      {
+        "book": "1CO",
+        "chapter": 16,
+        "verse": 22
+      }
+    ],
+    "reason": "La segmentación y el tiempo de la expresión se reservan: no se fuerza ha venido frente a ven. Anatema sí se aclaró por separado.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "ha venido",
+      "ven"
+    ]
+  },
+  {
+    "id": "gal-hearing",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "oír de fe / hearing of faith",
+    "references": [
+      {
+        "book": "GAL",
+        "chapter": 3,
+        "verse": 2
+      },
+      {
+        "book": "GAL",
+        "chapter": 3,
+        "verse": 5
+      }
+    ],
+    "reason": "Se mantiene el genitivo sin decidir por paráfrasis entre el mensaje oído y el acto de creer.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "oír con fe",
+      "mensaje de fe"
+    ]
+  },
+  {
+    "id": "gal-elements",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "elementos / elements",
+    "references": [
+      {
+        "book": "GAL",
+        "chapter": 4,
+        "verse": 3
+      },
+      {
+        "book": "GAL",
+        "chapter": 4,
+        "verse": 9
+      },
+      {
+        "book": "COL",
+        "chapter": 2,
+        "verse": 8
+      },
+      {
+        "book": "COL",
+        "chapter": 2,
+        "verse": 20
+      }
+    ],
+    "reason": "No se transforma toda aparición en fuerzas espirituales porque otros controles hablen de principios. La reserva es contextual.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "principios",
+      "fuerzas espirituales"
+    ]
+  },
+  {
+    "id": "gal-faith",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "fe / faith",
+    "references": [
+      {
+        "book": "GAL",
+        "chapter": 5,
+        "verse": 22
+      }
+    ],
+    "reason": "Se conserva la base frente a fidelidad; el sentido del fruto no se resuelve por modernización automática de fe.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "fidelidad / faithfulness"
+    ]
+  },
+  {
+    "id": "eph-sincerity",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "sinceridad / sincerity",
+    "references": [
+      {
+        "book": "EPH",
+        "chapter": 6,
+        "verse": 24
+      }
+    ],
+    "reason": "Se mantiene la lectura recibida frente a amor incorruptible de otros controles; se documenta la divergencia sin llamarla error técnico.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "amor incorruptible"
+    ]
+  },
+  {
+    "id": "php-robbery",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "usurpación / robbery",
+    "references": [
+      {
+        "book": "PHP",
+        "chapter": 2,
+        "verse": 6
+      }
+    ],
+    "reason": "La frase cristológica no se redefine como aprovechamiento o apropiación mediante un sinónimo simple.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "revisar alcance de aferrarse/aprovecharse"
+    ]
+  },
+  {
+    "id": "php-empty",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "se despojó / made himself of no reputation",
+    "references": [
+      {
+        "book": "PHP",
+        "chapter": 2,
+        "verse": 7
+      }
+    ],
+    "reason": "No se añade divinidad como objeto de despojarse ni se impone una teoría de vaciamiento.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "mantener la expresión con glosa"
+    ]
+  },
+  {
+    "id": "php-salvation",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "salud / salvation",
+    "references": [
+      {
+        "book": "PHP",
+        "chapter": 1,
+        "verse": 19
+      }
+    ],
+    "reason": "El contexto permite liberación/salvación; no se convierte en una promesa de salir vivo.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "liberación",
+      "salvación"
+    ]
+  },
+  {
+    "id": "thess-vessel",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "vaso / vessel",
+    "references": [
+      {
+        "book": "1TH",
+        "chapter": 4,
+        "verse": 4
+      }
+    ],
+    "reason": "Cuerpo y esposa no son cambios estilísticos equivalentes. Se conserva la imagen con reserva de referente.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "cuerpo / body",
+      "esposa / wife"
+    ]
+  },
+  {
+    "id": "thess-presence",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "por / from the presence",
+    "references": [
+      {
+        "book": "2TH",
+        "chapter": 1,
+        "verse": 9
+      }
+    ],
+    "reason": "La relación con la presencia admite origen o separación. Se conserva el giro de cada base.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "procedente de",
+      "lejos de"
+    ]
+  },
+  {
+    "id": "timothy-birth",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "se salvará engendrando hijos / saved in childbearing",
+    "references": [
+      {
+        "book": "1TI",
+        "chapter": 2,
+        "verse": 15
+      }
+    ],
+    "reason": "No se impone una explicación doctrinal de salvación por maternidad ni se alteran singular/plural de cada base.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "glosa exegética sin cambiar la condición"
+    ]
+  },
+  {
+    "id": "timothy-authority",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "dominar / usurp authority",
+    "references": [
+      {
+        "book": "1TI",
+        "chapter": 2,
+        "verse": 12
+      }
+    ],
+    "reason": "El alcance de autoridad y silencio se reserva; no se trata una política eclesial como corrección léxica automática.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "revisión contextual del verbo de autoridad"
+    ]
+  },
+  {
+    "id": "timothy-women",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "mujeres / wives",
+    "references": [
+      {
+        "book": "1TI",
+        "chapter": 3,
+        "verse": 11
+      }
+    ],
+    "reason": "Mujeres y esposas dependen del referente de la sección. Se mantiene cada texto base.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "mujeres",
+      "esposas"
+    ]
+  },
+  {
+    "id": "timothy-snare",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "su voluntad / his will",
+    "references": [
+      {
+        "book": "2TI",
+        "chapter": 2,
+        "verse": 26
+      }
+    ],
+    "reason": "Los pronombres de la salida del lazo no se reasignan a Dios o al diablo mediante una paráfrasis no demostrada.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "revisar antecedentes"
+    ]
+  },
+  {
+    "id": "titus-children",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "hijos fieles / faithful children",
+    "references": [
+      {
+        "book": "TIT",
+        "chapter": 1,
+        "verse": 6
+      }
+    ],
+    "reason": "La lista quedó gramaticalmente compuesta; fieles puede referir confianza o fe. No se fuerza una condición adicional de conversión de los hijos.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "creyentes / believing",
+      "fieles / faithful"
+    ]
+  },
+  {
+    "id": "hebrews-nature",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "tomó / took on the nature",
+    "references": [
+      {
+        "book": "HEB",
+        "chapter": 2,
+        "verse": 16
+      }
+    ],
+    "reason": "Los controles modernos expresan ayudar; la base recibida expresa asir/tomar naturaleza. Se reserva la diferencia, no se cambia una afirmación cristológica por un detector.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "ayudar / help",
+      "asir / take hold"
+    ]
+  },
+  {
+    "id": "hebrews-faith",
+    "versions": [
+      "kjv"
+    ],
+    "term": "profession of our faith",
+    "references": [
+      {
+        "book": "HEB",
+        "chapter": 10,
+        "verse": 23
+      }
+    ],
+    "reason": "Los cuatro controles dicen esperanza. Se mantiene faith de la KJV como reserva de formulación base, no se declara una errata del plugin ni se oculta la divergencia.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "hope"
+    ]
+  },
+  {
+    "id": "hebrews-weight",
+    "versions": [
+      "rv1909"
+    ],
+    "term": "peso del pecado",
+    "references": [
+      {
+        "book": "HEB",
+        "chapter": 12,
+        "verse": 1
+      }
+    ],
+    "reason": "RV1909 une peso del pecado donde KJV y controles separan peso y pecado. Se documenta como discrepancia de la base; no se añade una conjunción silenciosamente.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "peso y pecado"
+    ]
+  },
+  {
+    "id": "hebrews-repent",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "arrepentimiento / repentance",
+    "references": [
+      {
+        "book": "HEB",
+        "chapter": 12,
+        "verse": 17
+      }
+    ],
+    "reason": "Se aclara rechazado en la petición de herencia, pero no se identifica por sustitución el antecedente de ella/it ni quién debe cambiar de parecer.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "revisar antecedente y alcance"
+    ]
+  },
+  {
+    "id": "james-judging",
+    "versions": [
+      "rv1909"
+    ],
+    "term": "no juzgadora",
+    "references": [
+      {
+        "book": "JAS",
+        "chapter": 3,
+        "verse": 17
+      }
+    ],
+    "reason": "Los controles divergen entre imparcialidad y ausencia de duda; las otras cualidades se aclararon sin forzar esta cláusula.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "imparcial",
+      "sin vacilación"
+    ]
+  },
+  {
+    "id": "james-envy",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "espíritu y envidia / spirit and envy",
+    "references": [
+      {
+        "book": "JAS",
+        "chapter": 4,
+        "verse": 5
+      }
+    ],
+    "reason": "Sujeto, puntuación y referente del espíritu son interpretativos; no se usa una paráfrasis para borrar la dificultad.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "revisar sujeto y puntuación"
+    ]
+  },
+  {
+    "id": "peter-prison",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "espíritus en prisión / spirits in prison",
+    "references": [
+      {
+        "book": "1PE",
+        "chapter": 3,
+        "verse": 19
+      }
+    ],
+    "reason": "Se conserva la expresión sin identificar por la capa la época, los espíritus o el modo de predicación.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "glosa de opciones sin reescritura"
+    ]
+  },
+  {
+    "id": "peter-answer",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "demanda / answer of a good conscience",
+    "references": [
+      {
+        "book": "1PE",
+        "chapter": 3,
+        "verse": 21
+      }
+    ],
+    "reason": "Petición, respuesta y compromiso de conciencia son lecturas diferentes; se conserva cada base y la cláusula sobre suciedad corporal.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "petición",
+      "respuesta",
+      "compromiso"
+    ]
+  },
+  {
+    "id": "peter-coming",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "apresurándoos / hasting unto",
+    "references": [
+      {
+        "book": "2PE",
+        "chapter": 3,
+        "verse": 12
+      }
+    ],
+    "reason": "No se decide si significa dirigirse hacia o acelerar el día mediante una sola modernización.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "esperar con anhelo",
+      "apresurar"
+    ]
+  },
+  {
+    "id": "peter-almost",
+    "versions": [
+      "rv1909"
+    ],
+    "term": "Casi",
+    "references": [
+      {
+        "book": "2PE",
+        "chapter": 3,
+        "verse": 16
+      }
+    ],
+    "reason": "RV1909 y RVR1960 dicen Casi, mientras LBLA/NVI/NIV y KJV hablan de todas. Se reserva para análisis filológico, sin reemplazar automáticamente por asimismo.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "asimismo",
+      "en todas"
+    ]
+  },
+  {
+    "id": "john-propitiation",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "propiciación / propitiation",
+    "references": [
+      {
+        "book": "1JN",
+        "chapter": 2,
+        "verse": 2
+      },
+      {
+        "book": "1JN",
+        "chapter": 4,
+        "verse": 10
+      },
+      {
+        "book": "ROM",
+        "chapter": 3,
+        "verse": 25
+      }
+    ],
+    "reason": "RVR/LBLA conservan el tecnicismo, NVI/NIV explicitan sacrificio. No se pierde una dimensión del término ni se importa aquí la cubierta material del arca de Hebreos9:5.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "sacrificio expiatorio",
+      "glosa de propiciación"
+    ]
+  },
+  {
+    "id": "john-all",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "todos no / not all",
+    "references": [
+      {
+        "book": "1JN",
+        "chapter": 2,
+        "verse": 19
+      }
+    ],
+    "reason": "La diferencia entre no todos y ninguno no se trata como estilo. Se conserva la cuantificación recibida sin resolver su alcance por copia.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "revisar alcance de negación"
+    ]
+  },
+  {
+    "id": "john-sin",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "no peca / sinneth not",
+    "references": [
+      {
+        "book": "1JN",
+        "chapter": 3,
+        "verse": 6
+      },
+      {
+        "book": "1JN",
+        "chapter": 3,
+        "verse": 9
+      }
+    ],
+    "reason": "No se añade habitualmente para resolver por paráfrasis la tensión con1Juan1:8; esa explicación requiere revisión separada.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "practicar habitualmente",
+      "conservar la negación"
+    ]
+  },
+  {
+    "id": "john-death",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "pecado de muerte / sin unto death",
+    "references": [
+      {
+        "book": "1JN",
+        "chapter": 5,
+        "verse": 16
+      }
+    ],
+    "reason": "No se identifica un pecado particular ni se transforma la oración en una garantía médica.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "glosa sin asignar acto concreto"
+    ]
+  },
+  {
+    "id": "john-true",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "el verdadero Dios / the true God",
+    "references": [
+      {
+        "book": "1JN",
+        "chapter": 5,
+        "verse": 20
+      }
+    ],
+    "reason": "El antecedente no se decide con nueva puntuación; se conserva el texto recibido para revisión.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "revisar antecedente"
+    ]
+  },
+  {
+    "id": "jude-flesh",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "carne extraña / strange flesh",
+    "references": [
+      {
+        "book": "JUD",
+        "chapter": 1,
+        "verse": 7
+      }
+    ],
+    "reason": "La conducta sexual se aclara sin resolver el referente de ellos o la comparación con los ángeles mediante una etiqueta moderna.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "revisión de referentes"
+    ]
+  },
+  {
+    "id": "revelation-hades",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "infierno / hell / Hades",
+    "references": [
+      {
+        "book": "REV",
+        "chapter": 1,
+        "verse": 18
+      },
+      {
+        "book": "REV",
+        "chapter": 6,
+        "verse": 8
+      },
+      {
+        "book": "REV",
+        "chapter": 20,
+        "verse": 13
+      },
+      {
+        "book": "REV",
+        "chapter": 20,
+        "verse": 14
+      }
+    ],
+    "reason": "Se reserva la distinción terminológica frente al lago de fuego. No se redefine el estado intermedio usando una traducción automática de todas las apariciones.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "Hades",
+      "glosa del ámbito de los muertos"
+    ]
+  },
+  {
+    "id": "revelation-beginning",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "principio / beginning",
+    "references": [
+      {
+        "book": "REV",
+        "chapter": 3,
+        "verse": 14
+      }
+    ],
+    "reason": "Se conserva la expresión cristológica frente a soberano/ruler, sin introducir primera criatura ni resolver origen por sinónimo.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "origen",
+      "principio",
+      "soberano"
+    ]
+  },
+  {
+    "id": "revelation-jacinth",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "jacinto / jacinth",
+    "references": [
+      {
+        "book": "REV",
+        "chapter": 9,
+        "verse": 17
+      },
+      {
+        "book": "REV",
+        "chapter": 21,
+        "verse": 20
+      }
+    ],
+    "reason": "9:17 describe un color y21:20 una gema. Los controles discrepan sobre el color; no se adjudica identidad mineral ni tono preciso a partir de una equivalencia automática.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "azul",
+      "púrpura",
+      "mantener gema histórica"
+    ]
+  },
+  {
+    "id": "revelation-time",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "tiempo no será más / time no longer",
+    "references": [
+      {
+        "book": "REV",
+        "chapter": 10,
+        "verse": 6
+      }
+    ],
+    "reason": "Los cuatro controles locales se reparten2–2 entre tiempo acabado y ausencia de demora. Se conserva la base, sin declarar unanimidad ni una afirmación cosmológica nueva.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "no habrá demora",
+      "el tiempo ha terminado"
+    ]
+  },
+  {
+    "id": "revelation-before",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "a / before",
+    "references": [
+      {
+        "book": "REV",
+        "chapter": 10,
+        "verse": 11
+      }
+    ],
+    "reason": "Se mantiene el alcance de profetizar a/before, sin cambiarlo automáticamente a acerca de por otra versión.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "acerca de / about"
+    ]
+  },
+  {
+    "id": "revelation-ellipsis",
+    "versions": [
+      "rv1909"
+    ],
+    "term": "daré a mis dos testigos",
+    "references": [
+      {
+        "book": "REV",
+        "chapter": 11,
+        "verse": 3
+      }
+    ],
+    "reason": "La base tiene una elipsis de objeto. Poder, autoridad y encargo son explicaciones posibles; no se inserta una de ellas solo porque KJV o LBLA la expresen.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "dar autoridad",
+      "encargar"
+    ]
+  },
+  {
+    "id": "revelation-spirit",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "espíritu / life",
+    "references": [
+      {
+        "book": "REV",
+        "chapter": 13,
+        "verse": 15
+      }
+    ],
+    "reason": "No se fuerza aliento/breath en ambas bases para determinar la naturaleza de la animación de la imagen.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "aliento / breath"
+    ]
+  },
+  {
+    "id": "revelation-wrath",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "furor / wrath",
+    "references": [
+      {
+        "book": "REV",
+        "chapter": 14,
+        "verse": 8
+      },
+      {
+        "book": "REV",
+        "chapter": 18,
+        "verse": 3
+      }
+    ],
+    "reason": "La familia sexual se aclaró, pero vino/furor permanece frente a pasión o enloquecedor. No se atribuye automáticamente al mismo referente que la ira divina del versículo14:10.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "pasión",
+      "furor",
+      "vino embriagador"
+    ]
+  },
+  {
+    "id": "revelation-winepress",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "lagar / winepress",
+    "references": [
+      {
+        "book": "REV",
+        "chapter": 14,
+        "verse": 20
+      }
+    ],
+    "reason": "Se conserva el lugar de pisado de la imagen; una glosa no debe convertirlo en una prensa mecánica moderna ni perder sangre y frenos.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "lugar de pisado de uvas"
+    ]
+  },
+  {
+    "id": "revelation-weight",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "talento / talent",
+    "references": [
+      {
+        "book": "REV",
+        "chapter": 16,
+        "verse": 21
+      }
+    ],
+    "reason": "Es una unidad histórica de peso; no se asigna una conversión exacta a kilogramos sin evidencia de la medida utilizada.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "glosa de unidad antigua"
+    ]
+  },
+  {
+    "id": "revelation-tent",
+    "versions": [
+      "rv1909",
+      "kjv"
+    ],
+    "term": "tabernáculo / tabernacle",
+    "references": [
+      {
+        "book": "REV",
+        "chapter": 21,
+        "verse": 3
+      }
+    ],
+    "reason": "Se conserva la imagen de morada con el pueblo; una glosa de tienda no debe convertirla en comercio o imponer una arquitectura moderna.",
+    "proposedOptions": [
+      "Conservar la lectura base",
+      "morada",
+      "tienda de habitación"
+    ]
+  }
+]

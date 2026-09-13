@@ -1,0 +1,302 @@
+[
+  {
+    "book": "MRK",
+    "chapter": 9,
+    "verse": 42,
+    "sourceSha256": "edb239e4afefab17f4de5ab33493672f122882f741724cbcb5880c86da4ac0e7",
+    "readingSha256": "abe815079abc141f88526c17f2956099d1045c1abd77c330369b54c762b3f6de",
+    "after": "And whoever causes one of these little ones who believe in me to stumble, it would be better for him if a millstone were hung around his neck, and he were thrown into the sea.",
+    "reason": "La coma pertenece al final de la cláusula causes ... to stumble; no se coloca tras me, que partiría la expresión. Se recuperan la coma tras neck y el punto final.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MAT",
+    "chapter": 5,
+    "verse": 29,
+    "sourceSha256": "4d92529b1a3d025008eab0254a071d8efa7dcbd630a07833eee8cf1572093a94",
+    "readingSha256": "a9223d04634577b9fdcf01d45c22a7b23813ff27c61dabb99c0fbd84361f52d3",
+    "after": "And if thy right eye causes thee to sin, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.",
+    "reason": "La coma va después de toda la cláusula causes thee to sin; no dividir thee de to sin.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MAT",
+    "chapter": 5,
+    "verse": 30,
+    "sourceSha256": "38f9c86db652e75beca250d46fb12532e272143d82addd0da3db67db2ccd53e2",
+    "readingSha256": "bf906f717ea4cdb0bf5122341d3f850162fa26ed06e1136b906ef0c37cd7a385",
+    "after": "And if thy right hand causes thee to sin, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.",
+    "reason": "Mismo límite sintáctico de la condición, conservando mano y cortar.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MAT",
+    "chapter": 18,
+    "verse": 8,
+    "sourceSha256": "75bb045693785aeb26e54dbc68c80546814cdce556e276bfcb95cc7808550901",
+    "readingSha256": "1ac5afa61dbf08316750e309e66e3056bde03e9d6bcd4be66d49157f01651fef",
+    "after": "Wherefore if thy hand or thy foot causes thee to sin, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.",
+    "reason": "Coma tras la condición completa; mantiene disyunción mano/pie y los pronombres plurales del texto.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MAT",
+    "chapter": 18,
+    "verse": 9,
+    "sourceSha256": "0f0e12c4d1dc9cbe9208281ea0045f3174be1ce5a4a5a9d206cefbd0920852d2",
+    "readingSha256": "11aa11508c1baef3d987358a2b55ed8fae32ccdbf44cf24908d3a9e7b9616b2b",
+    "after": "And if thine eye causes thee to sin, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.",
+    "reason": "Restaura límites de condición y comparación, sin cambiar la interpretación léxica todavía reservada.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "chapter": 2,
+    "verse": 21,
+    "sourceSha256": "f1327c9b233631b55915c65a301ceb009e0fd21fffcb78b531a8613935a196b3",
+    "readingSha256": "2c9e7990a587dd37b9bd2a2aaee18a07892eb61924de24ba8d3bb9760408b004",
+    "after": "No one sews a piece of new cloth on an old garment; otherwise the new patch pulls away from the old, and the tear becomes worse.",
+    "reason": "La revisión ya tiene punto y coma y coma internos; se conservan, añadiendo el punto final perdido.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "chapter": 4,
+    "verse": 39,
+    "sourceSha256": "2c206c68d8e8aa279e118903901dd7402b553994372058f3689cfbf24a670b9e",
+    "readingSha256": "8d6dbc6cbc0a4fc9b0dc5f76ee27ced1f66dfac6c64a21918651f0c7a468f51d",
+    "after": "And he arose, and rebuked the wind, and said unto the sea, Be silent, be still. And the wind ceased, and there was a great calm.",
+    "reason": "La revisión ya tiene todos los signos necesarios: no duplicar el punto tras be still.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "chapter": 9,
+    "verse": 19,
+    "sourceSha256": "bfbdcb57dc2ddac1a832153863a5b3d7cb9e241c258f87426705379e0bcff2f4",
+    "readingSha256": "8f0168a2f21bf17e186222e385e14237bf62da5a918dffed4bcefe33ae43c744",
+    "after": "He answereth him, and saith, O faithless generation, how long shall I be with you? how long must I endure you? Bring him unto me.",
+    "reason": "Se restituyen la coma y primera interrogación; se conserva la segunda interrogación y Bring de la revisión previa.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "chapter": 9,
+    "verse": 45,
+    "sourceSha256": "c405424cdd1ca9e34177bf57e038dc8943da22ea51dc58cb7ebb8b1f4ad8e132",
+    "readingSha256": "fd7d087d1575125bf9db502ccce4d6fc13a51196a5a968ca5040ac6cf94bbf8e",
+    "after": "And if thy foot causes thee to sin, cut it off: it is better for thee to enter life lame, than having two feet to be cast into hell, into the fire that never shall be quenched:",
+    "reason": "Conserva los dos puntos finales del enlace al siguiente versículo y la condición completa antes de la coma.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "chapter": 9,
+    "verse": 47,
+    "sourceSha256": "6eb75d8d750ae0dec4bdd08c770bd4cedf144ac0bf1fa57ce5ae18af6a794364",
+    "readingSha256": "97db997b2837a646fac9579c942783a67779164e5c0a3d689e478f13e05aa600",
+    "after": "And if thine eye causes thee to sin, pluck it out: it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:",
+    "reason": "Mantiene los dos puntos del texto fuente y su vínculo con el versículo siguiente.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "chapter": 10,
+    "verse": 19,
+    "sourceSha256": "c57de5107a2eff8a037c863de5487e3a16ad8b58db9f276f20e0b97c71b6ef98",
+    "readingSha256": "37abafa074ece11c6e29065af04c6af069cda4eef61f954a4e1a239ef1a1d4ca",
+    "after": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Do not defraud, Honour thy father and mother.",
+    "reason": "La coma cierra Do not defraud completo, cuya sintaxis fue modernizada; no cortar el imperativo.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "chapter": 13,
+    "verse": 22,
+    "sourceSha256": "a80bae88957e64d70d88398a4a0a8df1096b432ae19e0a4d32527f80f2b56a13",
+    "readingSha256": "398d918e9ae834c5eb78fc62a20bd881668cba909f8b261659b38868b615e7f1",
+    "after": "For false Christs and false prophets shall rise, and shall show signs and wonders, to deceive, if it were possible, even the elect.",
+    "reason": "La revisión ya conserva las comas del inciso; restituir solo las faltantes y no duplicarlas.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "chapter": 16,
+    "verse": 17,
+    "sourceSha256": "c2f71fb5aedb2bc69e594a107f66283d784f1dea7a4a86d4ff506ae086a6e2d3",
+    "readingSha256": "66dbd30203ed4e4c78101c80126f4a4355d82443a7a4741dfcd9fdb56544f094",
+    "after": "And these signs shall accompany those who believe: In my name they shall cast out demons; they shall speak with new tongues;",
+    "reason": "Se conserva el colon de la revisión previa y el punto y coma interno; se restaura el final de continuidad.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "LUK",
+    "chapter": 2,
+    "verse": 49,
+    "sourceSha256": "97f8d66389743085971d863a39b19eb899d62685fad9e166fe1bf18462efdfe4",
+    "readingSha256": "b343ce5d1820e53969ecf0d26ed7d8b44379b2e8d05dfa811c6b96a96916dd2f",
+    "after": "And he said unto them, How is it that ye sought me? Did ye not know that I must be about my Father’s business?",
+    "reason": "La primera pregunta ya está puntuada por la revisión; añadir únicamente su segundo cierre, sin duplicar el primero.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "LUK",
+    "chapter": 18,
+    "verse": 5,
+    "sourceSha256": "fd919b23f7b74fd2ed3e3c41022481117e1f1df5fef313870ef4871053f52f7f",
+    "readingSha256": "dcff82d5cf5e4cf4c97f57026d333296f2b18a0ad12e9596ec675171037f39b2",
+    "after": "Yet because this widow troubleth me, I will give her justice, lest by her continual coming she weary me.",
+    "reason": "La coma sigue a toda la nueva expresión give her justice, no al pronombre her.",
+    "evidence": [
+      {
+        "label": "USFM oficial, archivo canónico verificado por SHA contra procedencia instalada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "JHN",
+    "chapter": 2,
+    "verse": 8,
+    "sourceSha256": "2d0539c6dc992a04c603c0a7756ec4b38fdca2d7f3d29e3332c9a74ce87309a6",
+    "readingSha256": "b4b01a560a23fd05cc455e0e2bf1ad798b4345560ba274a465f267861b479d4f",
+    "after": "And he saith unto them, Draw some out now, and take it to the banquet steward. And they took it.",
+    "reason": "La relectura de la instrucción ya restituye coma tras now y punto tras steward; se conservan una sola vez, tras la función del encargado completa.",
+    "evidence": [
+      {
+        "label": "USFM canónico y control de la instrucción completa",
+        "url": "https://biblehub.com/john/2-8.htm"
+      }
+    ]
+  },
+  {
+    "book": "JHN",
+    "chapter": 15,
+    "verse": 2,
+    "sourceSha256": "e8ed1a093ee3b7532def07885cea2e7c181dd05e5045e1038f33fd1b4222c650",
+    "readingSha256": "cd50570a735264baade93f35c5814cdb6f320e87bd4f78e0cbf7ef9e536dae05",
+    "after": "Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he cleans it by pruning, that it may bring forth more fruit.",
+    "reason": "La coma va después de la acción completa cleans it by pruning, no después de it dentro de esa expresión. Se conserva el colon y las dos cláusulas sobre fruto.",
+    "evidence": [
+      {
+        "label": "Fuente USFM y contexto de poda",
+        "url": "https://biblehub.com/john/15-2.htm"
+      }
+    ]
+  },
+  {
+    "book": "JHN",
+    "chapter": 20,
+    "verse": 27,
+    "sourceSha256": "9ac38cb604241f1ac9a605bcc1eec3ae7c8c715834e5380bde1f339e0ec9394b",
+    "readingSha256": "6533378cb6459404316865177f8d8d27026525ec9061c3164eeae5cc950ace0d",
+    "after": "Then saith he to Thomas, Reach thy finger here, and behold my hands; and reach thy hand here, and put it into my side: and be not faithless, but believing.",
+    "reason": "Las comas siguen a la instrucción completa de acercar el dedo/la mano; conserva punto y coma, dos puntos y la oposición final de la fuente verificada.",
+    "evidence": [
+      {
+        "label": "Fuente KJV y contexto de las instrucciones",
+        "url": "https://biblehub.com/john/20-27.htm"
+      }
+    ]
+  },
+  {
+    "book": "MAT",
+    "chapter": 18,
+    "verse": 6,
+    "sourceSha256": "2230743b2f5dbb9656428d566c517efec9482763c7a733be603ccf0d42d16e9c",
+    "readingSha256": "5b296368d218cdc5d19d7967921a8b0e11b63d42cb96640c65cea56d81701196",
+    "after": "But whoso shall cause one of these little ones which believe in me to stumble, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.",
+    "reason": "La coma se recupera después de la cláusula completa cause ... to stumble, no tras me: el relativo ahora está correctamente junto a little ones. Se conserva también la coma tras neck y el punto final.",
+    "evidence": [
+      {
+        "label": "USFM KJV verificado y cláusula completa revisada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  },
+  {
+    "book": "LUK",
+    "chapter": 6,
+    "verse": 38,
+    "sourceSha256": "5d53bc46b12e5b72249cd40896b9899114b42a78dfe500a3bfa45413f77eab0e",
+    "readingSha256": "ff6a9c9041891ed632b28b05eab49b31541e7f4b310c65aac3d8965d2bd98cd8",
+    "after": "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your lap. For with the same measure that ye use, it shall be measured to you again.",
+    "reason": "Se conserva la puntuación fuente y se mantiene la coma que cierra with the same measure that ye use antes del sujeto it; la sustitución previa de mete withal había perdido ese límite.",
+    "evidence": [
+      {
+        "label": "USFM KJV verificado y oración completa revisada",
+        "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
+      }
+    ]
+  }
+]

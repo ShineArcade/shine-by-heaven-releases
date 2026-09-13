@@ -15,6 +15,12 @@ when the same exact replacement was checked in several verses. Single-word
 rules match whole words only; a word embedded inside a longer form is rejected.
 The generated book files still record every resulting offset separately.
 
+For individually reviewed repeated text, a rule may pin `startOffset` and
+`endOffset`. Both must match the exact source substring and its whole-word
+boundary. This selects only that approved occurrence; it never broadens a rule.
+The NT v27 change set is an inventory of the committed, reviewed final projection;
+its superseded readings and reversals are preserved in the contextual review history.
+
 ## Update flow
 
 1. Add a monotonic `editorial-changes/vN.json` change set.

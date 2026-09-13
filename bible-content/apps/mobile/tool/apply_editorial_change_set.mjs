@@ -3,6 +3,7 @@ import fs from 'node:fs/promises'
 import path from 'node:path'
 import process from 'node:process'
 import { fileURLToPath } from 'node:url'
+import { explicitOccurrence } from './editorial_occurrence.mjs'
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url))
 const contentRoot = path.resolve(scriptDir, '..', '..', '..')
@@ -60,11 +61,12 @@ for (const [bookId, changes] of changesByBook) {
     const matches = allOffsets(verse.text, change.expected)
     const key = occurrenceKey(change)
     const siblingChanges = changesByOccurrence.get(key)
-    assert(
+    const exactOffset = explicitOccurrence(change, verse.text, matches)
+    if (exactOffset === null) assert(
       matches.length === siblingChanges.length,
       `${bookId} ${change.chapter}:${change.verse} expected text`,
     )
-    if (siblingChanges.length > 1) {
+    if (exactOffset === null && siblingChanges.length > 1) {
       const [first] = siblingChanges
       assert(
         siblingChanges.every((candidate) =>
@@ -77,7 +79,7 @@ for (const [bookId, changes] of changesByBook) {
       )
     }
     const occurrenceIndex = nextOccurrenceByKey.get(key) ?? 0
-    const startOffset = matches[occurrenceIndex]
+    const startOffset = exactOffset ?? matches[occurrenceIndex]
     assert(
       Number.isSafeInteger(startOffset),
       `${bookId} ${change.chapter}:${change.verse} occurrence index`,
