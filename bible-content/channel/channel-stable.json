@@ -3,9 +3,9 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-bible-stable",
-    "contentVersion": 27,
-    "issuedAt": "2026-09-13T07:15:00.000Z",
-    "expiresAt": "2028-09-13T07:15:00.000Z",
+    "contentVersion": 28,
+    "issuedAt": "2026-09-13T14:50:00.000Z",
+    "expiresAt": "2028-09-13T09:00:00.000Z",
     "distributionScope": "public",
     "updatePolicy": {
       "versionAuthority": "contentVersion",
@@ -39,13 +39,13 @@
         "kind": "reading-filter",
         "id": "RV1909-LECTURA-2026",
         "schemaVersion": 1,
-        "contentVersion": 27,
+        "contentVersion": 28,
         "sourceVersionId": "RV1909",
         "sourceCorpusSha256": "af7a0acc03b228719b549539dcd0dcaca3c40af51a4b3d6c96f51ec8510ec739",
-        "contentSha256": "0af535e37cb05b056ea57d633e9b49cb86ae2f120186c31a73391df36e0f02c4",
-        "sizeBytes": 1058528,
+        "contentSha256": "da4c7fc9ed3f2af47380f0d2ee2a98bd4bac0fb19c53ef093b23fc7068f98d09",
+        "sizeBytes": 1058776,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.rv1909.v27.package.json.gz",
+        "artifactPath": "reading_2026.rv1909.v28.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
@@ -60,11 +60,11 @@
       }
     ]
   },
-  "contentSha256": "ce36326beded4c18879a5c1f893db4fa3038f0cced428de260174cb9154aa8ec",
+  "contentSha256": "ccd91c1d4ff2192e5c2df17f08c32aa7dc98071eaff90c0ae16c0b532c7e1baa",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "Al98mSrrsZYEpgBuIC2y48lBDWZQy4FUaE_vimLVA5JtkAPj3USPV21d8_TUcdFh3mHFmbhzLPXpmrhm6aViBw"
+    "value": "WOKza6rwuML1FVt9iEHJEIy-rsNCkXbi5OANVJdDO8lUizQlOzs-BkkbkyX3pW5Efmn3B0S7YBtH-nkjPOPCBw"
   }
 }

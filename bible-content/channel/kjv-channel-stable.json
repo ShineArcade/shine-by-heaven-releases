@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "payload": {
     "channelId": "shine-public-kjv-reading-stable",
-    "contentVersion": 15,
+    "contentVersion": 16,
     "issuedAt": "2026-09-10T00:00:00.000Z",
     "expiresAt": "2028-09-10T00:00:00.000Z",
     "distributionScope": "public",
@@ -19,13 +19,13 @@
         "kind": "reading-filter",
         "id": "KJV-READING-2026",
         "schemaVersion": 1,
-        "contentVersion": 15,
+        "contentVersion": 16,
         "sourceVersionId": "KJV",
         "sourceCorpusSha256": "4e2c28113d053e64dacef2792a8d3bcfb32367320f549ef2c2f03b3122902939",
-        "contentSha256": "130a1ac72f901caf7f3ad1331fa65a86e3a9ecc7a72329d800b93b695a4fc629",
-        "sizeBytes": 851393,
+        "contentSha256": "500cd6bf520d923e41ae7ce5e4e692d4222dc9e5e2d3a84c242da7775f634436",
+        "sizeBytes": 852458,
         "mimeType": "application/json+gzip",
-        "artifactPath": "reading_2026.kjv.v15.package.json.gz",
+        "artifactPath": "reading_2026.kjv.v16.package.json.gz",
         "expectedBookCount": 66,
         "includedBookCount": 66,
         "coverage": {
@@ -42,11 +42,11 @@
       }
     ]
   },
-  "contentSha256": "6217a4f474b5ba5f7de22e167377849efaaa528665ec93dd00e92ba40e2b46a9",
+  "contentSha256": "03ce82464fe04457411daa66d1e25ba1490095c01dc150af7b3762c5c4feb0a1",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "shine-bible-content-2026-01",
     "signedObject": "payload",
-    "value": "3eyx3QcpWOqSUexLIOrEJwb_iIru6WawH2ptx4_VrTt5cJQGKqPPfmIj_sEyuHvzKfUeAHgY9s2IXdxDu98FAA"
+    "value": "We_GXpNeVGZKGbPv_3Z6kRlmgmUKZqc2POBNhsy6hyrVOzRWN_cZntB_MXq8JBYNfKW76QjGMoQ5Z1A61aCvCg"
   }
 }
